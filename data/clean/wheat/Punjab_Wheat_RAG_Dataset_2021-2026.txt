@@ -1,0 +1,717 @@
+PUNJAB WHEAT — RAG TRAINING DATASET (2021–2026)
+Crop: Wheat | Region: Punjab, Pakistan | Timeline: 2021 to 2026
+Purpose: Source corpus for Retrieval-Augmented Generation knowledge base
+(chunking ~250–300 words recommended)
+HOW TO USE THIS FILE FOR RAG INGESTION
+Each numbered section below is a self-contained fact block tagged by Year, Topic, and
+Source [#]. This structure is designed so that when split into ~300-word chunks, each
+chunk retains enough context (year + topic) to remain meaningful on its own — important
+for retrieval quality. Every factual claim carries an inline citation [#] matching the master
+reference list at the end of the ﬁle. No claim in this ﬁle is uncited.
+SECTION A: YEAR-BY-YEAR TIMELINE (2021–2026)
+=== YEAR 2021 (Rabi 2020–21 crop / harvested 2021) ===
+[A1] Production baseline entering 2021–22 planning cycle The Wheat Review Committee
+(which met in September 2021) noted that Punjab's 2020–21 wheat production stood at 20.9
+million tonnes, and directed the province to raise this to 23 million tonnes for the following
+(2021–22) crop season [25]. Nationally, Pakistan's 2020 wheat output (harvested June 2020)
+was officially estimated at a below-average 25.25 million tonnes, largely reﬂecting reduced
+yields due to heavy rains and hail in March–April 2020 in Punjab province [29].
+[A2] National yield ﬁgure, 2020/21 marketing year USDA FAS data records the national
+wheat yield for the 2020/21 marketing year at 2.9 tons/hectare [1][23].
+[A3] Sowing-season input crisis heading into the 2021–22 crop Going into the 2021–22
+sowing season, the federal government targeted 30 million tonnes of national wheat
+production and asked provinces to increase area and per-acre yield using rust-resistant,
+certiﬁed seed, along with proper water, fertilizer, and pesticide usage [25]. However, wheat
+lost acreage during late sowing when DAP and urea shortages developed, diverting some
+growers to alternative crops such as potatoes and oilseeds [25].
+=== YEAR 2022 (Rabi 2021–22 crop, harvested spring 2022) ===
+[A4] Punjab sowing shortfall for the 2021–22 crop Punjab, which contributes around 76%
+of Pakistan's total wheat production, sowed only 16.21 million acres against a target of 16.67
+million acres — a shortfall of over 500,000 acres — for the 2021–22 season [25]. Certiﬁed
+seed availability (public and private sector combined) covered only about 25% of
+requirement, roughly 530,000 tonnes of seed, including 160,000 tonnes of rust-tolerant
+varieties; the remainder of demand was met from farmers' own retained seed stock [25].
+[A5] Minimum support price context, 2021–22 A decision on the minimum support price
+for the 2021–22 crop was taken late in the season and was set to match Sindh's price of Rs.
+2,200 per 40 kg [25]. Over 70% of Punjab's wheat crop that season was reportedly sown
+within the most suitable window — mid-November to mid-December [25].
+[A6] Record yield achieved in South Punjab, 2021–22 The Secretary of Agriculture for
+South Punjab reported that wheat production in South Punjab increased by an average of
+2.73% during 2021–22 despite a 2.41% reduction in cultivated area; regional production rose
+from 9.239 million metric tons to 9.262 million metric tons. Per-acre yield rose from 34 to
+34.92 maunds per acre — described as the ﬁrst-ever record production achieved in South
+Punjab [21].
+[A7] National area and production, 2021–22 The national wheat-growing area for the
+2021–22 season was 8.99 million hectares, with production of 26.39 million tons [14][29].
+Separately, the average annual growth in wheat production over the preceding decade
+(through 2022–23) was calculated at 0.9%, driven mainly by yield improvements of a
+similar magnitude, with cultivated area remaining largely unchanged [20].
+[A8] Prior-season import requirement (context carried into 2022) In the season prior to
+2021–22, Pakistan harvested a record 28.75 million tonnes of wheat but still had to import
+2.2 million tonnes to meet local requirements and build a 1 million tonne strategic reserve; a
+15% yield loss was projected to limit output to no more than 25 million tonnes that year [25].
+Trading Corporation of Pakistan (TCP) received import offers between US$369–383 per
+tonne (cost and freight included) around this period [25].
+[A9] National yield ﬁgure, 2021/22 marketing year USDA FAS data records national
+wheat yield for 2021/22 at 3.0 tons/hectare [1][23].
+[A10] The August 2022 ﬂoods and their agricultural impact Catastrophic monsoon
+ﬂooding struck Pakistan from June to October 2022, killing 1,739 people and causing
+roughly US$40 billion in damage — described as the deadliest ﬂood event since the 2020
+South Asian ﬂoods and the worst in Pakistan's history [52]. FAO assessed that
+approximately 9.4 million acres of crop area nationwide were potentially inundated in
+August 2022 alone, including 2.7 million acres in Punjab (also 4.8 million acres in Sindh, 1.2
+million acres in Balochistan, and 714,000 acres in Khyber Pakhtunkhwa) [50][55]. In
+Punjab speciﬁcally, 223 people died, 3,858 were injured, and roughly 7,200 km² (1.78 million
+acres) of crops and orchards were affected [52]. More than 1.1 million livestock were killed
+nationally, including over 205,100 in Punjab [55]. Nationally, the ﬂoods destroyed 2.6
+million hectares of standing Kharif-season crops across Sindh, Balochistan, and Punjab
+[43]. Punjab's ﬂood-exposed crop shares were signiﬁcant: the province accounts for
+roughly 16% of national wheat production, 42% of rice, 23% of cotton, and 31% of
+sugarcane [51].
+[A11] Rabi 2022–23 planting despite ﬂood disruption Standing ﬂoodwaters reduced
+planted area for Rabi crops in localized low-lying regions of Sindh and Balochistan, and
+there were concerns that seed/fertilizer shortages and ﬂood damage to machinery and
+irrigation infrastructure would further disrupt planting nationally. However, ﬂoodwaters
+receded in time for planting in most areas, and coordinated government and donor efforts
+ensured adequate seed and fertilizer supply, resulting in near-average plantings for the
+2022–23 Rabi season [43].
+=== YEAR 2023 (Rabi 2022–23 crop, harvested spring 2023) ===
+[A12] National production and target, 2022–23 The 2022–23 wheat production target was
+28.37 million tons; actual estimated production came in at 28.16–28.18 million tonnes, up
+from 26.2 million tonnes the prior year — a 7.45% (or, per a separate estimate, 7.5%) year-
+on-year increase [19][20]. Sown area increased to 9 million hectares (+0.62%) versus 8.9
+million hectares the previous year. The increase was attributed to good weather conditions
+and timely sowing [19].
+[A13] Minimum support prices, 2022–23 Punjab's minimum support price for the 2022–23
+crop was set at Rs. 4,000 per 40 kg, while Sindh announced a slightly higher support price
+of Rs. 4,100 per 40 kg [19].
+[A14] Decade-average context (2020–21 to 2022–23) Averaged across 2020–21 through
+2022–23, wheat was cultivated on 9.1 million hectares nationally, with average production of
+about 27.3 million tonnes. The crop accounted for approximately 7.8% of value-added in
+agriculture and about 1.9% of national GDP [20].
+[A15] Domestic price surge, 2022–early 2023 Domestic wheat ﬂour prices rose sharply
+through 2022 and into early 2023, reaching record highs by June 2023. This price surge was
+driven by tight market supply, high production and transport costs, and a sharp increase in
+the minimum support price (MSP) in early 2023. Currency depreciation exceeding 70%
+between January 2022 and September 2023 made imports signiﬁcantly more expensive,
+further amplifying domestic price increases [38].
+[A16] Import requirement, 2023–24 marketing year Despite Pakistan's traditional status
+as a wheat exporter, large quantities were imported over multiple consecutive marketing
+years to shore up supply and temper prices; for 2023/24 (April–March), wheat imports were
+forecast at 1.8 million tonnes — above the ﬁve-year average but well below the volumes
+imported between 2020/21 and 2022/23 [38].
+[A17] National yield ﬁgure, 2022/23 marketing year USDA FAS data records national
+wheat yield for 2022/23 at 2.9 tons/hectare [1][23].
+[A18] Food insecurity context, late 2023 Acute food insecurity (IPC Phase 3/Crisis and
+above) affected an estimated 11.8 million people between November 2023 and January
+2024, up from 10.5 million between April and October 2023 — driven mainly by high food
+prices eroding purchasing power, compounded by lingering effects of the 2022 ﬂoods [38].
+=== YEAR 2024 (Rabi 2023–24 crop, harvested spring 2024) ===
+[A19] Cost of production detail, 2023–24 crop The Agricultural Policy Institute's cost-of-
+production survey (conducted May–June 2023 across major wheat-growing areas of Punjab
+and Sindh) found the market/procurement-center-level cost of production at
+approximately Rs. 3,303.52 per 40 kg — a 32.73% (Rs. 1,081.33) increase over the prior year,
+driven primarily by fertilizer/FYM, harvesting/threshing, plant protection, and
+interculture/ploughing costs [20]. About 87% of national wheat production came from
+irrigated conditions [20].
+[A20] Support price decision, 2023–24 crop The Economic Coordination Committee
+(ECC) of the cabinet approved a support price of Rs. 3,900 per 40 kg for the 2023–24 wheat
+crop on 20 December 2023; Sindh subsequently revised its own support price upward to Rs.
+4,000 per 40 kg [34]. Farmers receiving the support price during the April–June 2023 post-
+harvest period were paid Rs. 3,900 per 40 kg equivalent [20].
+[A21] Estimated provincial production breakdown, 2023–24 Officials projected Punjab
+would produce about 22 million tons of wheat for 2023–24, with Sindh expected to reap
+about 4 million tons, Khyber Pakhtunkhwa 1.4 million tons, and Balochistan 1.3 million
+tons — implying a national total around 29 million tons, roughly 3 million tons below the 32
+million ton target, attributed to elevated input costs (notably a doubling of urea prices due
+to alleged price manipulation, which prompted a case referred to the Competition
+Commission of Pakistan) [34].
+[A22] National wheat estimate for the 2023 calendar-year cropping season The 2023
+cropping season (ﬁnalized December 2023) produced an estimated above-average 28.1
+million tonnes of wheat nationally, within an overall cereal production total of about 52
+million tonnes [38].
+[A23] Weather conditions during the 2023–24 growing season Despite warmer-than-
+average temperatures in December 2023 and January 2024, vegetation conditions were
+average to above average across main wheat-growing areas due to sufficient irrigation
+water supply. In minor rainfed ("barani") tracts — including parts of northern Punjab,
+southwest Balochistan, and southeast Sindh (together about 10% of total wheat sowings)
+— low rainfall negatively affected crop emergence and early development [37][38].
+[A24] National yield ﬁgure, 2023/24 marketing year USDA FAS data records national
+wheat yield for 2023/24 at 3.1 tons/hectare [1][23].
+[A25] Record 2024 harvest and area context For the 2024–25 (harvested-2024) season,
+planted area reached approximately 9 million hectares (some sources cite up to 9.1–9.2
+million hectares), up from 8.86 million hectares planted for the 2023 harvest, and slightly
+higher than the roughly 9 million hectares a year prior [31]. Pakistan achieved a record
+wheat output of approximately 31.6 million metric tons in the 2024–25 season [8][39] (a
+separate USDA ﬁgure cites 31.8 million tons for the same record season [2]; ﬁgures vary
+slightly by reporting agency and revision cycle).
+[A26] Fertilizer market disruption entering the 2024–25 crop Cumulative fertilizer
+purchases during the 2024 growing season were about 3.2% lower than the previous year.
+While phosphate and potash sales rose 8.3% and 45.9% respectively, nitrogen (urea) sales
+fell 6.4% due to price gouging — urea prices reportedly doubled during the season.
+Persistently high urea prices, combined with dry conditions in December and January,
+resulted in less-than-ideal fertilizer application at critical points in the crop cycle, likely
+causing yield penalties [31].
+[A27] Support price and market structure change, 2024 Prior to the 2023–24 marketing
+year, the state-owned Trading Corporation of Pakistan (TCP) purchased most of the
+country's wheat import requirement. This changed in July 2023 when the government
+allowed private-sector duty-free wheat imports; private-sector import approvals were
+reportedly halted as of 31 March 2024, with no clear indication (as of April 2024) that they
+would resume for 2024–25 [31]. In Punjab, the support price for the 2024 harvest was
+around Rs. 3,900 per 40 kg (~A$545/t at the time), while Sindh's was Rs. 4,000 per 40 kg
+(~US$559/t); farmers protested, demanding an increase to Rs. 5,000 per 40 kg and a higher
+procurement target (from 2 million to 5 million tonnes) [31].
+[A28] Punjab government exits wheat procurement, 2024 The Punjab provincial
+government — which had historically purchased wheat from farmers at harvest time at a
+guaranteed minimum support price — decided not to procure wheat from the 2024 harvest.
+This absence of the largest traditional buyer increased market supply and put additional
+downward pressure on prices [37].
+[A29] Consumption and per-capita ﬁgures, 2024–25 Pakistan's per-capita wheat
+consumption is around 124 kg per year, among the highest in the world. Population growth
+combined with continued consumer preference for wheat-based products was projected to
+push domestic demand 2.3% higher for 2024–25, to 30.9 million tonnes. Total stockfeed-
+industry use was estimated at only 1.9 million tonnes (6.1% of demand), with the poultry
+sector accounting for more than 80% of that portion [31]. About 1,000 privately held ﬂour
+mills produce roughly 40% of ﬂour consumption nationally, with the balance met by at-
+home processing [3].
+[A30] Wheat imports and carry-in stocks, 2024–25 outlook (as forecast in April 2024)
+Wheat imports for the 2023–24 season totaled 2.8 million tonnes through the end of
+February 2024, with a further 500,000 tonnes discharged in March; the government
+indicated imports would stop at the start of April 2024. USDA/FAS projected 2024–25 carry-
+in stocks close to a record 4.7 million tonnes (up from 3.9 million tonnes the prior season),
+well above the government's minimum strategic-reserve requirement of 2.5 million tonnes.
+Given record production and higher opening stocks, 2024–25 imports were projected to
+drop signiﬁcantly, to around 1 million tonnes [31]. A later (2025) USDA update conﬁrmed
+the 2024/25 wheat production estimate was unchanged at 31.4 million tons at that point in
+the revision cycle [35].
+=== YEAR 2025 (Rabi 2024–25 crop into 2025/26 planning) ===
+[A31] Price collapse following the 2024/25 record harvest Wheat prices declined sharply
+during the 2024/25 harvest season and remained low afterward. The record 2024/25 harvest
+combined with large import volumes led to high inventories, driving prices down further;
+the government's decision to abandon its domestic wheat support-price policy exacerbated
+the decline. Prices stabilized relatively from around August 2024 onward. By March 2025,
+prices were about 35% lower than the high levels of a year earlier; domestic wheat prices in
+mid-March 2025 were around US$245 per ton, with ﬂour prices around US$317 per ton [3]
+[36].
+[A32] Wheat and ﬂour price trend, August 2024 detail Domestic wheat ﬂour prices
+declined sharply between March and August 2024 due to abundant market supply from the
+record 2024 harvest, compounded by the Punjab government's decision not to procure
+from that harvest. By August 2024, prices averaged 35% below the elevated levels of a year
+earlier [37].
+[A33] Rice and other crop context for the 2024/25 season (cross-reference) Rice
+production for 2024/25 was adjusted down to 9.76 million tons due to harvested-area
+revisions, versus an earlier unchanged forecast of a record 10 million tons that had
+beneﬁted from timely, widespread rains and improved irrigation water availability [35][36].
+[A34] Sowing environment entering the 2025/26 crop (autumn 2025) Farmers began
+planting the 2025/26 crop amid an uncertain policy environment. Government
+procurement — historically dominated by the Punjab Government — was absent for the
+2024/25 crop, and there was no clarity on a government-guaranteed price for the 2025/26
+crop, creating uncertainty that directly affected planting decisions. With limited winter-
+crop alternatives (mainly canola or sesame), most farmers proceeded despite the
+uncertainty. Monsoon rains in 2025 were adequate to ﬁll Pakistan's two large reservoirs
+(Mangla and Tarbela), ensuring sufficient irrigation water supply for the wheat crop at
+sowing time [35].
+[A35] Import ban maintained through the 2025/26 marketing year (as of the relevant
+USDA update) Pakistan had not imported wheat during the then-current marketing year
+due to a standing import ban; the government indicated it might review the ban later in the
+marketing year, though imports were considered unlikely. Despite the official export ban
+on wheat and ﬂour, unofficial exports to Afghanistan were estimated at 500,000 tons (not
+reﬂected in official data) [35].
+[A36] Wheat sowing progress and Punjab's target, autumn 2025 By mid-November 2025,
+more than 3 million acres had already been sown in Punjab, as the province worked toward
+its target of 16.5 million acres for the 2025–26 season. The provincial Agriculture
+Department reported no shortage of agricultural inputs, with about 100,000 bags of
+certiﬁed wheat seed available through the Punjab Seed Corporation and private-sector
+companies. Under a post-ﬂood relief package, the provincial government extended interest-
+free loans to farmers for Rabi crops. Improved soil fertility from recent ﬂoods and generally
+favorable weather were expected to support good yields — echoing the bumper harvest
+recorded after the 2022 ﬂoods [6].
+[A37] Recommended high-yield varieties for the 2025–26 Punjab season The Punjab
+Agriculture Department recommended the following varieties for 2025–26 sowing: Akbar-
+2019, Dilkash-2020, Fakhar-e-Bhakkar, Aruj-2022, Nishan, Pakistan-2013, Faisalabad-2008,
+MH-2021, MA-2021, Subhani-2020, and Wafaq-2023 [6].
+[A38] Rabi 2025–26 national production target set by the Federal Committee on
+Agriculture (FCA) The federal government set a wheat production target of about 30
+million tonnes for Rabi 2025–26, relying on adequate water availability in Punjab and Sindh.
+This target followed the Rabi 2024–25 target of 27.92 million tonnes, which was exceeded —
+actual achieved production was 28.42 million tonnes [10]. (Note: this 28.42 million tonne
+ﬁgure for 2024–25 differs from the ~31.6–31.8 million ton "record" ﬁgures cited elsewhere
+[2][8][39]; the discrepancy likely reﬂects different measurement bases — target-vs-
+achieved accounting by the Ministry of National Food Security and Research versus
+USDA/FAS's independently modeled estimate. Both ﬁgures are reported here for
+transparency, as instructed.)
+[A39] Water allocation for Rabi 2025–26 The IRSA Advisory Committee anticipated no
+water shortage for Punjab and Sindh during Rabi 2025–26, allocating 33.814 million acre-
+feet (MAF) of water to the two provinces. The Meteorological Department projected below-
+normal precipitation for most of the country during November–December 2025, with near-
+normal rainfall expected in January 2026 [10].
+[A40] Agricultural credit expansion, FY2025 The State Bank of Pakistan set an indicative
+agricultural credit disbursement target of Rs. 2.572 trillion for ﬁscal year 2025 — 16.3%
+higher than the preceding year's Rs. 2.250 trillion. As of the relevant reporting period, 47
+ﬁnancial institutions were providing agricultural loans, including 5 major commercial
+banks, 13 medium-sized private banks, 6 Islamic banks, 2 specialized banks (ZTBL and
+PPCBL), 11 microﬁnance banks, and 10 microﬁnance institutions/rural support
+programmes [10].
+=== YEAR 2026 (Rabi 2025–26 crop, harvested spring 2026 — current season as of this
+document) ===
+[A41] Revised national production estimate, 2025/26 (USDA Grain and Feed Update)
+USDA's Grain and Feed Update estimated 2025/26 national wheat production at around 29
+million tons — about 8.8% lower than the 2024/25 record of 31.8 million tons. The decline
+was attributed to a roughly 5.5% decrease in sown area, driven by the absence of a
+government-guaranteed support price, expectations of low market prices, high sowing-
+season temperatures, and an extended dry spell [2].
+[A42] Earlier, more conservative 2025/26 forecast (USDA Grain and Feed Annual) An
+earlier USDA Grain and Feed Annual report forecast 2025/26 production at 27.5 million tons
+— about 13% below the 2024/25 record — citing a 7% decrease in sown area and extremely
+dry weather. Rainfall was well below average and temperatures signiﬁcantly above average
+throughout the growing season [3].
+[A43] Punjab-speciﬁc production decline, 2025/26 The decline in national wheat
+production for 2025/26 was most pronounced in Punjab province, which alone reportedly
+lost around 2 million tons of output relative to the previous year [2].
+[A44] Reservoir levels and structural water constraints entering 2025/26 Pakistan's two
+major reservoirs, Tarbela and Mangla, were running at critically low levels during the
+2024/25 growing season, with some reports describing both as at or near "dead level"
+(unable to release water by gravity ﬂow). Since Punjab and Sindh rely heavily on canal
+irrigation fed by these reservoirs for their wheat crops, this posed a serious risk. Water
+demand has grown substantially since the 1970s, while reservoir storage capacity has
+reportedly declined by about one-third due to sedimentation [8].
+[A45] Heat stress and grain-ﬁlling impact, 2025/26 Temperatures signiﬁcantly above
+average during the 2025/26 season damaged grain-ﬁlling at a critical growth stage.
+Agronomic research indicates that even a 1°C rise above the ideal temperature during grain
+ﬁlling can reduce yield by 5–7%; farmers in central Punjab and upper Sindh experienced
+this kind of damaging heat during the season [8].
+[A46] Absence of a pre-season price signal, 2025/26 For the ﬁrst time in many years, the
+government failed to announce a clear wheat support price before the October 2024 start of
+the 2024–25 sowing season, and this uncertainty persisted into 2025–26 planning; farmers
+depend on such price signals to guide planting decisions. Without a guaranteed price, many
+farmers judged the risk too high and reduced wheat area. This shift toward market
+deregulation was reportedly inﬂuenced partly by IMF reform requirements, removing a
+traditional safety net for growers [8].
+[A47] Consumption, import, and stocks outlook, 2025/26 National wheat consumption
+for 2025/26 was forecast at around 31.9 million tons, driven mainly by population growth;
+an estimated 7% of total demand was expected to go to the feed industry, almost entirely to
+poultry [3]. Given the gap between forecast production and consumption, import
+requirement estimates for 2025/26 ranged from about 1 million tons (based on the higher,
+upwardly revised production estimate) [2] to as much as 1.7 million tons (based on more
+conservative production assumptions) [8]. Wheat ending stocks for 2025/26 were forecast
+to decline to around 2 million tons, down sharply from the record level of nearly 5 million
+tons estimated for 2024/25 [2][3].
+[A48] Support price and retail price levels, 2025–26 procurement season The
+government's official wheat support price for Punjab for the 2025–26 procurement season
+was set at Rs. 3,500 per 40 kg bag. Prices in Sindh and Balochistan tended to run somewhat
+higher, due to lower local production and higher transport costs. Retail wheat ﬂour (atta)
+prices ranged between roughly Rs. 4,500 and Rs. 5,837 per 50 kg pack [8].
+[A49] Subsidy and relief measures, 2025–26 The Punjab Food Department reportedly
+supplied wheat to ﬂour mills at subsidized rates to help control atta (ﬂour) prices. Subsidies
+through the Benazir Income Support Program (BISP) were also under consideration to
+protect lower-income households from elevated ﬂour costs [8].
+[A50] Government-to-government import negotiations, 2025–26 As of early 2026,
+negotiations were reportedly underway with countries including Russia and Kazakhstan
+for government-to-government wheat procurement deals at below-market rates, as one
+option for meeting the projected 2025/26 import requirement without disrupting domestic
+farmgate prices [8].
+[A51] National yield ﬁgures, 2024/25 and 2025/26 marketing years USDA FAS data
+records national wheat yield at 3.2 tons/hectare for both the 2024/25 and 2025/26 marketing
+years — the highest in the entire 2015–2026 historical series tracked by USDA [1][23].
+[A52] 2025 monsoon ﬂooding — context and comparison to 2022 Monsoon ﬂooding in
+2025 again affected standing Kharif-season crops in Sindh, Balochistan, and Punjab — the
+same regions from which the country had not yet fully recovered following the
+unprecedented 2022 ﬂoods. However, the overall ﬂooding extent in 2025 was not as severe
+as in 2022, particularly in Sindh and Balochistan. Punjab was reported as the most affected
+province in the 2025 event, recording the worst ﬂooding there in over four decades; roughly
+2.9 million people across Punjab were evacuated as of the reporting period, with numbers
+expected to rise as rains continued [43]. Despite the direct Kharif-season ﬂooding impacts
+and potential knock-on effects for the Rabi wheat season, adequate wheat reserves carried
+over from the previous Rabi season, together with improved macroeconomic conditions
+(stronger foreign exchange reserves, a stable rupee, and easing food inﬂation), were
+expected to help Pakistan absorb the shock without a repeat of 2022-level food security
+impacts; only short-term, localized, acute food insecurity was anticipated in directly
+affected areas [43].
+SECTION B: FULL NATIONAL YIELD TIME SERIES (USDA FAS,
+tons/hectare) [1][23]
+Marketing Year Yield (t/ha)
+2015/16 2.7
+2016/17 2.8
+2017/18 3.0
+2018/19 2.9
+2019/20 2.8
+2020/21 2.9
+2021/22 3.0
+2022/23 2.9
+2023/24 3.1
+2024/25 3.2
+2025/26 3.2
+Full dataset source: USDA Foreign Agricultural Service, PSD Online / Wheat Explorer
+Pakistan [1][23].
+SECTION C: WHEAT VARIETIES RELEASED / RECOMMENDED FOR
+PUNJAB (with release-era context)
+[C1] Institutional variety-release history The Wheat Research Institute (WRI) at Ayub
+Agricultural Research Institute (AARI), Faisalabad has released 65 wheat varieties for
+various zones since the institute's establishment in 1906 [40][41][42].
+[C2] Recent named varieties by release code Conﬁrmed released/recommended varieties
+include: Anaj-17, Akbar-19 (Akbar-2019), Dilkash-20 (Dilkash-2020), Subhani-21 (Subhani-
+2020/21), MH-21, Arooj-2022 (also styled Aruj-2022), plus barley varieties (Jau-17, Sultan-
+17, Talbina-21, Jau-21, Pearl-21) and Durum-21 — Pakistan's ﬁrst pasta/noodle wheat variety
+[45].
+[C3] MH-21 variety detail MH-21 (varietal code V-12304) is a high-yielding, rust-resistant
+bread wheat variety for irrigated areas of Punjab. In preliminary (2011–2012) and regular
+(2012–2013) yield trials it outperformed the check variety Faisalabad-08 by 11.2% and
+10.28% respectively in grain yield. It was subsequently tested across 21 locations in Punjab
+(2013–2014) and 18 locations nationally (2014–2015, 2017–2018, 2019–2020) for yield and
+disease stability [41][42].
+[C4] Dilkash-20 variety detail Dilkash-20 (V-16005) is a newly approved wheat variety for
+Punjab noted for high yielding potential and disease resistance; its development and multi-
+location yield trial history (2017 onward, including the Punjab Uniform Wheat Yield Trial
+and National Uniform Wheat Yield Trials) is documented in dedicated variety-release
+literature [40].
+[C5] Varieties recommended speciﬁcally for the 2025–26 Punjab sowing season Akbar-
+2019, Dilkash-2020, Fakhar-e-Bhakkar, Aruj-2022, Nishan, Pakistan-2013, Faisalabad-2008,
+MH-2021, MA-2021, Subhani-2020, Wafaq-2023 [6].
+[C6] Package-of-Practices (Rabi 2025–26) additional varieties and traits Newer entries
+in Punjab's official package of practices include specialty end-use types — e.g., a "PBW
+Biscuit 1 (2024)" premium cookie/biscuit-quality variety (moderately resistant to yellow
+rust, resistant to brown rust, ~154-day maturity, average yield 17.2 quintals/acre); durum
+types such as "PDW 291 (2005)" suited for pasta-making, resistant to yellow and brown rust
+and to loose smut, with low incidence of yellow berry; and general-purpose high-yield lines
+such as "PBW 872 (2025)" (moderately resistant to yellow and brown rust, ~152-day
+maturity, bold lustrous grains, average yield 24.4 quintals/acre) and "PBW 824 (2021)"
+(resistant to brown rust, moderately resistant to yellow rust, ~158-day maturity, average
+yield 23.2 quintals/acre, recommended for Seeder/Super Seeder use in rice-residue-
+managed ﬁelds) [13].
+[C7] Cultivar selection basis used in current agronomic trials Field research (e.g.,
+biochar/irrigation trials at the University of the Punjab, Lahore, 2023–2024) used Dilkash-
+2020, Akbar-2019, and FSD-08 as representative cultivars, selecting them per AARI's
+recommended cultivar list for irrigated soils [17][49].
+SECTION D: THE 2022 FLOODS — DEDICATED DEEP-DIVE (Cross-Year
+Reference Topic)
+[D1] Scale of the disaster The 2022 Pakistan ﬂoods (June–October 2022) killed 1,739
+people and caused approximately US$40 billion in damage, driven by heavier-than-usual
+monsoon rains and glacier melt following a severe heatwave — both linked to climate
+change. Pakistan declared a state of emergency on 25 August 2022. It was described as the
+world's deadliest ﬂood since the 2020 South Asian ﬂoods and the worst ﬂood in Pakistan's
+history [52].
+[D2] Crop area affected FAO assessed approximately 9.4 million acres of crop area
+nationally as potentially inundated in August 2022: 4.8 million acres in Sindh, 2.7 million
+acres in Punjab, 1.2 million acres in Balochistan, and 714,000 acres in Khyber Pakhtunkhwa
+[50][55]. At least 1.2 million livestock were killed nationally [50].
+[D3] Punjab-speciﬁc toll In Punjab, 223 people died and 3,858 were injured; roughly 7,200
+km² (1.78 million acres) of crops and orchards were affected. Punjab reported 30% of all
+recorded injuries nationally [52].
+[D4] Sectoral crop damage nationally The ﬂoods affected nearly 15% of Pakistan's rice
+crop and 40% of its cotton crop [50]. Sindh Province alone — the hardest-hit region —
+accounts for 42% of national rice production, 23% of cotton, and 31% of sugarcane [51][54].
+Punjab's exposed shares were 16% of national wheat production, 42% of rice, 23% of cotton,
+and 31% of sugarcane [51].
+[D5] Direct inundation extent (satellite-based) Satellite mapping (Sentinel-1, 22–28
+August 2022) showed about 2.5 million hectares of land directly inundated in Sindh alone
+(over 18% of the province's total area), obstructing access across roughly three-quarters of
+the province [54][58].
+[D6] Impact on Rabi (wheat) planting for 2022–23 Standing ﬂoodwaters reduced planted
+area for Rabi crops in localized low-lying regions of Sindh and Balochistan. There were
+concerns that seed and fertilizer shortages, plus ﬂood damage to machinery and irrigation
+infrastructure, would further disrupt planting. However, ﬂoodwaters receded in time for
+planting in most areas, and coordinated government/donor efforts secured adequate seed
+and fertilizer supplies, resulting in near-average plantings for 2022–23 [43].
+[D7] Longer-term food security consequences A UNICEF rapid survey across 15 ﬂood-
+affected districts (released May 2023) found that one-third of children aged 6–23 months
+suffered moderate acute malnutrition, with 14% suffering severe acute malnutrition. FAO
+and WFP's June–November 2023 outlook warned that acute food insecurity was likely to
+further deteriorate if economic and political conditions worsened, compounding the 2022
+ﬂood effects [50].
+[D8] Comparison with the 2025 ﬂood event Monsoon ﬂooding recurred in 2025, again
+affecting Kharif crops in Sindh, Balochistan, and Punjab — regions that had not yet fully
+recovered from 2022. However, 2025's ﬂooding was less severe overall than 2022,
+particularly in Sindh and Balochistan, even though Punjab speciﬁcally recorded its worst
+ﬂooding in over four decades during the 2025 event [43].
+SECTION E: AGRONOMY AND FIELD-LEVEL PRACTICES (Not Year-Speciﬁc
+— General Reference)
+[E1] Botanical classiﬁcation and cropping system Wheat (Triticum aestivum) belongs to
+the Gramineae family and is grown in all four provinces of Pakistan, particularly Punjab
+and Sindh, during the winter (Rabi) season [14].
+[E2] National average yield by irrigation type Progressive wheat growers in irrigated areas
+achieve grain yields of 5–7 tonnes/hectare. However, the national average yield is around
+3.0 tons/hectare for irrigated wheat and only about 1.2 tons/hectare for rainfed (barani)
+wheat [24].
+[E3] Sowing time criteria Sowing time selection depends on soil and climatic conditions
+and cropping-zone type. Barani (rainfed) and humid areas require earlier sowing, during
+October, before the onset of winter [14].
+[E4] Recommended sowing windows by province Punjab: 1–20 November (ideal window;
+official target to complete sowing by 30 November). Sindh: 1–30 November. Khyber
+Pakhtunkhwa: 15 October–15 November. Late sowing sharply reduces yield — each week of
+delay past mid-November can cost roughly 10–12 kg of grain per acre due to compressed
+grain-ﬁlling [5].
+[E5] Seeding speciﬁcations Ideal seed depth is 1.5 cm, with row-to-row spacing of 25 cm
+and plant-to-plant spacing of 10 cm. Target plant population is 9–10 lac (900,000–
+1,000,000) per acre, aiming for 30–35 plants per square meter with well-developed, fertile
+tillers. Standard seed rate is 50–55 kg/acre via seed drill; for late sowing (mid-December to
+end of December), seed rate increases to 60–70 kg/acre to compensate for reduced tillering
+under low-temperature conditions [5][14].
+[E6] Sowing methods Drill sowing (seed placed at proper depth via seed drill) gives
+uniform germination and even plant-stand establishment and is preferred over
+broadcasting. Alternative methods include ridge sowing (recommended for clay
+loam/heavy loam soils and rainfed areas), furrow-side manual sowing (recommended for
+saline/waterlogged soils), and zero-tillage direct sowing into rice ﬁelds without ploughing
+(suited to loamy/clayey soils with good drainage), which saves ﬁeld-preparation time and
+advances sowing dates [14].
+[E7] Micronutrient management — boron Boron deﬁciency is not typically observed in
+soils irrigated by canal water with pH below 8, but is a problem in sandy and saline soils.
+Deﬁciency disrupts fertilization, reducing grain number and size. Recommended
+correction: 3–4 kg of boron (gold boron or boro star) per acre at land preparation, or two
+foliar applications of boron (20% at 125 g/acre, or 5% at 500 ml/acre) 15 days apart [14].
+[E8] Micronutrient management — zinc and potash Zinc sulfate (33%) at 6 kg/acre and
+boric acid (17%) at 2.5 kg/acre are recommended — unless zinc sulfate was already applied
+to the preceding crop. Potash application increases stalk length, grain number, grain
+weight, and improves grain color and taste [12][14].
+[E9] Fertilizer program by soil fertility class (Punjab Agriculture Department guidance)
+Weak/poor soils: 2 bags DAP + 2 bags Urea + 1 bag SOP/MOP per acre. Medium fertility soils:
+proportionately higher DAP, 2 bags Urea, 1 bag SOP/MOP. Fertile soils: 2 bags DAP + 2 bags
+Urea + 1 bag SOP/MOP per acre (adjusted per soil test). Full phosphorus and potash, plus 1/3
+of nitrogen, should be applied at sowing (ideally via band placement with a drill);
+remaining nitrogen is split across 2–3 later applications. Farmers are urged to have soil
+tested at government soil and water testing laboratories before ﬁnalizing doses [12].
+[E10] Irrigation requirement Total crop water requirement is typically 16–18 inches, from a
+combination of irrigation and rainfall. Pre-sowing irrigation ("rauni") is applied where soil
+moisture is inadequate to ensure a ﬁrm seedbed at depth with ﬁne surface tilth for uniform
+emergence. Irrigation counts may be reduced on medium-textured soils for certain
+varieties to prevent lodging [5][11][13].
+[E11] Water-saving techniques Laser land leveling and bed planting improve water-use
+efficiency and reduce weed pressure [11].
+[E12] Soil amendment research — biochar A ﬁeld trial at the Botanical Garden, University
+of the Punjab, Lahore (2023–2024) tested activated acacia biochar (AAB) at 0, 5, and 10
+tons/hectare across three cultivars (Dilkash-2020, Akbar-2019, FSD-08) under ﬁve
+irrigation regimes (100%, 80%, 70%, 60%, 50% of ﬁeld capacity). The 10-ton AAB
+treatment improved soil carbon recovery to 45% and carbon sequestration capacity to 49%,
+versus 0.43% and 0.13% respectively for non-amended soil. Microporosity and water
+retention improved by 1.1× and 2.2× respectively with 10-ton AAB amendment. Reduced
+irrigation regimes negatively affected plant growth and yield across all treatments [17][49].
+[E13] Agro-ecological zones (rainfall basis) Punjab wheat-growing districts are classiﬁed
+into agro-ecological zones based on average annual rainfall: Cotton zone (~156 mm) — e.g.,
+Khanewal, Bahawalpur; Central mixed zone (~446 mm) — e.g., Faisalabad; Rice zone (~800
+mm) — e.g., Gujranwala; Arid zone (~900 mm) — e.g., Chakwal [18].
+[E14] Soil and climate parameters Recommended soil types range from sandy loam to clay
+loam, with ideal pH 6.0–7.5. Optimum sowing temperature is 20–25°C, with cooler
+temperatures favored during grain-ﬁlling [11].
+SECTION F: DISEASES AND PESTS (General Reference)
+[F1] Major fungal/bacterial diseases Yellow rust (stripe rust), brown rust (leaf rust), stem
+rust, loose smut, and Karnal bunt are the major wheat diseases in Pakistan [15]. Karnal bunt
+in particular is addressed in the current Punjab Package of Practices, which notes several
+newer varieties bred with Karnal bunt resistance [13].
+[F2] Disease control strategy Rust diseases (yellow, brown, stem) are managed primarily
+via resistant/improved varieties. Loose smut and Karnal bunt are controlled through seed
+treatment with recommended fungicides prior to sowing [15].
+[F3] Wheat aphid population dynamics A multi-season ﬁeld study (2010–2011, ten
+experimental farms, no pesticide use) tracked wheat aphid populations and their natural
+enemies across four Punjab agro-ecological zones (cotton zone — Khanewal and
+Bahawalpur districts; central mixed zone — Faisalabad; rice zone — Gujranwala; arid zone
+— Chakwal). The commonly grown variety "Sahar" was drill-sown at 125 kg/ha across all
+sites, October 15–31, in both seasons, following local agronomic recommendations [18].
+[F4] Other pest pressures Termites (particularly in sandy/barani soils) and armyworms
+are additional recurring pest concerns in Pakistani wheat production [11].
+SECTION G: RESEARCH INSTITUTIONS AND POLICY BODIES (General
+Reference)
+[G1] Wheat Research Institute (WRI), Faisalabad Formal wheat research in Punjab traces
+to 1906, with the establishment of a Cereal Section at Lyallpur (now Faisalabad), upgraded
+to full Wheat Research Institute status in 1975. Subcontinent-wide wheat breeding began
+around 1907 with a botanical survey identifying 25 landraces across three wheat species;
+this became the base for subsequent breeding, yielding ten improved varieties released
+1911–1965 [16][44].
+[G2] Ayub Agricultural Research Institute (AARI) AARI originated in 1962 following the
+bifurcation of research and education functions from the former Punjab Agricultural
+College and Research Institute, Lyallpur (established 1906). Its main campus is in
+Faisalabad, with ecological-zone-speciﬁc research institutes, stations, sub-stations, testing
+centers, service laboratories, and demonstration farms located throughout Punjab. AARI's
+mission centers on developing new varieties and technologies for food safety, food security,
+sustainable exportable surplus, value addition, and natural resource conservation [47].
+[G3] National production growth since independence Pakistan's national wheat
+production has grown from about 2.63 million tonnes in 1947–48 to over 25 million tonnes
+in recent decades — attributed to the cumulative effect of improved varieties, irrigation
+expansion, and input intensiﬁcation [16][44].
+[G4] Policy coordination bodies The Federal Committee on Agriculture (FCA)
+coordinates seasonal production targets, seed availability planning, water allocation (in
+conjunction with IRSA), and price/support policy across provinces [10]. The Ministry of
+National Food Security and Research (MNFSR) and the Pakistan Agricultural Research
+Council (PARC) are additional key national institutions involved in wheat policy and
+research [9][15].
+[G5] Seed production and distribution AARI, Faisalabad provides pre-basic seed of
+approved varieties (wheat and other crops) at reasonable rates, along with nursery plants
+for horticultural and citrus crops at subsidized rates [43]. The Punjab Seed Corporation and
+private-sector companies jointly supply certiﬁed seed for the wheat sowing season [6].
+SECTION H: PRICES, ECONOMICS, AND FARM-LEVEL FINANCIALS
+(General / Multi-Year Reference)
+[H1] Cost of cultivation range Estimated cost of wheat cultivation per acre falls in a broad
+range of roughly PKR 32,000–52,000, depending on inputs, region, and farming intensity
+[4][5]. A separate 2023 API cost-of-production survey found market/procurement-level
+cost of production at Rs. 3,303.52 per 40 kg for the 2023–24 crop, a 32.73% year-on-year
+increase [20].
+[H2] Proﬁtability and yield per acre One 2026 estimate placed typical net proﬁt at roughly
+PKR 26,750 per acre under average conditions [4]. Typical yields for a well-managed ﬁeld
+are 35–45 maunds per acre, with high-performing farms reaching 50–60 maunds per acre (1
+maund ≈ 37.3 kg) [5].
+[H3] Post-harvest losses Post-harvest losses due to poor threshing and storage are
+estimated at roughly 10–15% of national production, materially reducing the effective
+marketable surplus [11].
+[H4] Yield gap versus global average Pakistan's average wheat yield (cited at around 1.8
+tons/acre in some estimates) still lags the global average of about 2.8 tons/acre, indicating
+substantial room for improvement via agronomy, mechanization, and input-use efficiency
+[11].
+MASTER REFERENCE LIST (All Sources, [1]–[58] as cited above)
+1. USDA Foreign Agricultural Service — Pakistan Wheat Area, Yield and Production.
+https://ipad.fas.usda.gov/countrysummary/Default.aspx?id=PK&crop=Wheat
+2. USDA FAS — Grain and Feed Update, Islamabad, Pakistan (PK2025-0008).
+https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?
+ﬁleName=Grain+and+Feed+Update_Islamabad_Pakistan_PK2025-0008
+3. USDA FAS — Grain and Feed Annual, Islamabad, Pakistan (PK2025-0003).
+https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?
+ﬁleName=Grain+and+Feed+Annual_Islamabad_Pakistan_PK2025-0003.pdf
+4. IR Farm — Wheat Farming Proﬁt Per Acre in Pakistan 2026.
+https://irfarm.com/blogs/latest/wheat-farming-proﬁt-per-acre-pakistan-2026
+5. Times of Agriculture — Wheat Cultivation in Pakistan 2025: Complete Yield, Cost, and
+Proﬁt Guide. https://www.timesofagriculture.pk/wheat-cultivation-in-pakistan-2025/
+6. UkrAgroConsult — Pakistan: Wheat sown over 3 mln acres as Punjab targets 16.5
+million in 2025-26. https://ukragroconsult.com/en/news/pakistan-wheat-sown-over-3-
+mln-acres-as-punjab-targets-16-5-million-in-2025-26/
+7. FAO GIEWS — Country Brief: Pakistan (main page).
+https://www.fao.org/giews/countrybrief/country.jsp?code=PAK
+8. Voyage Freight — Wheat Harvest 2026 in Pakistan: Production Trends & Price
+Outlook. https://www.voyagefreight.co/supply-chain-management/wheat-harvest-
+2026-pakistan-production-prices/
+9. Agriculture Department, Government of Punjab (CRS) — A Detailed Descriptive
+Study of Wheat Production (Dr. Qayyum & Pervaiz). https://crs-
+agripunjab.punjab.gov.pk/system/ﬁles/Wheat%20Descriptive%20Qayyum%20and%
+20Pervaiz%20(Dr.%20Qayyum,%20DACRS).pdf
+10. DAWN News — Rabi wheat target set at 30m tonnes.
+https://www.dawn.com/news/1951096
+11. Agriculture Pakistan — Wheat in Pakistan: Yield, Diseases and Fertilizer 2025.
+https://agriculturepakistan.com/wheat-in-pakistan/
+12. Punjab Portal, Government of the Punjab — Agriculture Department Punjab Issues
+Recommendations about Use of Fertilizers for Wheat Cultivation in Irrigated Areas.
+https://www.punjab.gov.pk/node/5127
+13. Punjab Agricultural University — Package of Practices for Crops of Punjab, Rabi 2025-
+26. https://pau.edu/content/ccil/pf/pp_rabi.pdf
+14. GrowTech — Wheat Production Plan. https://www.growtechsol.com/wheat.html
+15. Pakistan Agriculture Research Council (PARC) — Wheat Program FAQs.
+http://www.parc.gov.pk/index.php/en/faq-s/60-faqs/270-faqs-wheat
+16. Agriculture Department, Government of the Punjab — Wheat (AARI crop varieties
+page). https://agripunjab.gov.pk/aari-cvwheat
+17. NCBI/PMC — Optimizing Soil Health through Activated Acacia Biochar under
+Varying Irrigation Regimes and Cultivars for Sustainable Wheat Cultivation.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11745133/
+18. NCBI/PMC — Spatio-temporal Variations in Wheat Aphid Populations and Their
+Natural Enemies in Four Agro-ecological Zones of Pakistan.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6771227/
+19. Ministry of National Food Security & Research (MNFSR) — Crops Area & Production
+(District wise) 2022-23.
+https://mnfsr.gov.pk/SiteImage/Downloads/Crops%20Area%20AND%20Production
+%20by%202022-23.pdf
+20. Agricultural Policy Institute (API) — API Series No. 287: Wheat Policy Analysis for
+2023-24 Crop.
+https://api.gov.pk/SiteImage/Policy/Wheat%20Policy%20Analysis%20For%202023-
+24%20Crop.pdf
+21. Business Recorder — 'Record wheat yield achieved in South Punjab during 2021-22'.
+https://www.brecorder.com/news/40179547/record-wheat-yield-achieved-in-south-
+punjab-during-2021-22
+22. IndexMundi — Pakistan Wheat Production by Year (1000 MT).
+https://www.indexmundi.com/agriculture/?
+country=pk&commodity=wheat&graph=production
+23. USDA FAS — Wheat Explorer, Pakistan.
+https://ipad.fas.usda.gov/cropexplorer/cropview/comm_chartview.aspx?
+ftypeid=47&fattributeid=1&fctypeid=47&fcattributeid=1&regionid=sasia&cntryid=P
+AK&cropid=0410000&nationalgraph=False&sel_year=2022&startrow=1
+24. Pakistan Agricultural Research Council (PARC) — general wheat detail page
+(progressive vs. national average yields).
+https://www.parc.gov.pk/Detail/MWQ2ZDgzYmEtY2E2Mi00MDU2LWFlMGMtZmUz
+YjlhZDEzMGEz
+25. DAWN News — A bleak prognosis of wheat (Jan 14, 2022).
+https://www.dawn.com/news/1674952
+26. Grain Central — Pakistan expects record wheat crop.
+https://www.graincentral.com/markets/pakistan-expects-record-wheat-crop/
+27. The Express Tribune — Wheat harvest target may be missed (March 9, 2024).
+https://tribune.com.pk/story/2458822/wheat-harvest-target-may-be-missed
+28. USDA FAS — Grain and Feed Update, Islamabad, Pakistan (PK2024-0010).
+https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?
+ﬁleName=Grain+and+Feed+Update_Islamabad_Pakistan_PK2024-0010.pdf
+29. FAO GIEWS — Country Brief Archive, Pakistan.
+https://www.fao.org/giews/countrybrief/country/PAK/pdf_archive/PAK_Archive.pdf
+30. ReliefWeb — GIEWS Country Brief: The Islamic Republic of Pakistan, 05 March 2024.
+https://reliefweb.int/report/pakistan/giews-country-brief-islamic-republic-pakistan-
+05-march-2024
+31. Grain Central — Pakistan expects record wheat crop (duplicate primary source for
+A25–A30; see #26).
+32. SABRAO Journal of Breeding and Genetics — 'MH-21,' A Novel High-Yielding and
+Rusts Resistant Bread Wheat Variety for Irrigated Areas of Punjab, Pakistan.
+https://sabraojournal.org/mh-21-novel-high-yielding-rusts-resistant-bread-wheat-
+variety-irrigated-areas-punjab-pakistan/
+33. SABRAO Journal (PDF) — same study as #32. https://sabraojournal.org/wp-
+content/uploads/2023/06/SABRAO-J-Breed-Genet-55-3-749-759-MS22-168.pdf
+34. The Express Tribune — Wheat harvest target may be missed (duplicate primary
+source; see #27).
+35. USDA FAS — Grain and Feed Update (PK2024-0010) — sowing/policy environment
+detail (duplicate primary source; see #28).
+36. USDA FAS — Grain and Feed Annual (PK2025-0003) — price/stocks detail (duplicate
+primary source; see #3).
+37. FAO GIEWS — Country Brief Archive, Pakistan — price and weather detail (duplicate
+primary source; see #29).
+38. ReliefWeb — GIEWS Country Brief, 05 March 2024 — food insecurity and import
+detail (duplicate primary source; see #30).
+39. Voyage Freight — Wheat Harvest 2026 in Pakistan — record yield ﬁgure (duplicate
+primary source; see #8).
+40. ResearchGate — DILKASH-20: A Newly Approved Wheat Variety Recommended for
+Punjab, Pakistan, with Supreme Yielding Potential and Disease Resistance.
+https://www.researchgate.net/publication/370421027_DILKASH-
+20_A_NEWLY_APPROVED_WHEAT_VARIETY_RECOMMENDED_FOR_PUNJAB_
+PAKISTAN_WITH_SUPREME_YIELDING_POTENTIAL_AND_DISEASE_RESISTA
+NCE
+41. SABRAO Journal — MH-21 variety study (duplicate; see #32).
+42. SABRAO Journal (PDF) — MH-21 variety study (duplicate; see #33).
+43. GEOGLAM Crop Monitor — Special Reports (202509).
+https://www.cropmonitor.org/special-reports-202509
+44. Ayub Agricultural Research Institute — Wheat (crop_varieties_wheat page).
+https://aari.punjab.gov.pk/crop_varieties_wheat
+45. Agriculture Department, Government of the Punjab — Wheat Research Institute,
+Faisalabad. https://agripunjab.gov.pk/aari-inst-Wheat
+46. Ayub Agricultural Research Institute — Introduction.
+https://aari.punjab.gov.pk/introductio_n
+47. Ayub Agricultural Research Institute — Welcome to AARI (homepage).
+https://aari.punjab.gov.pk/
+48. Ayub Agricultural Research Institute — Wheat Research Institute FAQs.
+https://aari.punjab.gov.pk/faqs_wri
+49. NCBI/PMC — Biochar/irrigation study (duplicate; see #17).
+50. Center for Disaster Philanthropy — 2022 Pakistan Floods.
+https://disasterphilanthropy.org/disasters/2022-pakistan-ﬂoods/
+51. Nature, Scientiﬁc Reports — A framework for multi-sensor satellite data to evaluate
+crop production losses: the case study of 2022 Pakistan ﬂoods.
+https://www.nature.com/articles/s41598-023-30347-y
+52. Wikipedia — 2022 Pakistan ﬂoods. https://en.wikipedia.org/wiki/2022_Pakistan_ﬂoods
+53. GEOGLAM Crop Monitor — Special Reports (202509) (duplicate; see #43).
+54. ReliefWeb — The 2022 Pakistan ﬂoods: Assessment of crop losses in Sindh Province
+using satellite data. https://reliefweb.int/report/pakistan/2022-pakistan-ﬂoods-
+assessment-crop-losses-sindh-province-using-satellite-data
+55. Humanitarian Action — Revised Pakistan 2022 Floods Response Plan: 01 Sep 2022 – 31
+May 2023. https://humanitarianaction.info/plan/1140/article/revised-pakistan-2022-
+ﬂoods-response-plan-01-sep-2022-31-may-2023-04-oct-2022
+56. World Bank Group — Pakistan Floods 2022 Post-Disaster Needs Assessment, Main
+Report. https://thedocs.worldbank.org/en/doc/4a0114eb7d1cecbbbf2f65c5ce0789db-
+0310012022/original/Pakistan-Floods-2022-PDNA-Main-Report.pdf
+57. FAO Data in Emergencies — Pakistan Floods, Post Disaster Needs Assessment
+(PDNA), 2022. https://data-in-emergencies.fao.org/datasets/pakistan-ﬂoods-post-
+disaster-needs-assessment-pdna-2022
+58. Nature, Scientiﬁc Reports / ADS abstract — satellite crop-loss framework (duplicate;
+see #51).
+NOTES FOR RAG PIPELINE USE
+1. Chunking recommendation: Each lettered/numbered fact block (e.g., [A1], [E5],
+[D3]) is already sized close to your target ~300-word chunk. Consider chunking at this
+block level rather than by raw word-count, to preserve the year/topic tag as chunk
+metadata.
+2. Metadata tagging suggestion: Tag each chunk with crop=wheat, region=punjab,
+year=<YYYY> (from the block's section header), and topic=
+<production|price|policy|variety|disease|flood|agronomy> for more precise
+retrieval ﬁltering.
+3. Conﬂicting ﬁgures ﬂagged intentionally: Where sources disagree (e.g., 2024/25
+production cited as 31.4M, 31.6M, 31.8M, or 28.42M tons depending on agency and
+vintage), this ﬁle preserves all ﬁgures with their source rather than silently picking
+one — your retrieval/generation prompt should instruct the LLM to note such
+discrepancies rather than presenting a single number as certain.
+4. Duplicate reference entries: Several reference numbers point to the same underlying
+document (noted as "duplicate primary source" in the list) because the same source
+was cited across multiple, non-adjacent fact blocks during compilation. Deduplicate
+URLs during ingestion if your pipeline requires unique source IDs.

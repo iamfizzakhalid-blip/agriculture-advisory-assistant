@@ -1,0 +1,79 @@
+Deep Ploughing 1.15 67% 3355 2585 
+Ploughing 3 100% 1854 5562 
+Planking 1.8 100% 1263 2273 
+Leveling 1 19% 3554 675 
+11096 
+Seed Quantity (kg) 51 100% 119 6069 
+Seed Drilling 1 12% 2074 249 
+Seed Broadcasting 1 88% 554 488 
+Seed Treatment 1 5% 472 24 
+6829 
+Water Cost 3.5 92% 2104 6775 
+Water Labour 1 92% 380 1224 
+7998 
+Urea 1.8 99% 3200 5702 
+DAP 1.06 97% 10000 10282 
+Other Fertilizer 1 16% 6246 999 
+Fertilizer Labour/Transport 1 99% 637 631 
+17614 
+Dung trolly 2.4 6% 1983 286 
+Dung Labour/Transport 1 6% 2213 319 
+604 
+Spray Pesticides 1.13 44% 1410 701 
+Spray Pest Labour 1 44% 388 193 
+894 
+Spray Weedicides 1.03 97% 1467 1466 
+Spray Weeds Labour 1 97% 379 379 
+1844 
+Pick / Dig  Cost 
+Manual Cutting Cost 1 64% 12310 7878 
+Threashing Cost 1 64% 10181 6516 
+Machine Harvesting 1 36% 7529 2710 
+17105 
+9 35000 
+Admin. Cost 1 7% 6232 436 
+Tunnel Cost 
+436 
+Transport Rent 1 67% 5545 3715 
+Transport Labour 1 67% 851 570 
+Bar Dana (Bags) 1 42% 1394 585 
+4871 
+(Rs./ acre) 104,292 
+(Rs./ 40 Kg) 3,280 
+(40kg/acre) 31.8 
+Crop Value   @ 4,100 (Rs./acre) 130,365 
+(Rs./acre) 21,132 
+(Rs./acre) 151,497 
+(Rs./acre) 47,205 
+(Rs./40kg) 1,484 
+25% Cost of Production Cost of Transport Cost of Pesticides 
+4,100 11 
+Residual  Value Expected 
+Revenue Gross Revenue 
+At  Mandi  Gate 
+(With  Land  Rent) for the Last 3 Years Weighted   Average   Cost   of   Production 
+No. (%) of Usage 
+(Weights) Total 
+Weighted 
+Cost 
+(Rs./acre) Wheat   2023-24 
+Average Yield 5 
+10 Cost of Land Preparation 
+2 
+3 
+4 
+6 
+8 Cost of Harvesting 
+Source: Crop Reporting Service, Agriculture Deptt, Punjab Avg. No. of 
+Operation / 
+Unit 
+(/acre) Operation  /  Inputs Avg. Cost per 
+Operation / Unit 
+   (Rs./acre) 
+Indicative Price  (Rs./ 40 Kg)      @ Expected 
+Profit At  Mandi  Gate 
+(With  Land  Rent) Cost of Dung Cost of Irrigation 
+7 
+Cost of Other Exp. 1 
+Full / Half Yearly Land Rent  (Rs./acre) Cost of Fertilizer Cost of Seed & Sowing 
+Cost of Weedicides 
