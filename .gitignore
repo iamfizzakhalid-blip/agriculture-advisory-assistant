@@ -1,6 +1,22 @@
+# Virtual environment
 .venv/
+
+# IDE / Editor
 .vscode/
+.idea/
+
+# Python
 __pycache__/
 *.pyc
+*.pyo
+
+# Environment
 .env
+
+# Data artifacts (large / generated)
+data/chroma_db/
+data/embeddings/
+logs/
+
+# Legacy
 chroma_db/

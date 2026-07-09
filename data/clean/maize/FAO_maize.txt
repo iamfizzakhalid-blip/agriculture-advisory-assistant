@@ -1,0 +1,1589 @@
+TAS 4402- 2010 
+GOOD AGRICULTURAL PRACTICES FOR 
+ MAIZE 
+Ministry of Agriculture and Cooperatives 
+ICS 67.020.20 ISBN 978-974-403-744-2 
+ 
+ 
+ 
+ 
+UNOFFICIAL TRANSLATION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GOOD AGRICULTURAL PRACTICES FOR 
+ MAIZE 
+Ministry of Agriculture and Cooperatives 
+50 Phaholyothin Road, Ladyao, Chatuchak, Bangkok 10900 
+Telephone (662) 561 2277 Fax (662) 561 3357 
+www.acfs.go.th 
+Published in the Royal Gazette Vol.127 Section 147D Special, 
+Dated 21 December B.E. 2553 (2010) 
+ 
+(2)
+Technical Committee on the Elaboration of Thai Agricultural Standards on 
+Good Agricultural Practices for Maize 
+1. Mr. Chokechai Aekatasanawan 
+Chairperson 
+2. Mr. Kawkiat Viriyakitpatana 
+Member 
+ 
+Department of International Trade 
+3. Mrs. Pornthip Jeepjong 
+Member 
+ 
+ Department of Internal Trade 
+4. Mr. Ronachai Juangphanich 
+Member 
+ 
+ Department of Livestock Development 
+5. Mr. Kaival Klakhaene 
+Member 
+ 
+Department of Agricultural Extension 
+6. Mr. Pichet Krudloyma 
+Member 
+ 
+Department of Agriculture 
+7. Mr. Pisan Pongsapitch 
+Member 
+ 
+8. Associate Professor Ed Sarobol 
+Member 
+ 
+Kasetsart University 
+9. Mr. Siriwut Manakasem 
+Member 
+ 
+Thai Seed Trade Association 
+10. Mr. Phakorn Kosonsittivit 
+Member 
+ 
+The Thai Maize and Produce Traders Association 
+11. Mrs. Ubon Chamroonrat 
+ 
+Member 
+ 
+Thai Feed Mill Association 
+12. Mr. Sikhant Pongsapipatana 
+Member 
+The Animal Husbandry Association of Thailand 
+13. Mrs. Charieng Siripool 
+Member 
+ 
+The Lamtakhong Land Settlement Agricultural Cooperative 
+ 
+ 
+14. Mrs. Prisanar Siriacha 
+Member 
+ 
+Expert 
+ 
+15. Miss Ing-orn Panyakit 
+ 
+ 
+ Member and Secretary 
+ 
+Office of Standard Development 
+ 
+ 
+ 
+ 
+ 
+(3)
+Maize is an agricultural commodity of economic importance as a raw material for food and 
+feed industries. It is an agricultural commodity that provides an option for import under the 
+agreement of ASEAN Free Trade Area (AFTA). Therefore, for the benefit of Thai farmers, 
+the Agricultural Standards Committee deems it necessary to establish the standard on Good 
+Agricultural Practices for Maize so as to produce high quality maize. 
+The standard is based on the following documents: 
+Department of Agriculture, Ministry of Agriculture and Cooperatives. B.E. 2547 (2004). 
+Good Agricultural Practices for Maize. 
+Joint FAO/WHO Food Standards Programme, FAO, Rome. 1985. Codex Standard for Maize. 
+CODEX STAN 153. 
+ 
+ 
+ 
+NOTIFICATION OF THE MINISTRY OF AGRICULTURE AND COOPERATIVES 
+SUBJECT: THAI AGRICULTURAL STANDARD: 
+GOOD AGRICULTURAL PRACTICES FOR MAIZE 
+UNDER THE AGRICULTURAL STANDARDS ACT B.E. 2551 (2008) 
+ 
+Whereas the Agricultural Standards Committee deems it necessary to establish 
+an agricultural standard on Maize in accordance with the Agricultural Standards Act B.E. 
+2551 (2008) to promote such agricultural commodity to meet its quality, standard and safety. 
+By virtue of Section 5, Section 15 and Section 16 of the Agricultural 
+Standards Act B.E. 2551 (2008), the Minister of Agriculture and Cooperatives hereby issues 
+this notification on establishment of Thai Agricultural Standard: Good Agricultural Practices 
+for Maize (TAS 4402-2010),as a voluntary standard, details of which are attached herewith. 
+ 
+ 
+ 
+Notified on 4 October B.E. 2553 (2010) 
+(Mr. Theera Wongsamut) 
+Minister of Agriculture and Cooperatives 
+ 
+ 
+GOOD AGRICULTURAL PRACTICES FOR MAIZE 
+1 SCOPE 
+1.1 This Thai Agricultural Standard (TAS) on Good Agricultural Practices (GAP) for Maize 
+applies to all production steps from cultivating to post-harvest handling at farm level. 
+1.2 This standard shall be jointly implemented with TAS 4002, Thai Agricultural Standard 
+for Maize. 
+2 DEFINITIONS 
+For the purpose of this standard: 
+2.1 Maize (corn) means a grain of Zea mays L., in the Gramineae family, having hard kernels 
+with high starch content. It is used for food, feed or raw materials for food and feed. 
+2.2 Unhusked maize (corn) ear means a mature whole ear (full maturity without the removal 
+of its leafy outer covering). 
+2.3 Husked maize (corn) ear means an ear as referred to in Section 2.2 with the removal of its 
+leafy outer covering but un-shelled. 
+2.4 Maize (corn) kernel means a whole shelled grain excluding seed for planting. 
+2.5 Damaged ear means an ear that contains the kernels which are germinated, broken, 
+obviously damaged by fungi, insects and other pests, or the ear with abnormal colour and 
+odour. 
+2.6 Visual inspection means an inspection of any external physical appearances of an item, 
+for example produce, product, or apparent environment conditions. This is basically 
+examined by eyes. Any other sensory evaluation may be applied depending on quality factors 
+in question, and additional tools may be applied such as magnifying lens as necessary. 
+Subsequently, physical appearances and environmental conditions shall be assessed so as to 
+see if the criteria are fully met. The processes and working procedures are also necessary to 
+be inspected visually. 
+2.7 Pesticide means any hazardous substance used in agriculture regulated by the Department 
+of Agriculture in accordance with the Ministry of Industry notification referred to as types 
+and lists of hazardous substance promulgated under the Hazardous Substance Act B.E. 2535 
+(1992) and its amendments. 
+2.8 Hazardous substance means any chemical or other substance including chemical product, 
+microorganism and toxin excreted by microorganism that may be harmful to human, animal, 
+plant, properties or environment. 
+
+2.9 Pest means any living organism such as plant, animal or microorganism that causes 
+damage to plant. 
+2.10 Traceability means the ability to trace and track the produce from a specified step or 
+various steps of production at farm level, processing, and distribution. 
+3. REQUIREMENTS AND INSPECTION METHODS 
+Requirements and inspection methods shall be as Table 1. 
+Table 1 Requirements and inspection methods 
+ (Section 3) 
+1. Water source 
+ 
+1. Water shall be from a source that does 
+not contain residues or contamination of 
+hazardous substances and pesticides to 
+maize kernels at the level that may be 
+harmful to the consumers. 
+1. Visual inspection of the 
+environment. If there is any 
+risk, the water quality shall 
+be analysed. 
+2. Planting area 
+ 
+2. Planting area shall not contain any 
+residue or contamination of hazardous 
+substances and pesticides to maize kernels 
+at the level that may be harmful to the 
+consumers. 
+2. Visual inspection of the 
+environment. If there is any 
+risk, the soil quality or the 
+produce shall be analysed. 
+3. The use of 
+pesticides 
+ 
+ 
+3.1 Operators 
+acquire 
+proper 
+knowledge and skill on the use of 
+pesticides. 
+ 
+ 
+3.1 Interview the operator on 
+the knowledge and operation 
+skill or check the training 
+records. 
+ 
+3.2 In case where the use of pesticides is 
+necessary, follow the recommendations of 
+the Department of Agriculture, Ministry 
+of Agriculture and Cooperatives, or the 
+recommendations on the labels registered 
+with the Department of Agriculture, 
+Ministry of Agriculture and Cooperatives. 
+3.2.1Inspect 
+the 
+pesticide 
+storage area. 
+3.2.2 Check records of pest 
+survey 
+pesticide 
+application. 
+3.2.3 In case where there is 
+evidence 
+situation 
+to 
+believe 
+that 
+the use 
+pesticides is not adhered to the 
+recommendations, the produce 
+shall be randomly sampled 
+for residue analysis. 
+4. Pre-harvest 
+Quality 
+Management 
+ 
+ 
+ 
+4.1 No burning of maize stubbles prior to 
+soil preparation. 
+ 
+4.1 
+Visual 
+inspection 
+planting area and interview the 
+worker. 
+
+4.2 After planting, proper use of pest 
+control 
+according 
+to 
+the 
+official 
+recommendations shall be carried out. 
+ 
+4.2 Check records of pest 
+survey 
+pesticide 
+application, 
+and/or 
+visual 
+inspection and interview. 
+ 
+5.1 Harvest the produce at the maturity 
+stage 
+based 
+ 
+on the 
+following 
+considerations: 
+- number of days after planting for at least 
+110 days (in the rainy season) and 120 
+days (in the dry season), or according to the 
+varieties, or 
+- 80% to 90% of maize leaves in the field 
+are dry and maize kernels are at full maturity, 
+- take the seed to observe a black layer at 
+the base of maize kernel, or 
+- the moisture content of maize kernels 
+does not exceed 30%. 
+ 
+5.1 
+Check 
+records 
+harvesting 
+visual 
+inspection. 
+ 
+5.2 Harvesting methods 
+- By labour, either unhusked maize ears or 
+husked maize ears shall be harvested 
+according to the requirements referred to in 
+Section 5.1. 
+- By mechanical, i.e., a corn snapper, the 
+maize ears shall be harvested according to 
+the requirements referred to in Section 5.1. 
+- By mechanical, i.e., a corn picker-sheller 
+or a combine harvester, when moisture 
+content of maize kernels does not exceed 
+22%. 
+5.2 Interview 
+the 
+operator/worker 
+on 
+the 
+procedures 
+harvesting 
+practices for unhusked maize 
+ears or husked maize ears, 
+and/or randomly check the 
+produce, and/or check records 
+of harvesting. 
+5.3 Damaged maize ears shall be culled 
+off. 
+ 
+ 
+ 
+5.3 
+Interview 
+the 
+operator/worker 
+on 
+the 
+procedures 
+harvesting 
+practices for unhusked maize 
+ears or husked maize ears, 
+and/or randomly check the 
+produce. 
+5. Harvest and 
+Post-harvest 
+Handlings 
+ 
+5.4 
+Maize 
+drying 
+be 
+done 
+immediately after harvest as follows: 
+- unhusked maize ears and husked maize 
+ears, the moisture content shall be reduced to 
+not more than 23% within 7 days. 
+5.4 Inspect 
+ 
+procedures, 
+drying practices, operating 
+area, 
+records 
+operation, and/or interview. 
+
+- maize 
+kernels 
+be 
+distributed 
+immediately within 24 hours. If the 
+distribution can not be done on time, the 
+moisture content shall be reduced to not 
+exceed 18% within 2 days and stored not 
+more than 3 days. 
+ 
+6.1.1 Storage area shall be well-ventilated, 
+dry, free from insects and disease carrying 
+animals, and not be located near the 
+pesticide storage area. 
+ 
+6.1.1 Visual 
+inspection 
+storage area 
+storage 
+practices, and interview. 
+ 
+6.1.2 The recommended moisture content 
+and storage period are specified in Table 1. 
+The quality of maize kernels shall be in 
+compliance with the requirements of Thai 
+Agricultural Standard for Maize (TAS 
+4002). 
+6.1.2 Check moisture content 
+maize kernels, the storage 
+temperature, and/or interview. 
+ 
+6.Storage and 
+Transportation 
+6.1 Storage 
+ 
+ 
+6.1.3 Maize ears shall not be piled up to a 
+height of more than 1 m. 
+6.1.3 Visual inspection of storage 
+area. 
+ 
+6.2.1 Vehicles for transportation shall be 
+clean and free from hazardous substances. 
+ 
+6.2.1 Visual 
+inspection 
+vehicles and/or interview. 
+6.2 Transportation 
+ 
+6.2.2 Preventive measures shall be in place 
+to avoid the increase of moisture content of 
+maize during transportation. 
+6.2.2 Visual 
+inspection 
+vehicles 
+preventive 
+measures, and/or interview. 
+7. Personal health 
+ 
+7. Provide appropriate health care and 
+preventive measures to workers. 
+7. Visual inspection, and/or 
+interview, and check the 
+preventive measures. 
+ 
+8.1 Availability of records for inspection 
+and traceability as follows: 
+- sources of production inputs 
+- the use of pesticides 
+- cultivating and harvesting 
+- buyers or distributors of each crop of 
+production 
+ 
+8.1 Check records. 
+ 
+8. Record Keeping 
+ 
+8.2 Records shall be kept for at least 2 
+years. 
+8.2 Check records. 
+
+Table 1 Moisture content of maize kernels and safe storage period 
+(Section 6.1.2) 
+Type of Maize 
+Average 
+Moisture 
+Content (%) 
+Storage Period 
+ 
+Unhusked maize ears 
+not exceed 23 
+not over 30 days 
+ 
+not exceed 20 
+not over 45 days 
+ 
+not exceed 18 
+not over 60 days 
+ 
+not exceed 15 
+not over 90 days 
+Husked maize ears 
+not exceed 23 
+ not over 15 days 
+ 
+not exceed 20 
+ not over 30 days 
+ 
+not exceed 18 
+ not over 45 days 
+ 
+not exceed 15 
+ not over 60 days 
+Maize kernels 
+not exceed 18 
+ not over 3 days 
+ 
+not exceed 15 
+ not over 5 days 
+ 
+not exceed 13 
+ not over 30 days 
+ 
+4. GUIDANCE FOR GOOD AGRICULTURAL PRACTICES FOR MAIZE 
+Recommendations on Good Agricultural Practices for maize are aimed to be used as a 
+guideline for producing maize of high quality, safe and suitable for food, feed, and raw 
+materials for food and feed. The details are explained in Appendix A. 
+
+APPENDIX A 
+GUIDANCE ON GOOD AGRICULTURAL PRACTICES FOR MAIZE 
+A.1 WATER SOURCE 
+A.1.1 Water used in the production process shall be from a source that does not contain 
+residues or contamination of hazardous substances and pesticides to maize kernels. The water 
+quality shall be suitable for agricultural purpose. In case where there is any suspect of 
+contamination from hazardous substances in the water, clear evidence shall be provided to 
+clarify that the water can be used for its purpose. 
+A.1.2 At least one sample should be collected and sent to an accredited laboratory for 
+contamination analysis either at an early stage of setting up the agricultural system and during 
+a period that the environmental condition is risky for production. The laboratory report shall 
+be kept as evidence. 
+A.2 PLANTING AREA 
+A.2.1 The planting area shall not contain any residue or contamination of hazardous 
+substances and pesticides. In case the planting area is located near or in the vicinity of 
+industry, or in any risky area, the soil quality should be analysed at least once at an early 
+stage of setting up the agricultural system. Soil samples should be collected and sent toan 
+accredited laboratory. The laboratory report shall be kept as evidence. 
+A.2.2 Plot identification codes and records should be set up to indicate name of the owner, 
+name of the responsible person (optional), contact address, location, species and varieties, 
+history of land use at least in the past 2 years, and other relevant details. 
+A.2.3 Land use for planting should be subject to the provision of relevant laws and 
+regulations. 
+A.2.4 In case of new planting area, the land should not cause any negative impact to the 
+environment. If there is any risk of impact, preventive measures and corrective actions should 
+be conducted to minimize further damage. 
+A.3 THE USE OF PESTICIDES 
+A.3.1 The use of pesticides shall be complied with the recommendations of the Department 
+of Agriculture, or the recommendations on the labels registered with the Department of 
+Agriculture, Ministry of Agriculture and Cooperatives. Besides, the pesticide application 
+corresponding to the detected pest shall be carried out. 
+A.3.2 Use only the pesticides that are legally registered with registration numbers and 
+prescribed labels for maize. Do not use pesticides that are banned from production, import, 
+export, or in possession according to the Hazardous Substance Act B.E. 2535 (1992) and its 
+amendments and those indicated in prohibited lists of trading countries or trading 
+requirements. In any case, the pesticides prohibited in Thailand shall not be used. The use of 
+pesticides shall be withheld prior to harvesting stage as indicated on the labels or in 
+compliance with the official recommendations. 
+
+A.3.3 Read recommendations on the labels in order to understand properties of the pesticides 
+and their application methods before use. 
+ A.3.4 A pesticide operator/supervisor shall acquire the proper knowledge and the skill of 
+particular pests, selection and application rate of pesticides, selection of chemical sprayers 
+and their nozzle equipment including spraying methods. The sprayers shall be checked and 
+maintained in a functional condition at all time for an effective use. The pesticide operator 
+should have the personal protective equipment (PPE) such as mask or nose covering cloth, 
+gloves, cap and boots in order to prevent danger from such pesticide. The use of pesticide 
+mixture for more than two types shall be avoided unless it is complied with technical 
+recommendations. 
+A.3.5 Pesticides shall be prepared in accordance with the recommendations. The solution 
+shall be mixed well to make it homogeneous before spraying. It is recommended that 
+spraying of pesticides should be done in the morning or in the evening when the wind is calm 
+and avoid strong sunlight or strong wind. The pesticide operator shall be at windward 
+position during spraying at all times and should prevent the chemical mist to the nearby plot 
+and the surrounding area. 
+A.3.6 A sufficient amount of pesticide shall be prepared and completely used at once. No 
+leftover of pesticide should be in the spraying tank. 
+A.3.7 When the pesticide container is empty, it shall be rinsed 3 times with water. The rinsed 
+water shall be discarded into the spraying tank so that it can be used for further spraying in 
+the plot where an application of specific pesticide is approved in accordance with the 
+recommendation prescribed on its label or in designated area. In addition, it shall be ensured 
+that there is no risk of contamination from water source to the produce. The empty pesticide 
+container shall be eliminated to prevent its reuse. It is then dumped into an area particularly 
+provided for a container of that kind, or buried in the ground deep enough to prevent it from 
+animal digging, and at least 50 m away from water sources and residential area. Burning of 
+pesticide containers is strictly prohibited. 
+A.3.8 Immediately after pesticide application, the operator shall take a bath, hair shampoo 
+and change clothes. All clothes worn during spraying of pesticides shall be well laundered 
+and separated from routine laundry. 
+A.3.9 When there is the pesticide remaining in the container, its container lid shall be tightly 
+closed and stored in the pesticide storage area. 
+A.3.10 All pesticides shall be stored in a secure location with good ventilation, away from 
+children and pets, and rain and sunlight proof. 
+A.3.11 All pesticides and other chemicals e.g. fuel shall be stored separately in the proper 
+storage area in order to prevent their contamination on the produce and environment. Once 
+the container of pesticide has been opened, its content shall not be transferred out of the 
+original container. 
+A.3.12 Pesticides shall be kept with clear indication and stored separately from fertilizers, 
+plant growth regulators, various plant supplementary nutrients and PPE. 
+
+A.3.13 Provide First Aid and tools for accidental prevention such as eyewash, clean water, 
+sand or fire extinguisher in the pesticide storage area. 
+A.3.14 Plant protection measures shall be appropriate for pest control and based on pest 
+monitoring and survey. 
+A.3.15 An appropriate integrated pest management shall be applied to reduce the use of 
+pesticides. Integrated Pest Management (IPM) means a pest control management system 
+that combines the details of pest population changes and their interaction with the 
+environment as well as integration of appropriate techniques and methods for the reduction of 
+pest population to below the economic threshold level. 
+A.3.16 Avoid the repeated use of the same pesticides to delay the development of pesticide 
+resistance in pests. 
+A.3.17 Workers and pesticide operators should acquire general knowledge and skill in 
+preventing themselves from the hazards of chemical application, as well as First Aid 
+provision. 
+A.3.18 Safety instructions for an accident or emergency shall be visibly seen in the chemical 
+storage area. 
+A.4 PRE-HARVEST QUALITY MANAGEMENT 
+A.4.1 Seeds shall be in good quality, selected from reliable sources and shall conform to the 
+characteristics of the variety. The germination shall not be less than 95%. The size of seeds 
+shall be homogeneous with impurities not more than 0.5%. The seeds shall be contained in 
+closed and good packages, either in bag or in box. There shall be a clear label indicating date 
+of production, name and address of manufacturer. The seeds shall be treated with chemicals 
+to prevent them from diseases and insects, and without traces of fungal and insect damages. 
+A.4.2 Burning of maize stubbles prior to soil preparation is prohibited since it would lead to 
+the loss of soil nutrients. The stubble of maize should be left for natural degradation or 
+ploughed under the soil surface during soil preparation as the stubble could help improve soil 
+physical property by softening the soil structure. 
+A.4.3 Appropriate pest control shall be carried out in accordance with the relevant official 
+recommendations. Plant protection measures shall be effective for pest control and based on 
+pest survey and monitoring. In addition, appropriate Integrated Pest Management shall be 
+carried out in order to minimize the use of pesticides. Farmers should acquire knowledge on 
+the species and life cycles of important pests that cause damages to the produce as well as 
+control methods. In case there is an outbreak of pest, plant debris shall be destroyed (e.g. 
+burning) outside the plot. 
+A.4.4 Use organic fertilizers from complete decomposition or other processes in order to 
+increase the amount of organic matter in soil and reduce the amount of plant pathogenic 
+microorganisms. 
+A.4.5 Use only chemical fertilizers registered with the Department of Agriculture, Ministry 
+of Agriculture and Cooperatives. Choose the fertilizer formula based on the soil analysis. 
+
+A.4.6 Planting area shall not be located on land with its slope more than 10% because 
+ploughing in such area would result in increasing soil erosion. If necessary, a specific pattern, 
+i.e., contour planting, planting in a zig-zag pattern, contour furrow cultivation and alley 
+cropping with the hedgerows of legume, or terracing is recommended. 
+A.4.7 Cover crops such as mungbean, sesbania, sunnhemp or jackbean shall be grown to 
+improve soil properties and ploughed when the cover crops have been grown for 
+approximately 50 days or when they start flowering. 
+A.4.8 Chemical fertilizers should be combined with organic fertilizers because the organic 
+fertilizers could help improve soil physical and biological properties, increase the amount of 
+soil microorganisms, enrich with trace elements more than chemical fertilizers, and enhance 
+the nutrient absorption, which would reduce the nutrient loss of chemical fertilizer 
+application. 
+A.4.9 To eliminate surplus and waste, infected plant parts shall be burned outside the plot, 
+whereas non-infected plant parts can be used for compost or green manure. 
+A.4.10 Maize planting during early rainy season should be avoided because there might be a 
+dry spell that could induce a drought stress in maize. Moreover, harvesting during the rainy 
+season is risky to be infected by Aspergillus flavus, Penicillium spp. and Fusarium spp. 
+A.5 HARVEST AND POST-HARVEST HANDLINGS1 
+A.5.1 Appropriate harvesting stage 
+A.5.1.1 Maize shall be harvested after planting for at least 110 days in the rainy season and 
+120 days in the dry season, or at harvesting stage suitable for the variety. In addition, the 
+appropriate harvesting stage could be considered when 80% to 90% of maize leaves in the 
+plot are dry, or when maize kernels are at full maturity. 
+A.5.1.2 The harvesting stage can be observed from the forming of black layer at the base of 
+maize kernel which appears as a tiny black spot indicating that the maize reaches 
+physiological maturity and the accumulation of total dry matters in maize kernels is stopped, 
+which the dry weight becomes maximum in this period. 
+A.5.1.3 In case of harvesting at the required moisture content, a measurement tool should be 
+used to ensure the accurate moisture content. 
+A.5.1.4 The appropriate moisture content required for harvesting shall not exceed 30%. 
+However, harvesting when the moisture content is less than 25% would result in maize kernels of 
+quality with less damage from threshing and lower risk from aflatoxin contamination. 
+ 
+ 
+ 
+1 Source of data from the collaborative project between the National Bureau of Agricultural 
+Commodity and Food Standards (ACFS) and the Kasetsart University on “A review and 
+analysis of factor, quality and safety of Maize” in order to set up the Thai Agricultural 
+Standard for Maize. 
+
+A.5.2 Harvesting method 
+A.5.2.1 Labour harvesting is the most convenient and popular method. Maize ears can be 
+removed from the plants by hand with or without husking. Husked maize ears shall be 
+harvested by using a wooden stick with sharp end to pierce and carefully cut the ear’s tip and 
+try not to damage the kernels so that the husk can be removed from the ear. Afterwards, the 
+husked maize ears are put into the basket or piled up on the ground or floor with supporting 
+material, and not piled up directly on the damp ground. The husked maize ears shall not be 
+thrown in order to prevent damage or cracking of the kernels since the damaged kernels will 
+subsequently enhance fungal damage. On the other hand, the unhusked maize ears shall be 
+harvested and stored. This harvesting method can be done quickly and help prevent the 
+kernels from damage or cracking during harvest and transportation. When harvesting with the 
+moisture content of kernels, not exceeding 30%, the husks can help prevent the kernels from 
+fungal and insect damages. 
+A.5.2.2 When harvesting by a corn snapper, the moisture content of kernels shall not exceed 
+30%. 
+A.5.2.3 When harvesting by a corn picker-sheller or a combine harvester, maize ears and 
+kernels may be damaged, which is subsequently prone to fungal damage. Therefore, this 
+harvesting method should be carried out when the moisture content of kernels does not 
+exceed 22%. 
+A.5.3 Culling of damaged maize ears 
+Damaged ears, i.e., maize ears that contain kernels which are germinated, damaged by fungi, 
+insects and other pests, or maize ears with abnormal colour and odour shall be culled from 
+good-quality maize ears as much as possible during harvest in order to reduce the damage of 
+the produce. This practice can result in maize with good or best quality for sale. 
+A.5.4 Drying 
+A.5.4.1 Maize drying is an important step that has to be done immediately after harvest in 
+order to minimize contamination of aflatoxin. Drying methods should be carried out either by 
+sun drying for 2 to 3 days or by wind drying for 5 to 7 days on the clean and dry concrete 
+floor, or on the tarpaulin or plastic sheet, or on the stretcher raised from the ground of at least 
+half a metre in order to reduce the moisture content of maize ears below 23%. 
+A.5.4.2 In case of maize kernels, they shall be distributed immediately within 24 hours. If the 
+distribution can not be done on time, the moisture content shall be reduced to 18% within 2 
+days and stored not more than 3 days. If the longer period of storage is required, the storage 
+shall be carried out in accordance with Section A.6. 
+A.5.4.3 In case of early harvest of maize which is planted during early rainy season, wet 
+maize ears shall be shelled immediately after harvest. If the moisture content of maize kernels 
+exceeds 30%, the produce shall be distributed within 24 hours. 
+A.6 STORAGE AND TRANSPORTATION 
+A.6.1 Storage 
+A.6.1.1 Storage area shall be well-ventilated, dry, free from insects and disease carrier 
+animals, and not be located near the storage areas of pesticides, fertilizers, and other 
+hazardous substances. 
+
+A.6.1.2 In case where unhusked maize ears are stored for less than one month, the required 
+initial moisture content shall not exceed 23%. This practice would result in reducing the 
+transmission of diseases and insect infestation, and also inhibit the formation of aflatoxins for 
+3-6 weeks depending on the level of mold growth. 
+A.6.1.3 The height of the pile of maize ears shall not be more than 1 m. There shall be air 
+ducts under the pile, or the pile shall be gradually turned over to reduce heat accumulation. 
+A.6.1.4 Maize storage area shall have supporting material over the floor in order to prevent 
+the produce from direct contact with the floor because maize will absorb the moisture from 
+the floor, which consequently causes mold growth. 
+A.6.1.5 Maize ears shall be packed in containers like gunny bag. The bags shall be stacked up 
+with adequate space between stacks, walls and ceilings. This practice will provide good 
+ventilation and prevent maize from heat and humidity accumulation which is the factor 
+promoting mold growth and insect infestation. 
+A.6.1.6 The packaging materials for maize ears or maize kernels e.g. gunny bag shall be 
+clean and hygienic in order to be able to prevent contamination from hazardous substances 
+and dangerous foreign matters including disease carrier animals such as rats, birds, insects or 
+any other animals. 
+A.6.1.7 Average relative humidity and temperature for maize storage during the dry season 
+shall be 65% and 25-30 °C, respectively. 
+A.6.2 Transportation 
+A.6.2.1 Vehicles for transporting maize shall be clean, tightly closed to prevent the produce 
+from rain and contamination of hazardous substances. 
+A.6.2.2 During transportation, maize ears and kernels shall be packed in a moisture-proof 
+container to prevent an increase of moisture and the consequential formation of mold. 
+A.7 PERSONAL HEALTH 
+Provide appropriate health care and preventive measures to workers such as taking them to 
+the hospital when sick or injured, or providing them with First-Aid kits. 
+A.8 RECORD KEEPING 
+A.8.1 Availability of records for inspection and traceability as follows: 
+(1) Sources of production inputs such as seeds, fertilizers and pesticides; 
+(2) The use of pesticides; 
+(3) Cultivating and harvesting; 
+(4) Buyers or distributors of each crop of production 
+A.8.2 Records shall be kept for at least 2 years in order to trace back and recall the produce 
+when there is food incident. For traceability purpose, the inspection shall be carried out in 
+accordance with the Thai Agricultural Standard on Principle for Traceability as a Tool within 
+an Agricultural Commodity and Food Inspection and Certification System (TAS 9028-2008). 
+
+APPENDIX B 
+EXAMPLE OF RECORD FORM 
+General information, Planting, Harvesting and Storage Practices of Maize 
+Year………………………………… 
+1. Owner 
+First Name (Mr./Mrs./Miss) 
+Family name 
+ 
+Farmer registered No. or plot No. 
+ 
+Identification No. 
+ 
+Contact address: No. 
+ Moo. 
+ Road 
+Sub-istrict 
+ 
+District 
+ Province 
+ 
+ Postal Code 
+ 
+Telephone No. 
+ Mobile phone No. 
+ 
+2. Planting area 
+2.1 Plot location (If it is different from the contact address of owner) 
+ 
+ 
+ 
+ 
+Total plots 
+ Total area 
+rai 
+ 
+2.2 Soil types 
+□ Clay 
+□ Clay loam □ Sandy loam 
+ 
+ 
+ 
+□ Sandy 
+□ Others (Specify) 
+ 
+ 
+ 
+2.3 Water used on farm □ Rain water □ Ground water □ Natural water source
+
+Map of plot location, communication route and significant places in the vicinity for travel 
+convenience 
+ 
+ 
+N 
+
+3. Land use history Plot No. 
+ 
+3.1 
+□ Used to be an agricultural land 
+ Year 
+ 
+□ Idle land 
+□ Used to be an industrial land 
+Year 
+ 
+□ Used to be a dumping site of refuse/waste water/waste chemicals 
+ 
+Year 
+ 
+ 
+□ Used to be a hospital 
+Years 
+ 
+ 
+□ Others (Please specify) 
+ 
+3.2 Planting species in the past 1 year Name 
+ 
+ 
+Planting species in the past 2 years Name 
+ 
+3.3 Analysis of pesticide residues (the result of analysis shall be attached to this form) 
+ 
+3.3.1 Water 
+□ Yes □ No 
+Date of sampling 
+Date of delivering for analysis 
+ 
+ 
+□ Non-detected residues □ Detected residues (Specify) 
+. 
+3.3.2 Soil 
+□ Yes □ No 
+Date of sampling. 
+ Date of delivering for analysis 
+ 
+□ Non-detected residues □ Detected residues (Specify) 
+ 
+3.3.3 Crops (Specify) 
+□ Yes □ No 
+Date of sampling. 
+ Date of delivering for analysis 
+ 
+□ Non-detected residues □ Detected residues (Specify) 
+ 
+4. Current cultivating practices (Planting/Harvesting/Handling/and Distribution) 
+4.1 □ Burn stubbles before planting □ Not burn stubbles before planting 
+4.2 □ Grow cover crops Name 
+ Date of planting. 
+ 
+□ Not grow any cover crop 
+4.3 Use of fertilizers 
+ 
+□ Compost 
+□ Manure 
+□ Others (specify) 
+ 
+ 
+□ Not use any fertilizer 
+
+4.4 Production inputs 
+ 
+4.4.1 Seeds 
+Name/Commercial name 
+Source 
+(Producer/Distributor) 
+Manufacturing date 
+Expiry date 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.4.2 Fertilizers/Applied Formulas 
+Name/Commercial name 
+Source 
+(Producer/Distributor) 
+Manufacturing date 
+Expiry date 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.4.3 Pesticides 
+Name/Commercial name 
+Source 
+(Producer/Distributor) 
+Manufacturing date 
+Expiry date 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pest survey 
+Pest Control 
+Plot No. 
+Date 
+Weeds/Diseases/Insects 
+Pesticide names (Commercial 
+names)/Other control 
+measures 
+Date of 
+application 
+Amount 
+ (kg) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fertilizer application 
+Plot No. 
+Planted area 
+(rai) 
+ 
+Harvested 
+area 
+(rai) 
+ 
+Seeds used 
+(kg) 
+ 
+Date of 
+planting 
+ 
+Date of 
+application 
+Amount 
+(kg) 
+Date of 
+harvesting 
+Production 
+Date of 
+distribution 
+
+4.5 Planting and harvesting 
+4.6 Pest Control 
+
+4.7 Produce 
+4.7.1 Culling of damaged maize ears 
+□ No culling 
+□ Yes, in which stage: 
+□ Harvesting □ Storage □ Distribution 
+4.7.2 Storage 
+□ With husks □ Without husks □ Kernels 
+ 
+Storage method □ Bulk 
+ 
+□ Container 
+ 
+□ Gunny bag □ New 
+ 
+□ Reuse (previously contained. 
+) 
+ 
+□ Plastic bag □ New 
+ 
+□ Reuse (previously contained 
+) 
+ 
+□ Others (specify). 
+ 
+ 
+Storage area 
+ 
+□ Storage house □ Barn □ living area (dry in living area) 
+4.7.3 Moisture content of the produce 
+Duration 
+Date of measurement 
+Moisture content (%) 
+After harvest 
+ 
+ 
+During storage 
+ 
+ 
+Distribution 
+ 
+ 
+4.7.4 Produce Distribution (in the previous planting season) 
+□ Immediately after harvest □ 
+day after harvest 
+□ Sun drying for 
+ days prior to distribution 
+ 
+ During the drying process, there was 
+□ rain ...... day(s) 
+ 
+□ no rain 
+□ Oven drying at 
+ degree Celsius prior to distribution 
+□ Other drying methods (specify) 
+ 
+ 
+Produce 
+ 
+Amount 
+(Kg) 
+Selling price per 
+kg 
+(Baht) 
+Name and address of 
+buyer 
+ 
+Unhusked maize ears 
+ 
+ 
+ 
+Husked maize ears 
+ 
+ 
+ 
+Maize kernels 
+ 
+ 
+ 
+4.7.5 Surplus and waste management 
+□ Burried at 
+ 
+□ Other methods (Specify) 
+
+5. Training of worker/responsible person 
+5.1 Training 
+ 
+□ Yes □ No 
+ 
+Title/program of training 
+Organization 
+Date/Month/Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+□ Graduated in Agriculture major 
+ 
+5.2 Experience 
+□ Have some experience in maize cultivation for 
+years 
+ 
+ 
+ 
+Signature of responsible person 
+
+APPENDIX C 
+MAIZE PESTS 
+ 
+severe in the 
+rainy season 
+ 
+Sorghum Downy mildew 
+Causual organism: Peronosclerospora sorghi 
+(W. Weston & Uppal) C.G. Shaw 
+-The symptom starts with irregular yellow, light 
+green or dark green stripes on maize leaves, and 
+then it turns the whole leaf into brown colour 
+causing leaf blight. The leaf becomes wilt and dies 
+eventually. 
+In the morning, a white fungal mycelium can be 
+clearly observed on the lower leaf surface. 
+-The infected plant has stunted growth, short 
+internodes, narrow leaves, and malformed 
+reproductive organs (tassels and ears), for 
+example, elongated ears are barren or have 
+poor seed set, inflorescences or tassels may 
+exhibit bushy growth. 
+planting areas. Fungal spores spread from the 
+infected plants by wind, rain and infected 
+seeds. 
+- Use resistant varieties. 
+- Regularly conduct the 
+field survey from the 
+beginning of maize 
+planting. If a maize plant 
+exhibits the symptom of 
+disease, the infected plant 
+shall be pulled out and 
+burnt immediately. 
+- Grow the maize plants 
+before heavy rainfall or 
+early rainy season. 
+- Destroy alternate hosts 
+e.g. cleaver, sedge, reed, 
+Saccharum grass, thatch 
+grass including the 
+leftovers of maize plants 
+and germinated kernels 
+from previous harvest. 
+ 
+Late rainy 
+season when the 
+relative humidity 
+is high 
+ Southern Rust 
+Causal organism: Puccinia polysora Underw. 
+- The symptom is shown by reddish brown 
+pustules on leaf surface. The powdery orange 
+lesions contained in the pustule resemble rust 
+in appearance. Severely infected leaf becomes 
+chlorotic and dry eventually. If the fungus 
+infection occurs at the flowering stage of male 
+plants, the maize yield will decrease 30% to 70%. 
+The disease outbreak is generally found in the 
+North, Northeast, and Central regions of 
+Thailand. Fungal spores spread by wind. 
+- If the severe epidemic is 
+ 
+ 
+Hot weather and 
+high humidity 
+condition. 
+Southern Corn Leaf Blight 
+Causal organism: Bipolaris maydis (Nisikado) 
+Shoemaker 
+The symptom is shown by square lesions with 
+reddish brown borders along the length of 
+infected plant debris and 
+alternate hosts. Keep the 
+plots clean and free from 
+weeds. 
+
+maize leaf. The lesions will make the leaf 
+sheath dry at infected areas. When the 
+infection is severe, these lesions coalesce 
+causing leaf blight. 
+The fungus also attacks the plants during 
+flowering and kernel formation stages resulting 
+in the negative effect on maize yield and quality. 
+The fungus produce spores on lesions. Spore 
+dispersal is carried out by wind, rain and seed. 
+- If the severe epidemic is 
+ 
+Northern Corn Leaf Blight 
+Causal organism: Exserohilum turcicum (Pass.) 
+K.J. Leonard and E.G. Suggs 
+The symptom is shown by large grey or brown 
+lesions along the length of maize leaf, leaf 
+sheath, stalk and husk. The lesion has a 
+fusiform shape at the size of 2.5 to 20 cm in 
+length. The lesions that appear on leaf can be 
+both single and coalescent causing dried leaf 
+and dead. 
+Favorable environmental conditions for 
+disease development are at high humidity and 
+cold weather at temperature range between 18-
+27 ºC. 
+If the fungus attacks the plants before the silk 
+emerges, the maize yield will be decreased 
+50%. However, if the infection occurs after the 
+silk has emerged for 6 weeks, there will be less 
+impact on yield. . 
+The fungus produce spores on old lesions. 
+Spore dispersal is carried out by wind and rain. 
+infected plant debris and 
+alternate hosts. Keep the 
+plots clean. 
+- If the severe epidemic is 
+ 
+Common Smut 
+Causal organism: Ustilago maydis (DC.) 
+Corda 
+The causal fungus forms tumor-like galls 
+which will turn into black colour when they 
+are mature. Mature black spores are released 
+from the gall by rupturing its periderm and 
+consequently cause an epidemic for the next 
+growing season. The formation of galls is 
+found above the ground parts of plants, i.e., 
+- Burn and destroy all of 
+the infected plant debris. 
+- Treat the seeds with 
+fungicides before planting 
+- Use crop rotations by 
+planting a dissimilar crop 
+instead of maize for 1 to 2 
+years in the same planting 
+plot where the infection 
+occurred. 
+- If the severe epidemic is 
+
+stalks, leaves, ears, and tassels. 
+The disease outbreak is found in Northern 
+region of Thailand. Mature black spores that 
+are released from the galls spread by wind, 
+rain, running water, insects, animals, including 
+seeds. 
+Hot weather with 
+high relative 
+humidity 
+(90% to 100%) 
+ 
+Banded Leaf and Sheath Blight 
+Causal organism: Rhizoctonia solani KÜhn.f. 
+sp. sasakii Exner. 
+The causal fungus lives in soil and dead 
+alternate host plants inside the plot. If an 
+infection occurs during seedling stage, the 
+seedling will become rotten. In natural 
+condition, an infection is found on the lower 
+leaves near soil surface. The symptom is 
+shown by water-soaked lesions varying in size 
+on the basal part to the middle part of the 
+maize leaf. The lesions will turn pale or straw 
+colour and spread along the leaf causing dried 
+leaf that looks like sunburn. The symptom also 
+appears with brown concentric bands and rings 
+on the leaf area. 
+Lesions on the sheath and leaf are similar, 
+while lesions on the stalk appear under the 
+infected sheath and display in dark brown or 
+black colours. When the lesions subside or 
+dry, they leave dark brown scales on which the 
+white compact mycelia develop and turn into 
+dark brown sclerotia. 
+planting areas. 
+ 
+ 
+- Use the seeds produced 
+from robust and disease-
+free plants. 
+- If the severe epidemic is 
+found, the infected plant 
+shall be pulled out and 
+burnt. 
+- Avoid the intensive 
+planting and reduce the 
+application of nitrogen 
+fertilizers. 
+- Increase the quantities 
+of organic matters and 
+antagonistic 
+microorganisms in the 
+plot. 
+- Destroy the maize plants 
+that are left over from 
+harvest and plough the 
+soil for proper drainage. 
+
+Year round 
+Maize Dwarf Mosaic 
+Causal organism: Maize dwarf mosaic virus 
+(MDMV) or Sugarcane Mosaic Virus (SCMV), 
+and Maize Chlorotic Mottle Virus (MCMV) 
+Vector: Rhopalosiphum maidis (Corn leaf 
+aphid) 
+- The symptom starts with the chlorotic spots 
+on the base of young leaflet. These spots later 
+develop short chlorotic streaks parallel to the 
+veins. 
+- The infected leaf develops a distinct mosaic 
+having the mottled area of pale green and dark 
+green colours, and yellow spots. 
+- If the infection occurs during seedling stage, 
+there may be severe stunting of the plant. As 
+plants approaching maturity, the foliage can 
+turn purple or reddish purple. 
+- The combination of MDMV and MCMV 
+infections 
+is 
+characterized 
+by 
+mosaic 
+appearance, leaf blight, and bud necrosis. 
+- Tassels become malformed or barren. Ears are 
+nubbin with poor seed set or no ear at all. Husks 
+are dry. 
+The disease outbreak is found in all planting 
+areas. The virus can be transmitted through 
+farming equipment. 
+infected plants as well as 
+alternate hosts which are 
+the source of infection 
+such as sugarcane or 
+sorghum that show any 
+symptom of disease. 
+- Destroy aphids 
+- Use crop rotations 
+ 
+High humidity 
+condition 
+ Stalk Rots 
+Causal organisms: Fungi (e.g. Fusarium 
+moniliforme Sheld., Macrophomina phaseoli 
+(Maubl.) Ashby, Diplodia maydis (Berk.) 
+Sacc.) and Bacteria (e.g. Erwinia 
+chrysanthemi pv. zeae) 
+Symptom 
+- An infection of this disease starts from the 
+root system from which stalk rotting organisms 
+spread to the internode. The infected internode 
+tissues become discoloured. The plant is prone 
+to lodging. 
+ - This disease frequently occurs in the stages of 
+mature stalk to flowering stage. 
+Outbreak 
+infected plant debris. 
+- Do not overuse nitrogen 
+fertilizers. 
+- Avoid the intensive 
+planting. 
+- Use organic fertilizers 
+for soil fertility 
+improvement. 
+
+planting areas. The spores will spread through 
+wind and rain. 
+Rainy season 
+high relative 
+humidity 
+condition 
+Ear and Kernel Rots 
+Causal organism: Diplodia maydis, Fusarium 
+moniliforme, Nigrospora oryzae, Penicillium 
+oxalicum, 
+Botryodiplodia 
+theobromae, 
+Rhizoctonia solani and Aspergillus spp. 
+This disease is prone to occur in maize plants 
+that are infected with stem rot disease. The 
+causal fungi damage ears and kernels. 
+Rotten ears, rotten kernels varying in colours such as 
+white, yellow, pink or black depending on the 
+causal fungi 
+This disease develops by means of improper 
+storage and harvesting practices that are 
+carried out either in raining and high relative 
+humidity conditions or when maize is still 
+immature and contains high moisture content. 
+The disease outbreak is found in all planting 
+areas. The spores will spread through wind, rain, 
+insect and animals. 
+- Do not leave maize 
+plants standing in the 
+field after maturity for a 
+long period of time. 
+- Completely dry the 
+maize ears before 
+shelling. 
+- Separate the maize ears 
+that are damaged by 
+disease. 
+- Decrease the moisture 
+content in maize kernels 
+below 15% before 
+storage. 
+severe in dry 
+weather and dry 
+spell. 
+ Corn Thrips 
+Scientific name: Frankliniclla williamsi Hood, 
+Caliothrips sp. and Thrips hawaiiensis (Morgan) 
+Adult thrips are black with two pairs of wings. 
+They are often found in leaf-sheath axils and 
+inflorescences, suckling the sap from them. 
+The infested leaf shows the pale yellow 
+mottling and later becomes wilt and dies 
+eventually. 
+The outbreak occurs in every stage of maize 
+planting. 
+- Inspection of young leaf 
+bases, leaf-sheath axils, and 
+inflorescences. If the severe 
+infestation is found and the 
+pesticide application is 
+required, follow the 
+instructions on the labels 
+or the recommendations 
+of the Department of 
+ 
+severe in dry 
+weather and dry 
+spell. 
+Corn Leaf Aphids 
+Scientific 
+name: 
+Rhopalosiphum 
+maidis 
+(Fitch) 
+Aphid larvae and adults feed by sucking sap 
+from leaves, plumules, and tassels, causing 
+curly leaf. 
+If the infestation is severe, the tassels will 
+become wilt and weak, and will not develop to 
+flowering stage. Prior to severe infestation of 
+Corn Leaf Aphids, the numbers of ants feeding 
+- Normally, the 
+population of corn leaf 
+aphids is naturally 
+controlled by several 
+parasitic insects e.g. six-
+spotted ladybird beetles, 
+ladybeetles, and earwigs. 
+If the infestation of Corn 
+Leaf Aphids is found 
+during tassel 
+development, appropriate 
+
+on sweet excretion from aphids are often 
+observed as well as the formation of black 
+sooty mold on the infested plants. Aphids 
+cause the most damage when they attack 
+during the tassel formation stage. 
+The insect outbreak is found in all planting 
+areas. 
+ 
+control measures shall be 
+carried out. 
+If the severe infestation is 
+Asian Corn Borer 
+Scientific name: Ostrinia furnacalis (Guenee) 
+Adults are moths
+with a wingspan of 
+approximately 3 cm. Anterior pair wings are
+copper colour with transverse wavy lines at the
+edges and the bases. Two tiny black spots are at
+the middle of each anterior wing. 
+Posterior pair wings have lighter colour than
+anterior pair wings and almost have no spot or 
+pattern. 
+Eggs are deposited in clusters overlap like fish
+scales. Larvae have creamy pink bodies with 
+spots on each body segment. Mature larvae are 
+approximately 20 mm long. 
+Larvae begin boring into the top leaves, 
+tassels, and stalk, and destroy in every stage of 
+the plant growth. Asian corn borers cause the 
+most damage when they attack during the 
+tassel formation stage. 
+The insect outbreak is found in all planting 
+areas. 
+- Normally, the 
+population of Asian Corn 
+Borer is controlled by 
+natural enemies such as 
+Trichogramma spp. and 
+earwigs which will feed 
+eggs and larvae of Asian 
+Corn Borer and result in 
+the prevention of an 
+outbreak. Yet, antlions 
+and spiders also feed the 
+young and adult larvae of 
+Asian Corn Borer in the 
+maize field. 
+- If the severe infestation is 
+
+Corn Earworm 
+Scientific name: Heliothis armigera (Hubner) 
+Mature larvae have stripes varying from light 
+green to nearly black along their bodies. The 
+colour depends on the environment, larval age 
+and molting. Mature larvae or moths usually 
+harbour in the leaf axils. 
+Larvae are the only stage that damages maize 
+ears. Larvae feed on silk and then bore into the 
+ear tip. If the infestation occurs before the ears 
+are fully pollinated, ears are resulted in poor 
+seed setting. 
+The insect outbreak is found in all planting 
+areas. 
+- Natural enemies of Corn 
+earworm eggs are 
+Trichogramma spp., and 
+natural enemies of Corn 
+earworms are Tachinid 
+flies and Camerons. 
+Whereas, natural enemies 
+of both Corn earworms 
+and their eggs are 
+Antlions. 
+- If the pesticide 
+severe in late 
+rainy season 
+Ground Weevil 
+Scientific name: Calomycterus sp. 
+Ground weevil is the pest living in soil. Adult is 
+a small beetle with rough blackish brown and 
+grey skin. The length of body is 3.5 mm. Eggs 
+are white, oblong in shape and deposited singly. 
+During daytime, beetles usually harbour in the 
+soil near the maize plants, especially newly 
+germinated seedlings, and come out for feeding 
+after nightfall. 
+The beetles feed on maize leaves and seedlings 
+including newly germinated seeds. They cause 
+damage and kill seedlings. The seedlings that 
+survived from the damage will become stunted 
+and branched out, causing an uneven maturity 
+of maize, malformation of ears or barrenness. 
+The insect outbreak is found in all planting 
+areas. 
+ 
+- In an area where the 
+infestation of Ground 
+Weevil is reported, 
+seeds should be treated 
+with insecticides for 
+weevil before planting. 
+ - If the severe infestation 
+of weevil is found, i.e., 
+the damaged leaves is 
+higher than 50% and the 
+damaged leaf area is 
+higher than 30%, and the 
+pesticide application is 
+required, follow the 
+instructions on the labels 
+or the recommendations 
+of the Department of 
+Dry season 
+especially in an 
+area where there 
+Rats e.g. mice, rice-field rats and guinea pigs 
+Rats feed on maize leaves and seedlings 
+- Cultural practices, i.e., 
+destroying rat shelters. 
+- Biological methods by 
+
+is no other food 
+plant 
+including newly germinated seeds. They cause 
+damage and kill seedlings. The seedlings that 
+survived from damage will become stunted 
+and branched out, causing an uneven maturity 
+of maize, malformation of ears or barrenness. 
+The rats also destroy the maize during 
+harvesting time 
+Guinea pigs (Bandicota spp.), attack the maize 
+trunk and cause the plants fall down and feed 
+on maize ears. 
+Black rats, rice-field rats, lesser rice-field rats 
+(members of the Rattus genera) and house 
+mice (member of the Mus genera) climb up the 
+plants and feed on maize ears. 
+The outbreak is found in all planting and 
+storage areas. 
+means of natural enemies 
+e.g. owls, birds, dogs, 
+cats etc. by breeding and 
+releasing these animals 
+into the maize field. 
+- If the pesticide 
+
+APPENDIX D 
+UNITS 
+The units and symbols to be used in this Thai Agricultural Commodity Standard are the 
+following recognized SI (The International System of Units or Le Système International d’ 
+Unitès) units: 
+ 
+Type of Measurement 
+Name of Unit 
+Symbol 
+Length 
+millimetre 
+mm 
+ 
+centimetre 
+cm 
+ 
+metre 
+m 
+Temperature 
+ degree Celsius 
+°C
