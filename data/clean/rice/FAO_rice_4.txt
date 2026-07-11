@@ -1,1146 +1,869 @@
-Guidelines to rice 
-production in Fiji 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Guidelines to rice production in Fiji 
- 
- 
- 
- 
-by 
-Dr. Shahida Sarker Parul 
-TCDC Consultant 
-TCP/FIJ/3502 
- 
- 
- 
- 
- 
- 
- 
- 
-Subregional Office for the Pacific Islands 
-Food and Agriculture Organization of the United Nations 
-Apia, 2017 
- 
- 
- 
- 
-The designations employed and the presentation of material in this information product do not imply the expression of any 
-opinion whatsoever on the part of the Food and Agriculture Organization of the United Nations (FAO) concerning the legal or 
-development status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or 
-boundaries. The mention of specific companies or products of manufacturers, whether or not these have been patented, does 
-not imply that these have been endorsed or recommended by FAO in preference to others of a similar nature that are not 
-mentioned. 
- 
-The views expressed in this information product are those of the author(s) and do not necessarily reflect the views or policies of 
-FAO. 
- 
-© FAO, 2017 
- 
-FAO encourages the use, reproduction and dissemination of material in this information product. Except where otherwise 
-indicated, material may be copied, downloaded and printed for private study, research and teaching purposes, or for use in 
-non-commercial products or services, provided that appropriate acknowledgement of FAO as the source and copyright holder is 
-given and that FAO’s endorsement of users’ views, products or services is not implied in any way. 
- 
-All requests for translation and adaptation rights, and for resale and other commercial use rights should be made via 
-www.fao.org/contact-us/licence-request or addressed to copyright@fao.org. 
- 
-FAO information products are available on the FAO website (www.fao.org/publications) and can be purchased through 
-publications-sales@fao.org. 
- 
- 
- 
-iii 
- 
- 
-Contents 
- 
-A. RICE VARIETIES, SEED SORTING, GERMINATION ...................................................... 1 
-Introduction to Rice Varieties in Fiji .................................................................................... 1 
-Sorting/Cleaning of rice seed ............................................................................................. 1 
-Seed rate, Soaking and Incubation technique.................................................................... 1 
-Cleaning of rice seed ......................................................................................................... 2 
-Seed sorting/Cleaning: ...................................................................................................... 2 
-Seed bed preparation and sowing seeds ........................................................................... 2 
-Land Preparation and transplanting ................................................................................... 3 
-B. NUTRIENT MANAGEMENT ............................................................................................. 3 
-Fertilization Rice-Field: ...................................................................................................... 4 
-Fertilizer Computation ....................................................................................................... 4 
-Urea Application using LCC ............................................................................................... 4 
-C. WEED MANAGEMENT .................................................................................................... 5 
-D. WATER MANAGEMENT IN RICE SEED PRODUCTION ................................................. 6 
-E. INTEGRATED PEST MANAGEMENT (IPM) .................................................................... 6 
-Insect pest management: Leaf Roller ................................................................................ 8 
-Insect pest management: Gall midge ................................................................................ 8 
-Insect pest management: Rice Armyworm: ....................................................................... 9 
-Insect pest management: Brown Plant Hopper (BPH): ...................................................... 9 
-Management of Rice Insect Pest ....................................................................................... 9 
-F. SEED PRODUCTION (ISOLATION + ROGUING) .......................................................... 10 
-Isolation distance for seed production ............................................................................. 10 
-Rouging for rice production .............................................................................................. 10 
-G. YIELD COMPONENT, AND YIELD CALCULATION ...................................................... 11 
-Yield component .............................................................................................................. 11 
-H. HARVESTING, THRESHING, CLEANING, DRYING & STORING ................................. 13 
-I. COST BENEFIT ANALYSIS OF RICE CROP IN FIJI ....................................................... 13 
+Guidelines to rice production in Fiji
 
-A. RICE VARIETIES, SEED SORTING, GERMINATION 
-A. RICE VARIETIES, SEED SORTING, GERMINATION 
-Introduction to Rice Varieties in Fiji 
-Sl# 
-Variety 
-Time of 
-sowing 
-Duration 
-(days) 
-Yield 
-(t/h) 
-Ecology 
-Remark 
+Guidelines to rice production in Fiji
 
-Star 
-Jan-Feb 
-July-Aug 
+by
+Dr. Shahida Sarker Parul
+TCDC Consultant
+TCP/FIJ/3502
 
-Wetland 
-Dry land 
-Most popular variety 
-Suitable for transplant condition but farmer 
-practice as broadcast rice, 
-Bold grain 
-Jan-Feb 
-July-Aug 
+Subregional Office for the Pacific Islands
+Food and Agriculture Organization of the United Nations
+Apia, 2017
 
-Wetland 
-Dry land 
-Suitable for transplant condition but farmer 
-practice as broadcast rice, 
-NuiNui 
-Jan-Feb 
-July-Aug 
+The designations employed and the presentation of material in this information product do not imply the expression of any
+opinion whatsoever on the part of the Food and Agriculture Organization of the United Nations (FAO) concerning the legal or
+development status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or
+boundaries. The mention of specific companies or products of manufacturers, whether or not these have been patented, does
+not imply that these have been endorsed or recommended by FAO in preference to others of a similar nature that are not mentioned.
 
-Wetland 
-Dry land 
-Suitable for transplant condition but farmer 
-practice as broadcast rice, 
+The views expressed in this information product are those of the author(s) and do not necessarily reflect the views or policies of
+FAO.
 
-Uttam 
-Jan-Feb 
-July-Aug 
+© FAO, 2017
 
-2.5-3 Wetland 
-Dry land 
-Suitable for transplant condition but farmer 
-practice as broadcast rice, 
-China Motka 
-Nov-Jan 160 
-2.5-3 Wetland 
-Dry seed+Pre-germinated seed, Broadcast 
-Japani 
-Nov-Jan 120 
-Wetland 
-Dry seed + Pre-germinated seed, Broadcast 
-Lal Jari 
-Jan-Feb 
-July-Aug 
+FAO encourages the use, reproduction and dissemination of material in this information product. Except where otherwise indicated, material may be copied, downloaded and printed for private study, research and teaching purposes, or for use in
+non-commercial products or services, provided that appropriate acknowledgement of FAO as the source and copyright holder is
+given and that FAO’s endorsement of users’ views, products or services is not implied in any way.
 
-2-2.5 Wetland 
- Pre-germinated seed, Broadcast 
-Lakrdawe 
-Jan-Feb 145 
-2.5-3 Wetland 
-Pre-germinated seed Broadcast 
-Rawele 
-Jan-Feb 120 
-2.5-3 Wetland 
-Pre-germinated seed Broadcast 
-10 Ujarka Motka 
-Nov-Jan 165 
-3-3.5 Wetland 
-Dry+Pre-germinated seed, Broadcast, (Bold grain) 
-11 Thakur Ram 
-Jan-Feb 120 
-2-2.5 Wetland 
-Pre-germinated seed Broadcast 
-12 Kharapani 
-Jan-Feb 120 
-2.5-3 Wetland 
-Dry+Pre-germinated seed, Broadcast 
-13 Suba Dhan 
-Nov-Jan 145 
-Wetland 
-Dry+Pre-germinated seed, Broadcast 
-14 Pahela Japane Nov-Jan 120 
-3-3.5 Wetland 
-Dry+Pre-germinated seed, Broadcast 
-Sorting/Cleaning of rice seed 
-Stored seed sundried for one day and cleaned properly. 
-Cleaned and treated seed can prevent seed-borne diseases and ensure healthy seedling 
-and good harvest. 
-Seed sorting: can be done in 3 ways 
-(1) 
- Winnowing: using a Kula or air current/fan 
-(2) 
-By hand: if small amount 
-(3) 
-By soaking in urea solution 
-Dissolve 1.5 kg urea in 40 liters of water 
-Soak seeds in the urea solution & stir to float unfilled, broken & diseased seeds 
-Remove floating poor seeds by hands/sieves 
-Wash seeds properly 3-4 times with clean water. 
- 
-Clean seed will have bright appearance with no spots & lesions. 
- 
-Seed rate, Soaking and Incubation technique 
-Seed Rate: 
-A. Broadcasting: About 60-70 kg ha-1 seed is needed 
-B. Furrow/ Line Sowing: 40-50 kg ha-1 seed is needed 
-C. Dibbling: About 30-40 kg ha-1 seed is needed 
- 
-Seed Rate in seed bed: Transplanting 
-Seed Rate: 80 to 100 g/m2 (Can be transplanted 20 times more area) 
- 
- 
-A. Transplanting 20-25 kg seed/ha 
-Germination Test: Should be done before sowing 
-Can easily be done by soaking 24 hours soaked seeds on wet-news paper spreaded on 
-a clay-pot 
-After 4/5 days - sprouted seeds are counted to get germination percentage of any seed 
-lot. 
-Incubation of rice seed: 
-Soak a half-filled seed-sack in clean water for 24 hrs 
-Place the sack on top of a wooden platform in a shaded area and cover with rice 
-straw to facilitate incubation 
-Turn the seed once after 24 hrs for aeration and reduce the inner-heat of the heap 
-Incubate until white "dots" observed 
-Incubation time: 48 hrs (varies with whether) 
-Normal seeding: Healthy, strong, vigorus 
-Abnormal seedling: without root, thin and diseased 
-Cleaning of rice seed 
-Stored seed sundried for one day and cleaned properly. 
-Cleaned and treated seed can prevent seed-borne diseases and ensure healthy seedling 
-and good harvest. 
-Seed sorting/Cleaning: 
-Stored seed sundried for one day and cleaned & treated properly. 
-Cleaned and treated seed can prevent seed-borne diseases and ensure healthy seedling and 
-good harvest. 
-Seed sorting: can be done in 3 ways 
-(1) 
-Winnowing: usining a Kula or air current/fan 
-(2) 
-By hand: if small amount 
-(3) 
-By soaking in urea solution 
-a. Dissolve 1.5 kg urea in 40 litters of water 
-b. Soak seeds in the urea solution & stir to float unfilled, broken & diseased seeds 
-c. Remove floating poor seeds by hands/sieves 
-d. Wash seeds properly 3-4 times with clean water. 
-Clean seed will have bright appearance with no spots & lesions. 
- 
-Seed sorting: can be done in 3 ways 
-(1) 
- Winnowing: using a Kula or air current/fan 
-(2) 
-By hand: if small amount 
-(3) 
-By soaking in urea solution 
-Dissolve 1.5 kg urea in 40 litters of water 
-Soak seeds in the urea solution & stir to float unfilled, broken & diseased seeds 
-Remove floating poor seeds by hands/sieves 
-Wash seeds properly 3-4 times with clean water. 
-Clean seed will have bright appearance with no spots & lesions. 
-Seed bed preparation and sowing seeds 
-Creating seed bed and sowing seed 
-Prepare raised bed 1-1.5 m wide with any convenient length 
-Level the bed properly 
- 
- 
-Keep 50 cm ally between beds for management 
-80-100 g seed m-2 is appropriate to get healthy seedling (One acre land can be 
-sown by seedlings from 3-3.5 kg of cleaned, healthy seeds) 
-Seeds sown uniformly 5-7 hours after bed preparation. 
- 
-Maintenance of seed bed 
-Medium fertile soil does not require fertilizers 
-Unfertile soil needs compost/cow-manure @ 2 kg m-2 
-If seedlings are found dull green, apply 7 g urea m-2 
-In case of sulfur deficiency add 10 gm gypsum m-2 
-Weeding is required for healthy growth of rice seedlings 
-Spray recommended insecticides as and when necessary. 
- 
-Uprooting the seedlings: Irrigate bed before pulling to ensure minimize root damage. 
-Land Preparation and transplanting 
-Select appropriate land (Seed bed/Main land) 
-Free from flood 
-Free from shade 
-Near to an irrigation channel 
-Medium fertile land with clay-loam soil 
-Permits frequent and easy inspection 
- 
- Irrigate land 7 days before plowing to make soil soft & allow weed/unwanted rice 
-seed germinated 
- Plow land 4/5 times followed by laddering to make well puddled and uniform level 
- Clean stubble after every laddering 
- Good land preparation ensures: Homogenous stand by receiving equal nutrient & 
-water and a strong initial start over weeds 
- 
-Depth of planting: 2-3 cm 
-Spacing: Plant to plant: 20 - 30 cm 
- 
-Line to line: 15 - 20 cm 
- Plant only one seedling in a hill to ensure genetic purity (Seed plot) 
- Plant 3-4 seedlings for grain production plot 
- Fill the gap within 7 days in case of seedling mortality 
- B. NUTRIENT MANAGEMENT 
-B. NUTRIENT MANAGEMENT 
- 
-Techniques of preserving and increasing of soil fertility: 
-Animal Liters as OM 
-Soil test based balance fertilizer use 
-Appropriate cropping pattern 
-Return crop residue to the soil 
-Make farmers aware about soil productivity 
+All requests for translation and adaptation rights, and for resale and other commercial use rights should be made via www.fao.org/contact-us/licence-request or addressed to copyright@fao.org.
 
-Fig: Integrated Nutrient Management (INM) 
-Fertilization Rice-Field 
- 1/3rd Urea and all other fertilizers should be applied at final land preparation. 
- Rest 2/3rd urea should be applied in two top-dress. 
-Recommended Fertilizer (kg/ha): 
-Sl# 
-Variety 
-Urea TSP MoP 
-During Final Land 
-preparation 
+FAO information products are available on the FAO website (www.fao.org/publications) and can be purchased through publications-sales@fao.org.
 
-China Motka 174 108 66 
-All TSP+MoP+1/3 Urea as 
-Basal Dose 
- 
- 
-Japani 
-174 108 66 
- 
- 
-Lal Jari 
-174 108 66 
+iii
 
-Lakrdawe 
-174 108 66 
- 
- 
-Rawele 
-174 108 66 
- 
- 
-Ujarka Motka 174 108 66 
- 
- 
-Thakur Ram 174 108 66 
- 
- 
-Kharapani 
-174 108 66 
- 
- 
-Suba Dhan 
-174 108 66 
- 
- 
-10 Pahela 
-Japane 
-174 108 66 
- 
- 
-Fertilizer Computation 
-To compute for the equivalent amount of fertilizer materials necessary to supply the 
-corresponding amounts of nutrients the following formula is used. 
- 
- 
- 
-RR X A 
-FM = -------------------------------- X 100 
- 
-% nutrient of FM 
- 
-Where, 
-FM = Fertilizer materials in kg 
- 
-RR = Recommended rate in kg nutrient/ha. 
-Or 
- 
- 
- 
- 
-Recommended rate (kg nutrient/ha) X Area (ha) 
-Amount of fertilizer = ------------------------------------------------------------------ X 100 
- 
- 
- 
- 
- 
-% nutrient in commercial fertilizer 
-Urea Application using LCC 
-N management is critical: 
- 
- 
- Highly mobile and unstable in soil system 
- Indigenous soil supply is also variable (even with in a plot varied) 
- Application of N does not synchronize with plant demand 
- Requirements by crops and losses from soil system are also high 
- 
-Parameters for Urea application using LCC in Rice 
-Parameter 
-Wet season 
-Dry season 
-Transplanted 
-Direct seeded 
-Transplanted 
-Direct seeded 
-Critical LCC value 
-3.5 
-3.0 
-3.5 
-3.0 
-Start LCC 
-measurement 
+Contents
 
-Last LCC 
-measurement 
-Booting stage 
-Booting stage 
-Interval of LCC 
-measurement 
-10 days 
-5 days (if no need to use N) 
-10 days 
-5 days (if no need to use N) 
-Number of hills/field 
+A. RICE VARIETIES, SEED SORTING, GERMINATION... 1
+Introduction to Rice Varieties in Fiji... 1
+Sorting/Cleaning of rice seed... 1
+Seed rate, Soaking and Incubation technique... 1
+Cleaning of rice seed... 2
+Seed sorting/Cleaning:... 2
+Seed bed preparation and sowing seeds... 2
+Land Preparation and transplanting... 3
+B. NUTRIENT MANAGEMENT... 3
+Fertilization Rice-Field:... 4
+Fertilizer Computation... 4
+Urea Application using LCC... 4
+C. WEED MANAGEMENT... 5
+D. WATER MANAGEMENT IN RICE SEED PRODUCTION... 6
+E. INTEGRATED PEST MANAGEMENT (IPM)... 6
+Insect pest management: Leaf Roller... 8
+Insect pest management: Gall midge... 8
+Insect pest management: Rice Armyworm:... 9
+Insect pest management: Brown Plant Hopper (BPH):... 9
+Management of Rice Insect Pest... 9
+F. SEED PRODUCTION (ISOLATION + ROGUING)... 10
+Isolation distance for seed production... 10
+Rouging for rice production... 10
+G. YIELD COMPONENT, AND YIELD CALCULATION... 11
+Yield component... 11
+H. HARVESTING, THRESHING, CLEANING, DRYING & STORING... 13
+I. COST BENEFIT ANALYSIS OF RICE CROP IN FIJI... 13
 
-Number of leaves/hill 
-1 (topmost fully expanded) 
-1 (topmost fully expanded) 
-Time of N application 
-Bellow critical value 
-(≥ 6 LCC reading out of 10) 
-Bellow critical value 
-(≥ 6 LCC reading out of 10) 
-Amount of Urea 
-(kg/h) 
+A. RICE VARIETIES, SEED SORTING, GERMINATION
+A. RICE VARIETIES, SEED SORTING, GERMINATION
+Introduction to Rice Varieties in Fiji
+Sl#
+Variety
+Time of sowing
+Duration
+(days)
+Yield
+(t/h)
+Ecology
+Remark
 
-67 (170g) 
-Put the leaf under the shade of body during measurement 
-C. WEED MANAGEMENT 
-C. WEED MANAGEMENT 
- Weeds deteriorate seed quality by sharing nutrient & water with rice plant and mixing 
-seed with rice seed. 
- Timing of weed control: keep weed free up to 30-40 DAT in dry season and 40-50 
-DAT in winter season. 
-Weed impacts following way: 
- Compete with plants for sunlight, moisture & soil nutrients 
- Act as alternate hosts for insects- pests/disease pests. 
- Reduce fertilizer use efficiency 
- Reduce efficiency of irrigation system 
- Reduce quality and quantity of harvest. 
- 
-Points to considered during weed management 
- Stubble cleaning after every laddering can control weeds. 
- Use of weed free seed 
- Keep levees and irrigation canals free of weeds 
- Keep tools and machinery clean 
- Keep animal manure free of weed seed by proper decomposition 
- Keep non-farm areas clean. 
- Initial plowing buries weeds, allow germinate their seeds and decomposed by later 
-plowings. 
- 
- 
- Rotary weeding followed by a hand weeding for weeds closer to the rice hills. 
- Weedicides are very effective in weed control 
- Starting from transplanting to harvesting weed should be removed as and when seen 
-in a seed plot. 
- D. WATER MANAGEMENT IN RICE SEED PRODUCTION 
-D. WATER MANAGEMENT IN RICE SEED PRODUCTION 
-Water management techniques 
- Water stress from PI-early grain filling stage results under-weight grain 
- Excess water after transplanting reduces tillering ability 
- Too much water during grain filling reduces seed quality 
- Irrigation water should be applied at 2-3 cm depth 3 days after transplanting (also control 
-weed) 
- At tillering stage, alternate wetting and drying techniques can be applied to save 
-water. 
- 
-Water should be drained out from seed plot 7 days before harvest 
- Harvesting rain water: small pond of 2 m depth can facilitate 2/1 irrigation with stored 
-rain water. 
- Levee management: A 15 cm high levee can hold rain water and help to face 
-occasional drought in main season. 
- E. INTEGRATED PEST MANAGEMENT (IPM) 
-E. INTEGRATED PEST MANAGEMENT (IPM) 
- 
-A pest management system that uses all suitable techniques and methods in as compatible 
-manner as possible and maintains the pest populations at levels below those causing 
-economic injury 
-IPM: a broad interdisciplinary approach is taken using scientific principles of crop protection 
-to combine into a single cropping system a variety of management strategies and tactics to 
-reduce pest populations. 
- 
-Objective: 
- Conserve beneficial insects and other organisms 
- Judicial use of chemical pesticides 
- Reduce side effects and after effects of pesticide use 
- Not allowing pests to active resistance or tolerance to pests 
- Ensure ecological balance and pollution free environment 
- Reduce production cost. 
- 
-IPM involve combinations of control techniques to optimize pest according to local 
-conditions. Components of IPM are: 
-Cultural 
-Mechanical 
-Biological 
-Chemical 
-Social, etc. 
-Total dependence upon any single control measure or management tactic will fail at times 
-with devastating losses 
- 
- 
- 
-1. CULTURAL CONTROLS 
- Crop rotation: BPH prone areas jute can be inserted 
- 
- 
- Polyculture: strip cropping, which again creates the habitat diversity favorable to 
-natural control. 
- Trap cropping: pickleworms will concentrate in squash planted near cucumbers, and 
-the squash plants can be destroyed. 
-Appropriate cultural practices: 
- Keeping field weed free 
- Changing time of application and quantity of fertilizers. 
- Excessive use of urea can increase pest intensity e.g., yellow stemborer, leaf roller 
-etc. On the other hand application of urea can reduce thrips attack. 
- Proper irrigation management: Flooding field can reduce swarming caterpillar 
-whereas drying field can control caseworm. 
- Proper spacing: Narrow spacing increases brown plant hopper incidence. 
- 
-2. MECHANICAL CONTROL 
- Perching: to aid insect feeding birds 
- Light trapping: can attract moths and other insects 
- Hand picking: picking of stem borer egg mass 
- Plough down stubbles: can control stem borer 
- Sweep netting: can control hispa 
- Leaf clipping: Destroys eggs and grubs of rice hispa 
- Scare birds: can control bird damage 
- 
-3. BIOLOGICAL CONTROL 
- 
-Host Plant Resistance: The property that enables a plant to avoid, tolerate or 
-recover from injury by the insect population that would cause greater damage to 
-other plants of the same species (that doesn’t have the resistant property) under 
-similar environmental condition. 
- 
- Conserving beneficial animals by 
- 
- Cultivating legume crops in levee 
- 
- Placing straw in levee after harvest 
- 
- Giving time to find out shelter by beneficial insects after harvest (not ploughing field 
-immediately after harvest) 
- 
- Perching for insect feeding birds 
- 
- Avoid misuse/overuse of pesticide 
- 
-Assessment of insect injury at economic threshold level: 
-Categories 
-Insect 
-ETL 
-Internal 
-Feeder: 
-Stem borer 
-3 female moths or egg mass/m2 
-10 – 15% dead heart upto maximum tillering stage 
-5% white head after maximum tillering stage 
+Star
+Jan-Feb
+July-Aug
+
+Wetland
+Dry land
+Most popular variety
+Suitable for transplant condition but farmer practice as broadcast rice,
+Bold grain
+Jan-Feb
+July-Aug
+
+Wetland
+Dry land
+Suitable for transplant condition but farmer practice as broadcast rice,
+NuiNui
+Jan-Feb
+July-Aug
+
+Wetland
+Dry land
+Suitable for transplant condition but farmer practice as broadcast rice,
+
+Uttam
+Jan-Feb
+July-Aug
+
+2.5-3 Wetland
+Dry land
+Suitable for transplant condition but farmer practice as broadcast rice,
+China Motka
+Nov-Jan 160
+2.5-3 Wetland
+Dry seed+Pre-germinated seed, Broadcast
+Japani
+Nov-Jan 120
+Wetland
+Dry seed + Pre-germinated seed, Broadcast
+Lal Jari
+Jan-Feb
+July-Aug
+
+2-2.5 Wetland
+ Pre-germinated seed, Broadcast
+Lakrdawe
+Jan-Feb 145
+2.5-3 Wetland
+Pre-germinated seed Broadcast
+Rawele
+Jan-Feb 120
+2.5-3 Wetland
+Pre-germinated seed Broadcast
+10 Ujarka Motka
+Nov-Jan 165
+3-3.5 Wetland
+Dry+Pre-germinated seed, Broadcast, (Bold grain)
+11 Thakur Ram
+Jan-Feb 120
+2-2.5 Wetland
+Pre-germinated seed Broadcast
+12 Kharapani
+Jan-Feb 120
+2.5-3 Wetland
+Dry+Pre-germinated seed, Broadcast
+13 Suba Dhan
+Nov-Jan 145
+Wetland
+Dry+Pre-germinated seed, Broadcast
+14 Pahela Japane Nov-Jan 120
+3-3.5 Wetland
+Dry+Pre-germinated seed, Broadcast
+Sorting/Cleaning of rice seed
+Stored seed sundried for one day and cleaned properly.
+Cleaned and treated seed can prevent seed-borne diseases and ensure healthy seedling and good harvest.
+Seed sorting: can be done in 3 ways
+(1)
+ Winnowing: using a Kula or air current/fan
+(2)
+By hand: if small amount
+(3)
+By soaking in urea solution
+Dissolve 1.5 kg urea in 40 liters of water
+Soak seeds in the urea solution & stir to float unfilled, broken & diseased seeds
+Remove floating poor seeds by hands/sieves
+Wash seeds properly 3-4 times with clean water.
+
+Clean seed will have bright appearance with no spots & lesions.
+
+Seed rate, Soaking and Incubation technique
+Seed Rate:
+A. Broadcasting: About 60-70 kg ha-1 seed is needed
+B. Furrow/ Line Sowing: 40-50 kg ha-1 seed is needed
+C. Dibbling: About 30-40 kg ha-1 seed is needed
+
+Seed Rate in seed bed: Transplanting
+Seed Rate: 80 to 100 g/m2 (Can be transplanted 20 times more area)
+
+A. Transplanting 20-25 kg seed/ha
+Germination Test: Should be done before sowing
+Can easily be done by soaking 24 hours soaked seeds on wet-news paper spreaded on a clay-pot
+After 4/5 days - sprouted seeds are counted to get germination percentage of any seed lot.
+Incubation of rice seed:
+Soak a half-filled seed-sack in clean water for 24 hrs
+Place the sack on top of a wooden platform in a shaded area and cover with rice straw to facilitate incubation
+Turn the seed once after 24 hrs for aeration and reduce the inner-heat of the heap
+Incubate until white "dots" observed
+Incubation time: 48 hrs (varies with whether)
+Normal seeding: Healthy, strong, vigorus
+Abnormal seedling: without root, thin and diseased
+Cleaning of rice seed
+Stored seed sundried for one day and cleaned properly.
+Cleaned and treated seed can prevent seed-borne diseases and ensure healthy seedling and good harvest.
+Seed sorting/Cleaning:
+Stored seed sundried for one day and cleaned & treated properly.
+Cleaned and treated seed can prevent seed-borne diseases and ensure healthy seedling and good harvest.
+Seed sorting: can be done in 3 ways
+(1)
+Winnowing: usining a Kula or air current/fan
+(2)
+By hand: if small amount
+(3)
+By soaking in urea solution a. Dissolve 1.5 kg urea in 40 litters of water b. Soak seeds in the urea solution & stir to float unfilled, broken & diseased seeds
+c. Remove floating poor seeds by hands/sieves d. Wash seeds properly 3-4 times with clean water.
+Clean seed will have bright appearance with no spots & lesions.
+
+Seed sorting: can be done in 3 ways
+(1)
+ Winnowing: using a Kula or air current/fan
+(2)
+By hand: if small amount
+(3)
+By soaking in urea solution
+Dissolve 1.5 kg urea in 40 litters of water
+Soak seeds in the urea solution & stir to float unfilled, broken & diseased seeds
+Remove floating poor seeds by hands/sieves
+Wash seeds properly 3-4 times with clean water.
+Clean seed will have bright appearance with no spots & lesions.
+Seed bed preparation and sowing seeds
+Creating seed bed and sowing seed
+Prepare raised bed 1-1.5 m wide with any convenient length
+Level the bed properly
+
+Keep 50 cm ally between beds for management
+80-100 g seed m-2 is appropriate to get healthy seedling (One acre land can be sown by seedlings from 3-3.5 kg of cleaned, healthy seeds)
+Seeds sown uniformly 5-7 hours after bed preparation.
+
+Maintenance of seed bed
+Medium fertile soil does not require fertilizers
+Unfertile soil needs compost/cow-manure @ 2 kg m-2
+If seedlings are found dull green, apply 7 g urea m-2
+In case of sulfur deficiency add 10 gm gypsum m-2
+Weeding is required for healthy growth of rice seedlings
+Spray recommended insecticides as and when necessary.
+
+Uprooting the seedlings: Irrigate bed before pulling to ensure minimize root damage.
+Land Preparation and transplanting
+Select appropriate land (Seed bed/Main land)
+Free from flood
+Free from shade
+Near to an irrigation channel
+Medium fertile land with clay-loam soil
+Permits frequent and easy inspection
+
+ Irrigate land 7 days before plowing to make soil soft & allow weed/unwanted rice seed germinated
+ Plow land 4/5 times followed by laddering to make well puddled and uniform level
+ Clean stubble after every laddering
+ Good land preparation ensures: Homogenous stand by receiving equal nutrient & water and a strong initial start over weeds
+
+Depth of planting: 2-3 cm
+Spacing: Plant to plant: 20 - 30 cm
+
+Line to line: 15 - 20 cm
+ Plant only one seedling in a hill to ensure genetic purity (Seed plot)
+ Plant 3-4 seedlings for grain production plot
+ Fill the gap within 7 days in case of seedling mortality
+ B. NUTRIENT MANAGEMENT
+B. NUTRIENT MANAGEMENT
+
+Techniques of preserving and increasing of soil fertility:
+Animal Liters as OM
+Soil test based balance fertilizer use
+Appropriate cropping pattern
+Return crop residue to the soil
+Make farmers aware about soil productivity
+
+Fig: Integrated Nutrient Management (INM)
+Fertilization Rice-Field
+ 1/3rd Urea and all other fertilizers should be applied at final land preparation.
+ Rest 2/3rd urea should be applied in two top-dress.
+Recommended Fertilizer (kg/ha):
+Sl#
+Variety
+Urea TSP MoP
+During Final Land preparation
+
+China Motka 174 108 66
+All TSP+MoP+1/3 Urea as
+Basal Dose
+
+Japani
+174 108 66
+
+Lal Jari
+174 108 66
+
+Lakrdawe
+174 108 66
+
+Rawele
+174 108 66
+
+Ujarka Motka 174 108 66
+
+Thakur Ram 174 108 66
+
+Kharapani
+174 108 66
+
+Suba Dhan
+174 108 66
+
+10 Pahela
+Japane
+174 108 66
+
+Fertilizer Computation
+To compute for the equivalent amount of fertilizer materials necessary to supply the corresponding amounts of nutrients the following formula is used.
+
+RR X A
+FM = - X 100
+
+% nutrient of FM
+
+Where,
+FM = Fertilizer materials in kg
+
+RR = Recommended rate in kg nutrient/ha.
+Or
+
+Recommended rate (kg nutrient/ha) X Area (ha)
+Amount of fertilizer = - X 100
+
+% nutrient in commercial fertilizer
+Urea Application using LCC
+N management is critical:
+
+ Highly mobile and unstable in soil system
+ Indigenous soil supply is also variable (even with in a plot varied)
+ Application of N does not synchronize with plant demand
+ Requirements by crops and losses from soil system are also high
+
+Parameters for Urea application using LCC in Rice
+Parameter
+Wet season
+Dry season
+Transplanted
+Direct seeded
+Transplanted
+Direct seeded
+Critical LCC value
+3.5
+3.0
+3.5
+3.0
+Start LCC measurement
+
+Last LCC measurement
+Booting stage
+Booting stage
+Interval of LCC measurement
+10 days
+5 days (if no need to use N)
+10 days
+5 days (if no need to use N)
+Number of hills/field
+
+Number of leaves/hill
+1 (topmost fully expanded)
+1 (topmost fully expanded)
+Time of N application
+Bellow critical value
+(≥ 6 LCC reading out of 10)
+Bellow critical value
+(≥ 6 LCC reading out of 10)
+Amount of Urea
+(kg/h)
+
+67 (170g)
+Put the leaf under the shade of body during measurement
+C. WEED MANAGEMENT
+C. WEED MANAGEMENT
+ Weeds deteriorate seed quality by sharing nutrient & water with rice plant and mixing seed with rice seed.
+ Timing of weed control: keep weed free up to 30-40 DAT in dry season and 40-50
+DAT in winter season.
+Weed impacts following way:
+ Compete with plants for sunlight, moisture & soil nutrients
+ Act as alternate hosts for insects- pests/disease pests.
+ Reduce fertilizer use efficiency
+ Reduce efficiency of irrigation system
+ Reduce quality and quantity of harvest.
+
+Points to considered during weed management
+ Stubble cleaning after every laddering can control weeds.
+ Use of weed free seed
+ Keep levees and irrigation canals free of weeds
+ Keep tools and machinery clean
+ Keep animal manure free of weed seed by proper decomposition
+ Keep non-farm areas clean.
+ Initial plowing buries weeds, allow germinate their seeds and decomposed by later plowings.
+
+ Rotary weeding followed by a hand weeding for weeds closer to the rice hills.
+ Weedicides are very effective in weed control
+ Starting from transplanting to harvesting weed should be removed as and when seen in a seed plot.
+ D. WATER MANAGEMENT IN RICE SEED PRODUCTION
+D. WATER MANAGEMENT IN RICE SEED PRODUCTION
+Water management techniques
+ Water stress from PI-early grain filling stage results under-weight grain
+ Excess water after transplanting reduces tillering ability
+ Too much water during grain filling reduces seed quality
+ Irrigation water should be applied at 2-3 cm depth 3 days after transplanting (also control weed)
+ At tillering stage, alternate wetting and drying techniques can be applied to save water.
+
+Water should be drained out from seed plot 7 days before harvest
+ Harvesting rain water: small pond of 2 m depth can facilitate 2/1 irrigation with stored rain water.
+ Levee management: A 15 cm high levee can hold rain water and help to face occasional drought in main season.
+ E. INTEGRATED PEST MANAGEMENT (IPM)
+E. INTEGRATED PEST MANAGEMENT (IPM)
+
+A pest management system that uses all suitable techniques and methods in as compatible manner as possible and maintains the pest populations at levels below those causing
+economic injury
+IPM: a broad interdisciplinary approach is taken using scientific principles of crop protection to combine into a single cropping system a variety of management strategies and tactics to
+reduce pest populations.
+
+Objective:
+ Conserve beneficial insects and other organisms
+ Judicial use of chemical pesticides
+ Reduce side effects and after effects of pesticide use
+ Not allowing pests to active resistance or tolerance to pests
+ Ensure ecological balance and pollution free environment
+ Reduce production cost.
+
+IPM involve combinations of control techniques to optimize pest according to local conditions. Components of IPM are:
+Cultural
+Mechanical
+Biological
+Chemical
+Social, etc.
+Total dependence upon any single control measure or management tactic will fail at times with devastating losses
+
+1. CULTURAL CONTROLS
+ Crop rotation: BPH prone areas jute can be inserted
+
+ Polyculture: strip cropping, which again creates the habitat diversity favorable to natural control.
+ Trap cropping: pickleworms will concentrate in squash planted near cucumbers, and the squash plants can be destroyed.
+Appropriate cultural practices:
+ Keeping field weed free
+ Changing time of application and quantity of fertilizers.
+ Excessive use of urea can increase pest intensity e.g., yellow stemborer, leaf roller etc. On the other hand application of urea can reduce thrips attack.
+ Proper irrigation management: Flooding field can reduce swarming caterpillar whereas drying field can control caseworm.
+ Proper spacing: Narrow spacing increases brown plant hopper incidence.
+
+2. MECHANICAL CONTROL
+ Perching: to aid insect feeding birds
+ Light trapping: can attract moths and other insects
+ Hand picking: picking of stem borer egg mass
+ Plough down stubbles: can control stem borer
+ Sweep netting: can control hispa
+ Leaf clipping: Destroys eggs and grubs of rice hispa
+ Scare birds: can control bird damage
+
+3. BIOLOGICAL CONTROL
+
+Host Plant Resistance: The property that enables a plant to avoid, tolerate or recover from injury by the insect population that would cause greater damage to
+other plants of the same species (that doesn’t have the resistant property) under similar environmental condition.
+
+ Conserving beneficial animals by
+
+ Cultivating legume crops in levee
+
+ Placing straw in levee after harvest
+
+ Giving time to find out shelter by beneficial insects after harvest (not ploughing field immediately after harvest)
+
+ Perching for insect feeding birds
+
+ Avoid misuse/overuse of pesticide
+
+Assessment of insect injury at economic threshold level:
+Categories
+Insect
+ETL
+Internal
+Feeder:
+Stem borer
+3 female moths or egg mass/m2
+10 – 15% dead heart upto maximum tillering stage
+5% white head after maximum tillering stage
 75 deadhearts in 20 hills or 2 adults or 2 egg-
-masses/m² 
-Gall midge 
-5% Onion Shoot 
-Leaf 
-Feeders 
-Rice hispa 
-4 adults/hill or 35% damaged leaves 
-Whorl maggot 
-25% damaged leaves 
-Leaf roller 
-Caseworm 
-Swarming 
-caterpillar 
-Grasshoppers 
-Long horned 
-cricket 
- 
- 
-Categories 
-Insect 
-ETL 
-Leaf 
-Suckers 
-Green leafhopper 1 hopper/sweep and presence of Tungro virus occurred 
- 
- 
-Stem 
-suckers 
-Brown plant 
-hopper 
-2-4 gravid female or 10 nymph/hill are present in 50% hill. OR 
-1 hopper/tiller 
-Mealy bug 
-more than 5% hills are damaged 
-Grain 
-sucker 
-Rice bug 
-3 bugs or nymph/hill 
-Ear cutter 
-Ear Cutting 
-caterpillar 
-No Insecticides 
- 
-Insect pest management: Leaf Roller 
- 
- Adult moths is light brown 
- Wings having dark brown stripes and spots 
- Larvae are yellow / yellowish green 
- Lay eggs singly on the leaf surface 
- The insect occurs in all rice season 
- 
- 
- 
-Damage Symptoms 
- 
- The larva forms a protective feeding chamber 
-by folding a leaf blade together and glues it 
-with silk strands and feed on leaf tissues. 
- Longitudinal white and transparent streaks on 
-leaf blades are created 
- 
- 
- 
-Management Practices 
- Destruction of moths by light trapping 
- Perching for predatory birds can reduce the population 
- Recommended insecticide should be applied at Economic Threshold Level (ETL) : 
- 
-25% damaged leaves 
- 
-Insect pest management: Gall midge 
- 
- An important pest of main season crop 
- The adult is about the size of a mosquito 
- Females have bright red abdomen 
- males are darker 
- Adults lay eggs singly near the base of the plant 
- 
-Damage Symptoms 
- Larvae feed inside growing point of the plant 
- 
-© IRRI Publication 
-© IRRI Publication 
-© IRRI Publication 
-© IRRI Publication 
- 
- 
- Feeding stimulates leaf sheath to transform into gall 
-known as onion shoot or silver shoot 
- Tillers with gall bear no panicles 
- 
-Management Practices 
- Light Trapping 
- Recommended insecticide should be applied at ETL: 
-5% Onion Shoot 
- 
- 
-Insect pest management: Rice Armyworm 
-• The adult of ECC is medium sized pale brownish color 
-• Full grown larvae have four longitudinal black stripes 
-• Larvae cut rice panicles 
-• Incidence occur in T. Aman season 
- 
-Damage Symptoms 
-• Young larvae eat rice leaves or grasses from the edges 
-• The insect is nocturnal in habit 
-• 5-6th instar larvae require large amount of food and become 
-gregarious. 
-• They cut ripe or half ripen rice panicles 
- 
- 
-Insect pest management: Brown Plant Hopper (BPH) 
-The adult hopper is brown colored 
-It may be long winged (macropterous or short-winged (brachypterous) 
-Both adult & nymph suck sap from the Stem 
-It is a serious pest of Rice 
-Damage Symptom 
-Nymphs are whitish and gradually tuning brown 
-Both adult and nymph crowded at the base of the rice plant and suck sap from stem 
-Direct feeding by a large number of hoppers cause the plants to dry up and is known 
-as hopper burn 
-BPH transmit Grassy Stunt and Ragged stunt virus diseases 
-Control Measures 
-Light trapping 
-Using wider plant spacing 
-Draining out of water 
-Avoidance of top dressing of N fertilizer in endemic areas 
-Cultivation of early maturing varieties 
-Cultivation of BPH resistant variety (BRRI dhan 35) 
-Insecticide should be applied, if 2-4 gravid female or 10 nymph/hill are present in 
-50% hill. 
-Management of Rice Insect Pest 
-Cultural Control 
-Draining out of standing Water 
-Whorl maggot 
-Caseworm, BPH, WBPH 
-Flooding of field 
- 
- 
- 
- 
-Swarming caterpillar, Soil insects 
-Destruction of infested plants 
- 
- 
-Mealy bug 
+masses/m²
+Gall midge
+5% Onion Shoot
+Leaf
+Feeders
+Rice hispa
+4 adults/hill or 35% damaged leaves
+Whorl maggot
+25% damaged leaves
+Leaf roller
+Caseworm
+Swarming caterpillar
+Grasshoppers
+Long horned cricket
 
-Early maturing variety 
- 
- 
- 
-BPH, WBPH 
-Wider plant spacing 
- 
- 
- 
-BPH, WBPH 
-Top dressing of N fertilizer 
- 
- 
- 
-Thrips 
-Resistant variety 
- 
- 
- 
- 
-GLH, BPH, WBPH, Tungro 
-Light trap 
- 
- 
- 
- 
- 
-All insects attracted to light 
-Collection & destruction 
- 
- 
- 
-Stem borer of egg masses 
-By Sweep net 
- 
- 
- 
- 
-Hispa & all other insect 
-Burning of stubbles 
- 
- 
- 
-Stem borer, ECC, Swarming caterpillar 
-Mechanical Control 
-Leaf clipping 
- 
- 
- 
-Rice hispa (75-92% grubs can be 
-removed) 
-Biological Control 
-Perching 
-Placing of branches in the field 
-to provide perching site for 
-predatory bird 
-Chemical Control 
- 
-If necessary 
- 
- 
-INSECT 
-CONTROL MEASURES 
-Brown Plant 
-Hoppers 
-Spray basal portions of plants with – ORTHENE 75% a.i. - 1kg a.i. /ha or 
-20gm formulation/14 liters of water when spraying with knapsack 
-sprayer or 75g/Mistblower. 
-Rice Armyworm 
-Spray DIPTEREX 80% W.P. 1.12kg a.i/ha or 28ml/14 liters of water 
-when using a knapsack sprayer, and use 8ml in a Mist blower. 
-Rice Leaf Roller 
-Spray leaves with SEVIN 80% a.i 1kg a.i/ha or 17gm formulation/14 
-liters of water when using a knapsack sprayer and 50gm formulation/10 
-liters of water when using a mist blower. 
-CARBACIDE 85 (800g/kg Carbaryl WP) at 27 gms per 14 liters of water 
-when using knapsack sprayer and 18 gms/10 liters water when using 
-mist blower. Spray every 2-3 week intervals. 
- F. SEED PRODUCTION (ISOLATION + ROGUING) 
-F. SEED PRODUCTION (ISOLATION + ROGUING) 
-Isolation distance for seed production 
- Isolation distance: keeping seed production plot separate from other nearby varieties 
-to prevent cross- pollination. 
- Isolation distance is essential to maintain varietal purity. 
- Although rice is a self-pollinated crop, cross pollination up to 5% may occur due to 
-wind blow, insects etc. 
- The larger the seed plot the less the danger of out-crossing 
- What is the isolation distance for rice seed production? 
- 
-3 meter 
- The isolation distance is compulsory for seed producers if they wish their multiplied 
-seeds certified by the appropriate authority. 
-Rouging for rice production 
-Removal of off-types plants is the most major aspect of rice seed production. It is essential 
-to eradicate all off-types to stop deterioration of seed quality by cross pollination and mixture. 
-Points to be considered 
-1. Definition and importance of rouging 
-2. Concept, source and identifying characters of off-types 
-3. Time of rouging 
+Categories
+Insect
+ETL
+Leaf
+Suckers
+Green leafhopper 1 hopper/sweep and presence of Tungro virus occurred
 
-Definition and importance of Rouging 
-Rouging means removal of off-types or mixtures. Rouging in seed production plot is extremely 
-important as pollen from off-type plants can cause irreparable damage through cross-pollination. 
-Concept, source and identifying characters of off-types 
-Plants with heterogeneous characters in a seed production plots may be called off-types. 
-Sources of such off-types are 
-volunteer plants from previous crop in seedbed/main field, 
-natural out-crossing, mutation, 
-minor genetic variation, 
-developmental variation, and 
-mechanical mixtures during harvesting, threshing, drying, processing and packing.. 
-Identifying characters of off-types: Off-types can be identified by observing the following 
-characteristics of plants: 
- Plant height: Plants taller and shorter than most of the population in the field. 
- Plants with different color of leaves, sheaths, and straws 
- Presence or absence of awns: if majority of plants are with awns then those without 
-awns are off-types and vice versa. 
- Panicle exertion: Plants with earlier or later panicle emergence are to be considered as 
-off-types (only those with a flowering range 2-3 days should be kept). 
- Angle of flag leaf: If erect flag leaf is dominant then horizontal and droopy leaves are off 
-types. 
- Size, shape, and color of grains: If most of the panicles have long grains then those with 
-medium grains are off-types. If slender grains are dominant, then bold grains are off types 
-etc. 
- Diseased or insect-damaged plant. 
-Time of rouging 
-Rouging should be made continuously over the whole growing season (as and when 
-noticed off-types) with a special emphasis during the period of panicle emergence to early 
-seed development. Usually rouging is done during 
-Vegetative growth, 
- 
- 
-Flowering, 
-Post flowering and 
- 
- 
-Pre-harvest times. 
- G. YIELD COMPONENT, AND YIELD CALCULATION 
-G. YIELD COMPONENT, AND YIELD CALCULATION 
-Yield component 
-Rice production means the total rice harvested from 
- a farm 
- an area 
- a country 
-Rice production can be increased in two ways: 
-1. Increase land area under rice cultivation (Horizontal/Extensive Expansion) 
-Increase rice yield (Vertical/Intensive Expansion) 
- 
- 
-Yield components: 
-Panicle # per unit area (usually per m2) 
-Spikelet # per panicle 
-Wt. of each individual grain (usually wt of 1000 grains calculated) 
-To increase rice yield, we need to increase the above components 
-For this - use of modern technology is necessary 
+Stem suckers
+Brown plant hopper
+2-4 gravid female or 10 nymph/hill are present in 50% hill. OR
+1 hopper/tiller
+Mealy bug more than 5% hills are damaged
+Grain sucker
+Rice bug
+3 bugs or nymph/hill
+Ear cutter
+Ear Cutting caterpillar
+No Insecticides
 
-No. of panicle 
-Rice variety 
-Duration 
-Production process 
-Right time of sowing/transplanting 
-Fertilizer management 
-Water management 
-Weed management 
-Soil nutrient management 
-Insect pest/disease management 
-No. of spikelet 
-Filled grain in each panicle 
-Total filled grains depends on ICM 
-Usually 15% unfilled grain remains with a panicle 
-Spikelet no. determined during booting stage 
-Abnormal weather (Extreme high & low temp) increase unfilled grain no. 
-Weight of rice grains 
-Usually calculated with 1000 grain weight 
-Depends on varietal characteristics 
-Usually variation is minimum within a variety 
-Depends on: 
- Nutrient management 
- Water management 
- Insect-pest/disease management 
- Abnormal weather 
- 
-Calculating rice yield 
- 
- 
- 
- 
- 
- 
- 
- 
-= x kg 
- 
- 
- 
- panicle #/m
- spikelet # per panicale  1000 grain wt (g) 
-Rice yield (m
-) = ------------------------------------------------------------------------ 
+Insect pest management: Leaf Roller
+
+ Adult moths is light brown
+ Wings having dark brown stripes and spots
+ Larvae are yellow / yellowish green
+ Lay eggs singly on the leaf surface
+ The insect occurs in all rice season
+
+Damage Symptoms
+
+ The larva forms a protective feeding chamber by folding a leaf blade together and glues it with silk strands and feed on leaf tissues.
+ Longitudinal white and transparent streaks on leaf blades are created
+
+Management Practices
+ Destruction of moths by light trapping
+ Perching for predatory birds can reduce the population
+ Recommended insecticide should be applied at Economic Threshold Level (ETL):
+
+25% damaged leaves
+
+Insect pest management: Gall midge
+
+ An important pest of main season crop
+ The adult is about the size of a mosquito
+ Females have bright red abdomen males are darker
+ Adults lay eggs singly near the base of the plant
+
+Damage Symptoms
+ Larvae feed inside growing point of the plant
+
+© IRRI Publication
+© IRRI Publication
+© IRRI Publication
+© IRRI Publication
+
+ Feeding stimulates leaf sheath to transform into gall known as onion shoot or silver shoot
+ Tillers with gall bear no panicles
+
+Management Practices
+ Light Trapping
+ Recommended insecticide should be applied at ETL:
+5% Onion Shoot
+
+Insect pest management: Rice Armyworm
+• The adult of ECC is medium sized pale brownish color
+• Full grown larvae have four longitudinal black stripes
+• Larvae cut rice panicles
+• Incidence occur in T. Aman season
+
+Damage Symptoms
+• Young larvae eat rice leaves or grasses from the edges
+• The insect is nocturnal in habit
+• 5-6th instar larvae require large amount of food and become
+gregarious.
+• They cut ripe or half ripen rice panicles
+
+Insect pest management: Brown Plant Hopper (BPH)
+The adult hopper is brown colored
+It may be long winged (macropterous or short-winged (brachypterous)
+Both adult & nymph suck sap from the Stem
+It is a serious pest of Rice
+Damage Symptom
+Nymphs are whitish and gradually tuning brown
+Both adult and nymph crowded at the base of the rice plant and suck sap from stem
+Direct feeding by a large number of hoppers cause the plants to dry up and is known as hopper burn
+BPH transmit Grassy Stunt and Ragged stunt virus diseases
+Control Measures
+Light trapping
+Using wider plant spacing
+Draining out of water
+Avoidance of top dressing of N fertilizer in endemic areas
+Cultivation of early maturing varieties
+Cultivation of BPH resistant variety (BRRI dhan 35)
+Insecticide should be applied, if 2-4 gravid female or 10 nymph/hill are present in
+50% hill.
+Management of Rice Insect Pest
+Cultural Control
+Draining out of standing Water
+Whorl maggot
+Caseworm, BPH, WBPH
+Flooding of field
+
+Swarming caterpillar, Soil insects
+Destruction of infested plants
+
+Mealy bug
+
+Early maturing variety
+
+BPH, WBPH
+Wider plant spacing
+
+BPH, WBPH
+Top dressing of N fertilizer
+
+Thrips
+Resistant variety
+
+GLH, BPH, WBPH, Tungro
+Light trap
+
+All insects attracted to light
+Collection & destruction
+
+Stem borer of egg masses
+By Sweep net
+
+Hispa & all other insect
+Burning of stubbles
+
+Stem borer, ECC, Swarming caterpillar
+Mechanical Control
+Leaf clipping
+
+Rice hispa (75-92% grubs can be removed)
+Biological Control
+Perching
+Placing of branches in the field to provide perching site for predatory bird
+Chemical Control
+
+If necessary
+
+INSECT
+CONTROL MEASURES
+Brown Plant
+Hoppers
+Spray basal portions of plants with – ORTHENE 75% a.i. - 1kg a.i. /ha or
+20gm formulation/14 liters of water when spraying with knapsack sprayer or 75g/Mistblower.
+Rice Armyworm
+Spray DIPTEREX 80% W. P. 1.12kg a.i/ha or 28ml/14 liters of water when using a knapsack sprayer, and use 8ml in a Mist blower.
+Rice Leaf Roller
+Spray leaves with SEVIN 80% a.i 1kg a.i/ha or 17gm formulation/14 liters of water when using a knapsack sprayer and 50gm formulation/10
+liters of water when using a mist blower.
+CARBACIDE 85 (800g/kg Carbaryl WP) at 27 gms per 14 liters of water when using knapsack sprayer and 18 gms/10 liters water when using
+mist blower. Spray every 2-3 week intervals.
+ F. SEED PRODUCTION (ISOLATION + ROGUING)
+F. SEED PRODUCTION (ISOLATION + ROGUING)
+Isolation distance for seed production
+ Isolation distance: keeping seed production plot separate from other nearby varieties to prevent cross- pollination.
+ Isolation distance is essential to maintain varietal purity.
+ Although rice is a self-pollinated crop, cross pollination up to 5% may occur due to wind blow, insects etc.
+ The larger the seed plot the less the danger of out-crossing
+ What is the isolation distance for rice seed production?
+
+3 meter
+ The isolation distance is compulsory for seed producers if they wish their multiplied seeds certified by the appropriate authority.
+Rouging for rice production
+Removal of off-types plants is the most major aspect of rice seed production. It is essential to eradicate all off-types to stop deterioration of seed quality by cross pollination and mixture.
+Points to be considered
+1. Definition and importance of rouging
+2. Concept, source and identifying characters of off-types
+3. Time of rouging
+
+Definition and importance of Rouging
+Rouging means removal of off-types or mixtures. Rouging in seed production plot is extremely important as pollen from off-type plants can cause irreparable damage through cross-pollination.
+Concept, source and identifying characters of off-types
+Plants with heterogeneous characters in a seed production plots may be called off-types.
+Sources of such off-types are volunteer plants from previous crop in seedbed/main field, natural out-crossing, mutation, minor genetic variation,
+developmental variation, and mechanical mixtures during harvesting, threshing, drying, processing and packing.
+Identifying characters of off-types: Off-types can be identified by observing the following characteristics of plants:
+ Plant height: Plants taller and shorter than most of the population in the field.
+ Plants with different color of leaves, sheaths, and straws
+ Presence or absence of awns: if majority of plants are with awns then those without awns are off-types and vice versa.
+ Panicle exertion: Plants with earlier or later panicle emergence are to be considered as off-types (only those with a flowering range 2-3 days should be kept).
+ Angle of flag leaf: If erect flag leaf is dominant then horizontal and droopy leaves are off types.
+ Size, shape, and color of grains: If most of the panicles have long grains then those with medium grains are off-types. If slender grains are dominant, then bold grains are off types
+etc.
+ Diseased or insect-damaged plant.
+Time of rouging
+Rouging should be made continuously over the whole growing season (as and when noticed off-types) with a special emphasis during the period of panicle emergence to early
+seed development. Usually rouging is done during
+Vegetative growth,
+
+Flowering,
+Post flowering and
+
+Pre-harvest times.
+ G. YIELD COMPONENT, AND YIELD CALCULATION
+G. YIELD COMPONENT, AND YIELD CALCULATION
+Yield component
+Rice production means the total rice harvested from a farm an area a country
+Rice production can be increased in two ways:
+1. Increase land area under rice cultivation (Horizontal/Extensive Expansion)
+Increase rice yield (Vertical/Intensive Expansion)
+
+Yield components:
+Panicle # per unit area (usually per m2)
+Spikelet # per panicle
+Wt. of each individual grain (usually wt of 1000 grains calculated)
+To increase rice yield, we need to increase the above components
+For this - use of modern technology is necessary
+
+No. of panicle
+Rice variety
+Duration
+Production process
+Right time of sowing/transplanting
+Fertilizer management
+Water management
+Weed management
+Soil nutrient management
+Insect pest/disease management
+No. of spikelet
+Filled grain in each panicle
+Total filled grains depends on ICM
+Usually 15% unfilled grain remains with a panicle
+Spikelet no. determined during booting stage
+Abnormal weather (Extreme high & low temp) increase unfilled grain no.
+Weight of rice grains
+Usually calculated with 1000 grain weight
+Depends on varietal characteristics
+Usually variation is minimum within a variety
+Depends on:
+ Nutrient management
+ Water management
+ Insect-pest/disease management
+ Abnormal weather
+
+Calculating rice yield
+
+= x kg
 
  panicle #/m
- spikelet # per panicale  1000 grain wt (kg) 
+ spikelet # per panicale  1000 grain wt (g)
 Rice yield (m
-)= ------------------------------------------------------------------------ 
- 
- 
- 
- 
- 
- 1000 x 1000 
- x  10,000 
-Rice yield = -------------------------t/ha = x  10 t/ha 
- (wet grain) 
+) = -
 
- H. HARVESTING, THRESHING, CLEANING, DRYING & STORING 
-H. HARVESTING, THRESHING, CLEANING, DRYING & STORING 
- 
-Harvesting, threshing, cleaning and drying of rice seed 
- Harvesting can be done when 80-90% grains found mature 
- Small quantity seed may be threshed by leg on a canvas 
- Big lot can be threshed using thresher machine with slow-run 
- Seed should be dried under 5-6 low-intensive sunlight avoiding noon temperature 
- Moisture content of seed must be maintained at or below 12% 
- Half dried seed should be cleaned using kula or seed cleaner 
- Final dried seeds again cleaned properly using Kula/cleaner 
- Healthy seeds can be separated using sieve or grader machine. 
- 
-Storing rice seed 
- All storing materials should be kept on wooden slab 
- Keep the seed of different varieties separately. 
- Cleaned and sun-dried drum, poly-bag, earthen pot can be used. 
- Earthen pots should be colored to make it air tight 
- After seed filling, extra space of pot should be filled with sand/ash. 
- An air-tight cover should be used for stored pot. 
- 
- 
- I. COST BENEFIT ANALYSIS OF RICE CROP IN FIJI 
-I. COST BENEFIT ANALYSIS OF RICE CROP IN FIJI 
- 
-Classification of Costs: 
-There are two major categories of costs; namely fixed cost, and variable cost. The other costs, which 
-we derive for better understanding our analysis, are cash cost, kind cost, total cost, marginal cost and 
-opportunity cost etc. 
- 
-Total Cost (TC): The total cost is the sum of fixed and variable costs. Symbolically the total cost can 
-be written as: 
- 
- 
-TC = FC + VC ------------------------------------- (1) 
-Where, 
- 
- 
-TC = Total Cost 
- 
-FC = Fixed Cost 
- 
- 
-VC = Variable Cost 
- 
-Fixed Cost (FC): The cost, which is incurred even if no output is produced, is referred to as fixed cost. 
-The fixed cost is also known as sunk cost. 
- 
-Variable Cost (VC): The variable cost is the cost that can vary with the change in output. Labor, fertilizer 
-and insecticides etc. are the variable cost items. 
- 
-Marginal Cost (MC): Marginal cost is the change in TC resulting from a unit increase in output. 
- 
- Change in TC 
-MC = ------------------------------ -------------------------- (2) 
+ panicle #/m
+ spikelet # per panicale  1000 grain wt (kg)
+Rice yield (m
+)= -
+
+ 1000 x 1000
+ x  10,000
+Rice yield = -t/ha = x  10 t/ha
+ (wet grain)
+
+ H. HARVESTING, THRESHING, CLEANING, DRYING & STORING
+H. HARVESTING, THRESHING, CLEANING, DRYING & STORING
+
+Harvesting, threshing, cleaning and drying of rice seed
+ Harvesting can be done when 80-90% grains found mature
+ Small quantity seed may be threshed by leg on a canvas
+ Big lot can be threshed using thresher machine with slow-run
+ Seed should be dried under 5-6 low-intensive sunlight avoiding noon temperature
+ Moisture content of seed must be maintained at or below 12%
+ Half dried seed should be cleaned using kula or seed cleaner
+ Final dried seeds again cleaned properly using Kula/cleaner
+ Healthy seeds can be separated using sieve or grader machine.
+
+Storing rice seed
+ All storing materials should be kept on wooden slab
+ Keep the seed of different varieties separately.
+ Cleaned and sun-dried drum, poly-bag, earthen pot can be used.
+ Earthen pots should be colored to make it air tight
+ After seed filling, extra space of pot should be filled with sand/ash.
+ An air-tight cover should be used for stored pot.
+
+ I. COST BENEFIT ANALYSIS OF RICE CROP IN FIJI
+I. COST BENEFIT ANALYSIS OF RICE CROP IN FIJI
+
+Classification of Costs:
+There are two major categories of costs; namely fixed cost, and variable cost. The other costs, which we derive for better understanding our analysis, are cash cost, kind cost, total cost, marginal cost and
+opportunity cost etc.
+
+Total Cost (TC): The total cost is the sum of fixed and variable costs. Symbolically the total cost can be written as:
+
+TC = FC + VC - (1)
+Where,
+
+TC = Total Cost
+
+FC = Fixed Cost
+
+VC = Variable Cost
+
+Fixed Cost (FC): The cost, which is incurred even if no output is produced, is referred to as fixed cost.
+The fixed cost is also known as sunk cost.
+
+Variable Cost (VC): The variable cost is the cost that can vary with the change in output. Labor, fertilizer and insecticides etc. are the variable cost items.
+
+Marginal Cost (MC): Marginal cost is the change in TC resulting from a unit increase in output.
+
+ Change in TC
+MC = - - (2)
  Change in output
- 100 – moisture content of wet grain 
-Wt of dry yield = -----------------------------------  yield of wet grain 
- (at 14% Moisture) 
-100 - Moisture of dry grain 
+ 100 – moisture content of wet grain
+Wt of dry yield = -  yield of wet grain
+ (at 14% Moisture)
+100 - Moisture of dry grain
 
-Opportunity Cost (OC): The opportunity cost is the cost that sacrifices for other. The 
-opportunity cost of family labor is the cost that can earn by selling out the labor to other’s 
-farm/non-farm activities. 
-Benefit Cost Ratio (BCR): It is the ratio between gross return (GR) and total cost (TC). A 
-farmer can invest money as long as the BCR is equal to 1. 
- 
- 
- GR 
- 
-BCR = ---------------- 
- 
----------------------------------- (3) 
- 
- 
- TC 
-Empirical Results of Costs and Returns Analysis for Rice Production 
-Table: Per acre costs and return of Rice cultivation in Fiji 
- 
-Items 
-Main season DSR 
-TPR in Main season 
-Off season DSR 
-Cost of seedbed preparation 
- 
- 
- 
-Production cost (Tk/acre) 
- 
- 
- 
-Human labor 
- 
- 
- 
- Family labour 
- 
- 
- 
- Hired labour 
- 
- 
- 
-Land preparation (Animal/Power 
-tiller) 
- 
- 
- 
-Fertilizer: 
- 
- 
- 
- Urea 
- 
- 
- 
- TSP 
- 
- 
- 
- MP 
- 
- 
- 
-Manure 
- 
- 
- 
-Pesticide/insecticide 
- 
- 
- 
-Seed 
- 
- 
- 
-Irrigation cost 
- 
- 
- 
-Land rent 
- 
- 
- 
-Interest on operating capital 
- 
- 
- 
-Total costs of production (Tk/acre) 
- 
- 
- 
-Rice yield (Kg/acre) 
- 
- 
- 
-Gross Return (Tk/acre) 
- 
- 
- 
- Grain 
- 
- 
- 
- Straw 
- 
- 
- 
-Net cost of production (Tk/acre) 
- 
- 
- 
-Net return (Tk/acre) 
- 
- 
- 
-Gross margin (Tk/acre) 
- 
- 
- 
-Per unit cost of production (Tk/kg) 
- 
- 
- 
-BCR 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-I7132EN/1/04.17
+Opportunity Cost (OC): The opportunity cost is the cost that sacrifices for other. The opportunity cost of family labor is the cost that can earn by selling out the labor to other’s
+farm/non-farm activities.
+Benefit Cost Ratio (BCR): It is the ratio between gross return (GR) and total cost (TC). A farmer can invest money as long as the BCR is equal to 1.
+
+ GR
+
+BCR = -
+
+- (3)
+
+ TC
+Empirical Results of Costs and Returns Analysis for Rice Production
+Table: Per acre costs and return of Rice cultivation in Fiji
+
+Items
+Main season DSR
+TPR in Main season
+Off season DSR
+Cost of seedbed preparation
+
+Production cost (Tk/acre)
+
+Human labor
+
+ Family labour
+
+ Hired labour
+
+Land preparation (Animal/Power tiller)
+
+Fertilizer:
+
+ Urea
+
+ TSP
+
+ MP
+
+Manure
+
+Pesticide/insecticide
+
+Seed
+
+Irrigation cost
+
+Land rent
+
+Interest on operating capital
+
+Total costs of production (Tk/acre)
+
+Rice yield (Kg/acre)
+
+Gross Return (Tk/acre)
+
+ Grain
+
+ Straw
+
+Net cost of production (Tk/acre)
+
+Net return (Tk/acre)
+
+Gross margin (Tk/acre)
+
+Per unit cost of production (Tk/kg)
+
+BCR

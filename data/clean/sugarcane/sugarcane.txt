@@ -1,13 +1,13 @@
 Corporate Social Responsibility:
 Studying the Sugar Production
 Process in Pakistan
+
 Published by
 Prakruthi
 43, 2nd Cross, Ramaya Layout
 St. Thomas Town Post
 Kammanahalli
-Bangalore 560 084, India
-www.prakruthi.org
+Bangalore 560 084, India www.prakruthi.org
 Supported by
 The Netherlands
 Oxfam Novib
@@ -17,6 +17,7 @@ Printed at National Printing Press, Bangalore
 ISBN: 978-81-908155-9-8
 Author: Anam Anwar Khan, SDPI, Pakistan
 Research Co-ordinator: Qasim Ali Shah, SDPI, Pakistan
+
 Contents
 Executive Summary
 Introduction
@@ -138,8 +139,7 @@ List of Figures and Tables
 Figure 1: Value Chain Linkages in the Sugar Industry
 
 Figure 2: Pictures taken of Raw Sugar at Khazana Sugar Mill, Peshawar
-Figure 3: Huge Stocks of Sugar Bags at Mills Waiting to be Dispatched
- at Higher Prices
+Figure 3: Huge Stocks of Sugar Bags at Mills Waiting to be Dispatched at Higher Prices
 
 Figure 4: Industrial Alcohol Produced at Sugar Mills
 
@@ -178,75 +178,50 @@ TCP
 Trading Corporation of Pakistan
 USC
 Utility Stores Corporation
-Executive Summary
-Corporate Social Responsibility is a concept newly emerging globally. The idea is
-rapidly spreading over the corporate sector; many firms have instated Corporate
-Social Responsibility (CSR) strategies in their long-term plans. These strategies
-are not just social welfare schemes but in fact well-thought and methodically
-developed policies. Moreover, to promote and ensure the occurrence of CSR
-practices governments have imposed purposely designed policies.
-However, in the case of Pakistan there seems to be gap in the policies levied by the
-government as well as in the goal orientation of the private sector. This study
-aims to understand the existing dynamics of CSR in Pakistan as well as the barriers
-to its implementation. The focus is primarily on the sugar sector; one of the most
-significant segments of the economy.
-This sector is important on many levels; sugar is an important cash crop
-contributing much to the treasury of the country, the production process involves
-small farmers, medium farmers as well as huge corporate firms and being a
-staple good it is demanded and consumed by the entire population.
-Applying the value-chain analysis the situation persisting in the sugar division
-regarding corporate governance was researched and scrutinized carefully. The
-evaluation took into consideration all aspects and produced this report with
-respect to the views of all stakeholders. It was found that the farming community
-was suffering largely due to exploitative practices by some sugar mills. These
-exploitative actions included: low and fixed rates for the crop, illegal deductions,
-restriction to the market and unjust buying terms and conditions. The situation
-worsens leading to violence.
 
-It was found the conceptualization of CSR requires major changes not only in the
-policies and strategies of the government and companies but also major renovation
-was required in the mindsets of the policymakers, managers of the private sector
-as well as the consumers of the product. Activism lacks not only in the private
-sector but on all levels. The consumers, policymakers and the managers need to
-be educated on the term CSR and its derivations as well as its divisions;
-furthermore its application in the sugar arena of Pakistan needs to be discussed
-through open debates.
-The civil society should form associations and platforms where important but
-weak stakeholders such as the farmers can voice their opinions and complaints.
-The government should also take the idea more seriously as it will help not only
-the nation socially but also economically. It was recommended that policies should
-be designed and enacted to ensure that social responsibility is not just a charitable
-act but is legally supported and secured by the government.
+Executive Summary
+Corporate Social Responsibility is a concept newly emerging globally. The idea is rapidly spreading over the corporate sector; many firms have instated Corporate
+Social Responsibility (CSR) strategies in their long-term plans. These strategies are not just social welfare schemes but in fact well-thought and methodically
+developed policies. Moreover, to promote and ensure the occurrence of CSR practices governments have imposed purposely designed policies.
+However, in the case of Pakistan there seems to be gap in the policies levied by the government as well as in the goal orientation of the private sector. This study
+aims to understand the existing dynamics of CSR in Pakistan as well as the barriers to its implementation. The focus is primarily on the sugar sector; one of the most
+significant segments of the economy.
+This sector is important on many levels; sugar is an important cash crop contributing much to the treasury of the country, the production process involves
+small farmers, medium farmers as well as huge corporate firms and being a staple good it is demanded and consumed by the entire population.
+Applying the value-chain analysis the situation persisting in the sugar division regarding corporate governance was researched and scrutinized carefully. The
+evaluation took into consideration all aspects and produced this report with respect to the views of all stakeholders. It was found that the farming community
+was suffering largely due to exploitative practices by some sugar mills. These exploitative actions included: low and fixed rates for the crop, illegal deductions,
+restriction to the market and unjust buying terms and conditions. The situation worsens leading to violence.
+
+It was found the conceptualization of CSR requires major changes not only in the policies and strategies of the government and companies but also major renovation
+was required in the mindsets of the policymakers, managers of the private sector as well as the consumers of the product. Activism lacks not only in the private
+sector but on all levels. The consumers, policymakers and the managers need to be educated on the term CSR and its derivations as well as its divisions;
+furthermore its application in the sugar arena of Pakistan needs to be discussed through open debates.
+The civil society should form associations and platforms where important but weak stakeholders such as the farmers can voice their opinions and complaints.
+The government should also take the idea more seriously as it will help not only the nation socially but also economically. It was recommended that policies should
+be designed and enacted to ensure that social responsibility is not just a charitable act but is legally supported and secured by the government.
+
 Economic Survey of Pakistan 2008-09
 One-man Commission Report, Competition Commission of Pakistan. 2009 (REPORT OF THE COMMISSION APPOINTED
 PETITIONS, TO DETERMINE THE COST OF PRODUCTION AND PROFIT MARGINS IN THE SUGAR SECTOR)
 Sugar Industry in Pakistan (M. Aslam Memon, 2002)
 Introduction
-The purpose of this study is to understand the status of CSR practices in the
-sugar industry of Pakistan with the use of the value chain analysis. The sample
-was selected because sugar industry is an agro based industry and forms major
-part of economy. This industry’s area of work is also spread across villages and to
+The purpose of this study is to understand the status of CSR practices in the sugar industry of Pakistan with the use of the value chain analysis. The sample
+was selected because sugar industry is an agro based industry and forms major part of economy. This industry’s area of work is also spread across villages and to
 the cities where its consumers live.
-Pakistan’s economy is largely an agriculture based economy. Agriculture provides
-livelihood to almost 44.7 percent of the total employed labor force in the country
-and the present contribution to GDP stands at 21.8 percent.1 In Pakistan major
-crops such as wheat, rice, cotton and sugarcane account for 82% of the value
-added in the major crops. These major crops on average contribute 33.1% to the
-value added in overall agriculture and 7.1% to GDP2 in which sugarcane by itself
-contributes 3.4 percent and 0.7 percent, respectively.3 Being the second largest
-industry in Pakistan with 82 mills the sugar industry is an important segment of
+Pakistan’s economy is largely an agriculture based economy. Agriculture provides livelihood to almost 44.7 percent of the total employed labor force in the country
+and the present contribution to GDP stands at 21.8 percent.1 In Pakistan major crops such as wheat, rice, cotton and sugarcane account for 82% of the value
+added in the major crops. These major crops on average contribute 33.1% to the value added in overall agriculture and 7.1% to GDP2 in which sugarcane by itself
+contributes 3.4 percent and 0.7 percent, respectively.3 Being the second largest industry in Pakistan with 82 mills the sugar industry is an important segment of
 the corporate arena of the country. The sugar industry employs over 75000 people;
-it approximately holds, directly and indirectly, 1.5 million of the total employment
-of the country. Along with other levies to the Government, the industry
-supplements around Rs. 4 million under the head of excise duty.4 Table 1 and 2
-below represent the area under the important crops of Pakistan and their
+it approximately holds, directly and indirectly, 1.5 million of the total employment of the country. Along with other levies to the Government, the industry
+supplements around Rs. 4 million under the head of excise duty.4 Table 1 and 2 below represent the area under the important crops of Pakistan and their
 production figures.
 
 Table 1: Area under Important Crops5
 Table 2 Production of important crops6
 
-Agriculture in our country has a deep impact on socio-economic setup. The sugar
-sector covers all social segments the linkages beginning from the grower of raw
+Agriculture in our country has a deep impact on socio-economic setup. The sugar sector covers all social segments the linkages beginning from the grower of raw
 materials passing from the downstream industry it lands on the table of a layman
 Table 2: Production of Important Crops6
 
@@ -254,196 +229,122 @@ Gain Report – Sugar Annual 2010
 
 All about Sugarcane (Nadeem Abbas Raja, Pakissan.com)
 10 One-man Commission Report, Competition Commission of Pakistan. 2009 (REPORT OF THE COMMISSION APPOINTED
-as well as on an elite’s. The sugar production process creates a large market for
-industrial products such as fertilizer, pesticides, tractors and agricultural
-implements. Sugar is mainly produced from sugarcane; sugarcane may also be
-treated to be used as alcohol, ethanol and chipboard.7 Sugarcane leaves may be
+as well as on an elite’s. The sugar production process creates a large market for industrial products such as fertilizer, pesticides, tractors and agricultural
+implements. Sugar is mainly produced from sugarcane; sugarcane may also be treated to be used as alcohol, ethanol and chipboard.7 Sugarcane leaves may be
 used as substrate for the artificial cultivation of edible mushrooms.
 Table 3: Crop wise Composition of Value of Major Agriculture Crops8
-Sugarcane is an important cash crop. Pakistan is the 5th largest country in the
-world in terms of area under sugarcane cultivation but sadly it is 15th in terms of
-production and yet worse Pakistan lies on the 60th rank in terms of yield. Sugarcane
-is used for the production white sugar, ‘gur’, ‘shakkar’ and khandsari sugar. The
-mills of Pakistan hold the capacity to produce 6.1 million tons annually operating
-at the average 150 days.9 Sugar cane is a vital input for not only the sugar industry
-but also the chipboard, and paper industries. In 2008-09, sugarcane was produced
-on 1029 thousand hectares which calculates 17.1 percent lower than the year
-before. Sugar mills are distributed in broadly three provinces of the country: 44
-in the province of Punjab, 32 in Sindh, and 6 in Khyber Pakhtunkhwa (KPK).10
+Sugarcane is an important cash crop. Pakistan is the 5th largest country in the world in terms of area under sugarcane cultivation but sadly it is 15th in terms of
+production and yet worse Pakistan lies on the 60th rank in terms of yield. Sugarcane is used for the production white sugar, ‘gur’, ‘shakkar’ and khandsari sugar. The
+mills of Pakistan hold the capacity to produce 6.1 million tons annually operating at the average 150 days.9 Sugar cane is a vital input for not only the sugar industry
+but also the chipboard, and paper industries. In 2008-09, sugarcane was produced on 1029 thousand hectares which calculates 17.1 percent lower than the year
+before. Sugar mills are distributed in broadly three provinces of the country: 44 in the province of Punjab, 32 in Sindh, and 6 in Khyber Pakhtunkhwa (KPK).10
 
 I. CSR
 According to core economics every business works for maximization of profit.
-But it is also noted that every person, business and entity is responsible for its
-impact on the people linked to it both directly and indirectly and the space it
-evolves in. The social network of a corporation is not limited to but may include
-company’s stakeholders, employees, and customers, investors, suppliers,
-business partner, government and community. A business holds both tangible
-profits and intangible assets; the intangible holdings include its reputation,
-goodwill, responsibility etc. A corporation is judged on both the tangible and the
-intangible. CSR practices focus upon the businesses to work towards public
+But it is also noted that every person, business and entity is responsible for its impact on the people linked to it both directly and indirectly and the space it
+evolves in. The social network of a corporation is not limited to but may include company’s stakeholders, employees, and customers, investors, suppliers,
+business partner, government and community. A business holds both tangible profits and intangible assets; the intangible holdings include its reputation,
+goodwill, responsibility etc. A corporation is judged on both the tangible and the intangible. CSR practices focus upon the businesses to work towards public
 interest by development and growth of the community.
-The concept of CSR is still not fully contextualized in Pakistan however on some
-levels work has begun at least. A number of multinational companies are seen to
-be bringing in CSR practices along with other innovative technologies from the
-developed countries into the developing countries. In Pakistan the concept being
-comparatively fresh is not understood correctly; the approach is mystified with
-philanthropy.
-It is clear that adoption of CSR strategies requires changes on all grounds of the
-organization; from the mechanical procedures to the culture and values. Even in
-fields where there is awareness of the CSR concept the companies choose to insert
-simple philanthropy instead of producing intricate CSR models and strategies. It
+The concept of CSR is still not fully contextualized in Pakistan however on some levels work has begun at least. A number of multinational companies are seen to
+be bringing in CSR practices along with other innovative technologies from the developed countries into the developing countries. In Pakistan the concept being
+comparatively fresh is not understood correctly; the approach is mystified with philanthropy.
+It is clear that adoption of CSR strategies requires changes on all grounds of the organization; from the mechanical procedures to the culture and values. Even in
+fields where there is awareness of the CSR concept the companies choose to insert simple philanthropy instead of producing intricate CSR models and strategies. It
 must also be taken into account that in Pakistan there persist no laws or
 Concept of Corporate Social
 Responsibility (CSR)
 
-obligations ensuring corporate responsibility or sustainability hence the CSR
-adopted is purely voluntary by the businesses.
-The CSR umbrella holds issues in mainly four categories: environment, social,
-economic and corporate governance. CSR can be imposed on a voluntary basis
-by the individual company for its quality requirements, for shareholder
-satisfaction or for consumer contentment. In some cases importing or exporting
+obligations ensuring corporate responsibility or sustainability hence the CSR adopted is purely voluntary by the businesses.
+The CSR umbrella holds issues in mainly four categories: environment, social, economic and corporate governance. CSR can be imposed on a voluntary basis
+by the individual company for its quality requirements, for shareholder satisfaction or for consumer contentment. In some cases importing or exporting
 countries have codes and standards related to corporate responsibility in others
 NGOs are the driving force behind CSR discussions and awareness strategies.
-Also some industries have codes of conduct for instance the EUREPGAP, moreover
-global standards and codes have been developed to ensure CSR practices are
+Also some industries have codes of conduct for instance the EUREPGAP, moreover global standards and codes have been developed to ensure CSR practices are
 being implemented; these include the ISO 14000, SA 8000 or the Global Reporting
 Initiative guidelines for sustainability.
-Corporate Governance may be explained as the framework of rules and practices
-by which a company ensures accountability, fairness and transparency in a
+Corporate Governance may be explained as the framework of rules and practices by which a company ensures accountability, fairness and transparency in a
 company’s relationship with all its stakeholders. Some managers affirmed that
-“we have corporate governance model and all aspects of this model are properly defined according
-to the rules and regulation of the industry”, however, the definition of corporate
+“we have corporate governance model and all aspects of this model are properly defined according to the rules and regulation of the industry”, however, the definition of corporate
 governance was found distorted in the investigations for this study.
 II. CSR in the Region
 A manager of a well-know sugar mill criticized boldly that “while the discourse on
-CSR receives heated panels in most countries Pakistan’s corporate sector is far from contributing
-to the debate”.
-CSR is a new specie in the corporate world all over. The concept and its
-implementation are still in an evolutionary phase. Businesses and corporations
-are turning to CSR not just out of ethical and social goodness but they are
-attempting to achieve sustained growth of their operations by pleasing the hearts
+CSR receives heated panels in most countries Pakistan’s corporate sector is far from contributing to the debate”.
+CSR is a new specie in the corporate world all over. The concept and its implementation are still in an evolutionary phase. Businesses and corporations
+are turning to CSR not just out of ethical and social goodness but they are attempting to achieve sustained growth of their operations by pleasing the hearts
 of the consumers. CSR has become an important part of the business strategy.
-With rising global competition, it seems vital for businesses to identify unique
-and different ways of ensuring sustaining long term growth. Hence, companies
-today strive to long beyond short term profits in order to assure long term
-sustainable growth.
-It must be understood that CSR not only benefits the society at large but in fact
-directly provides gains to the companies as well. Many developed nations are
+With rising global competition, it seems vital for businesses to identify unique and different ways of ensuring sustaining long term growth. Hence, companies
+today strive to long beyond short term profits in order to assure long term sustainable growth.
+It must be understood that CSR not only benefits the society at large but in fact directly provides gains to the companies as well. Many developed nations are
 
-benefiting from the injections of CSR strategies into their corporate arena. These
-strategies may include community care, development programs, supporting and
-funding education and/or research, investigative journalism and environmental
-protection actions.
-CSR initiatives also advantaged the developed world by bringing communities
-together. The concept of collective development has been encouraged and used in
-many CSR programs to strengthen people’s commitment to development of their
-country. Some leading businesses of developed nations have established
-development foundations which work to alleviate and eradicate poverty in the
-developing regions of the world.
-Even though it is evident that CSR practices cannot be enforced but governments
-are working to facilitate the debate and encourage and support initiatives willing
+benefiting from the injections of CSR strategies into their corporate arena. These strategies may include community care, development programs, supporting and
+funding education and/or research, investigative journalism and environmental protection actions.
+CSR initiatives also advantaged the developed world by bringing communities together. The concept of collective development has been encouraged and used in
+many CSR programs to strengthen people’s commitment to development of their country. Some leading businesses of developed nations have established
+development foundations which work to alleviate and eradicate poverty in the developing regions of the world.
+Even though it is evident that CSR practices cannot be enforced but governments are working to facilitate the debate and encourage and support initiatives willing
 to participate in community development programs.
-CSR in South Asia majorly related to ethical and philanthropic CSR instead of
-strategic CSR. Strategic CSR centered on brand-associated corporate philanthropy
-has progressed more rapidly. In South Asia the most common barrier to entrance
-of CSR practices appears to be the mindset of corporations. A narrow-minded
-vision targeting short-term profits only seems to be engraved in the region, this
-may be owe to the lack of awareness and knowledge accompanied by suppressed
-advice. The businesses in the area believe that CSR is a burden; even large
-corporations seem to fear discussion on the subject. It is not only seen as a financial
-burden as many businesses prefer to donate and engage in philanthropic work
-but hesitate to research and plan a CSR program for social or/and community
+CSR in South Asia majorly related to ethical and philanthropic CSR instead of strategic CSR. Strategic CSR centered on brand-associated corporate philanthropy
+has progressed more rapidly. In South Asia the most common barrier to entrance of CSR practices appears to be the mindset of corporations. A narrow-minded
+vision targeting short-term profits only seems to be engraved in the region, this may be owe to the lack of awareness and knowledge accompanied by suppressed
+advice. The businesses in the area believe that CSR is a burden; even large corporations seem to fear discussion on the subject. It is not only seen as a financial
+burden as many businesses prefer to donate and engage in philanthropic work but hesitate to research and plan a CSR program for social or/and community
 development.
-Hence, the progress on adoption of responsible corporate policies is slow,
-unorganized and largely interrupted. The CSR principles accepted hold more
-philanthropic characteristics. Businesses are presently participating in projects
-to support education, healthcare facilities, sanitation and development of rural
-areas. Still no or minimal initiatives are taken to educate and train communities,
-to research and begin projects aimed at creating awareness and changing
+Hence, the progress on adoption of responsible corporate policies is slow, unorganized and largely interrupted. The CSR principles accepted hold more
+philanthropic characteristics. Businesses are presently participating in projects to support education, healthcare facilities, sanitation and development of rural
+areas. Still no or minimal initiatives are taken to educate and train communities, to research and begin projects aimed at creating awareness and changing
 mindsets, behaviors and attitudes of the population.
-There needs to be a clear distinction between corporate responsibility and
-corporate philanthropy, and this distinction needs to be communicated in the
+There needs to be a clear distinction between corporate responsibility and corporate philanthropy, and this distinction needs to be communicated in the
 
-region. Companies do not believe that CSR introduction in their products will
-lead to higher returns eventually through better business, new customers and
+region. Companies do not believe that CSR introduction in their products will lead to higher returns eventually through better business, new customers and
 entry into new markets.
-There are many vital links and components completely missing in the discourse
-of CSR in South Asia. Understanding CSR as integral part of successful business,
-uniform definition of CSR, distinction between corporate philanthropy and CSR,
-focus on ethical CSR practices, making standardized CSR principles available in
-regional languages to put CSR in local context, comprehensive environment
-protection policies and focus on long-term sustenance and success of business
+There are many vital links and components completely missing in the discourse of CSR in South Asia. Understanding CSR as integral part of successful business,
+uniform definition of CSR, distinction between corporate philanthropy and CSR, focus on ethical CSR practices, making standardized CSR principles available in
+regional languages to put CSR in local context, comprehensive environment protection policies and focus on long-term sustenance and success of business
 are some of them.
 Table 4: Yield per Hectare of Major Agriculture Crops11
 11 Economic Survey 2009-10
 
 I. Assumptions
-This study is based on the simple assumptions that the participants were honest
-while answering the questions and none of the questions were biased. Also the
-analysis assumes that the sample was a fair representation of the population
-targeted.
+This study is based on the simple assumptions that the participants were honest while answering the questions and none of the questions were biased. Also the
+analysis assumes that the sample was a fair representation of the population targeted.
 II. Value-chain Analysis
-For the purpose of this study CSR will be looked upon in terms of corporate
-governance issues. This research paper attempts to understand the value-chain
-of the sugar industry, identify its stakeholders and then verify the relationships
-between them. Below is a flowchart describing all steps of the progress.
+For the purpose of this study CSR will be looked upon in terms of corporate governance issues. This research paper attempts to understand the value-chain
+of the sugar industry, identify its stakeholders and then verify the relationships between them. Below is a flowchart describing all steps of the progress.
 Methodology
 
 Literature Review
-Identifying and
-prioritizing value-chain
+Identifying and prioritizing value-chain
 Preliminary mapping of the chain
-Identifying and
-prioritizing stakeholders
-Designing research instruments
-and indicators: Drafting and
-scheduling interviews with
-stakeholders
-Field visits: Conducting
-interviews of stakeholders
+Identifying and prioritizing stakeholders
+Designing research instruments and indicators: Drafting and scheduling interviews with stakeholders
+Field visits: Conducting interviews of stakeholders
 Data entering and cleaning
 Data Analysis
 CSR dimensions:
-environment,
-social, economic
-and corporate
-governance
+environment, social, economic and corporate governance
 Structural analysis
 Governance and
 Linkages
-Paths between
-sellers and buyers
-Environmental
-analysis
-Resource
-productivity and
-environmental
-performance
-Developmental
-analysis
-Employment
-and livelihoods
+Paths between sellers and buyers
+Environmental analysis
+Resource productivity and environmental performance
+Developmental analysis
+Employment and livelihoods
 Integrating all material
-Preparing Report :
+Preparing Report:
 CSR STUDY
 
-It is necessary to understand which stakeholders are most influential in the value
-chain as these stakeholders can be agents of change or agents blocking the change.
-Stakeholders are all those people who are in one way or more affected by the
-decisions and operations of the company. Internal stakeholders are those people
-who are directly impacted for example suppliers, buyers, importers, exporters,
-producers, employees, producer associations, while external stakeholders may
+It is necessary to understand which stakeholders are most influential in the value chain as these stakeholders can be agents of change or agents blocking the change.
+Stakeholders are all those people who are in one way or more affected by the decisions and operations of the company. Internal stakeholders are those people
+who are directly impacted for example suppliers, buyers, importers, exporters, producers, employees, producer associations, while external stakeholders may
 include the policy makers, worker organizations, NGOs and the media.
 Below Figure1 dictates the sugar industry’s value-chain.
 Figure 1: Value Chain Linkages in the Sugar Industry
-Through thorough research it was identified that the milling stage plays a
-dominant role in the chain. When studied further literature supported that the
-relationship between the millers and growers was sour and weak. To further
-investigate the matter, in-depth interviews were conducted to verify the on-
-ground situation. The analysis took into account the views and experiences of
-sugar mill managers, farmers, the Competition Commission of Pakistan, Pakistan
-Sugar Mills Association and the consumers. Questionnaires used for the in-depth
-interviews are attached in Annexes for view.
+Through thorough research it was identified that the milling stage plays a dominant role in the chain. When studied further literature supported that the
+relationship between the millers and growers was sour and weak. To further investigate the matter, in-depth interviews were conducted to verify the on-
+ground situation. The analysis took into account the views and experiences of sugar mill managers, farmers, the Competition Commission of Pakistan, Pakistan
+Sugar Mills Association and the consumers. Questionnaires used for the in-depth interviews are attached in Annexes for view.
 Growing
 Harvesting
 Transport
@@ -455,35 +356,28 @@ End-user
 
 An Overview
 I. Production Process
-After ripening of the sugarcane crop in October-November, the crushing of
-sugarcane continues till March and April. This period is termed as the crushing
+After ripening of the sugarcane crop in October-November, the crushing of sugarcane continues till March and April. This period is termed as the crushing
 season. It can stretch up to a maximum of 150 days.
-Sugar is a major carbohydrate and derived largely from sugarcane and to a
-smaller extent from sugar beet. There are three main simple sugars sucrose,
-fructose and glucose. The natural sugar stored in the cane stalk or beet root is
-separated from rest of the plant material through a process known as refining.
-The sugarcane crop occupies the land for at least two years, blocking the land to
-all other crops.
+Sugar is a major carbohydrate and derived largely from sugarcane and to a smaller extent from sugar beet. There are three main simple sugars sucrose,
+fructose and glucose. The natural sugar stored in the cane stalk or beet root is separated from rest of the plant material through a process known as refining.
+The sugarcane crop occupies the land for at least two years, blocking the land to all other crops.
 The sugar manufacturing process involves the following steps:
 
 Pressing of sugarcane to extract the juice.
 
 Boiling the juice until it begins to thicken and sugar begins to crystallize.
 
-Spinning the crystals in a centrifuge to remove the syrup, producing
-raw sugar.
+Spinning the crystals in a centrifuge to remove the syrup, producing raw sugar.
 
-The raw sugar is then washed and filtered to remove remaining non-
-sugar ingredients and color.
+The raw sugar is then washed and filtered to remove remaining non- sugar ingredients and color.
 
 Crystallizing, drying and packaging the refined sugar12
 12 One-man Commission Report, Competition Commission of Pakistan. 2009 (REPORT OF THE COMMISSION APPOINTED
+
 Figure 2: Pictures taken of Raw Sugar at Khazana Sugar Mill, Peshawar
-With the help of a survey it was found that irrigation requirements for sugarcane
-vary depending on the crop usually it is essential to water the crop 40 to 50 times
+With the help of a survey it was found that irrigation requirements for sugarcane vary depending on the crop usually it is essential to water the crop 40 to 50 times
 a year. The amount of sugar produced in 2007-08 was 4,740,913 tons while in
-2008-09, 3,205,993 tons were produced. The domestic consumption requirement
-of sugar in Pakistan is estimated to be around 300,000 tons per month. As the
+2008-09, 3,205,993 tons were produced. The domestic consumption requirement of sugar in Pakistan is estimated to be around 300,000 tons per month. As the
 supply is falling the demand is at the rising end, especially during the month of
 Ramadan the demand for sugar steepens.13
 Table 5: Pakistan Sugarcane Area and Yield
@@ -531,39 +425,25 @@ By Sugar Mills
 63,920
 51.50
 75.55
-There has been a reduction in the production of sugar mainly because growers
-are revolting away from sugarcane due to the policies instated by sugar
+There has been a reduction in the production of sugar mainly because growers are revolting away from sugarcane due to the policies instated by sugar
 processors. These strategies include delaying the crushing season, buying can at
 13 One-man Commission Report, Competition Commission of Pakistan. 2009 (REPORT OF THE COMMISSION APPOINTED
 
-less than support price and holding payments. The farmers are growing
-unapproved varieties which hold low sucrose content leading to low sugar
+less than support price and holding payments. The farmers are growing unapproved varieties which hold low sucrose content leading to low sugar
 production and recovery rates.14
-Diminishing sugarcane acreage witnessed, may also be due to: more area under
-wheat crop restricting the sugarcane acreage, shortage of canal water due to
-weakened water resources, load shedding of electricity, realization of lower prices
-in the preceding season and higher rate of raw materials.15 The Gain Report adds
-that decrease in sugarcane production is due to non transparent policies and
-increase in minimum support price for competing crops. 16
-Sugar Report by the CCP in addition provides that shortage of sugar and its
-higher price is not related to low levels of production but in fact the untimely and
-inadequate quantity of sugar reserves through imports and carried forward stocks
-seem to be the real cause of shortages. However another significant factor of the
-sugar crisis is the lack of well organized distribution system. Shortage of sugar is
-a result of absence of a strategic food management system, role of sugar mills,
-traders and wholesalers is also not favoring the sugar industry. 
-According to Agriculture Census 2000, 73 percent of total area under sugarcane
-was in medium sized farms of five to 50 acre. There are over 368 thousand farms
-with average size of 11.6 acres from which on the average 2.4 acres is dedicated to
-sugarcane. This means though under medium sized farmers, sugarcane cultivation
-is mostly done on small patches hence the growers’ status as market entities
-remains that of small producers. 198 thousand small farmers also produce
-sugarcane on farms of less than five acres in size.17Through the survey conducted
-it was found that the sugarcane production is dominated by small-sized farmers
-and some middle-sized farmers. Mostly farmers growing sugarcane are small
-farmers with land holdings lying between 5 to 50 acres; with sugarcane cultivated
-on 5-10 acres. Farmers marked that with the passage of time situation for the
-farmers and the poor is getting worse. The farmers complained that even if there
+Diminishing sugarcane acreage witnessed, may also be due to: more area under wheat crop restricting the sugarcane acreage, shortage of canal water due to
+weakened water resources, load shedding of electricity, realization of lower prices in the preceding season and higher rate of raw materials.15 The Gain Report adds
+that decrease in sugarcane production is due to non transparent policies and increase in minimum support price for competing crops. 16
+Sugar Report by the CCP in addition provides that shortage of sugar and its higher price is not related to low levels of production but in fact the untimely and
+inadequate quantity of sugar reserves through imports and carried forward stocks seem to be the real cause of shortages. However another significant factor of the
+sugar crisis is the lack of well organized distribution system. Shortage of sugar is a result of absence of a strategic food management system, role of sugar mills,
+traders and wholesalers is also not favoring the sugar industry.
+According to Agriculture Census 2000, 73 percent of total area under sugarcane was in medium sized farms of five to 50 acre. There are over 368 thousand farms
+with average size of 11.6 acres from which on the average 2.4 acres is dedicated to sugarcane. This means though under medium sized farmers, sugarcane cultivation
+is mostly done on small patches hence the growers’ status as market entities remains that of small producers. 198 thousand small farmers also produce
+sugarcane on farms of less than five acres in size.17Through the survey conducted it was found that the sugarcane production is dominated by small-sized farmers
+and some middle-sized farmers. Mostly farmers growing sugarcane are small farmers with land holdings lying between 5 to 50 acres; with sugarcane cultivated
+on 5-10 acres. Farmers marked that with the passage of time situation for the farmers and the poor is getting worse. The farmers complained that even if there
 is a bumper stock, they are unable to benefit from it.
 14 Gain Report – Sugar Annual 2010
 15 Economic Survey of Pakistan 2009-10
@@ -571,547 +451,336 @@ is a bumper stock, they are unable to benefit from it.
 17 Farmer Report, Punjab Lok Sujag. October 2008
 
 II. National Sugar Policy 2009-2010
-The desperate need for a sugar policy was realized by the Government of Pakistan
-and hence the National Sugar Policy 2009-10 came into being. The main aim of
-this policy is to assure supply of sugar at competitive price to consumers
-simultaneously providing a fair deal to the producers and growers.
-It is also recognized in the National Sugar Policy that immediate action is required
-to introduce and educate the growers about new and innovative techniques to
-conserve water and enhance productivity per acre such as the precision sprinkle
-agriculture. The policy further emphasizes that the introduction of alternative
+The desperate need for a sugar policy was realized by the Government of Pakistan and hence the National Sugar Policy 2009-10 came into being. The main aim of
+this policy is to assure supply of sugar at competitive price to consumers simultaneously providing a fair deal to the producers and growers.
+It is also recognized in the National Sugar Policy that immediate action is required to introduce and educate the growers about new and innovative techniques to
+conserve water and enhance productivity per acre such as the precision sprinkle agriculture. The policy further emphasizes that the introduction of alternative
 crops should also be focused for instance the use of sugar beet to produce sugar.
 Still, no awareness sessions or training workshops have been established yet.
-Raw sugar is generally around $ 60-100/ton, cheaper than white sugar
-and creates seasonal employment in the economy as well. The rationale
-to import ‘raw sugar’ during the crushing season is that its processing is
-viable costing Rs. 4.50 to Rs. 5.00/Kg while after the crushing season
+Raw sugar is generally around $ 60-100/ton, cheaper than white sugar and creates seasonal employment in the economy as well. The rationale
+to import ‘raw sugar’ during the crushing season is that its processing is viable costing Rs. 4.50 to Rs. 5.00/Kg while after the crushing season
 it costs around Rs. 8 /Kg.
-In consensus with the CCP findings mentioned above, due to weak policy
-framework sugar has been imported and exported during the same year. The
-timing and quantity of exports and imports have not remained consistent either
-with domestic requirements or international market price variations this reflects
-serious defects in the policy designed for the sugar industry. These internal
-inefficiencies make Pakistan a net importer of sugar and the forecast of sugar
-growth, in the country, looks bleak with the forecast predicting import of sugar
-for another decade as consumption is rapidly increasing.18 The Sugar Advisory
+In consensus with the CCP findings mentioned above, due to weak policy framework sugar has been imported and exported during the same year. The
+timing and quantity of exports and imports have not remained consistent either with domestic requirements or international market price variations this reflects
+serious defects in the policy designed for the sugar industry. These internal inefficiencies make Pakistan a net importer of sugar and the forecast of sugar
+growth, in the country, looks bleak with the forecast predicting import of sugar for another decade as consumption is rapidly increasing.18 The Sugar Advisory
 Board, established through the National Sugar Policy by the Government of
 Pakistan, also advocates the import of raw sugar to meet shortages. In the National
-Sugar Policy an explanation has been provided as to why raw sugar is imported
-instead of refined sugar and why is it imported during the crushing season. 19
+Sugar Policy an explanation has been provided as to why raw sugar is imported instead of refined sugar and why is it imported during the crushing season. 19
 18 Competition Assessment Study on the Sugar Sector in Pakistan, Competition Commission of Pakistan.
 19 National Sugar Policy, Government of Pakistan. 2009-10
 
 III. Competition Commission of Pakistan (CCP)
-A report by the Competition Commission of Pakistan (CCP) emphasizes how the
-organization of the sugar industry in Pakistan serves as a stark example depicting
-the extent to which markets and public policy are routinely captured by inter-
-connected interests. One of the main inefficiency of sugar production in Pakistan
-is the delay in payment to farmers which leads to less cultivation of sugarcane. It
-further predicts that the sugar industry in the long run may be characterized as
-driven not by competition but by economic rent-seeking. The report explains
-that a number of factors such as sugar recovery, molasses recovery, length of
-crushing season and size of the mill crushing capacity play an important part in
-determining the performance of the mill.
-The besides CCP the Sugar Report also produced an enquiry report after intense
-investigations stating that PSMA appears to be acting in violation of Section 4(1)
-of the Ordinance. PSMA seemed to be leading a cartel in the sugar industry. From
-the evidence it was gathered that under the face of PSMA sugar mills were working
-in a “closed and protected” market instead of competing fairly. This arrangement
-seemed to be managed “collusively and collectively” by PSMA.20
-PSMA emerged to be operating a buyer’s cartel. According to the communication
-records between sugar mills and between PSMA and various government
-departments the mills had colluded to ensure a collective sugarcane pricing and
-purchasing policy. These decisions were communicated, coordinated and
+A report by the Competition Commission of Pakistan (CCP) emphasizes how the organization of the sugar industry in Pakistan serves as a stark example depicting
+the extent to which markets and public policy are routinely captured by inter- connected interests. One of the main inefficiency of sugar production in Pakistan
+is the delay in payment to farmers which leads to less cultivation of sugarcane. It further predicts that the sugar industry in the long run may be characterized as
+driven not by competition but by economic rent-seeking. The report explains that a number of factors such as sugar recovery, molasses recovery, length of
+crushing season and size of the mill crushing capacity play an important part in determining the performance of the mill.
+The besides CCP the Sugar Report also produced an enquiry report after intense investigations stating that PSMA appears to be acting in violation of Section 4(1)
+of the Ordinance. PSMA seemed to be leading a cartel in the sugar industry. From the evidence it was gathered that under the face of PSMA sugar mills were working
+in a “closed and protected” market instead of competing fairly. This arrangement seemed to be managed “collusively and collectively” by PSMA.20
+PSMA emerged to be operating a buyer’s cartel. According to the communication records between sugar mills and between PSMA and various government
+departments the mills had colluded to ensure a collective sugarcane pricing and purchasing policy. These decisions were communicated, coordinated and
 implemented by PSMA.
 The millers had agreed to buy sugarcane within a particular territory; within
-15km radius of the mill no one apart from that specific mill was to buy the
-sugarcane from the farmer. Moreover, for instance, in Punjab the PSMA Punjab
-zone would set a base price for sugarcane then the regional committee would
-determine the maximum price for different varieties of sugarcane plus the rate of
-deductions to be levied on ‘unapproved’ varieties. The seriousness of the
-commitment was obvious as any member of PSMA this trend was to be
+15km radius of the mill no one apart from that specific mill was to buy the sugarcane from the farmer. Moreover, for instance, in Punjab the PSMA Punjab
+zone would set a base price for sugarcane then the regional committee would determine the maximum price for different varieties of sugarcane plus the rate of
+deductions to be levied on ‘unapproved’ varieties. The seriousness of the commitment was obvious as any member of PSMA this trend was to be
 adjudicated by PSMA.
 20 COMPETITION COMMISSION OF PAKISTAN ENQUIRY REPORT ON COLLUSIVE PRACTICES IN THE SUGAR
 INDUSTRY, Shaista Bano Gilani; Syed Umair Javed, 21st October 2009
 
-PSMA was also found operating a seller’s cartel according to CCP’s report; it was
-involved in fixing sugar prices, proposing and allocating quotas and engaging in
-collective negotiations for price. It was also evident that PSMA manipulates the
-actions of TCP for the benefit of sugar mills. It seemed to have proposed to the
-government to increase reserves of sugar and export supply in the market and to
-import raw sugar only so that the mills could access a substitute to sugarcane
+PSMA was also found operating a seller’s cartel according to CCP’s report; it was involved in fixing sugar prices, proposing and allocating quotas and engaging in
+collective negotiations for price. It was also evident that PSMA manipulates the actions of TCP for the benefit of sugar mills. It seemed to have proposed to the
+government to increase reserves of sugar and export supply in the market and to import raw sugar only so that the mills could access a substitute to sugarcane
 grown locally.
 Consequences of enquiry report: some of the mills took stay orders from the court.
-The order is still in the court till the matter is finalized. Supreme Court follows up
-high court to handle this matter along with other notices like stay order etc.
-It was further noted that the government was being played by PSMA’s effective
-regulatory capture mechanism. PSMA appeared to further restrict competition
-by controlling the number of mills in the market through creating barriers to
-entry with use of the government to its advantage.
-Later a one-man commission was established by the orders of the Supreme Court
-of Pakistan to determine the cost of production and profit margins in the sugar
-industry. That report criticizes that although the Federal Ministry of Industries
-and Production (M&IP) claims to have a ‘dedicated wing’ for the compilation and
-scrutiny of statistics relating to the sugar sector and the provincial governments
-has sufficient resources to provide independent, credible and verifiable data-
-analysis regarding cost of production no such exercise is being carried out
-regarding the sugar sector. The information operated by M&IP is supplied by
-PSMA in fact. M&IP has not verified the authenticity of the data. What is more, it
-appears that even data used by Federal Board of Revenue is supplied by PSMA.
-Since the date is not independently verified the veracity of calculations and
-discrepancy remains dubious.
-The price of sugar fluctuates more than frequently in Pakistan. International and
-domestic factors reason the instability. For instance the flooding in Brazil and the
-lack of rains in India adversely affected the global acreage used for producing
-sugarcane. Hence, India became a net importer of sugar after being one of the
+The order is still in the court till the matter is finalized. Supreme Court follows up high court to handle this matter along with other notices like stay order etc.
+It was further noted that the government was being played by PSMA’s effective regulatory capture mechanism. PSMA appeared to further restrict competition
+by controlling the number of mills in the market through creating barriers to entry with use of the government to its advantage.
+Later a one-man commission was established by the orders of the Supreme Court of Pakistan to determine the cost of production and profit margins in the sugar
+industry. That report criticizes that although the Federal Ministry of Industries and Production (M&IP) claims to have a ‘dedicated wing’ for the compilation and
+scrutiny of statistics relating to the sugar sector and the provincial governments has sufficient resources to provide independent, credible and verifiable data-
+analysis regarding cost of production no such exercise is being carried out regarding the sugar sector. The information operated by M&IP is supplied by
+PSMA in fact. M&IP has not verified the authenticity of the data. What is more, it appears that even data used by Federal Board of Revenue is supplied by PSMA.
+Since the date is not independently verified the veracity of calculations and discrepancy remains dubious.
+The price of sugar fluctuates more than frequently in Pakistan. International and domestic factors reason the instability. For instance the flooding in Brazil and the
+lack of rains in India adversely affected the global acreage used for producing sugarcane. Hence, India became a net importer of sugar after being one of the
 biggest exporters for years. These factors contributed to a rise in price of sugar in
 Pakistan and everywhere else as well; in Pakistan, the price of sugar in March
 2009 was Rs. 43.83 per kg and by August 2009 it had jumped to Rs. 51.86 per kg.
 
-The CCP report states that the price of sugar amid few other commodities
-continued to rise in 2009, basically due to the 11% reduction in global output.
-The report explains that the sugar crisis was self-created by the players of the
-industry. Dealers had paid the sugar mills but did not lift them from the mills
+The CCP report states that the price of sugar amid few other commodities continued to rise in 2009, basically due to the 11% reduction in global output.
+The report explains that the sugar crisis was self-created by the players of the industry. Dealers had paid the sugar mills but did not lift them from the mills
 waiting for Ramadan so that prices would increase due to increased demand.
-These dealers wanted to create artificial demand-supply distortions to benefit
-their profit margins.
+These dealers wanted to create artificial demand-supply distortions to benefit their profit margins.
 Punjab government’s attack increased the harm by affected the supply-chain.
-USC transportations were stopped from carrying sugar across provincial lines
-further creating a shortage. It is the considered view of the Commission that the
-hike in sugar prices was not the real crisis that the media appears to have made
-it out to be. Rather, the nature of the crisis, as per the considered view of the
+USC transportations were stopped from carrying sugar across provincial lines further creating a shortage. It is the considered view of the Commission that the
+hike in sugar prices was not the real crisis that the media appears to have made it out to be. Rather, the nature of the crisis, as per the considered view of the
 Commission, is really the non availability of the commodity to the consumer.
-CCP’s officer spoke on matters of CSR. She explained that in Pakistan CSR is not
-implemented so seriously, yet multinational organizations are contributing and
-trying to put their maximum effort for implementing CSR. Also some local
-organizations have contributed in the sense that they comply with their
-requirements. The officer focused that there is no innovation and awareness
-regarding the concepts of CSR.
+CCP’s officer spoke on matters of CSR. She explained that in Pakistan CSR is not implemented so seriously, yet multinational organizations are contributing and
+trying to put their maximum effort for implementing CSR. Also some local organizations have contributed in the sense that they comply with their
+requirements. The officer focused that there is no innovation and awareness regarding the concepts of CSR.
 IV. Pakistan Sugar Mills Association (PSMA)
 A representative platform of the sugar mills of Pakistan, the Pakistan Sugar Mill
 Association (PSMA), was established with its objectives set out in the
-Memorandum of Association. PSMA plays a critical role in the manufacture of
-sugar, protecting the interest of the sugar mills and its linkage with sugar allied
-industries. By law PSMA meets at least once a year. A PSMA official assured that
-representative of all farmers’ associations participate in the meetings of PSMA,
-namely Punjab Agriculture, Kisan Association. As put on the website of PSMA its
-objectives include: to create an institutional structure for the research and
+Memorandum of Association. PSMA plays a critical role in the manufacture of sugar, protecting the interest of the sugar mills and its linkage with sugar allied
+industries. By law PSMA meets at least once a year. A PSMA official assured that representative of all farmers’ associations participate in the meetings of PSMA,
+namely Punjab Agriculture, Kisan Association. As put on the website of PSMA its objectives include: to create an institutional structure for the research and
 development for sugar industry.21
 21 http://www.psmacentre.com/
 
 According to the minutes of the Annual Meeting of PSMA the economic disaster of
 2007-08 involving the sugar industry was due to lack of government policies.
-Moreover the report accuses that Ministry of Food and Agriculture (MINFAL)
-prefers the shortfall in sugar production to ensure hefty return to big landlords
-of sugarcane at the cost of consumers. It also blames the Government for instating
-defective policy of fixing agriculture produce support price.22
-Sugar and Gur Price mainly depend on global sugar deficit, import price of raw
-sugar and sugarcane price (80% of cost price). To emphasize the report adds that
+Moreover the report accuses that Ministry of Food and Agriculture (MINFAL) prefers the shortfall in sugar production to ensure hefty return to big landlords
+of sugarcane at the cost of consumers. It also blames the Government for instating defective policy of fixing agriculture produce support price.22
+Sugar and Gur Price mainly depend on global sugar deficit, import price of raw sugar and sugarcane price (80% of cost price). To emphasize the report adds that
 the price of sugar is totally dependent on the quantum of sugarcane.23
 V. Farmers and Mills
-It was found that very few farmers are loyal to specific mills; most farmers opt to
-sell to their stock to the mill which offers them easy passageway, prompt payment
+It was found that very few farmers are loyal to specific mills; most farmers opt to sell to their stock to the mill which offers them easy passageway, prompt payment
 or better rate. The farmers’ held battered and bruised feelings towards the mills.
-The main issue between the two being the payment process; it was declared that
-usually there is a delay of a month at least. Also the topic of deductions was
-fragile; many arguments took birth at this stage. The disagreement between
-farmers and millers on the rate of deduction have become so severe at times that
-acts of violence have been recorded resulting in many a times physical injuries
-and even deaths.
-The National Sugar Policy acknowledges that to settle the disputes between the
-sugarcane growers and the sugar industry the Sugar Advisory Board has been
-set up by the Government of Pakistan. In spite of this during the field research
-conducted for this study no farmer seemed to be familiar with this institutional
+The main issue between the two being the payment process; it was declared that usually there is a delay of a month at least. Also the topic of deductions was
+fragile; many arguments took birth at this stage. The disagreement between farmers and millers on the rate of deduction have become so severe at times that
+acts of violence have been recorded resulting in many a times physical injuries and even deaths.
+The National Sugar Policy acknowledges that to settle the disputes between the sugarcane growers and the sugar industry the Sugar Advisory Board has been
+set up by the Government of Pakistan. In spite of this during the field research conducted for this study no farmer seemed to be familiar with this institutional
 platform.
-The poor mills-farmers relationship makes it intricate to procure cane in the
-required quantity during the crushing season. Furthermore, the long duration of
-the crushing season is also economically unfeasible for the sector though it might
-be feasible for the mills in terms of financial return. The Sugar Report asserts that
-de-zoning and emergence of middle men has further increased the gap between
-farmers and mills escalated cost of sugar.24
+The poor mills-farmers relationship makes it intricate to procure cane in the required quantity during the crushing season. Furthermore, the long duration of
+the crushing season is also economically unfeasible for the sector though it might be feasible for the mills in terms of financial return. The Sugar Report asserts that
+de-zoning and emergence of middle men has further increased the gap between farmers and mills escalated cost of sugar.24
 22 44th Annual General Meeting Report, PSMA (March 2010)
 23 44th Annual General Meeting Report, PSMA (March 2010)
 24 Competition Assessment Study on the Sugar Sector in Pakistan, Competition Commission of Pakistan.
 
 VI. Farmers and Government
-The farmer community voiced that the Government is responsible for their
-heartaches; the Government is not protecting them from exploitative and unjust
-policies and actions of the sugar mills. There is no concept of crop insurance, in
-fact the term has not been heard of in the farming community. Many suggestions
-and complaints were received from the growers of sugarcane including that the
-government needs to hear their concerns, protect them from mistreatment, provide
+The farmer community voiced that the Government is responsible for their heartaches; the Government is not protecting them from exploitative and unjust
+policies and actions of the sugar mills. There is no concept of crop insurance, in fact the term has not been heard of in the farming community. Many suggestions
+and complaints were received from the growers of sugarcane including that the government needs to hear their concerns, protect them from mistreatment, provide
 them fair and efficient solutions, empower them and educate them.
 VII. Consumers
-Consumers do realize that sugar is a necessity being an edible item. It is a staple
-food used in everyday life; in beverages, snacks or desserts. The end-users as such
-are unaware of the manufacturing process of sugar, but they are alert that sugar
-is basically produced from sugarcane or sugar beet. The consumers of refined
-sugar were not educated on the topics of whether the process of sugar production
-is fair or not; the consumers did not recall any initiative undertaken by the sugar
+Consumers do realize that sugar is a necessity being an edible item. It is a staple food used in everyday life; in beverages, snacks or desserts. The end-users as such
+are unaware of the manufacturing process of sugar, but they are alert that sugar is basically produced from sugarcane or sugar beet. The consumers of refined
+sugar were not educated on the topics of whether the process of sugar production is fair or not; the consumers did not recall any initiative undertaken by the sugar
 industry as philanthropic in fact. The local public was not familiar to the term of
 CSR hence the respondents were not able to judge whether the sugar industry is
-CSR compliant or not. None of the respondents, both young and old, were
-interested in ensuring CSR practice in Pakistan. Only 1% of the respondents
-participated in the Sugar Boycott 5-12 November 2009, still all participants of
-the survey remembered the year 2007-08 as significant for sugar. They explained
-that an artificial shortage was created by sugar mills to increase the market
-prices resulting in the worst form of cartelization. Realizing the dynamics of the
-corporate world the consumers understand that the industrialists only work to
-increase their own profits. The end-users questioned also added that most of the
-industrial owners were political entities. All respondents do imply that sugar
-mills like all other participants of the society do have social responsibilities namely
+CSR compliant or not. None of the respondents, both young and old, were interested in ensuring CSR practice in Pakistan. Only 1% of the respondents
+participated in the Sugar Boycott 5-12 November 2009, still all participants of the survey remembered the year 2007-08 as significant for sugar. They explained
+that an artificial shortage was created by sugar mills to increase the market prices resulting in the worst form of cartelization. Realizing the dynamics of the
+corporate world the consumers understand that the industrialists only work to increase their own profits. The end-users questioned also added that most of the
+industrial owners were political entities. All respondents do imply that sugar mills like all other participants of the society do have social responsibilities namely
 environmental, labor rights and sustainability of natural resources.
 
 The Sugar Sector
 I. CSR Awareness
-The managers were largely aloof from the concept of CSR. They linked it with
-philanthropy or solely with worker rights according to the labor law. For instance,
-they were conscious of laws regarding child labor and working hours. The
-managers stated that since sugar manufacturing was a safe procedure no
-environmental care was required although full utilization of sugarcane was
-stressed.
-Ex-chairman of PSMA on the other hand asserted that in regard of corporate
-governance all sugar mills of Pakistan are ensuring complete responsibility, clarity
+The managers were largely aloof from the concept of CSR. They linked it with philanthropy or solely with worker rights according to the labor law. For instance,
+they were conscious of laws regarding child labor and working hours. The managers stated that since sugar manufacturing was a safe procedure no
+environmental care was required although full utilization of sugarcane was stressed.
+Ex-chairman of PSMA on the other hand asserted that in regard of corporate governance all sugar mills of Pakistan are ensuring complete responsibility, clarity
 and justice towards all stakeholders, specifically the growers and the employees.
 “All mills have their own schools, dispensaries and fair price outlets for workers and farmers.
-We keep eyes on the farming community and facilitate them if any obstacle is present. We
-promote them to develop new seeds varieties to increase productivity. There are only 2 or 3 out
-of 80 mills that have issues with their providers but most mills maintain good civil relationships
-and try to provide all social benefits to people engaged with them.” The officer further
-accused that it is the media trying to flaunt minor issues generalizing them to the
-entire industry. PSMA as the rest of the industry also seemed to lack lucidity on
+We keep eyes on the farming community and facilitate them if any obstacle is present. We promote them to develop new seeds varieties to increase productivity. There are only 2 or 3 out
+of 80 mills that have issues with their providers but most mills maintain good civil relationships and try to provide all social benefits to people engaged with them.” The officer further
+accused that it is the media trying to flaunt minor issues generalizing them to the entire industry. PSMA as the rest of the industry also seemed to lack lucidity on
 the basic concept of CSR; it too attached CSR to philanthropy solely.
-It was also concluded that practices regarding social welfare were in the hands of
-the owner if he/she wishes to introduce some charitable scheme the managers
-will implement it happily. The managers asserted that sugar industry belongs to
-the private sector with profit maximization as the main objective; the managers
+It was also concluded that practices regarding social welfare were in the hands of the owner if he/she wishes to introduce some charitable scheme the managers
+will implement it happily. The managers asserted that sugar industry belongs to the private sector with profit maximization as the main objective; the managers
 are basically following orders from owners who appear to be interested in profit
 
-only. Some managers assuming CSR as purely philanthropy declared that they
-were “technical” and “financial” persons hence had no knowledge of such
+only. Some managers assuming CSR as purely philanthropy declared that they were “technical” and “financial” persons hence had no knowledge of such
 mechanisms.
-Moreover, it was added that the market for sugar is not stable with sugar prices
-fluctuating, highest priority in such circumstances it to ensure profit and once
+Moreover, it was added that the market for sugar is not stable with sugar prices fluctuating, highest priority in such circumstances it to ensure profit and once
 that is assured mills can ponder on issues of CSR.
-Still managers as well as PSMA officials presented a consensus that there is a
-strong need for CSR practices to be introduced in Pakistan for the overall
-betterment of the nation. None of the sugar mills in Pakistan seem to have a
-developed CSR model in place.
+Still managers as well as PSMA officials presented a consensus that there is a strong need for CSR practices to be introduced in Pakistan for the overall
+betterment of the nation. None of the sugar mills in Pakistan seem to have a developed CSR model in place.
 II. Laws Regarding CSR
-Managers affirmed that the government is not taking any interest in terms like
-sustainability or responsibility; the debate on CSR has not even begun in Pakistan
-let alone the implementation of the practice. It was also added that the gap
-between the international markets and Pakistan will be worsened if the corporate
-world of Pakistan remains aloof. There are no laws or government obligations in
-the knowledge of the mill managers that could be implemented on the sugar
-industry. Some respondents, however, stated that many laws exist in Pakistan
-and that good well-structured but the problem remains that these laws are merely
+Managers affirmed that the government is not taking any interest in terms like sustainability or responsibility; the debate on CSR has not even begun in Pakistan
+let alone the implementation of the practice. It was also added that the gap between the international markets and Pakistan will be worsened if the corporate
+world of Pakistan remains aloof. There are no laws or government obligations in the knowledge of the mill managers that could be implemented on the sugar
+industry. Some respondents, however, stated that many laws exist in Pakistan and that good well-structured but the problem remains that these laws are merely
 to remain in books and are not implemented. The government is not ensuring
 CSR practice in any form in Pakistan on any level.
-PSMA recorded that ISO 14000 standard is implemented in the sugar industry as
-it’s a legal requirement for exportation purpose.
-A few years back, sugar was packed in colored bags in Pakistan; these bags
-contained recycled material which was harmful for human health. PSMA took a
-stand and got a legislation passed from the Government ensuring that sugar
-bags in the country will be transparent and safe.
-Most managers insisted on the direct impacts of the mills on farmers and
-employees solely. The society at large was not given any attention. The mills
-seemed to own a restricted stance towards their impact when asked if they are
-taking any initiative to improve the quality of life a manager replied again focusing
+PSMA recorded that ISO 14000 standard is implemented in the sugar industry as it’s a legal requirement for exportation purpose.
+A few years back, sugar was packed in colored bags in Pakistan; these bags contained recycled material which was harmful for human health. PSMA took a
+stand and got a legislation passed from the Government ensuring that sugar bags in the country will be transparent and safe.
+Most managers insisted on the direct impacts of the mills on farmers and employees solely. The society at large was not given any attention. The mills
+seemed to own a restricted stance towards their impact when asked if they are taking any initiative to improve the quality of life a manager replied again focusing
 on employees only. “We are trying to introduce some benefits to our workers including
 
-health insurance, car loans, housing schemes. In the history of the industry this is the first time
-that such benefits are offered to employees.” Sadly, no respondent belonging to the
-farmer community was conscious of any institution, whether government, non-
-government or community-based, working to improve the quality of life.
+health insurance, car loans, housing schemes. In the history of the industry this is the first time that such benefits are offered to employees.” Sadly, no respondent belonging to the
+farmer community was conscious of any institution, whether government, non- government or community-based, working to improve the quality of life.
 III. Barriers and Implementation
-Mill runners found that the major barriers blocking the path of CSR into Pakistan
-evolve around the grave issues of political instability. Moreover, the industrialists
-do not know about CSR or its components hence there is the tall obstacle of
-narrow mindsets. PSMA added that there are no barriers on part of the private
+Mill runners found that the major barriers blocking the path of CSR into Pakistan evolve around the grave issues of political instability. Moreover, the industrialists
+do not know about CSR or its components hence there is the tall obstacle of narrow mindsets. PSMA added that there are no barriers on part of the private
 sector all that is required for effective implementation of CSR in Pakistan is the
-Government’s support. It was added that the FBR should provide major reforms
-in the industrial policies and the Government should ensure consistent policies
+Government’s support. It was added that the FBR should provide major reforms in the industrial policies and the Government should ensure consistent policies
 not only for the present but also for the future.
-For successful implementation it is essential to create awareness and educate the
-audience about the basic advantages of CSR. When rules or laws are levied on the
-people as a natural reaction they begin to find escape routes the PSMA official
-insisted: “In my opinion when we will create awareness then the people will automatically
+For successful implementation it is essential to create awareness and educate the audience about the basic advantages of CSR. When rules or laws are levied on the
+people as a natural reaction they begin to find escape routes the PSMA official insisted: “In my opinion when we will create awareness then the people will automatically
 motivate toward these things. A collective effort is required for such transitions.”
 IV. Reporting and Auditing
-PSMA claimed that every company has a monthly report with an audit balance
-sheet. These reports are available on stock exchange and a copy of monthly
-report is sent to each share holder as well. Managers reported that there is no
-published self imposing social responsibility code of conduct adopted by mills.
-None of the mills seem to have conducted a social audit ever, in fact that showed
-no interest in any other audit but the financial. No mill has a handbook for ethical
-behavior but its observation is “understood” by all employees of the mills. Mill
-managers did not mention any specific disclosure and reporting strategy but
-vaguely described the openness of the sector. Reporting is mainly the role of the
-head office; they publish annual reports which are shared in PSMA meetings.
+PSMA claimed that every company has a monthly report with an audit balance sheet. These reports are available on stock exchange and a copy of monthly
+report is sent to each share holder as well. Managers reported that there is no published self imposing social responsibility code of conduct adopted by mills.
+None of the mills seem to have conducted a social audit ever, in fact that showed no interest in any other audit but the financial. No mill has a handbook for ethical
+behavior but its observation is “understood” by all employees of the mills. Mill managers did not mention any specific disclosure and reporting strategy but
+vaguely described the openness of the sector. Reporting is mainly the role of the head office; they publish annual reports which are shared in PSMA meetings.
 V. Year 2007-08
-Generally, managers seem to rate the year 2007-08 as “good” for the sugar
-industry. Whoever, when questioned about the bumper stock of sugarcane during
+Generally, managers seem to rate the year 2007-08 as “good” for the sugar industry. Whoever, when questioned about the bumper stock of sugarcane during
 
-2007-08 they claimed not to remember it significantly. PSMA on the other hand
-claimed that the year was not beneficial for the sugar mills mainly due to lagging
-Government policies. A report confirmed that: “In 2007-08 season when sugar mills
-offered the farmers untenable rates they had no option but to set on fire their standing crops”.25
-Only one manager confessed that there was a bumper stock in 2007-08 as
-compared to previous years and some farmers burnt their stock because factories
+2007-08 they claimed not to remember it significantly. PSMA on the other hand claimed that the year was not beneficial for the sugar mills mainly due to lagging
+Government policies. A report confirmed that: “In 2007-08 season when sugar mills offered the farmers untenable rates they had no option but to set on fire their standing crops”.25
+Only one manager confessed that there was a bumper stock in 2007-08 as compared to previous years and some farmers burnt their stock because factories
 offered unreasonable ripping rates for the stock, “but this was mainly in Dera Ismail
-Khan area that too because a 60% deduction was levied on the crop”. PSMA on the other
-hand claimed that there was no burning of ripe stock it was basically a political
+Khan area that too because a 60% deduction was levied on the crop”. PSMA on the other hand claimed that there was no burning of ripe stock it was basically a political
 drama set up to indict sugar mills. An officer of the CCP explained that the 2007-
 2008 sugar crisis was due to the availability of sugar, sugar was produced but
-not available for the consumer. She also further asserted that the Government
-had made late decisions regarding the import hence aggravating the crisis as
-limited access to sugar opened doors to exploitation. The Punjab Government
-ceased factories to extract the holding stock of sugar but the authority had no
-channel for distribution of sugar other than Utility Stores but these stores follow
-a complicated time-consuming process through which it buys sugar for this
+not available for the consumer. She also further asserted that the Government had made late decisions regarding the import hence aggravating the crisis as
+limited access to sugar opened doors to exploitation. The Punjab Government ceased factories to extract the holding stock of sugar but the authority had no
+channel for distribution of sugar other than Utility Stores but these stores follow a complicated time-consuming process through which it buys sugar for this
 reason, the population remained starved for sugar.
 VI. Pricing and Quality
-In a report by the CCP, it is explained how the Governments, both at the Federal
-and Provincial level, are key players in the balance of the sugar industry and its
-market. The provincial governments fix a ‘support price’ for sugar; this price is
-the bare minimum that should to be paid to the farmer per 40 kg of sugarcane.
-This ‘support price’ is based on the ‘indicative price’ set by the Federal Government
-this indicative price is not a definite number but a price range. This range according
-to MINFA is based on a number of factors which the provincial government takes
-into account while putting in the ‘support price’. For instance the cost of
-production of sugarcane, average wholesale prices of sugar, prices received by
-cane growers in the last year, import parity based on average FOB London price
-of white sugar, export parity based on average FOB London price of white sugar
-and an average of all the figures taken into consideration. The ‘support price’
+In a report by the CCP, it is explained how the Governments, both at the Federal and Provincial level, are key players in the balance of the sugar industry and its
+market. The provincial governments fix a ‘support price’ for sugar; this price is the bare minimum that should to be paid to the farmer per 40 kg of sugarcane.
+This ‘support price’ is based on the ‘indicative price’ set by the Federal Government this indicative price is not a definite number but a price range. This range according
+to MINFA is based on a number of factors which the provincial government takes into account while putting in the ‘support price’. For instance the cost of
+production of sugarcane, average wholesale prices of sugar, prices received by cane growers in the last year, import parity based on average FOB London price
+of white sugar, export parity based on average FOB London price of white sugar and an average of all the figures taken into consideration. The ‘support price’
 usually includes the: seed-bed preparation, land cultivation, labor costs, cost of
 25 Farmer Report, Punjab Lok Sujag. October 2008t
 
-diesel, machinery employed, depreciation of machinery, irrigation related costs,
-land rent.26
-The indicative price is submitted with considerations such as the aim of protecting
-growers’ interests as well as to not discourage cultivation of other crops by keeping
-a very high indicative price. To reach an efficient concluding price range or price
-it is important that the study conducted by branches of the Government is done
-in an “independent and credible manner” otherwise the ‘support price’ will fail
-to accord protection to the grower’s interest. It was admitted by the Government
-of Punjab during the investigations by CCP that no specialized exercise was done
-to arrive at the ‘support price’ the same situation persisted in other provinces.27
-The data is usually provided by PSMA and there is no definite or credible basis
-for verifying the genuineness of cost-related data presented.
-Legally the sugarcane procurement rate is fixed to show a minimum price but
-managers believe that if they offer a higher rate to farmers it will be “illegal”. All
-managers readily asserted that they promoted fair competition. There was a
-consensus on the practice of fixing procurement rate for sugarcane; they added
-that the mechanism was fair and efficient for the market. Some managers did
-suggest that price of sugarcane should be set keeping in mind prices of other
-commodities more particularly a fair margin for millers should be considered. In
-the National Sugar Policy document the Government agrees that sugar price
-should be determined by the market forces since cost of production of sugar is
-different for every mill.28 All farmers agreed that it is wise to set a procurement
-rate for sugarcane; however it was pointed out that farmers have no say in fixation
-of rates, some respondents added that there is a representative of farmer
-community but the farmers have only heard of this entity. Moreover it was added
-that rates should remain constant form beginning of the manufacturing year to
-the end. The CCP officer repeatedly pressed that the there should be a free market
-presiding the sugar industry and if not so then the rates should be decided
-according to the cane content. Below is a table presenting the support prices for
-agricultural crops.
+diesel, machinery employed, depreciation of machinery, irrigation related costs, land rent.26
+The indicative price is submitted with considerations such as the aim of protecting growers’ interests as well as to not discourage cultivation of other crops by keeping
+a very high indicative price. To reach an efficient concluding price range or price it is important that the study conducted by branches of the Government is done
+in an “independent and credible manner” otherwise the ‘support price’ will fail to accord protection to the grower’s interest. It was admitted by the Government
+of Punjab during the investigations by CCP that no specialized exercise was done to arrive at the ‘support price’ the same situation persisted in other provinces.27
+The data is usually provided by PSMA and there is no definite or credible basis for verifying the genuineness of cost-related data presented.
+Legally the sugarcane procurement rate is fixed to show a minimum price but managers believe that if they offer a higher rate to farmers it will be “illegal”. All
+managers readily asserted that they promoted fair competition. There was a consensus on the practice of fixing procurement rate for sugarcane; they added
+that the mechanism was fair and efficient for the market. Some managers did suggest that price of sugarcane should be set keeping in mind prices of other
+commodities more particularly a fair margin for millers should be considered. In the National Sugar Policy document the Government agrees that sugar price
+should be determined by the market forces since cost of production of sugar is different for every mill.28 All farmers agreed that it is wise to set a procurement
+rate for sugarcane; however it was pointed out that farmers have no say in fixation of rates, some respondents added that there is a representative of farmer
+community but the farmers have only heard of this entity. Moreover it was added that rates should remain constant form beginning of the manufacturing year to
+the end. The CCP officer repeatedly pressed that the there should be a free market presiding the sugar industry and if not so then the rates should be decided
+according to the cane content. Below is a table presenting the support prices for agricultural crops.
 26 One-man Commission Report, Competition Commission of Pakistan. 2009 (REPORT OF THE COMMISSION APPOINTED
 27 One-man Commission Report, Competition Commission of Pakistan. 2009 (REPORT OF THE COMMISSION APPOINTED
 28 National Sugar Policy, Government of Pakistan. 2009-10
 
 Table 6: Procurement/Support Prices of Agriculture Commodities29
-It was clearly specified in the National Sugar Policy that the price of sugarcane is
-to be set according to sucrose content instead of weight. It was announced that
+It was clearly specified in the National Sugar Policy that the price of sugarcane is to be set according to sucrose content instead of weight. It was announced that
 the “mechanism of pricing sugarcane on sucrose content shall be introduced in all the provinces.”
-The prices were to be set on the basis of variety at first and later international
-pricing methodologies will be introduced. Moreover, to implement this decision
-a test case was to be established; two to three mills in each province would be
-encouraged by the Government to adopt this pricing practice for the year 2009-
+The prices were to be set on the basis of variety at first and later international pricing methodologies will be introduced. Moreover, to implement this decision
+a test case was to be established; two to three mills in each province would be encouraged by the Government to adopt this pricing practice for the year 2009-
 10. 30 According to the interviews conducted for this study in 2012 every manager
-did agree that prices should be fixed in relation with quality of the crop yet no
-such mechanism was in place in Pakistan at the moment. Mills in Sindh have
-paid premium based on sucrose contents to all growers but this brings about the
-problem of asymmetric information providing growers of inferior quality a free-
+did agree that prices should be fixed in relation with quality of the crop yet no such mechanism was in place in Pakistan at the moment. Mills in Sindh have
+paid premium based on sucrose contents to all growers but this brings about the problem of asymmetric information providing growers of inferior quality a free-
 ride.31
 29 Economic Survey 2009-10
 30 National Sugar Policy, Government of Pakistan. 2009-10
 31 Competition Assessment Study on the Sugar Sector in Pakistan, Competition Commission of Pakistan.
 
-In all other countries the price of sugarcane is determined according to the sucrose
-content in sugarcane; however, in Pakistan the price of sugarcane is affirmed
-according to its weight. PSMA explained in the CCP investigation that in 2005 it
-was decided in a meeting that price of sugarcane would be determined according
+In all other countries the price of sugarcane is determined according to the sucrose content in sugarcane; however, in Pakistan the price of sugarcane is affirmed
+according to its weight. PSMA explained in the CCP investigation that in 2005 it was decided in a meeting that price of sugarcane would be determined according
 to sucrose content but the decision has not been implemented.32
-The pricing according to weight of sugarcane treats crops of varying quality in
-the same manner violating principles of a market economy that bring efficiency.
+The pricing according to weight of sugarcane treats crops of varying quality in the same manner violating principles of a market economy that bring efficiency.
 It must be noted that a crop with higher sucrose content contributes to efficiency;
-it reduces the cost borne by sugar mills while recovering sugar and this reduction
-in cost can be passed along the supply chain to the consumer as well. Furthermore
-due to weight-based pricing growers are not encouraged to produce sugarcane of
-better quality using improved production techniques.
-When it came to the deduction placed on quality of sugarcane many contesting
-replies were received. One view held that there is no such deduction in existence
-but there should be one legally levied. Others believed that a 10-20% deduction
-should be in effect in times of bumper stock even if such deduction was not covered
-legally furthermore PSMA insisted that there are laws allowing deduction of
-weight based on the quality of sugarcane. It must be noted that the percentage
-rate of the deduction is entirely random and does not follow any scientific
-determination. The third school of thought claimed “we are and always have been
-against deduction on the basis of sugarcane quality. If a stock is of ‘unapproved’ variety we
-simply refuse to buy it”. Again the judgment of whether a crop is of ‘unapproved’
+it reduces the cost borne by sugar mills while recovering sugar and this reduction in cost can be passed along the supply chain to the consumer as well. Furthermore
+due to weight-based pricing growers are not encouraged to produce sugarcane of better quality using improved production techniques.
+When it came to the deduction placed on quality of sugarcane many contesting replies were received. One view held that there is no such deduction in existence
+but there should be one legally levied. Others believed that a 10-20% deduction should be in effect in times of bumper stock even if such deduction was not covered
+legally furthermore PSMA insisted that there are laws allowing deduction of weight based on the quality of sugarcane. It must be noted that the percentage
+rate of the deduction is entirely random and does not follow any scientific determination. The third school of thought claimed “we are and always have been
+against deduction on the basis of sugarcane quality. If a stock is of ‘unapproved’ variety we simply refuse to buy it”. Again the judgment of whether a crop is of ‘unapproved’
 variety is established on experience of the team and no scientific tool is engaged.
-Farmers complained that the rate of deduction on the grounds of low quality of
-sugarcane is fixed by the mill’s personal will they suggested the rate should be set
-through a proper scientific mechanism by research laboratories. It was found
-that the purchase staff of the factory determines the recovery rate of the cane that
-is how much sugar can be extracted from a certain quantity of sugarcane this is
-not done through the physical examination of sugarcane or any scientific
-mechanism. A farmer report further implied that the quality assessment is not
-documented since this deduction does not enjoy legal cover; the mill instead
+Farmers complained that the rate of deduction on the grounds of low quality of sugarcane is fixed by the mill’s personal will they suggested the rate should be set
+through a proper scientific mechanism by research laboratories. It was found that the purchase staff of the factory determines the recovery rate of the cane that
+is how much sugar can be extracted from a certain quantity of sugarcane this is not done through the physical examination of sugarcane or any scientific
+mechanism. A farmer report further implied that the quality assessment is not documented since this deduction does not enjoy legal cover; the mill instead
 proportionately lowers the weight of purchased cane in documents.33
 32 One-man Commission Report, Competition Commission of Pakistan. 2009 (REPORT OF THE COMMISSION APPOINTED
 33 Farmer Report, Punjab Lok Sujag. October 2008t
 
-Both the growers and the farmers pay 50% Cess to the Government. This Cess
-fund is used for the development of the area. Farmers and the mills are meant to
-equally share this but usually farmers are made to pay it in full according to the
-existing research.34
+Both the growers and the farmers pay 50% Cess to the Government. This Cess fund is used for the development of the area. Farmers and the mills are meant to
+equally share this but usually farmers are made to pay it in full according to the existing research.34
 VII. Payment to Farmers
-Very few managers actually accepted that the payment process to growers was
-not efficient and/or fair. The Competition Commission reports that there is no
+Very few managers actually accepted that the payment process to growers was not efficient and/or fair. The Competition Commission reports that there is no
 well thought-out and planned apparatus of ensuring payment to the cultivator.
-The provincial governments fix the ‘support price’ but fail to provide a mechanism
-ensuring payment to the farmer.
+The provincial governments fix the ‘support price’ but fail to provide a mechanism ensuring payment to the farmer.
 Figure 3: Huge Stocks of Sugar Bags at Mills waiting to be Dispatched at Higher Prices
 Legally a farmer can move the Additional
 Cane Commissioner or Provincial Cane
-Commissioner can be moved against the
-non-payment by a mill. However, no
-mechanism exists for the implementation
-of this verdict. If the factory does not
-release the payment to the farmer after
-one year of the order the commissioner
-can send the case to civil judge or
-magistrate after imposing an 11-time fine
-on the outstanding amount against the factory. But the proceedings in the courts
-of civil judge or magistrate come under civil suit, which also prolong the matter
+Commissioner can be moved against the non-payment by a mill. However, no mechanism exists for the implementation of this verdict. If the factory does not
+release the payment to the farmer after one year of the order the commissioner can send the case to civil judge or magistrate after imposing an 11-time fine
+on the outstanding amount against the factory. But the proceedings in the courts of civil judge or magistrate come under civil suit, which also prolong the matter
 for years.35
-It was discovered that usually industries attempt to save the mark-up by delaying
-the payment to growers. Every mill protecting its honor claimed that there was
-no delay in payment in their mill. Once in a while if the delay does occur it is due
-to bumper stock of sugarcane. There is a law stating that payment cannot be
-delayed beyond 15 days but implementation of the law is questionable as farmers
-claimed the delay lasts longer than many months at times. The payment to farmers
+It was discovered that usually industries attempt to save the mark-up by delaying the payment to growers. Every mill protecting its honor claimed that there was
+no delay in payment in their mill. Once in a while if the delay does occur it is due to bumper stock of sugarcane. There is a law stating that payment cannot be
+delayed beyond 15 days but implementation of the law is questionable as farmers claimed the delay lasts longer than many months at times. The payment to farmers
 is released only after the sugar stock is sold. The mills assess the rate of sugar in
 34 Farmer Report, Punjab Lok Sujag. October 2008
 35 Farmer Report, Punjab Lok Sujag. October 2008
 
-the market and only then sell the sugar otherwise they hold the stock till the
-market rate rises. The managers are aware of the negative consequences that
-may burden a farmer due to delayed payments leading to discouragement of
-growers hence decreasing acreage of sugarcane but they argue that the mill is
-helpless and cannot facilitate a faster payment mode. Some managers asserted
-that the Government should execute a mechanism which will aid the mill gain
-liquidity for the sugar stock in turn the mill will grant the growers punctual
-payment. PSMA officer explained that the delay in payments occurs when there
-is a huge stock of sugar sitting at the mills waiting to be sold. He suggested that
-the Government needs to give permission to export so that payments will be
-released to farmers moreover the Government should authorize banks so that
-they should give loan to the farmer with lower rates of interest. There are only 5
-or 6 mills that have payment problem they release payment to farmers after
-selling their sugar which is only due to their rigid financial problems.
-After weighing the grower is issued the cane procurement receipt (CPR), which
-carries written detail of weight of sugarcane and the payable amount after
-deduction of sugarcane Cess. There are thousands of farmers witnessed running
-from pillar to post in government offices for help to receive their outstanding
-amounts from mills. It was further noted that the delay in payment by the mills
-makes news and officials and politicians issue statements but the core situation
+the market and only then sell the sugar otherwise they hold the stock till the market rate rises. The managers are aware of the negative consequences that
+may burden a farmer due to delayed payments leading to discouragement of growers hence decreasing acreage of sugarcane but they argue that the mill is
+helpless and cannot facilitate a faster payment mode. Some managers asserted that the Government should execute a mechanism which will aid the mill gain
+liquidity for the sugar stock in turn the mill will grant the growers punctual payment. PSMA officer explained that the delay in payments occurs when there
+is a huge stock of sugar sitting at the mills waiting to be sold. He suggested that the Government needs to give permission to export so that payments will be
+released to farmers moreover the Government should authorize banks so that they should give loan to the farmer with lower rates of interest. There are only 5
+or 6 mills that have payment problem they release payment to farmers after selling their sugar which is only due to their rigid financial problems.
+After weighing the grower is issued the cane procurement receipt (CPR), which carries written detail of weight of sugarcane and the payable amount after
+deduction of sugarcane Cess. There are thousands of farmers witnessed running from pillar to post in government offices for help to receive their outstanding
+amounts from mills. It was further noted that the delay in payment by the mills makes news and officials and politicians issue statements but the core situation
 remains always the same.36
 VIII. Ensuring Supply of Sugarcane
-There seemed to be a division in view regarding the “indent”; the indent is the
-most sought-after piece of paper. Favors are sought from MNAs and MPAs and
-bribes are offered to factory administration to get the indent.37 While some farmers
-found the process fair others protested that they have to work hard procuring
-the indent from the mill, when the mill realizes that the grower is desperate to get
-an indent they misuse the situation to force the farmer to agree to their terms and
-conditions (usually ripping the farmer’s gains). All managers found the practice
-of giving out an indent very essential for efficient and smooth production of
-sugar. Some further claimed that this practice is followed for maximum utilization
-of sucrose content in the sugarcane. The moment the sugarcane crop is cut the
+There seemed to be a division in view regarding the “indent”; the indent is the most sought-after piece of paper. Favors are sought from MNAs and MPAs and
+bribes are offered to factory administration to get the indent.37 While some farmers found the process fair others protested that they have to work hard procuring
+the indent from the mill, when the mill realizes that the grower is desperate to get an indent they misuse the situation to force the farmer to agree to their terms and
+conditions (usually ripping the farmer’s gains). All managers found the practice of giving out an indent very essential for efficient and smooth production of
+sugar. Some further claimed that this practice is followed for maximum utilization of sucrose content in the sugarcane. The moment the sugarcane crop is cut the
 36 Farmer Report, Punjab Lok Sujag. October 2008
 37 Farmer Report, Punjab Lok Sujag. October 2008
 
-sucrose content within it begins to deteriorate so the mills give out indent to
-organize the farmers bring in their stock; in this manner the sugarcane trolleys
-don’t have to wait outside the mill gate for their turn to arrive. CCP supporting
-the mechanism briefed: “corporation provides credit to the farmers so it may be efficient
-because farmer have surety about his crop. If you have certainty and you have low risk then
-that is the biggest thing because that is beneficial for both parties. But term and condition
+sucrose content within it begins to deteriorate so the mills give out indent to organize the farmers bring in their stock; in this manner the sugarcane trolleys
+don’t have to wait outside the mill gate for their turn to arrive. CCP supporting the mechanism briefed: “corporation provides credit to the farmers so it may be efficient
+because farmer have surety about his crop. If you have certainty and you have low risk then that is the biggest thing because that is beneficial for both parties. But term and condition
 should properly clear and these term and condition should not be exploitative.”
-IX.Delaying the Crushing
-The sugarcane crop ripens in October and November; the mills are legally bound
-to start purchasing and crushing between 1st October to 30 November however
-a report accused that the millers prefer a delayed start so that cane weight is
-lessened due to drying and the sugar content is higher. The report continues to
-write that the delay also makes the farmers anxiety as they need to clear the farm
-for sowing of wheat or other crops. This panic helps the factories procure the
-cane on their terms.38 On the other hand all managers reported that there is no
-conscious delay in crushing this would adversely affect the quality of sugarcane
-reducing the sucrose content and hence a delay would be disadvantageous for
-the mill. However there may be a wait if there is a heavy stock of sugarcane in
-such cases the hindrance is purely due to the limited capacity of the production
-process.
+IX. Delaying the Crushing
+The sugarcane crop ripens in October and November; the mills are legally bound to start purchasing and crushing between 1st October to 30 November however
+a report accused that the millers prefer a delayed start so that cane weight is lessened due to drying and the sugar content is higher. The report continues to
+write that the delay also makes the farmers anxiety as they need to clear the farm for sowing of wheat or other crops. This panic helps the factories procure the
+cane on their terms.38 On the other hand all managers reported that there is no conscious delay in crushing this would adversely affect the quality of sugarcane
+reducing the sucrose content and hence a delay would be disadvantageous for the mill. However there may be a wait if there is a heavy stock of sugarcane in
+such cases the hindrance is purely due to the limited capacity of the production process.
 X. Weighing the Crop
-Even though, the National Sugar Policy promises that ‘kunda’ and sucrose variety
-testing stations are to be monitored by provincial governments using the Sugar
-Cess Fund to guarantee fair testing and weighing facilities no such practice is
-being followed. The respondents reported that weighing, pricing and judging the
-crop is strictly between the grower and the mill with no intervention from any
-neutral third party. To protect themselves and minimize the occurrence of
-exploitation growers usually weigh their stock on independent private weighing
-stations before bringing it to the mill. The sugarcane is weighed by the factories
-or factory-authorized weigh stations; farmers appealed that the weight of the
-sugarcane cannot be challenged or verified by a neutral party; they at times do
+Even though, the National Sugar Policy promises that ‘kunda’ and sucrose variety testing stations are to be monitored by provincial governments using the Sugar
+Cess Fund to guarantee fair testing and weighing facilities no such practice is being followed. The respondents reported that weighing, pricing and judging the
+crop is strictly between the grower and the mill with no intervention from any neutral third party. To protect themselves and minimize the occurrence of
+exploitation growers usually weigh their stock on independent private weighing stations before bringing it to the mill. The sugarcane is weighed by the factories
+or factory-authorized weigh stations; farmers appealed that the weight of the sugarcane cannot be challenged or verified by a neutral party; they at times do
 raise their voices against this practice but are not heard. Most farmers are
 38 Farmer Report, Punjab Lok Sujag. October 2008
 
-uneducated and hence don’t understand the technical calculations. Nearly all
-managers granted that there is no neutral party which could challenge the weight
-of sugarcane the matter is between the growers and the mill. Nonetheless, a
-single manager did state that weights are verified by the District Coordination
-Officer of every district is ex-officio Additional Cane Commissioner of the area
-and local administration through inspections.
-The CCP officer stated that the CCP is against government monitoring process
-and intervention such micro levels. Instead the Government should empower
-farmers so that they can solve their micro level problems independently. For
-instance in Sindh farmers have their own chambers registered with the
-Government. Such farmer organizations should be strengthened so that within
-the community they can solve their problems without involving the authorities.
+uneducated and hence don’t understand the technical calculations. Nearly all managers granted that there is no neutral party which could challenge the weight
+of sugarcane the matter is between the growers and the mill. Nonetheless, a single manager did state that weights are verified by the District Coordination
+Officer of every district is ex-officio Additional Cane Commissioner of the area and local administration through inspections.
+The CCP officer stated that the CCP is against government monitoring process and intervention such micro levels. Instead the Government should empower
+farmers so that they can solve their micro level problems independently. For instance in Sindh farmers have their own chambers registered with the
+Government. Such farmer organizations should be strengthened so that within the community they can solve their problems without involving the authorities.
 XI. The Crop: Seeds and Fugicides
 Largely it was observed that crop failure occurred due to unfavorable weather;
-mainly cold. But some respondents also asserted that diseases were responsible
-for crop deaths and illnesses; common diseases include Red Rot, Leaf Spot and
-virus. The Stem Canker (Cytospora sacchari) Butl. causes wilting of canes. The affected
-canes show drying of leaves from top to bottom. The cane stems are dried-up
-with significant fall in quantity and quality of sugarcane. Small black dot-like
-bodies of disease causing fungus may develop on bud sheaths and hollow portions
-of canes. The much feared Red Rot (Colletotrichum falcatum) Went. is indicated by
-red bright gashes on the mid rib of leaves. It shows itself as drooping and changing
+mainly cold. But some respondents also asserted that diseases were responsible for crop deaths and illnesses; common diseases include Red Rot, Leaf Spot and
+virus. The Stem Canker (Cytospora sacchari) Butl. causes wilting of canes. The affected canes show drying of leaves from top to bottom. The cane stems are dried-up
+with significant fall in quantity and quality of sugarcane. Small black dot-like bodies of disease causing fungus may develop on bud sheaths and hollow portions
+of canes. The much feared Red Rot (Colletotrichum falcatum) Went. is indicated by red bright gashes on the mid rib of leaves. It shows itself as drooping and changing
 of color of upper leaves withering of the leaves follows. The Leaf Spot
-(Helminthosporium spp.), may be characterized by small lesions on leaves, which
-gradually enlarge along the mid rib and assure dark red to brown color. In severe
-infection, the leaves become dry affecting photosynthesis. According to literature
-the most destructive diseases are born from fungi bacteria, viruses and
-nematodes. There are over 50 illnesses that may take over a sugarcane crop. All
-parts of plant are open to disease and one or more diseases can occur on any plant
+(Helminthosporium spp.), may be characterized by small lesions on leaves, which gradually enlarge along the mid rib and assure dark red to brown color. In severe
+infection, the leaves become dry affecting photosynthesis. According to literature the most destructive diseases are born from fungi bacteria, viruses and
+nematodes. There are over 50 illnesses that may take over a sugarcane crop. All parts of plant are open to disease and one or more diseases can occur on any plant
 and in any region. 39
-The other minor diseases of sugarcane reported from Pakistan are: sugarcane
-mosaic virus, pokkah boeng, whip smut, chlorotic streak virus, ratoon stunting,
+The other minor diseases of sugarcane reported from Pakistan are: sugarcane mosaic virus, pokkah boeng, whip smut, chlorotic streak virus, ratoon stunting,
 39 Diseases of Sugarcane, By Mithal Jiskani, Assistant Professor, Sindh Agriculture University, Tandojam, October 2001
-yellow spot, red stripe, rust and genetic variegation of leaf and sheath.40The direct
-cost of the crop failure is burdened on the farmers.
+
+yellow spot, red stripe, rust and genetic variegation of leaf and sheath.40The direct cost of the crop failure is burdened on the farmers.
 Table 7: Sugarcane Production and Recovery
 Year
 Cane Crushed (Tones)
@@ -1149,88 +818,53 @@ Recovery
 52,757,140
 -
 8.98%
-While some managers bragged that the mills provided seeds as well as necessary
-fungicides to growers, growers told otherwise. The farmers explained that the
-mill provides seeds and fungicides only if there is an agreement that the farmer
-will only provide to that mill. Similarly mills boasted confidently that they
-provided both training and advice to growers on better productivity of crop
-through specialized field staff. The growers of the area were on the contrary alien
+While some managers bragged that the mills provided seeds as well as necessary fungicides to growers, growers told otherwise. The farmers explained that the
+mill provides seeds and fungicides only if there is an agreement that the farmer will only provide to that mill. Similarly mills boasted confidently that they
+provided both training and advice to growers on better productivity of crop through specialized field staff. The growers of the area were on the contrary alien
 to the practice and reported “we have never met or even seen these trainers in our area”.
 XII. Agents, Dealers and Contractors
-There are dealers who offer the farmers a trouble free passage for their stock and
-a prompt payment. These contractors buy the stock from the farmer near the
-farm give the grower on the spot cash payment and take the stock to the factory
-on their own transport. It is proved that most agents, who offer the farmers a
-trouble free passage for their stock and a prompt payment, are private individuals
-in no way linked to the mills. In fact mill managers stated that:“They are dangerous
-for both parties (farmers and industries).They have no relations with farmers even with industries.
-Government should discourage such people. They buy sugarcane in very low prices from the
-farmer and sell in very high prices to the industries so they got profit without any effort”.
+There are dealers who offer the farmers a trouble free passage for their stock and a prompt payment. These contractors buy the stock from the farmer near the
+farm give the grower on the spot cash payment and take the stock to the factory on their own transport. It is proved that most agents, who offer the farmers a
+trouble free passage for their stock and a prompt payment, are private individuals in no way linked to the mills. In fact mill managers stated that:“They are dangerous
+for both parties (farmers and industries). They have no relations with farmers even with industries.
+Government should discourage such people. They buy sugarcane in very low prices from the farmer and sell in very high prices to the industries so they got profit without any effort”.
 40 Diseases of Sugarcane, By Mithal Jiskani, Assistant Professor, Sindh Agriculture University, Tandojam, October 2001
 
-It was noted that the mill also has agents operating for them. These agents are
-usually set up in areas far from the mill since the growers of that area will never
-travel to the mill themselves so in this way the mill ensures that it is receiving a
-healthy supply of sugarcane. The independent contractors are perceived as
-sympathetic and considerate beings working for the betterment of growers by
-the farmers.
+It was noted that the mill also has agents operating for them. These agents are usually set up in areas far from the mill since the growers of that area will never
+travel to the mill themselves so in this way the mill ensures that it is receiving a healthy supply of sugarcane. The independent contractors are perceived as
+sympathetic and considerate beings working for the betterment of growers by the farmers.
 XIII. ‘Gur’
-Due to scarce stock the ‘gur’ and ‘shakar’ are offered a higher price than white
-sugar. Even though there is no limitation on the manufacture of ‘gur’ there is a
-ban on the export of ‘gur’ restricting its market. All managers bluntly announced
-that ‘gur’ making should not be permitted. Some the growers in the Khyber
-Pakhtunkhwa area are also traditional manufacturers of ‘gur’. They believe ‘gur’
-making should remain permissible to help them support their financial situation.
-Gur is very dangerous for the sugar industry according to mill managers. They
-added Peshawar is a traditional gur making area, the government provides
-protection to all those people who are involved in gur making and demanded
-that this practice needs to be altered. Technically the sugar industry can get 96%
-benefits from the sugarcane but gur maker can get 60 to 65% so there is 35% loss
-of natural resources.
+Due to scarce stock the ‘gur’ and ‘shakar’ are offered a higher price than white sugar. Even though there is no limitation on the manufacture of ‘gur’ there is a
+ban on the export of ‘gur’ restricting its market. All managers bluntly announced that ‘gur’ making should not be permitted. Some the growers in the Khyber
+Pakhtunkhwa area are also traditional manufacturers of ‘gur’. They believe ‘gur’ making should remain permissible to help them support their financial situation.
+Gur is very dangerous for the sugar industry according to mill managers. They added Peshawar is a traditional gur making area, the government provides
+protection to all those people who are involved in gur making and demanded that this practice needs to be altered. Technically the sugar industry can get 96%
+benefits from the sugarcane but gur maker can get 60 to 65% so there is 35% loss of natural resources.
 The mills disapproved ‘gur’ making to the extent that they considered the ruthless
-Sugarcane Act as “fair”. This act banned gur making in many ‘reserved area’ and
-prohibited farmers to sell their produce to any other buyer but the particular
-mill. Unlike the mill managers, farmers found the Sugarcane Act of 1934 extremely
-unfair and supported ‘gur’ making actively, in fact they pleaded that export of
-‘gur’ should be permitted. The PSMA officer was in partial favor of the Act. It was
-beneficial for the small growers as they received seeds and fertilizer from the
-industries, industries worked for the benefit of the associated farmers. After de-
-zoning the farmer could sell the crop to any mill so the mill stopped trying to
-enhance their productivity. The reason given by the officer for slightly opposing
-the act was that the farmer was restricted to one particular mill only.
+Sugarcane Act as “fair”. This act banned gur making in many ‘reserved area’ and prohibited farmers to sell their produce to any other buyer but the particular
+mill. Unlike the mill managers, farmers found the Sugarcane Act of 1934 extremely unfair and supported ‘gur’ making actively, in fact they pleaded that export of
+‘gur’ should be permitted. The PSMA officer was in partial favor of the Act. It was beneficial for the small growers as they received seeds and fertilizer from the
+industries, industries worked for the benefit of the associated farmers. After de- zoning the farmer could sell the crop to any mill so the mill stopped trying to
+enhance their productivity. The reason given by the officer for slightly opposing the act was that the farmer was restricted to one particular mill only.
 XIV. Zoning and De-zoning
-The reserved area laws were amended in 1980s when the new industrial aspirants
-opposed these. Zoning was ceased due to the low capacity of sugar industry. This
+The reserved area laws were amended in 1980s when the new industrial aspirants opposed these. Zoning was ceased due to the low capacity of sugar industry. This
 
-zoning was “100% fair” according to managers; beneficial for both the farmers
-and millers. With regard to zoning the farmers stood on a different foot than the
-managers. They believed that if zones were developed again they will further be
-dependent on a single mill and hence probability of their exploitation will increase.
-This law provided sustained monopoly by the old industrial class according to a
-farmer’s report. Traditional gur makers were seen as ‘villains’ of sugar sector.
-Raids were done in villages and punishments were assigned to those found guilty
-of making gur from their own or purchased sugarcane usually confiscating the
+zoning was “100% fair” according to managers; beneficial for both the farmers and millers. With regard to zoning the farmers stood on a different foot than the
+managers. They believed that if zones were developed again they will further be dependent on a single mill and hence probability of their exploitation will increase.
+This law provided sustained monopoly by the old industrial class according to a farmer’s report. Traditional gur makers were seen as ‘villains’ of sugar sector.
+Raids were done in villages and punishments were assigned to those found guilty of making gur from their own or purchased sugarcane usually confiscating the
 gur making machines. 41
 XV. Accessibility
-Managers of sugar mills claimed that the entire population of the country has
-access to sugar. Access according to them depends on demand and supply,
-presently sugar demand on the nation level accounts to be 4.2 million tons while
-supply is estimated to be 5 million tons so access is assured.
-They added that Trading Corporation of Pakistan (TCP) keeps stock of sugar to
-cover gaps in demand and supply. It was also mentioned that the government
-aids the process of accessibility by selling sugar at discounted prices. According
-to the National Sugar Policy, the TCP must hold 0.5 million tons of white sugar at
-all times. Taking into consideration the local demand and competitive price these
-reserves may be maintained through imports or domestic procurement.42
-TCP is the prime trading organization of Pakistan it was set up as a private
-limited company in 1967. TCP is under the sole ownership and administrative
-control of Ministry of Commerce, Government of Pakistan acting only under
-directions from the Government of Pakistan.
-When the Government of Pakistan expects shortage or surplus of a particular
-commodity it can direct the TCP to import or export the certain commodity. TCP
+Managers of sugar mills claimed that the entire population of the country has access to sugar. Access according to them depends on demand and supply,
+presently sugar demand on the nation level accounts to be 4.2 million tons while supply is estimated to be 5 million tons so access is assured.
+They added that Trading Corporation of Pakistan (TCP) keeps stock of sugar to cover gaps in demand and supply. It was also mentioned that the government
+aids the process of accessibility by selling sugar at discounted prices. According to the National Sugar Policy, the TCP must hold 0.5 million tons of white sugar at
+all times. Taking into consideration the local demand and competitive price these reserves may be maintained through imports or domestic procurement.42
+TCP is the prime trading organization of Pakistan it was set up as a private limited company in 1967. TCP is under the sole ownership and administrative
+control of Ministry of Commerce, Government of Pakistan acting only under directions from the Government of Pakistan.
+When the Government of Pakistan expects shortage or surplus of a particular commodity it can direct the TCP to import or export the certain commodity. TCP
 floats international tenders in case of importing in accord with the Public
-Procurement Authority Rules, 2004 (‘PEPRA Rules’). Once TCP has a winning bid
-it the Ministry of Finance is educated regarding the amount of foreign exchange
+Procurement Authority Rules, 2004 (‘PEPRA Rules’). Once TCP has a winning bid it the Ministry of Finance is educated regarding the amount of foreign exchange
 necessary for the deal. The Ministry routes this information to the State Bank of
 41 Farmer Report, Punjab Lok Sujag. October 2008
 42 National Sugar Policy, Government of Pakistan. 2009-10
@@ -1238,33 +872,20 @@ necessary for the deal. The Ministry routes this information to the State Bank o
 Pakistan which in turn works with six specified banks who establish Letters of
 Credit to facilitate procurement/purchase by TCP. The CCP report informs that
 TCP buys sugar from sugar mills through open tenders in terms of PEPRA Rules.
-Interestingly, as per newspaper reports the sugar mills have an option to buy
-back the commodity at a premium of 25%.43
+Interestingly, as per newspaper reports the sugar mills have an option to buy back the commodity at a premium of 25%.43
 All managers stated that even the poorest of the country had access to sugar with
-USC playing a vital role. While the CCP added that sugar is a homogenous
-commodity with low elasticity of demand so it is impossible for the government
-to ensure that subsidies targeted through price-fixing actually reach the poorest
-sections of the society. Surprisingly the solution to complete accessibility of sugar
-to the entire population including the poor was to rely solely on open market
-mechanisms.
-The government has placed initiatives to protect the vulnerable these schemes
-include the Benazir Income Support Programme (BISP) and the Utility Stores
-Corporation (USC). Even though the National Sugar Policy states that to protect
-the vulnerable groups in the population the Government has taken the initiative
-of BISP through which the holder of the subscribed debit card shall be able to
-purchase sugar at a subsidized rate from specific USC outlets or depot/fair price
-shop/mobile stores set up with aid from provincial governments. In the policy it
-is stated that the cost of the differential (relief of 10-20% in price from market
-price) shall be shared equally between the Government and PSMA44, however, no
-mill manager appeared to be aware of this arrangement. In fact respondents
-asserted that the initiative was purely by the Government and the sugar mills
-have no role in it. Managers explained that mills play no role in these initiatives;
-PSMA official added that even though the initiative is purely governmental but
-sugar industries provide free sugar to government for such schemes.
-Moreover, the policy states that “For the eleventh month of the calendar year 2009 sugar
-meant for household consumption shall be sold at the uniform price of Rs. 40 /kg in every nook
-and corner of the country; the respective Provincial governments will designate kiryana/retail
-shops/ any other arrangement in appropriate localities as, ‘sale point/ ration depots’.”45 Again
+USC playing a vital role. While the CCP added that sugar is a homogenous commodity with low elasticity of demand so it is impossible for the government
+to ensure that subsidies targeted through price-fixing actually reach the poorest sections of the society. Surprisingly the solution to complete accessibility of sugar
+to the entire population including the poor was to rely solely on open market mechanisms.
+The government has placed initiatives to protect the vulnerable these schemes include the Benazir Income Support Programme (BISP) and the Utility Stores
+Corporation (USC). Even though the National Sugar Policy states that to protect the vulnerable groups in the population the Government has taken the initiative
+of BISP through which the holder of the subscribed debit card shall be able to purchase sugar at a subsidized rate from specific USC outlets or depot/fair price
+shop/mobile stores set up with aid from provincial governments. In the policy it is stated that the cost of the differential (relief of 10-20% in price from market
+price) shall be shared equally between the Government and PSMA44, however, no mill manager appeared to be aware of this arrangement. In fact respondents
+asserted that the initiative was purely by the Government and the sugar mills have no role in it. Managers explained that mills play no role in these initiatives;
+PSMA official added that even though the initiative is purely governmental but sugar industries provide free sugar to government for such schemes.
+Moreover, the policy states that “For the eleventh month of the calendar year 2009 sugar meant for household consumption shall be sold at the uniform price of Rs. 40 /kg in every nook
+and corner of the country; the respective Provincial governments will designate kiryana/retail shops/ any other arrangement in appropriate localities as, ‘sale point/ ration depots’.”45 Again
 a scheme none of the respondents were sentient of.
 43 One-man Commission Report, Competition Commission of Pakistan. 2009 (REPORT OF THE COMMISSION APPOINTED
 44 National Sugar Policy, Government of Pakistan. 2009-10
@@ -1272,298 +893,179 @@ a scheme none of the respondents were sentient of.
 
 XVI. By-products
 Figure 4: Industrial Alcohol Produced at Sugar Mills
-Sugar production results in over 100 by-
-products including alcohol, vinegar,
-confectioneries, animal feed, poultry feed,
-fish feed, paper, chipboard, win-board,
-hard board and plywood. Tops are used
-as fodder for livestock and trash as fuel.46
-Molasses, a by-product of sugar, can be
-used to manufacture industrial and fuel
-grade ethanol. However, in Pakistan for
-than often this by-product is used to feed
-animals or is exported as a raw material since only nineteen sugar mills have
-distilleries utilizing molasses for the production of ethanol.
+Sugar production results in over 100 by- products including alcohol, vinegar, confectioneries, animal feed, poultry feed,
+fish feed, paper, chipboard, win-board, hard board and plywood. Tops are used as fodder for livestock and trash as fuel.46
+Molasses, a by-product of sugar, can be used to manufacture industrial and fuel grade ethanol. However, in Pakistan for than often this by-product is used to feed
+animals or is exported as a raw material since only nineteen sugar mills have distilleries utilizing molasses for the production of ethanol.
 Figure 5: By-product (Mud) Extraction at a Sugar Mill
-Managers reported that there are four
-types of products from sugarcane in the
-sugar industry; sugar is our main product
-other three are molasses, bagasse (which
+Managers reported that there are four types of products from sugarcane in the sugar industry; sugar is our main product other three are molasses, bagasse (which
 used as fuel) and Mud (use as fertilizer).
 40 to 45% of molasses is utilized for
-making alcohol which is then exported
-mainly, it was noted that some industries
-do not make alcohol and export molasses.
+making alcohol which is then exported mainly, it was noted that some industries do not make alcohol and export molasses.
 Some mills in Pakistan produce nearly
 2500 kilowatt electricity for their own use with the help of steam. Moreover, the
-water is reused as well; the same water is rotated in the process. PSMA officers
-boasted that all sugar mills produce their own electricity for its own purpose; he
-added that the Government doesn’t give them permission to produce electricity
-on a larger level, “we have presented in front of different departments proposing that we can
-help in the energy shortage of the country by contributing electricity but no attention was
-rewarded to the proposal”.
+water is reused as well; the same water is rotated in the process. PSMA officers boasted that all sugar mills produce their own electricity for its own purpose; he
+added that the Government doesn’t give them permission to produce electricity on a larger level, “we have presented in front of different departments proposing that we can
+help in the energy shortage of the country by contributing electricity but no attention was rewarded to the proposal”.
 46 Pakkisan.com
 
 XVII. Research and Development
 To encourage research and study the Government has assigned the Province
-Agriculture Research Institutes to study and verify, with cooperation from the
-private sector, the best suited varieties of sugarcane in the area. To achieve high
-yield and high recovery characteristics two dedicated projects were to be set up
-by the Ministry of Food and Agriculture. It is important to note though that the
-Ministry of Food and Agriculture has been devolved under the 18th Amendment,
-where these projects have been diverted is a question yet to be investigated.47
-The expertise of the grower as well as the resources available to the grower
-determines the quality of the crop. The issue is that Pakistan does not have
-institutions or bodies conducting research regarding improvements in
-agricultural productivity. The existing research institutions in the public sector
+Agriculture Research Institutes to study and verify, with cooperation from the private sector, the best suited varieties of sugarcane in the area. To achieve high
+yield and high recovery characteristics two dedicated projects were to be set up by the Ministry of Food and Agriculture. It is important to note though that the
+Ministry of Food and Agriculture has been devolved under the 18th Amendment, where these projects have been diverted is a question yet to be investigated.47
+The expertise of the grower as well as the resources available to the grower determines the quality of the crop. The issue is that Pakistan does not have
+institutions or bodies conducting research regarding improvements in agricultural productivity. The existing research institutions in the public sector
 are “starved” of funding.
 47 National Sugar Policy, Government of Pakistan. 2009-10
 
-A manager asserted that the acceptance of change is essential for adaption of
-change. Implementation of CSR practices is impossible until and unless it is
-mentally accepted by all stakeholders. The manager further recommended that
-the Government can promote such acceptance through advocacy and awareness
+A manager asserted that the acceptance of change is essential for adaption of change. Implementation of CSR practices is impossible until and unless it is
+mentally accepted by all stakeholders. The manager further recommended that the Government can promote such acceptance through advocacy and awareness
 sessions.
-The CCP officer explained the desperate need to address the lack of awareness she
-added that people don’t know the actual concept of CSR that’s why they are
-focusing and mixing it with philanthropy. The officer further rationalized that
-the focus should be on free market mechanisms along with open import-export
-system to resolve the existing problems. She added that the Government must
-keep a reserve part of essential commodities but market mechanisms should
-surface the production process so that no one including the Government could
-interrupt in market process.
-It is evident from the conversations with consumers that stakeholder activism is
-lacking in Pakistan hence there is no factor pushing CSR into the businesses. The
+The CCP officer explained the desperate need to address the lack of awareness she added that people don’t know the actual concept of CSR that’s why they are
+focusing and mixing it with philanthropy. The officer further rationalized that the focus should be on free market mechanisms along with open import-export
+system to resolve the existing problems. She added that the Government must keep a reserve part of essential commodities but market mechanisms should
+surface the production process so that no one including the Government could interrupt in market process.
+It is evident from the conversations with consumers that stakeholder activism is lacking in Pakistan hence there is no factor pushing CSR into the businesses. The
 spirit of working for a society needs to be awakened.
-The term ‘sustainability’ is fearsome to the corporate world as well as growers as
-it is usually related to reduced productivity or profit. However this is not the
-case measures reducing environmental impacts will more than often also provide
-economic benefits for farmers and mills. Awareness of this approach will provide
-an opening to reconcile environmental and social needs with the long-term
-development of the sugar industry.
+The term ‘sustainability’ is fearsome to the corporate world as well as growers as it is usually related to reduced productivity or profit. However this is not the
+case measures reducing environmental impacts will more than often also provide economic benefits for farmers and mills. Awareness of this approach will provide
+an opening to reconcile environmental and social needs with the long-term development of the sugar industry.
 Way Forward
 
-The environment of the area in which sugar is produced is damaged in many
-ways during the production process including degradation of wildlife, soil, air
-and water. This is mainly due to intensive use of water, heavy use of agro-
-chemicals, discharge and runoff of polluted effluent and air pollution. An efficient
-use of resources is not only environment friendly but also brings about reduction
-in major costs for the grower as well as leading to better productivity and yield.
+The environment of the area in which sugar is produced is damaged in many ways during the production process including degradation of wildlife, soil, air
+and water. This is mainly due to intensive use of water, heavy use of agro- chemicals, discharge and runoff of polluted effluent and air pollution. An efficient
+use of resources is not only environment friendly but also brings about reduction in major costs for the grower as well as leading to better productivity and yield.
 I. Soil
-Sugarcane farming also causes soil erosion and hampers its ability for water
-retention. Soil erosion risks are worsened when cane is cultivated on slopes and/
-or beet is cultivated in such a way that fields are left bare over winter. In agronomic
-terms, the loss of soil by erosion affects future yields and limits the sustainability
-of sugar crop growing by eradicating organic matter as well as nutrient-rich
-material from the soil. The nurturing of sugarcane also disturbs the soil quality;
-the impacts include loss of soil organic matter, changes in nutrient levels,
-salinization and acidification.
+Sugarcane farming also causes soil erosion and hampers its ability for water retention. Soil erosion risks are worsened when cane is cultivated on slopes and/
+or beet is cultivated in such a way that fields are left bare over winter. In agronomic terms, the loss of soil by erosion affects future yields and limits the sustainability
+of sugar crop growing by eradicating organic matter as well as nutrient-rich material from the soil. The nurturing of sugarcane also disturbs the soil quality;
+the impacts include loss of soil organic matter, changes in nutrient levels, salinization and acidification.
 Sugarcane growers rather than beet growers generally face soil salinity issues.
-Salinization results from over irrigation, poor drainage and cultivation in flood-
-prone lands or in plains where sea water intrusion occurs. Salinity of soil leads to
-lower crop yields. It has been discovered that sugarcane yields are almost
-significantly 50% lower on soils opened to water logging and salinity than on
-fresh unaffected land. Even worse it was estimated that 40% of the cane growing
-areas of Pakistan have salinity troubles.
-Sustainable systems to maintain and improve soil quality are required not only
-to save the environment and protect the society but also to ensure the continuity
-of the sugar industry. Soil erosion can be reduces and soil quality may be improved
-through a number of measures including: trash mulching in cane cultivation,
-maintenance of beet as part of a crop rotation, terracing, contour and strip planting
-of cane on slopes, maintenance of ‘live barriers’ (hedgerows, riparian zones), and
+Salinization results from over irrigation, poor drainage and cultivation in flood- prone lands or in plains where sea water intrusion occurs. Salinity of soil leads to
+lower crop yields. It has been discovered that sugarcane yields are almost significantly 50% lower on soils opened to water logging and salinity than on
+fresh unaffected land. Even worse it was estimated that 40% of the cane growing areas of Pakistan have salinity troubles.
+Sustainable systems to maintain and improve soil quality are required not only to save the environment and protect the society but also to ensure the continuity
+of the sugar industry. Soil erosion can be reduces and soil quality may be improved through a number of measures including: trash mulching in cane cultivation,
+maintenance of beet as part of a crop rotation, terracing, contour and strip planting of cane on slopes, maintenance of ‘live barriers’ (hedgerows, riparian zones), and
 modified (reduced or minimum) tillage.48
 48 Sugar and the Environment, WWF report. Available on: http://www.sugarcoconut.com/blogs/21-environmental-effects-
 
 II. Water
-Water is a scarce resource used for several different tasks; it is a serious concern
-for manufacturers all over the world. Sugar plantations and mills also bring
-about environmental concerns mainly associated with excessive use of water,
-water pollution and disposal of the resulting waste. Calculations show that to
+Water is a scarce resource used for several different tasks; it is a serious concern for manufacturers all over the world. Sugar plantations and mills also bring
+about environmental concerns mainly associated with excessive use of water, water pollution and disposal of the resulting waste. Calculations show that to
 produce one ton of cane 3-10 cubic meters of water is required.
 The cultivation of sugarcane and sugar beet is a water intensive process.
-Processing beets consumes a large amount of water as they need to wash off the
-soil from the beets at harvest. Furthermore, agrochemicals and other sediments
-used in the cultivation process pollute the waterways and aquatic habitats of the
-area in the series. This brings about a significant environmental impact the form
+Processing beets consumes a large amount of water as they need to wash off the soil from the beets at harvest. Furthermore, agrochemicals and other sediments
+used in the cultivation process pollute the waterways and aquatic habitats of the area in the series. This brings about a significant environmental impact the form
 of polluted effluents.
-Due to weak environmental laws in some countries sugar mills discharge huge
-amounts of waste substances straight into the nearby streams during the annual
-cleaning process. These effluents include heavy metals, oil, grease and cleaning
-agents. This debris is rich in organic matter; the decomposition of this matter
-reduces the oxygen levels in the water damaging the natural biochemical processes
-and the inhabitants of these freshwater systems.
-As mentioned sugarcane cultivation has excessively water consumption it uses
-more water per unit area than any other crop grown in the Indus Basin. Many
-dams, barrages and irrigation systems have come into being over the past 60
-years in Pakistan leading to a 90 percent decline in the amount of freshwater
-reaching the Indus Delta. The Indus Delta supports the world’s largest area of
-arid land mangroves, which rely on freshwater. In 1997 there existed 260,000
-hectares of mangrove forest now sadly only a 65 percent remains and is dominated
-by just one salt-tolerant species.
-The mangroves of the Indus Delta provide a nursery for young fish and shrimp,
-which in turn is an important source of income for many. Shrimp are a key export
-commodity for Pakistan, bringing in 68 percent of the US$100 million of the fish
-exports. Around 4 million people have been pushed into the slums of Karachi city
-hunting for appropriate jobs as the drought, excessive irrigation and floods have
-taken over their businesses of fishing or river boats.
-Sugarcane requires about 1500-2000mm/ha/year. Also water is used in the mills
-to wash off the significant mass of soil covering the plants. Seventy to even ninety
+Due to weak environmental laws in some countries sugar mills discharge huge amounts of waste substances straight into the nearby streams during the annual
+cleaning process. These effluents include heavy metals, oil, grease and cleaning agents. This debris is rich in organic matter; the decomposition of this matter
+reduces the oxygen levels in the water damaging the natural biochemical processes and the inhabitants of these freshwater systems.
+As mentioned sugarcane cultivation has excessively water consumption it uses more water per unit area than any other crop grown in the Indus Basin. Many
+dams, barrages and irrigation systems have come into being over the past 60 years in Pakistan leading to a 90 percent decline in the amount of freshwater
+reaching the Indus Delta. The Indus Delta supports the world’s largest area of arid land mangroves, which rely on freshwater. In 1997 there existed 260,000
+hectares of mangrove forest now sadly only a 65 percent remains and is dominated by just one salt-tolerant species.
+The mangroves of the Indus Delta provide a nursery for young fish and shrimp, which in turn is an important source of income for many. Shrimp are a key export
+commodity for Pakistan, bringing in 68 percent of the US$100 million of the fish exports. Around 4 million people have been pushed into the slums of Karachi city
+hunting for appropriate jobs as the drought, excessive irrigation and floods have taken over their businesses of fishing or river boats.
+Sugarcane requires about 1500-2000mm/ha/year. Also water is used in the mills to wash off the significant mass of soil covering the plants. Seventy to even ninety
 
-percent of global freshwater abstractions are for the purpose of irrigation hence
-it may be stated that agriculture is the largest consumer of water worldwide.
-Irrigation projects are not planned with consideration on environmental or social
-needs often resulting in damage to the downstream ecosystems and livelihoods
+percent of global freshwater abstractions are for the purpose of irrigation hence it may be stated that agriculture is the largest consumer of water worldwide.
+Irrigation projects are not planned with consideration on environmental or social needs often resulting in damage to the downstream ecosystems and livelihoods
 of communities that rely on fisheries.
-The release of waste materials from the sugar mills and the processing of the by-
-products such as molasses are proven to be harmful for the species of the
+The release of waste materials from the sugar mills and the processing of the by- products such as molasses are proven to be harmful for the species of the
 freshwater, diminishing the biodiversity. About 100 years ago, the rare Blind
-River Dolphin (Platanista minor) was found throughout the Indus and its branches
-it now exists in six totally isolated sub-populations.
-Being a deep-rooted crop, which remains in the soil all year round, a sugarcane
-crop is able to extract soil water to depths below one meter. At times the crop can
-affects river flows as well, it intercepts the rainwater from the catchment into
-rivers and taps into ground water resources.
-It should be communicated to growers that it is important when determining the
-best irrigation system to take into consideration the soil type, climate, farm
-management and affordability. The chief irrigation systems available are in the
-present technology include surface (flood / furrow), overhead sprinklers (drag
+River Dolphin (Platanista minor) was found throughout the Indus and its branches it now exists in six totally isolated sub-populations.
+Being a deep-rooted crop, which remains in the soil all year round, a sugarcane crop is able to extract soil water to depths below one meter. At times the crop can
+affects river flows as well, it intercepts the rainwater from the catchment into rivers and taps into ground water resources.
+It should be communicated to growers that it is important when determining the best irrigation system to take into consideration the soil type, climate, farm
+management and affordability. The chief irrigation systems available are in the present technology include surface (flood / furrow), overhead sprinklers (drag
 line / centre-pivot) and drip / trickle techniques.
-While drip and trickle techniques are likely to be the most water-use efficient, the
-technique requires a considerable financial investment. On the other hand surface
-techniques are found to be the least efficient but are cheap in terms of cost as they
-do not require farm machinery. In most areas only 30-35 percent of the water
-reaches the crop while the excess is lost from irrigation channels by evaporation
-and through runoff from the field. Due to poor irrigation management a large
+While drip and trickle techniques are likely to be the most water-use efficient, the technique requires a considerable financial investment. On the other hand surface
+techniques are found to be the least efficient but are cheap in terms of cost as they do not require farm machinery. In most areas only 30-35 percent of the water
+reaches the crop while the excess is lost from irrigation channels by evaporation and through runoff from the field. Due to poor irrigation management a large
 amount of water results in runoff containing sediment, pesticides and nutrients.
-Additionally, water standing in fields can enhance the incidence of water-borne
-parasitic infections such as Bilharzia (schistosomiasis).
-To counter the high cost aspect of drip techniques it is found that low-cost drip
-systems are available for small-holders moreover it can be assured that micro-
-credit is available for purchase of the equipment and sufficient ongoing technical
-support. Irrigation scheduling, including the use of tensiometres to monitor soil
-moisture, and tail-water recycling (where water-runoff from field is collected
-and reused for irrigation) are also ways of improving irrigation management.
+Additionally, water standing in fields can enhance the incidence of water-borne parasitic infections such as Bilharzia (schistosomiasis).
+To counter the high cost aspect of drip techniques it is found that low-cost drip systems are available for small-holders moreover it can be assured that micro-
+credit is available for purchase of the equipment and sufficient ongoing technical support. Irrigation scheduling, including the use of tensiometres to monitor soil
+moisture, and tail-water recycling (where water-runoff from field is collected and reused for irrigation) are also ways of improving irrigation management.
 
-Drip fertigation is the use of the drip system of fertilizing, in this way nutrients
-are only delivered to the plant base or root reducing fertiliser quantities used.
-Soil pesticides can be reduced by 30 percent when applied directly to the root
-zone. With this technology the dosage of the toxic drugs is reduced largely.49
-To minimize the damages of the gaseous emissions and effluent releasing into
-rivers and streams nearby it can be made sure that new mills are located
-downwind of populated centres. Another technique to reduce emissions is to dry
-the bagasse before using it as boiler fuel this also increases the efficiency of burning.
-The method does ask for basic dust control measures but these are cheap and
-simple to install in most cases.
-Air pollution can further be reduced by using hydrogen peroxide in place of
-sulphur dioxide in sugar mills. Moreover the use of hydrogen peroxide also shows
-higher quality white sugar without any requirement of new equipment. Odour
-control measures are readily available in the management of sugar beet factory
+Drip fertigation is the use of the drip system of fertilizing, in this way nutrients are only delivered to the plant base or root reducing fertiliser quantities used.
+Soil pesticides can be reduced by 30 percent when applied directly to the root zone. With this technology the dosage of the toxic drugs is reduced largely.49
+To minimize the damages of the gaseous emissions and effluent releasing into rivers and streams nearby it can be made sure that new mills are located
+downwind of populated centres. Another technique to reduce emissions is to dry the bagasse before using it as boiler fuel this also increases the efficiency of burning.
+The method does ask for basic dust control measures but these are cheap and simple to install in most cases.
+Air pollution can further be reduced by using hydrogen peroxide in place of sulphur dioxide in sugar mills. Moreover the use of hydrogen peroxide also shows
+higher quality white sugar without any requirement of new equipment. Odour control measures are readily available in the management of sugar beet factory
 wastes, such as the use of enzymes and organic scavengers for control of H2S.
-Still more a range of techniques is identified to minister the sugar mill effluents,
-including the treatment of mill sludge with micro-organisms that accelerate the
+Still more a range of techniques is identified to minister the sugar mill effluents, including the treatment of mill sludge with micro-organisms that accelerate the
 rate of decomposition.50
-III.By-products
-In addition the production of alcohol from cane also results in noteworthy
-pollution in the form of the by-product, known as ‘vinasse’. Every litre of alcohol
-produced from sugarcane produces 13 litres of vinasse. This effluent is discharged
-into rivers mostly.
-It is important for mills and the Government of Pakistan to realize the efficient
-utilities of the by-products. The proper use of by-products can lead to reduction
-in cost as well as increase in efficiency and sustainability. Governments should
-incentivize use of by-products as well as spread awareness on the subjects. Some
-policies can also be enacted on the industrial stage to ensure practices ensuring
-the sustainable use of resources. NGOs can also aid to promote education on
+III. By-products
+In addition the production of alcohol from cane also results in noteworthy pollution in the form of the by-product, known as ‘vinasse’. Every litre of alcohol
+produced from sugarcane produces 13 litres of vinasse. This effluent is discharged into rivers mostly.
+It is important for mills and the Government of Pakistan to realize the efficient utilities of the by-products. The proper use of by-products can lead to reduction
+in cost as well as increase in efficiency and sustainability. Governments should incentivize use of by-products as well as spread awareness on the subjects. Some
+policies can also be enacted on the industrial stage to ensure practices ensuring the sustainable use of resources. NGOs can also aid to promote education on
 production techniques and the utility of by-products.
 49 Sugar and the Environment, WWF report. Available on: http://www.sugarcoconut.com/blogs/21-environmental-effects-
 50 Sugar and the Environment, WWF report. Available on: http://www.sugarcoconut.com/blogs/21-environmental-effects-
 
-Vinasse production from beet molasses can however be utilized in animal feed,
-as can beet pulp residues, either directly or mixed with molasses and dried.
-Moreover this vinasse and treated waste water from sugar cane mills is suitable
-for irrigation. There is however a fear that these products might pollute soils and
-groundwater and cause salinisation, especially if used in large amounts. Studies
-presented that irrigation with cane effluent was found to suppress germination
+Vinasse production from beet molasses can however be utilized in animal feed, as can beet pulp residues, either directly or mixed with molasses and dried.
+Moreover this vinasse and treated waste water from sugar cane mills is suitable for irrigation. There is however a fear that these products might pollute soils and
+groundwater and cause salinisation, especially if used in large amounts. Studies presented that irrigation with cane effluent was found to suppress germination
 of peas in Balrampur, India.
-Bagasse holds the potential of being an important cellulose source for the
-production of chemicals like pentosans (including furfural) and allied substances.
-To aid re-vegetation and stabilization of denuded land bagasse can be applied as
-trash mulch. Further, it can also be used as an excellent substrate for mushroom
-cultivation, with the cultivation residue potentially used in animal feed. Sugar
-beet tops can be left on the soil surface of fields, as a source of nitrogen for the next
+Bagasse holds the potential of being an important cellulose source for the production of chemicals like pentosans (including furfural) and allied substances.
+To aid re-vegetation and stabilization of denuded land bagasse can be applied as trash mulch. Further, it can also be used as an excellent substrate for mushroom
+cultivation, with the cultivation residue potentially used in animal feed. Sugar beet tops can be left on the soil surface of fields, as a source of nitrogen for the next
 crop in the rotation.
-Fly ash extracted from boiler chimney gas also shows its use as a filtration aid in
-the sugar mill as well as in removal of certain pesticides from wastewater.51
+Fly ash extracted from boiler chimney gas also shows its use as a filtration aid in the sugar mill as well as in removal of certain pesticides from wastewater.51
 IV. Fertilizers
 Nitrogenous fertilisers are applied to sugarcane in many areas at around 50-
-200kg/ha/year, this leads to the process of soil acidification. These fertilizers are
-expensive and also reduce crop yield. Sugar industries should advice
+200kg/ha/year, this leads to the process of soil acidification. These fertilizers are expensive and also reduce crop yield. Sugar industries should advice
 recommendations on fertiliser use and guide farmers.
-Fertiliser use can be reduced through a number of practices including a more site
-specific assessment of fertiliser requirements, cultivation of leguminous green
+Fertiliser use can be reduced through a number of practices including a more site specific assessment of fertiliser requirements, cultivation of leguminous green
 manure crops during fallow periods or in rotation, the use of biofertilisers
-(combinations of nitrogenfixing micro-organisms and organic amendments),
-green cane harvesting and press mud, a sugar cane mill by-product which is
+(combinations of nitrogenfixing micro-organisms and organic amendments), green cane harvesting and press mud, a sugar cane mill by-product which is
 particularly effective for reducing phosphorus deficiency in cane.
-Mills can provide the farmers of their region the press mud, a phosphorous rich
-byproduct, for free or at minimal rates as well as provide education on the topics
+Mills can provide the farmers of their region the press mud, a phosphorous rich byproduct, for free or at minimal rates as well as provide education on the topics
 convincing the growers that better management can lead to benefits for the
 51 Sugar and the Environment, WWF report. Available on: http://www.sugarcoconut.com/blogs/21-environmental-effects-
 
-environment, surrounding community as well as the profit margins of the mills
-and the farmers. Financial returns can be promoted through increased yields,
-sustained soil health, reduced inputs and enhanced quality of production. Research
-has shown that countries like Pakistan and India are phosphorus deficient; this
+environment, surrounding community as well as the profit margins of the mills and the farmers. Financial returns can be promoted through increased yields,
+sustained soil health, reduced inputs and enhanced quality of production. Research has shown that countries like Pakistan and India are phosphorus deficient; this
 biofertilizer can attempt to fulfill this lack in deficiency.
-The assessment of foliar nutrient levels and adjustment of fertilizer rate is also
-possible through crop logging, used to monitor plant weight and leaf nutrient
+The assessment of foliar nutrient levels and adjustment of fertilizer rate is also possible through crop logging, used to monitor plant weight and leaf nutrient
 content.
-Efficient use of water resources can lead to higher farm productivity (more crop
-per drop), benefits for local communities (more drop per person) and the
-environment (more drop per ecosystem). It will also bring about wider socio-
-economic development; water will be available for other uses such as fisheries or
+Efficient use of water resources can lead to higher farm productivity (more crop per drop), benefits for local communities (more drop per person) and the
+environment (more drop per ecosystem). It will also bring about wider socio- economic development; water will be available for other uses such as fisheries or
 ecotourism.52
 Barriers Expected
 There will be barriers constraining the implementation of such beneficial practices.
-The foremost obstacle is the lack of incentives for performance such as realistic
-charges for water used and reliability of irrigation water delivery. The information
-blockage presented in terms of the communication gaps. Moreover, it is also realized
-that the poor generally has no easy access to (micro) finance for investment.
-Policies working for the promotion of sustainable sugar production are lacking
-not only at the regional level but also at national and international grounds.
+The foremost obstacle is the lack of incentives for performance such as realistic charges for water used and reliability of irrigation water delivery. The information
+blockage presented in terms of the communication gaps. Moreover, it is also realized that the poor generally has no easy access to (micro) finance for investment.
+Policies working for the promotion of sustainable sugar production are lacking not only at the regional level but also at national and international grounds.
 The Government
-The Government and/or the mills should aim to support providers of sugarcane
-integrated training programmes are desperately needed in the sector. Mills can
-also persuade practices that benefit themselves and the farmers, for instance the
-use of mill by-products for soil improvement.
-Policies measures should also be considered by the Government. The Government
-needs to strictly implement laws on sucrose-based payments for farmers instead
+The Government and/or the mills should aim to support providers of sugarcane integrated training programmes are desperately needed in the sector. Mills can
+also persuade practices that benefit themselves and the farmers, for instance the use of mill by-products for soil improvement.
+Policies measures should also be considered by the Government. The Government needs to strictly implement laws on sucrose-based payments for farmers instead
 of cane-weight, improved irrigation water allocation, defined water rights for
 52 Sugar and the Environment, WWF report. Available on: http://www.sugarcoconut.com/blogs/21-environmental-effects-
 
-farmers, and the possibility to sell or barter any excess water. Furthermore, charges
-should be levied for polluting water bodies.
-Government policies and reforms are required, establishment of sugarcane
-breeding station on international standards and research stations.53 Farmers
-suggested that the government should help the farmers form a union so that they
-have access to a platform where they can raise their problems and they are heard
-and thought for. In the National Industrial Policy 2011- Implementation
-framework- the quality compliance is focused. It suggests that tax incentives
-should be used to encourage private sector to set up quality testing and
-certification laboratory facilities in all sectors especially those relating to textiles,
+farmers, and the possibility to sell or barter any excess water. Furthermore, charges should be levied for polluting water bodies.
+Government policies and reforms are required, establishment of sugarcane breeding station on international standards and research stations.53 Farmers
+suggested that the government should help the farmers form a union so that they have access to a platform where they can raise their problems and they are heard
+and thought for. In the National Industrial Policy 2011- Implementation framework- the quality compliance is focused. It suggests that tax incentives
+should be used to encourage private sector to set up quality testing and certification laboratory facilities in all sectors especially those relating to textiles,
 sugar, leather and pulp and paper sectors.
 The Civil Society
-Local and international NGOs can also play an active role by encouraging the
-dialogue between extension, research centres, innovative farmers, sugar mills
-and banks for the development of research experiments. Local NGOs can help
-establish cooperative farming methods and provide platforms to farmer
-organizations. These organizations can then find ways to increase economic
-returns to farmers and spread beneficial knowledge.
+Local and international NGOs can also play an active role by encouraging the dialogue between extension, research centres, innovative farmers, sugar mills
+and banks for the development of research experiments. Local NGOs can help establish cooperative farming methods and provide platforms to farmer
+organizations. These organizations can then find ways to increase economic returns to farmers and spread beneficial knowledge.
 The Corporate Sector
 Industry associations such as PSMA can develop support programmes. South
-African Sugar Association (SASA), or those of the Australian Canegrowers Council
-provides guidelines to the growers of sugarcane.54 The global corporate sector
-can offer support through their purchasing decisions by developing a unique
-approach for sugar sourcing that encourages CSR adoption.
+African Sugar Association (SASA), or those of the Australian Canegrowers Council provides guidelines to the growers of sugarcane.54 The global corporate sector
+can offer support through their purchasing decisions by developing a unique approach for sugar sourcing that encourages CSR adoption.
 53 Pakkisan.com
 54 Sugar and the Environment, WWF report. Available on: http://www.sugarcoconut.com/blogs/21-environmental-effects-
 
@@ -1583,13 +1085,13 @@ I. Basic Information About CSR
 10. Is there any self imposing social responsibility code of the conduct for your unit? If yes please
 provide a copy of that?
 11. What ethical principals or code of conduct are in your industry?
-None 
+None
 12. What is your corporate governance model?
-None 
+None
 13. Do you have a disclosure and reporting strategy?
 14. In Europe business organizations and their stakeholders are taking collaborative actions for
 15. What impact do you think you have on the society?
-None 
+None
 16. Do you know about:
 ISO 14000 standard for environmental management systems,
 SA 8000 social accountability standard
@@ -1690,7 +1192,7 @@ traditional gur makers?
 the country has access to this necessity?
 78. Do the poorest of the nation also have access to this necessity?
 79. What mechanisms are in place to ensure this?
-80.The Benazir Income Support Program and the Utility Stores Corporation are promising to
+80. The Benazir Income Support Program and the Utility Stores Corporation are promising to
 
 Questionnaire for PSMA
 IX. Basic Information about CSR
@@ -1708,13 +1210,13 @@ Annex 3
 90. Is there any self imposing social responsibility code of the conduct for your unit? If yes please
 provide a copy of that?
 91. What ethical principals or code of conduct are in your industry?
-None 
+None
 92. What is your corporate governance model?
-None 
+None
 93. Do you have a disclosure and reporting strategy?
 94. In Europe business organizations and their stakeholders are taking collaborative actions for
 95. What impact do you think you have on the society?
-None 
+None
 96. Do you know about:
 ISO 14000 standard for environmental management systems,
 SA 8000 social accountability standard
@@ -1728,8 +1230,7 @@ X. Year 2007-2008
 100. Many farmers burnt their sugarcane stock, why?
 101. Do you think burning the ripe crop was their only choice?
 102. It was established that PSMA and its members were in violation under Section 4 of the
-Ordinance, in particular Section 4(1) read with Section 4(2) (a), (b), (c) and (e) of the Ordinance,
-according to an enquiry report (Oct 2009). Comment please.
+Ordinance, in particular Section 4(1) read with Section 4(2) (a), (b), (c) and (e) of the Ordinance, according to an enquiry report (Oct 2009). Comment please.
 XI. The process of sugar production
 103. Do you promote fair competition?
 104. A procurement rate for sugarcane is set (there is no competition among the factories) do you
@@ -1745,11 +1246,11 @@ Comments
 112. What are the most popular reasons for crop failure?
 113. Who bears the cost of crop failure?
 114. What are the most common diseases that attack sugarcane?
-115.The mill provides seeds usually to the farmers it gives the indent to, does it also provide any
+115. The mill provides seeds usually to the farmers it gives the indent to, does it also provide any
 fungicides?
-116.Do you provide any training or advice to farmers for the better productivity of crop?
+116. Do you provide any training or advice to farmers for the better productivity of crop?
 
-117.Do you consider the payment process to farmers as efficient and fair?
+117. Do you consider the payment process to farmers as efficient and fair?
 118. There is usually a delay in payment, why is it so?
 119. Do you think this delay has negative consequences for the farmers?
 120. Who dominate sugarcane cultivation in Pakistan? Please tick one.
@@ -1770,7 +1271,7 @@ XIII. Accessibility
 127. Sugar is a necessity, edible good, is there any mechanism ensuring that the entire population
 of the country has access to this necessity?
 128. Do the poorest of the nation also have access to this necessity?
-129.What mechanisms are in place to ensure this?
+129. What mechanisms are in place to ensure this?
 130. The Benazir Income Support Program and the Utility Stores Corporation are promising to
 
 Questionnaire for Farmers
@@ -1799,13 +1300,13 @@ Annex 4
 141. Do you have any say in price fixation?
 142. Do you think the process ensuring supply of sugarcane in sugar making (the indent) is fair?
 143. Usually there is a delay in the crushing process, for what reasons?
-144.The weight of the sugarcane cannot be challenged or verified by a neutral party, (the sugarcane
+144. The weight of the sugarcane cannot be challenged or verified by a neutral party, (the sugarcane
 145. Who pays the Cess on procurement of sugarcane?
 146. Are there any deductions from the farmers by millers?
 147. Is there any deduction depending on the quality of sugarcane? If yes, how is the rate determined
 148. Is this deduction legally correct?
 
-149.What are the most popular reasons for crop failure?
+149. What are the most popular reasons for crop failure?
 150. Do you have any crop insurance? Please provide details for the option you choose.
 Explanation:
 151. Who bears the cost of crop failure?
@@ -1819,13 +1320,13 @@ Yes the mill provides fungicides only
 crop?
 155. Do you consider the payment process to farmers as efficient and fair?
 
-156.If there is a delay in payment, why is it so?
+156. If there is a delay in payment, why is it so?
 157. There are agents who offer the farmers a trouble free passage for their stock and a prompt
 XVI. Gur-making market
 158. Who do you prefer selling your stock to?
 Gur-makers
 159. Do you think the traditional gur making should be permissible?
-160.The Sugarcane Act 1934 banned gur making in many ‘reserved area’ and prohibited farmers
+160. The Sugarcane Act 1934 banned gur making in many ‘reserved area’ and prohibited farmers
 to sell their produce to any other buyer but the particular mill, do you think this was fair?
 
 Questionnaire for end Users
@@ -1847,28 +1348,20 @@ SANSAR
 South Asia Network for Sustainability and Responsibility
 Organizations of South East Asia promoting Corporate Social Responsibility such as CSR
 Centre (Bangladesh), Sustainable Development Policy Institute (Pakistan), Centre for Afghan
-Civil Society Support (Afghanistan) have come together to launch new platform called SANSAR
-along with Prakruthi (India). The whole idea to make sure that a platform for discussing and
+Civil Society Support (Afghanistan) have come together to launch new platform called SANSAR along with Prakruthi (India). The whole idea to make sure that a platform for discussing and
 promoting sustainability and CSR issues in South Asian Countries has been well supported by
 OXFAM NOVIB, The Netherlands. This was also well received by other organizations from
 Nepal, Sri Lanka and Indonesia.
-SANSAR's core strategy is to make stakeholders redefine and commonly understand the
-concept of CSR and promote it actively to address social, environmental and business related
-issues across the globe & sectors in the long run. To achieve this, SANSAR employs strategies
-such as policy outreach, activism capacity building, research ·and networking. The above
-pages document the initial research work done in sugar sector, which visibly affects lives of
-large number of population in these countries. While trying to identify with the CSR issues in
-counties which are at different levels of understanding and praxis of sustainability issues, we
-create a platform to discuss, share, learn and implement CSR to reduce structural poverty. This
+SANSAR's core strategy is to make stakeholders redefine and commonly understand the concept of CSR and promote it actively to address social, environmental and business related
+issues across the globe & sectors in the long run. To achieve this, SANSAR employs strategies such as policy outreach, activism capacity building, research ·and networking. The above
+pages document the initial research work done in sugar sector, which visibly affects lives of large number of population in these countries. While trying to identify with the CSR issues in
+counties which are at different levels of understanding and praxis of sustainability issues, we create a platform to discuss, share, learn and implement CSR to reduce structural poverty. This
 would not have been possible without the help of many like-minded people.
 I would like to thank Dr. Abid Suleri of SDPI Pakistan, Shahamin Zaman of CSR Centre
-Bangladesh, Mujeeb Niazi of Centre for Afghan Civil Society Support, Afghanistan who have
-extended their whole-hearted support even within their busy schedules to make the pillars for
-this network made. We are hoping that more and more organisations would join this network to
-realize our collective dream of a peaceful and prosperous South Asia.
+Bangladesh, Mujeeb Niazi of Centre for Afghan Civil Society Support, Afghanistan who have extended their whole-hearted support even within their busy schedules to make the pillars for
+this network made. We are hoping that more and more organisations would join this network to realize our collective dream of a peaceful and prosperous South Asia.
 I would like to, in this regard, extend our sincere thanks to Mr. Viraf Mehta, Dr Shatadru
-Chattopadhayay, Dr Bimal Arora, Prof. VasanthiSrinivasan, Dr MC Gopinathan in helping
-us with their valuable inputs and guidance whenever needed.
+Chattopadhayay, Dr Bimal Arora, Prof. VasanthiSrinivasan, Dr MC Gopinathan in helping us with their valuable inputs and guidance whenever needed.
 Pramod John
-Prakruthi , India
+Prakruthi, India
 27th March 2012

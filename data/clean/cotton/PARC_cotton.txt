@@ -1,1434 +1,870 @@
-_____________________________________________________________________________________________________ 
- 
-*Corresponding author: E-mail: Umarshaikh2966@yahoo.com; 
-Umar Shahbaz, ORCID: ID https://orcid.org/0000-0003-1743-5708 
-Muhammad Awais Naeem: ORCID ID: https://orcid.org/0000-0002-6356-1935 
-Asian Journal of Agricultural Extension, Economics & 
-Sociology 
- 
-29(2): 1-11, 2019; Article no.AJAEES.45961 
-ISSN: 2320-7027 
- 
- 
- 
-Role of Pakistan Government Institutions in 
-Adoption of Bt cotton and Benefits Associated with 
-Adoption 
- 
-Umar Shahbaz1*, Xiaobin Yu1 and Muhammad Awais Naeem2 
- 
-1School of Biotechnology, Jiangnan University, Wuxi, China. 
-2Key Laboratory of Eco-Textiles, Ministry of Education, Jiangnan University, Wuxi 214122, China. 
- 
-Authors’ contributions 
- 
-This work was carried out in collaboration between all authors. All authors read and approved the final 
-manuscript. 
- 
-Article Information 
- 
-DOI: 10.9734/AJAEES/2019/45961 
-Editor(s): 
-(1) Dr. Hasan Vural, Department of Agricultural Economics, Faculty of Agriculture, Uludag University, Bursa, 
-Turkey. 
-Reviewers: 
-(1) Kathleen Hefferon, Cornell University, USA. 
-(2) Bidemi Ajibola, Federal University of Technology Minna, Nigeria. 
-(3) Larbouga Bourgou, Environmental and Agricultural Research Institute (INERA), Burkina Faso. 
-Complete Peer review History: http://www.sciencedomain.org/review-history/28163 
- 
- 
- 
-Received 03 October 2018 
-Accepted 18 December 2018 
-Published 07 January 2019 
- 
- 
-ABSTRACT 
- 
-Pakistan is the world fourth biggest maker of the cotton and positions tenth in productivity. Many 
-factors such as poor seed quality, primitive agronomic practices, improper use of fertilizers and 
-pesticides, lack of access to modern machinery, slow adoption of modern farming practices and use 
-of low Bt expression varieties can attribute to it. In this study focus was on the slow adoption of the 
-advanced generations of Bt cotton and that the role of government institutions in endorsement of Bt 
-Cotton in Pakistan and the prognosticating benefits of adopting it more widely. 
-Bt cotton contains specific type of proteins that when consumed by a specific type of insect larvae, 
-damage the insect gut walls by creating holes in it, which causes larvae to stop feeding and 
-eventually die. The Bt gene is inserted in plants by genetic alteration in which the source code of the 
-DNA is changed to produce the proteins / toxins which reduces the need for the application of 
-insecticides. Brought in Pakistan during 2005 illegally and formally approved in 2010 the productivity 
-increase in Bt cotton remains yet to be seen. This is more surprising when in India and throughout 
-the world, the productivity of Bt cotton increased manifolds. Bt cotton’s main function is not to 
-Review Article 
+*Corresponding author: E-mail: Umarshaikh2966@yahoo.com;
+Umar Shahbaz, ORCID: ID https://orcid.org/0000-0003-1743-5708
+Muhammad Awais Naeem: ORCID ID: https://orcid.org/0000-0002-6356-1935
+Asian Journal of Agricultural Extension, Economics &
+Sociology
 
-increase productivity but to check the role of the boll worms in decreasing productivity and through 
-decreasing the pest attacks on the crops; Bt cotton serves to increase productivity by decreasing 
-sub economic threshold levels damages and creating more reliable insect control in all weather 
-conditions. This paper will consider Progress of government institutes, different companies and 
-Government agencies involved that correlate directly to the production of the Bt cotton in Pakistan. 
- 
- 
-Keywords: Bt cotton cultivation; socioeconomic status; productivity; Bt technology. 
- 
-1. INTRODUCTION 
- 
-1.1 Growing Cotton in Pakistan 
- 
-In Pakistan Cotton is cultivated mainly in Punjab 
-and Sindh provinces. Punjab is responsible for 
-most of the cotton production, producing 79 % of 
-total cotton in Pakistan [1]. In Pakistan from May 
-until June when temperature is usually very high, 
-cotton growing season starts and then harvesting 
-begins in September and it continues until 
-December. In Pakistan, widespread use of 
-pesticides is common and with pests becoming 
-more resistant to pesticides, estimated losses in 
-cotton production differs from ten to fifteen 
-percent in an ordinary year to thirty to forty 
-percent in a bad farming year [2]. In KPK, 
-Baluchistan and some areas of Punjab organic 
-cotton cultivation is common because of low pest 
-pressure in these areas. To control insects, 
-farmers use a wide range of pesticides. 70% of 
-all pesticides imported in Pakistan are used in 
-cotton production [3]. 
- 
-1.2 Mode of Action of Bt Endotoxin 
- 
-There is a crystal protein produced during 
-sporulation, the active toxin binds the glycol-
-protein receptor in the insect midgut epithelium. 
-This protein is effective only within specific gut 
-pH (9-12) (alkaline) which means that it does not 
-harm the livings with acidic gut such as birds, 
-animals, humans, etc. Insects eat the plant tissue 
-which contains the protein that binds to the gut 
-receptor and protease enzyme in the insect gut 
-and then it damages the gut lining leading to 
-paralysis and ultimate death due to starvation. 
- 
-1.3 Bt Cotton 
- 
-Bt cotton carries a Bt gene that contains the 
-endotoxin Cry protein. Cry gene was transformed 
-into the cotton genome by the Agrobacterium 
-method. After screening, a cotton plant is 
-identified which carries the Cry gene in its plant 
-genome. This modified plant is then crossed with 
-other elite varieties by backcross method to 
-transfer the trait. First cotton variety was 
-commercialized in 1996 after the field approvals 
-in 1995 by USA [4]. Currently, about 12.1 million 
-farmers are growing GMO (Genetically modified 
-Organism) cotton with most of them in China and 
-India [5]. 
- 
-1.4 Status 
-Biotech 
-Institutes 
-Pakistan & Institutional Constraints to 
-the Formal Commercialization OF Bt 
- 
-NIBGE (National Institute for Biotechnology and 
-Genetic Engineering) Founded in 1992, NIGBE is 
-a 
-federal 
-institute 
-affiliated 
-ICGEB(International 
-center 
-Genetic 
-Engenerring and Biotechnology). In 2001 to 
-2002, a transgenic cotton variety with Cry1Ac 
-resistance to Bollworm was claimed to be 
-developed by NIBGE by cross of transformed 
-Coker as the male parent and FH901 as a 
-female parent. After three backcrosses it was 
-obtained the IR-FH901 [6]. In the application to 
-National 
-Committee 
-(NBC) 
-Biosafety clearance, NIBGE claimed that during 
-the three years of field trials IR-FH-901 requires 
-fewer number of sprays and have higher 
-production rate as compared to non-transformed 
-varieties. 
- 
-During a meeting held in CCRI(Central Cotton 
-Research Institute) in November 2006, it was 
-documented 
-IR-FH901 
-was 
-not 
-genetically uniformed as only 3 backcrosses 
-were perfomed instead of 6. A report was 
-presented 
-recommended 
-by 
-Commissioner of cotton, IR-FH901’s commercial 
-release provided it has adequate uniformity and 
-fulfilled of all other fiber standards [7]. In 
-February 2006, NIBGE applied for the approval 
-of biosafety but then in November 2006, it wrote 
-for deferring its application. 
- 
-“National Biosafety Committee in its meeting held 
-on November 25, 2006 accepted NIBGE’s 
-request to withdraw the case with reference to 
-the Punjab Seed Council observation that NIBGE 
+29(2): 1-11, 2019; Article no. AJAEES.45961
+ISSN: 2320-7027
 
-Table 1. 
- 
- 
-NIBGE Cotton varities 
- 
-Trait 
-Cotton Variety/Biotech Event 
-Status 
-Insect /virus 
-resistance 
- 
-IR-NIBGE-1524 (MON 531) 
-Approved in 2006 
-IR-NIBGE- 3701(MON 531) 
-Approved in 2010 Punjab 
-IR-NIBGE- 901(MON 531) 
-Approved in 2010 Punjab 
-IR-NIBGE-3(MON 531) 
-Approved 2011 
-IR-NIBGE-4(MON531) 
-Approved in 2012 
-IR-NIBGE-5(MON 531) 
-Under trials 
-Bollworm 
-Resistance 
-Cry1Ac 
-Cry1Ac cotton developed share with NIAB 
-HVT 
-HVT cotton developed Biosafety in progress 
-Cry2Ab 
-Transformation stopped 
-Cry1Ac +Cry2Ab 
-Under progress 
-Cry1Ac +Cry2Ab+EPSPS 
-Transformation under progress 
- 
-variety IR-FH-901 is heterogeneous and also 
-highly susceptible to Cotton leaf curl virus 
-(CLCV) infection [8].” 
- 
-Since 2002, IR-FH901 has reached in farmer 
-fields by informal way from NIBGE or from other 
-trial sites along with many other IR varieties from 
-NIBGE [9]. IR- FH901 declined fastly in the field 
-and once in two years it emaciated. By 2008, it 
-was cultivated in only 0.08% of the cotton area in 
-Punjab (CRI, 2008b). After this failure PAEC 
-asked NIBGE to commercialize its product 
-through NIAB but no agreement took place 
-mainly because of the issue that persisted that 
-who would get the credit for introducing the 
-variety [6]. 
- 
-1.5 Center for Excellence in Molecular 
-Biology 
-(CEMB) 
-(University 
-Punjab, Lahore) 
- 
-CEMB was founded in the University of Punjab in 
-1986. The 1st achievement of CEMB was the 
-transformed basmati Rice which provided insect 
-resistance. Another major achievement was 
-transformation of the CIM446 with GNA gene. 
-CEMB focused on MNH93 and CIM 482 because 
-of its higher transformation ability, fiber quality, 
-and genetic stability. Using the Agrobacterium 
-method, MNH93 was transformed with Cry1Ab 
-gene with Cry1Ac gene first and then with 
-Cry 2Ab 
-gene 
-secondly, 
-CIM482 
-was 
-transformed [10]. CEMB started field trials in 
-2002 and 4 selected lines were evaluated. These 
-field 
-analyses 
-manifested 
-GM MNH93 needed forty-one percent less spray 
-to control pests and resulted in twenty-eight 
-percent more yield than the non-GM MNH93 
-controlled plants [6]. 
-1.6 CAMB’S 
-(Center 
-Agriculture 
-Molecular 
-Biology) 
-Route 
- 
-An agreement was signed between CEMB and 
-two companies AAG (Ali Akbar Group Pakistan 
-Ltd.) and FMC Pakistan Ltd. for transfer of pre-
-basic seed. FMC in 2008 backed out from the 
-agreement out of a fear of Infringing Monsanto’s 
-IP. CAMB argued that its genes were different 
-from the Monsanto Cry1Ac and Cry2Ab. In June 
-2008 AAG wrote a letter to Ministry of Food, 
-Agriculture & Livestock (MINFAL). MINFAL 
-raised several objections to AAG’s Claims. In the 
-letter dated June 12, 2008, the Deputy ADC, 
-MINFAL raised several objections to AAG's 
-previously mentioned claims. He mentioned that: 
-AAG had not gotten approval from the federal 
-and provincial governments before attempting 
-biotech Research and development, AAG did not 
-have the foundation for genetic modification, it 
-had been increasing and disseminating seed 
-without looking for biosafety approval and without 
-following the official methods, cases of high 
-return did not appear to be practical as no official 
-field trials had been conducted, NBC had not 
-gotten any application for field testing of these Bt 
-assortments, the information introduced on fiber 
-attributes of Akbar 1 and Akbar 2 was not 
-substantiated 
-Reality 
-Marking 
+Role of Pakistan Government Institutions in
+Adoption of Bt cotton and Benefits Associated with
+Adoption
 
-Standards apply just to imported seeds [11]. 
-Having 
-disparaged 
-invalidated 
-AAG's 
-conflicts, MINFAL exhorted that AAG ought to 
-dependably look for earlier authorization from 
-NBC before continuing with a communitarian 
-course of action with a local or foreign entity, look 
-for consent from the provincial agriculture 
-departments, 
-include 
-provincial 
-biotechnology research system to guarantee 
-genuineness of the innovation, entirely cling to 
-arrangements 
-Standards 
+Umar Shahbaz1*, Xiaobin Yu1 and Muhammad Awais Naeem2
 
-consent to an arrangement with the cotton 
-research foundations. But AAG dismissed this 
-advice and brought Bt to market without the 
-permission of NBC. 
- 
-AAG had received the material from CAMB in 
-April 2006 and began promoting in April 2008. 
-AAG advertised Bt cotton seeds at high costs of 
-Rs. 400 and Rs. 500 for every kg [6]. Insufficient 
-time was given for introgression of the Bt trait 
-from 
-CAMB's 
-MNH93 
-into 
-whichever 
-assortments AAG had utilized. It began isolating 
-in the field and rapidly lost its genetic purity [12]. 
- 
-2. COTTON 
-RESEARCH 
-INSTITUTE- 
-AYUB 
-AGRICULTURE 
-RESEARCH 
-INSTITUTE (CRI- AARI) 
- 
-AARI is situated in Faisalabad Pakistan. AARI 
-was established in 1962 and is one of the 
-imperative research associations of the nation. 
-AARI is the result of the green upset in the 
-country in the late sixties and from that point 
-forward has reliably assumed a key part in 
-meeting the post green revolution productivity 
-challenges and guaranteeing national food 
-security 
-(AARI 
-official 
-site). 
-The 
-Punjab 
-Government has its own particular system of 
-research organizations and stations, working 
-under the umbrella of AARI. This research 
-systemAARI includes Cotton Research Institute 
-(CRI) and 11 research stations and sub-stations 
-situated in various parts of Punjab. CRI has 
-created Bt assortments FH113, FH114 by 
-crossing 
-Coker312 
-neighborhood 
-assortments. A bollworm resistant assortment 
-was created by 2006-2007, prepared to be 
-showcased [6]. Out 
-of the 24 local 
-assortments entering the trials, FH113 positioned 
-fifth as far as yield per section of land [13]. CRI 
-presented its application for biosafety approvals 
-to the IBC (Institutional Biosafety Committees) 
-[14]. 
- 
-In 2007-2008, while the approval was under 
-process these varieties reached the market 
-through casual channels [15]. 
- 
-2.1 CCRI 
-(Central 
-Research 
-Institute) 
- 
-Central Cotton Research Institute in Multan is a 
-chief foundation at the national level. The 
-Organization has contributed fundamentally by 
-progressing and producing learning in cotton 
-innovative work since its foundation in 1970 [16]. 
- 
-CCRI converted many varieties to Bt Cotton but 
-before these varieties could get clearance from 
-NBC, they made their way to farmers through 
-informal channels. 
- 
-Leading features of five new varieties Viz.CIM-6, 
-CYTO-124, Bt CIM-600, Bt CIM-612, and Bt 
-Cyto-117 were presented in the AARI Faisalabad 
-on 09.03.2015 at the 71st meeting of Punjab 
-Seed Council Expert Subcommittee. Apart from 
-having up to mark fiber quality traits, Bt CIM-600 
-was shown to have been tolerant to heat stress 
-whereas Bt CIM-616, CIM-612 and Bt Cyto-177 
-were shown to be highly CLCV tolerant with 
-promising yield potentials. 
- 
-Table 2. AARI cotton varieties 
- 
-Sr. no 
-Name of 
-variety 
-Brief description 
+1School of Biotechnology, Jiangnan University, Wuxi, China.
+2Key Laboratory of Eco-Textiles, Ministry of Education, Jiangnan University, Wuxi 214122, China.
 
-FH-114 
-Bt(Boll worm resistant), CCLV tolerant, single stem, early, high input 
+Authors’ contributions
 
-FH-942 
-,NON Bt, fit for marginal areas, drought tolerant, high yielded 
+This work was carried out in collaboration between all authors. All authors read and approved the final manuscript.
 
-BH-167 
-Drought tolerant, high yielded, non Bt, fit for low fertile soil 
+Article Information
 
-SLH-317 
-NON Bt, High Yielded, Medium Boll Size, 
+DOI: 10.9734/AJAEES/2019/45961
+Editor(s):
+(1) Dr. Hasan Vural, Department of Agricultural Economics, Faculty of Agriculture, Uludag University, Bursa,
+Turkey.
+Reviewers:
+(1) Kathleen Hefferon, Cornell University, USA.
+(2) Bidemi Ajibola, Federal University of Technology Minna, Nigeria.
+(3) Larbouga Bourgou, Environmental and Agricultural Research Institute (INERA), Burkina Faso.
+Complete Peer review History: http://www.sciencedomain.org/review-history/28163
 
-FH-118 
-Bollworm resistant Bt, Higher yielder, fit for low fertile soil, 
+Received 03 October 2018
+Accepted 18 December 2018
+Published 07 January 2019
 
-FH-142 
-Bollworm resistant, high yield, CLCV tolerant, big boll size, high input 
-responsive, 
+ABSTRACT
 
-MNH-886 
-Bollworm resistant Bt, highly CLCV tolerant, big boll size, heat tolerant, 
+Pakistan is the world fourth biggest maker of the cotton and positions tenth in productivity. Many factors such as poor seed quality, primitive agronomic practices, improper use of fertilizers and
+pesticides, lack of access to modern machinery, slow adoption of modern farming practices and use of low Bt expression varieties can attribute to it. In this study focus was on the slow adoption of the
+advanced generations of Bt cotton and that the role of government institutions in endorsement of Bt
+Cotton in Pakistan and the prognosticating benefits of adopting it more widely.
+Bt cotton contains specific type of proteins that when consumed by a specific type of insect larvae, damage the insect gut walls by creating holes in it, which causes larvae to stop feeding and
+eventually die. The Bt gene is inserted in plants by genetic alteration in which the source code of the
+DNA is changed to produce the proteins / toxins which reduces the need for the application of insecticides. Brought in Pakistan during 2005 illegally and formally approved in 2010 the productivity
+increase in Bt cotton remains yet to be seen. This is more surprising when in India and throughout the world, the productivity of Bt cotton increased manifolds. Bt cotton’s main function is not to
+Review Article
 
-BH-178 
-High yielder, Boll worm resistant Bt, compact, big boll size, CLCV resistant, 
+increase productivity but to check the role of the boll worms in decreasing productivity and through decreasing the pest attacks on the crops; Bt cotton serves to increase productivity by decreasing
+sub economic threshold levels damages and creating more reliable insect control in all weather conditions. This paper will consider Progress of government institutes, different companies and
+Government agencies involved that correlate directly to the production of the Bt cotton in Pakistan.
 
-VH-259 
-High yielder, CLV tolerant, boll worm resistant Bt, 
- 
-Source: www.AARI.COM 
+Keywords: Bt cotton cultivation; socioeconomic status; productivity; Bt technology.
 
-2.2 CAAS and Pakistan 
- 
-China Academy of Agriculture Sciences (CAAS) 
-is 
-currently 
-working 
-Agricultural 
-Biotechnology Research Institute, Faisalabad. 
-CAAS scientists used the Gene fusion technique 
-to enhance the expression of Cry protein. The 
-scientists fused the Cry1Ac and Cry1Ab to create 
-a novel sequence. This gene construct was used 
-to develop local Chinese varieties in 1993 
-[17,18]. CAAS Bt has been sold by BTCC [11]. 
- 
-Auriga approached the GOP (Government of 
-Punjab) in June 2007 for commercialization of 
-fusion 
-gene 
-varieties 
-BTCC 
-required` a total US$3.5 M for the transformation, 
-biosafety study and relevant data provision for 3 
-years [19]. Agrifarm signed an agreement with 
-Silverland to import double gene Bt in Pakistan. 
-Agrifarm had to select elite Cotton varieties and 
-give them to Silverland for transformation; 
-Silverland would then supply the transformed 
-varieties to Agrifarm after getting Biosafety 
-approval in Pakistan [16]. Silverland promised 
-that the double gene varieties could be available 
-by 2011 in Pakistan. Series of meetings were 
-held in the Agriculture Department on the 
-subject. It was noticed that China demanded low 
-cost for the double 
-gene technology as 
-compared to that demanded by Monsanto with 
-double gene also providing better protection 
-against bollworms as compared to single gene 
-MON531. CRI agreed to support Agrifarm 
-partnership. It submitted the summary to CM 
-(Chief Minister) in October 2007 to pay the 
-technology fee US$3.5 Million to Silverland as 
-per Agrifarm agreement. Punjab Government 
-planning and development Board (P&D) criticized 
-it and argued that before making a proposal, 
-Agriculture Department should negotiate with 
-multiple technology providers. Giving monopoly 
-to one company will harm the research efforts of 
-NIBGE, CEMB and other indigenous research 
-institutes. P&D (Punjab Government planning 
-and development Board) proposed that GOP 
-should directly CRDC (Cotton Research and 
-development company) and make it available to 
-all breeders. CRDC submitted a US$4M project 
-proposal to the Punjab Agricultural Research 
-Board for the acquisition of Bt material from 
-China (Government of Punjab, 2007). CCRI, 
-CRI and local seed organizations (involving 
-Neelum Seed) stand to gain from this approval 
-[20]. Monsanto and the Administration are the 
-main parties to lose from such an arrangement. 
-Monsanto would lose a chance to gather 
-revenues 
-its 
-technology, 
-Administration would end up paying for a 
-technology that is inferior compared to the one 
-effectively accessible to many farmers nation 
-over [6]. 
- 
-2.3 Bt Cotton and Local Seed Companies 
- 
-Neelum Seed Company started developing Bt 
-Cotton in 1997 by getting few exotic Bt seeds. 
-Two backcrosses were made with the local 
-varieties 
-process 
-selection 
-purification continuing for the next five years. The 
-selection was made on the bio-assay initially and 
-later the Breeder used the detection strips for 
-detection of Cry1Ac. In 2002 Neelum Seeds 
-grew seeds on half an Acre with a surprising 
-yield average of 41 Mounds/Acre [6]. At the end 
-of 2003, Bt121 was considered a commercial 
-success, next year Neelum Seed and Bt121 
-were vilified by the MINFAL, PSC, FSC&RD, 
-CRI, and CCRI. APTMA pointed out that the fiber 
-characteristics were not acceptable to textile 
-industry. It was a high yielding, high input variety 
-with resistance to bolworms but susceptible to 
-other pests. 
- 
-Despite government opposition Bt 121 become 
-the most popular variety of Pakistan in 2006 [21]. 
-The results from the Kleffmann Group Amis® 
-study in 2015 indicates, that Bt121 is the most 
-famous cotton assortment, cultivated on twenty-
-one percent of the cotton region in Pakistan. 
-Bt121 is by all accounts extremely prevalent in 
-Punjab (24% of the cultivated area), though in 
-Sindh it secured 11% of the area on provincial 
-level. Neelum Seed used the MON531 event in 
-Bt121 (ISAAA, 2011). Due to non-approval of 
-Bt121, Neelum Seeds cannot sell seeds under 
-brand name so seeds were sold in brown bag. 
-Adulteration with non-Bt varieties was very 
-common due to selling in brown bag. 
- 
-2.4 Pakistan and Monsanto Negotiations 
-for Technology Partnership 
- 
-Biotech crops’ area has increased 100-fold from 
-1.7 million hectares in 1996 to 185.1 M/ha in 
-2016 planted by ~18 million farmers in 26 
-countries. Farmers benefits for the period 1996 
-to 2015 were estimated to be around US$150 
-billion [22]. Genetically engineered crops that 
-yields insecticidal proteins from the bacterium 
-Bacillus thuringiensis (Bt) have been planted all 
-around the world on a total aggregate of more 
-than 732 million ha since 1996.In 2015-16 India 
-become the #1 cotton producer in World, this 
-success to a great extent can be attributed to Bt 
+1. INTRODUCTION
 
-cotton with an area of 11.6 million ha planted by 
-7.7 million small farmers [22]. Monsanto in 1996 
-introduced 
-Bollgard® 
-cotton 
-which 
-gave 
-protection against cotton bollworm and pink 
-bollworm. Three generation of GM Cotton have 
-been commercialized, 1st in 1996 by Monsanto 
-and 2nd generation containing Cry2Ab in addition 
-to Cry1Ac and a stacked 2nd version Roundup 
-Ready Flex® (RR FLEX) which carry a herbicide 
-resistance gene in addition to Cry1Ac and 
+1.1 Growing Cotton in Pakistan
+
+In Pakistan Cotton is cultivated mainly in Punjab and Sindh provinces. Punjab is responsible for most of the cotton production, producing 79 % of
+total cotton in Pakistan [1]. In Pakistan from May until June when temperature is usually very high, cotton growing season starts and then harvesting
+begins in September and it continues until
+December. In Pakistan, widespread use of pesticides is common and with pests becoming more resistant to pesticides, estimated losses in
+cotton production differs from ten to fifteen percent in an ordinary year to thirty to forty percent in a bad farming year [2]. In KPK,
+Baluchistan and some areas of Punjab organic cotton cultivation is common because of low pest pressure in these areas. To control insects,
+farmers use a wide range of pesticides. 70% of all pesticides imported in Pakistan are used in cotton production [3].
+
+1.2 Mode of Action of Bt Endotoxin
+
+There is a crystal protein produced during sporulation, the active toxin binds the glycol- protein receptor in the insect midgut epithelium.
+This protein is effective only within specific gut pH (9-12) (alkaline) which means that it does not harm the livings with acidic gut such as birds,
+animals, humans, etc. Insects eat the plant tissue which contains the protein that binds to the gut receptor and protease enzyme in the insect gut
+and then it damages the gut lining leading to paralysis and ultimate death due to starvation.
+
+1.3 Bt Cotton
+
+Bt cotton carries a Bt gene that contains the endotoxin Cry protein. Cry gene was transformed into the cotton genome by the Agrobacterium
+method. After screening, a cotton plant is identified which carries the Cry gene in its plant genome. This modified plant is then crossed with
+other elite varieties by backcross method to transfer the trait. First cotton variety was commercialized in 1996 after the field approvals
+in 1995 by USA [4]. Currently, about 12.1 million farmers are growing GMO (Genetically modified
+Organism) cotton with most of them in China and
+India [5].
+
+1.4 Status
+Biotech
+Institutes
+Pakistan & Institutional Constraints to the Formal Commercialization OF Bt
+
+NIBGE (National Institute for Biotechnology and
+Genetic Engineering) Founded in 1992, NIGBE is a federal institute affiliated
+ICGEB(International center
+Genetic
+Engenerring and Biotechnology). In 2001 to
+2002, a transgenic cotton variety with Cry1Ac resistance to Bollworm was claimed to be developed by NIBGE by cross of transformed
+Coker as the male parent and FH901 as a female parent. After three backcrosses it was obtained the IR-FH901 [6]. In the application to
+National
+Committee
+(NBC)
+Biosafety clearance, NIBGE claimed that during the three years of field trials IR-FH-901 requires fewer number of sprays and have higher
+production rate as compared to non-transformed varieties.
+
+During a meeting held in CCRI(Central Cotton
+Research Institute) in November 2006, it was documented
+IR-FH901
+was not genetically uniformed as only 3 backcrosses were perfomed instead of 6. A report was presented recommended by
+Commissioner of cotton, IR-FH901’s commercial release provided it has adequate uniformity and fulfilled of all other fiber standards [7]. In
+February 2006, NIBGE applied for the approval of biosafety but then in November 2006, it wrote for deferring its application.
+
+“National Biosafety Committee in its meeting held on November 25, 2006 accepted NIBGE’s request to withdraw the case with reference to
+the Punjab Seed Council observation that NIBGE
+
+Table 1.
+
+NIBGE Cotton varities
+
+Trait
+Cotton Variety/Biotech Event
+Status
+Insect /virus resistance
+
+IR-NIBGE-1524 (MON 531)
+Approved in 2006
+IR-NIBGE- 3701(MON 531)
+Approved in 2010 Punjab
+IR-NIBGE- 901(MON 531)
+Approved in 2010 Punjab
+IR-NIBGE-3(MON 531)
+Approved 2011
+IR-NIBGE-4(MON531)
+Approved in 2012
+IR-NIBGE-5(MON 531)
+Under trials
+Bollworm
+Resistance
+Cry1Ac
+Cry1Ac cotton developed share with NIAB
+HVT
+HVT cotton developed Biosafety in progress
+Cry2Ab
+Transformation stopped
+Cry1Ac +Cry2Ab
+Under progress
+Cry1Ac +Cry2Ab+EPSPS
+Transformation under progress
+
+variety IR-FH-901 is heterogeneous and also highly susceptible to Cotton leaf curl virus
+(CLCV) infection [8].”
+
+Since 2002, IR-FH901 has reached in farmer fields by informal way from NIBGE or from other trial sites along with many other IR varieties from
+NIBGE [9]. IR- FH901 declined fastly in the field and once in two years it emaciated. By 2008, it was cultivated in only 0.08% of the cotton area in
+Punjab (CRI, 2008b). After this failure PAEC asked NIBGE to commercialize its product through NIAB but no agreement took place
+mainly because of the issue that persisted that who would get the credit for introducing the variety [6].
+
+1.5 Center for Excellence in Molecular
+Biology
+(CEMB)
+(University
+Punjab, Lahore)
+
+CEMB was founded in the University of Punjab in
+1986. The 1st achievement of CEMB was the
+transformed basmati Rice which provided insect resistance. Another major achievement was transformation of the CIM446 with GNA gene.
+CEMB focused on MNH93 and CIM 482 because of its higher transformation ability, fiber quality, and genetic stability. Using the Agrobacterium
+method, MNH93 was transformed with Cry1Ab gene with Cry1Ac gene first and then with
+Cry 2Ab gene secondly,
+CIM482
+was transformed [10]. CEMB started field trials in
+2002 and 4 selected lines were evaluated. These
+field analyses manifested
+GM MNH93 needed forty-one percent less spray to control pests and resulted in twenty-eight percent more yield than the non-GM MNH93
+controlled plants [6].
+1.6 CAMB’S
+(Center
+Agriculture
+Molecular
+Biology)
+Route
+
+An agreement was signed between CEMB and two companies AAG (Ali Akbar Group Pakistan
+Ltd.) and FMC Pakistan Ltd. for transfer of pre- basic seed. FMC in 2008 backed out from the agreement out of a fear of Infringing Monsanto’s
+IP. CAMB argued that its genes were different from the Monsanto Cry1Ac and Cry2Ab. In June
+2008 AAG wrote a letter to Ministry of Food,
+Agriculture & Livestock (MINFAL). MINFAL raised several objections to AAG’s Claims. In the letter dated June 12, 2008, the Deputy ADC,
+MINFAL raised several objections to AAG's previously mentioned claims. He mentioned that:
+AAG had not gotten approval from the federal and provincial governments before attempting biotech Research and development, AAG did not
+have the foundation for genetic modification, it had been increasing and disseminating seed without looking for biosafety approval and without
+following the official methods, cases of high return did not appear to be practical as no official field trials had been conducted, NBC had not
+gotten any application for field testing of these Bt assortments, the information introduced on fiber attributes of Akbar 1 and Akbar 2 was not
+substantiated
+Reality
+Marking
+
+Standards apply just to imported seeds [11].
+Having disparaged invalidated
+AAG's conflicts, MINFAL exhorted that AAG ought to dependably look for earlier authorization from
+NBC before continuing with a communitarian course of action with a local or foreign entity, look for consent from the provincial agriculture
+departments, include provincial biotechnology research system to guarantee genuineness of the innovation, entirely cling to
+arrangements
+Standards
+
+consent to an arrangement with the cotton research foundations. But AAG dismissed this advice and brought Bt to market without the
+permission of NBC.
+
+AAG had received the material from CAMB in
+April 2006 and began promoting in April 2008.
+AAG advertised Bt cotton seeds at high costs of
+Rs. 400 and Rs. 500 for every kg [6]. Insufficient time was given for introgression of the Bt trait from
+CAMB's
+MNH93
+into whichever assortments AAG had utilized. It began isolating in the field and rapidly lost its genetic purity [12].
+
+2. COTTON
+RESEARCH
+INSTITUTE-
+AYUB
+AGRICULTURE
+RESEARCH
+INSTITUTE (CRI- AARI)
+
+AARI is situated in Faisalabad Pakistan. AARI was established in 1962 and is one of the imperative research associations of the nation.
+AARI is the result of the green upset in the country in the late sixties and from that point forward has reliably assumed a key part in
+meeting the post green revolution productivity challenges and guaranteeing national food security
+(AARI
+official site).
+The
+Punjab
+Government has its own particular system of research organizations and stations, working under the umbrella of AARI. This research
+systemAARI includes Cotton Research Institute
+(CRI) and 11 research stations and sub-stations situated in various parts of Punjab. CRI has created Bt assortments FH113, FH114 by
+crossing
+Coker312 neighborhood assortments. A bollworm resistant assortment was created by 2006-2007, prepared to be showcased [6]. Out
+of the 24 local assortments entering the trials, FH113 positioned fifth as far as yield per section of land [13]. CRI presented its application for biosafety approvals
+to the IBC (Institutional Biosafety Committees)
+[14].
+
+In 2007-2008, while the approval was under process these varieties reached the market through casual channels [15].
+
+2.1 CCRI
+(Central
+Research
+Institute)
+
+Central Cotton Research Institute in Multan is a chief foundation at the national level. The
+Organization has contributed fundamentally by progressing and producing learning in cotton innovative work since its foundation in 1970 [16].
+
+CCRI converted many varieties to Bt Cotton but before these varieties could get clearance from
+NBC, they made their way to farmers through informal channels.
+
+Leading features of five new varieties Viz. CIM-6,
+CYTO-124, Bt CIM-600, Bt CIM-612, and Bt
+Cyto-117 were presented in the AARI Faisalabad on 09.03.2015 at the 71st meeting of Punjab
+Seed Council Expert Subcommittee. Apart from having up to mark fiber quality traits, Bt CIM-600 was shown to have been tolerant to heat stress
+whereas Bt CIM-616, CIM-612 and Bt Cyto-177 were shown to be highly CLCV tolerant with promising yield potentials.
+
+Table 2. AARI cotton varieties
+
+Sr. no
+Name of variety
+Brief description
+
+FH-114
+Bt(Boll worm resistant), CCLV tolerant, single stem, early, high input
+
+FH-942,NON Bt, fit for marginal areas, drought tolerant, high yielded
+
+BH-167
+Drought tolerant, high yielded, non Bt, fit for low fertile soil
+
+SLH-317
+NON Bt, High Yielded, Medium Boll Size,
+
+FH-118
+Bollworm resistant Bt, Higher yielder, fit for low fertile soil,
+
+FH-142
+Bollworm resistant, high yield, CLCV tolerant, big boll size, high input responsive,
+
+MNH-886
+Bollworm resistant Bt, highly CLCV tolerant, big boll size, heat tolerant,
+
+BH-178
+High yielder, Boll worm resistant Bt, compact, big boll size, CLCV resistant,
+
+VH-259
+High yielder, CLV tolerant, boll worm resistant Bt,
+
+Source: www. AARI. COM
+
+2.2 CAAS and Pakistan
+
+China Academy of Agriculture Sciences (CAAS) is currently working
+Agricultural
+Biotechnology Research Institute, Faisalabad.
+CAAS scientists used the Gene fusion technique to enhance the expression of Cry protein. The scientists fused the Cry1Ac and Cry1Ab to create
+a novel sequence. This gene construct was used to develop local Chinese varieties in 1993
+[17,18]. CAAS Bt has been sold by BTCC [11].
+
+Auriga approached the GOP (Government of
+Punjab) in June 2007 for commercialization of fusion gene varieties
+BTCC
+required` a total US$3.5 M for the transformation, biosafety study and relevant data provision for 3 years [19]. Agrifarm signed an agreement with
+Silverland to import double gene Bt in Pakistan.
+Agrifarm had to select elite Cotton varieties and give them to Silverland for transformation;
+Silverland would then supply the transformed varieties to Agrifarm after getting Biosafety approval in Pakistan [16]. Silverland promised
+that the double gene varieties could be available by 2011 in Pakistan. Series of meetings were held in the Agriculture Department on the
+subject. It was noticed that China demanded low cost for the double gene technology as compared to that demanded by Monsanto with
+double gene also providing better protection against bollworms as compared to single gene
+MON531. CRI agreed to support Agrifarm partnership. It submitted the summary to CM
+(Chief Minister) in October 2007 to pay the technology fee US$3.5 Million to Silverland as per Agrifarm agreement. Punjab Government
+planning and development Board (P&D) criticized it and argued that before making a proposal,
+Agriculture Department should negotiate with multiple technology providers. Giving monopoly to one company will harm the research efforts of
+NIBGE, CEMB and other indigenous research institutes. P&D (Punjab Government planning and development Board) proposed that GOP
+should directly CRDC (Cotton Research and development company) and make it available to all breeders. CRDC submitted a US$4M project
+proposal to the Punjab Agricultural Research
+Board for the acquisition of Bt material from
+China (Government of Punjab, 2007). CCRI,
+CRI and local seed organizations (involving
+Neelum Seed) stand to gain from this approval
+[20]. Monsanto and the Administration are the main parties to lose from such an arrangement.
+Monsanto would lose a chance to gather revenues its technology,
+Administration would end up paying for a technology that is inferior compared to the one effectively accessible to many farmers nation
+over [6].
+
+2.3 Bt Cotton and Local Seed Companies
+
+Neelum Seed Company started developing Bt
+Cotton in 1997 by getting few exotic Bt seeds.
+Two backcrosses were made with the local varieties process selection purification continuing for the next five years. The
+selection was made on the bio-assay initially and later the Breeder used the detection strips for detection of Cry1Ac. In 2002 Neelum Seeds
+grew seeds on half an Acre with a surprising yield average of 41 Mounds/Acre [6]. At the end of 2003, Bt121 was considered a commercial
+success, next year Neelum Seed and Bt121 were vilified by the MINFAL, PSC, FSC&RD,
+CRI, and CCRI. APTMA pointed out that the fiber characteristics were not acceptable to textile industry. It was a high yielding, high input variety
+with resistance to bolworms but susceptible to other pests.
+
+Despite government opposition Bt 121 become the most popular variety of Pakistan in 2006 [21].
+The results from the Kleffmann Group Amis® study in 2015 indicates, that Bt121 is the most famous cotton assortment, cultivated on twenty-
+one percent of the cotton region in Pakistan.
+Bt121 is by all accounts extremely prevalent in
+Punjab (24% of the cultivated area), though in
+Sindh it secured 11% of the area on provincial level. Neelum Seed used the MON531 event in
+Bt121 (ISAAA, 2011). Due to non-approval of
+Bt121, Neelum Seeds cannot sell seeds under brand name so seeds were sold in brown bag.
+Adulteration with non-Bt varieties was very common due to selling in brown bag.
+
+2.4 Pakistan and Monsanto Negotiations
+for Technology Partnership
+
+Biotech crops’ area has increased 100-fold from
+1.7 million hectares in 1996 to 185.1 M/ha in
+2016 planted by ~18 million farmers in 26
+countries. Farmers benefits for the period 1996 to 2015 were estimated to be around US$150 billion [22]. Genetically engineered crops that
+yields insecticidal proteins from the bacterium
+Bacillus thuringiensis (Bt) have been planted all around the world on a total aggregate of more than 732 million ha since 1996. In 2015-16 India
+become the #1 cotton producer in World, this success to a great extent can be attributed to Bt
+
+cotton with an area of 11.6 million ha planted by
+7.7 million small farmers [22]. Monsanto in 1996
+introduced
+Bollgard® cotton which gave protection against cotton bollworm and pink bollworm. Three generation of GM Cotton have been commercialized, 1st in 1996 by Monsanto
+and 2nd generation containing Cry2Ab in addition to Cry1Ac and a stacked 2nd version Roundup
+Ready Flex® (RR FLEX) which carry a herbicide resistance gene in addition to Cry1Ac and
 Cry2Ab being commercialized in 2003. In 1998-
-99 Monsanto and Government of Pakistan / 
-Punjab 
-were 
-having 
-discussions 
-bring 
-Bollgard® cotton in Pakistan. A two-member 
-delegation was sent to St Louis in October 1999 
-but at the same time as the delegation visited 
-Monsanto, the government was overthrown by 
-Military. New Government in 1999 abandoned 
-these plans, not because of Environment or 
-ethical concerns but bureaucrats were convinced 
-that these seeds can be developed by the public 
-sector. Monsanto introduced its cotton traits in 
-U.S, Australia, Argentina, India using different 
-value capture systems based on protection of 
-IP’s and implementation of local laws. In USA 
-Monsanto charges technology fee to the farmers 
-upfront with sale of seed, in Brazil it is charged at 
-the back end while farmer brings it seed cotton at 
-gin, in Australia it is also charged at the back end 
-with different choices. In India where there is 
-large farmer base and weak implementation, the 
-hybrid cotton (purchase of fresh seed every year) 
-provided a solution for value capture [6]. 
- 
-Pakistan with weak IP protection, varietal cotton, 
-large farmer base and scattered seed industry 
-poses 
-unique 
-challenges 
-technology 
-providers to collect sustainable value, somehow 
-government has to play a significant role for the 
-introduction of these technologies in Pakistan. 
- 
-In 2007 Ministry of Food Agriculture and 
-Livestock wrote to Monsanto, Bayer, Dow and 
-Syngenta to introduce their technologies in 
-Pakistan in collaboration with Government of 
-Pakistan (AS MINFAL, 2007b). Only Monsanto 
-responded positively to the Government’s call. In 
-2008 Monsanto signed a Letter of Intent (LOI) 
-with MINFAL, with two committees being formed 
-to negotiate with Monsanto. In 2009, Economic 
-Coordination Committee (ECC) endorsed the 
-frame work that the two-committee negotiated 
-and sent Monsanto to work further with Punjab & 
-Sindh provinces after signing a MOU in early 
-2010. Punjab Government made progress in 
-streamlining all the elements of business model 
-but a definitive agreement could not be reached 
-owing 
-internal 
-misalignment 
-within 
-Government of Punjab. While Monsanto was 
-negotiating with Government of Pakistan / 
-Punjab they did regulatory trials with Bollgard II® 
-individually as well as in Collaboration with 
-Pakistan Central Cotton Committee (PCCC). In 
-years 2015-16 there was a step down in cotton 
-crops. There was a decline of 28% in yield 
-because of destruction of the crop by pest attack. 
-An agriculturist and horticulture master from 
-Bahawalpur, Farooq Bajwa mentioned that 
-farmers in Punjab had to suffer Pakistani Rupees 
-(PKR) 170 billion loss in the production of the 
-crop [23]. The Punjab Agriculture Department 
-(PAD), which has been consulting stakeholders 
-after the Punjab chief minister approved the 
-acquisition of GM technology from Monsanto in 
-August, decided in Feb 2017 to strike a 
-conditional deal with Monsanto. It would be 
-ensured that R&D institutes and seed companies 
-get a level playing field. Officials of Department 
-of Agriculture, Government of Punjab quoted in 
-different newspapers that funds are allocated for 
-the deal with Monsanto but as of now nothing 
-tangible has surfaced. By conducting a survey 
-[24]. 
- 
-2.5 Informal 
-Cotton in Pakistan 
- 
-By 
-government 
-institutions 
-work 
-on 
-genetically modified cotton started in late 90’s. 
-Despite several research efforts and triumphant 
-fields’ trials in 2005, until 2010, Bt cotton 
-varieties were not commercialized by Pakistan. 
-Late commercialization of Bt Cotton varieties by 
-the Government encouraged the informal way of 
-adaptation of Bt cotton in Pakistan. In Pakistan 
-1st Bt cotton variety was planted in 2002 by 
-informal 
-way. 
-A 
-comprehensive 
-Agriculture Research Council (PARC) found out 
-that these varieties occupied sixty percent of 
-cotton growing region in Pakistan in 2007 in 
-Sindh and Punjab respectively 90% and 50% 
-area in 2007 [24] with 39 Bt cotton varieties was 
-cultivated informally in 2011 which increased to 
-85 % [25]. 
- 
-2.6 Reason behind this Informal Way 
- 
-Slow Agriculture Biotech research by 
-mainly two public Institutes NIBGE and 
-CEMB and many breeders 
-Slow 
-process 
-enacting 
-biosafety 
-legislation 
-Convention on biodiversity signed in 1992 
+99 Monsanto and Government of Pakistan /
+Punjab were having discussions bring
+Bollgard® cotton in Pakistan. A two-member delegation was sent to St Louis in October 1999 but at the same time as the delegation visited
+Monsanto, the government was overthrown by
+Military. New Government in 1999 abandoned these plans, not because of Environment or ethical concerns but bureaucrats were convinced
+that these seeds can be developed by the public sector. Monsanto introduced its cotton traits in
+U. S, Australia, Argentina, India using different value capture systems based on protection of
+IP’s and implementation of local laws. In USA
+Monsanto charges technology fee to the farmers upfront with sale of seed, in Brazil it is charged at the back end while farmer brings it seed cotton at
+gin, in Australia it is also charged at the back end with different choices. In India where there is large farmer base and weak implementation, the
+hybrid cotton (purchase of fresh seed every year) provided a solution for value capture [6].
 
-Cartagena protocol on Biosafety signed in 
-2002 but not ratified till 2009 
-Biosafety guideline approved in 2005 
-IPOP formed in 2005 
-Plant Breeders Act and Amendments in 
-seed Act waited years before enactment in 
-2016 and 2017. 
-Until 2008 no variety was submitted to 
-NBC out of a fear of infringement of 
-Monsanto IP. 
-Poor seed quality and scattered seed 
-industry. 
- Bt Varieties susceptible to CLCV 
-Low level of awareness of farmers about 
-Bt technology 
-Government of Pakistan and Monsanto 
-negotiations dragged for so long and 
-eventually remained unsuccessful. 
- 
-2.7 Problems 
-Associated 
-this 
-Informal Way 
- 
-• 
-Poor implementation of Biosafety rules 
-• 
-Trait Introgression in local varieties done 
-unprofessionally, local varieties released 
-with exotic blood compromising standards 
-for fiber and agronomy. 
-Gene expression less than the required 
-quantity which can lead to early insect 
-resistance. 
- 
-2.8 Commercialization of Bt Cotton in 
- 
-Bt cotton was officially approved by the 
-Government in 2009 with 1st crop being 
-cultivated in 2010. Pakistan signed CBD in 1992 
-which was confirmed in July 1994.Cartagena 
-Protocol on Biosafety was signed in June 2001 
-and was sanctioned in March 2009.To reinforce 
-the Innovative work in Pakistan, Government of 
-Pakistan has made a few steps including building 
-up of Intellectual Property Rights Organization of 
-Pakistan (IPOP), Amendments to Seed Act 1967 
-and Approval of Plant Breeding Act Pakistan 
-biosafety guidelines 2005. In 2010 eight Bt cotton 
-varieties and one hybrid (IR-3701, Neelum-122, 
-FH-113, Sitara-008, MG-6, Ali Akbar-703, Ali 
-Akbar-802, IR-1524, GN Hybrid-2085) were 
-approved 
-formally 
-by 
-Government 
-On 
+Pakistan with weak IP protection, varietal cotton, large farmer base and scattered seed industry poses unique challenges technology
+providers to collect sustainable value, somehow government has to play a significant role for the introduction of these technologies in Pakistan.
 
-april 
-2013, 
-expert 
-subcommittee Punjab recommended in its 69th 
-meeting that thirteen single Bt gene varieties 
-containing double genes; VH 7-259, BH-178, 
+In 2007 Ministry of Food Agriculture and
+Livestock wrote to Monsanto, Bayer, Dow and
+Syngenta to introduce their technologies in
+Pakistan in collaboration with Government of
+Pakistan (AS MINFAL, 2007b). Only Monsanto responded positively to the Government’s call. In
+2008 Monsanto signed a Letter of Intent (LOI)
+with MINFAL, with two committees being formed to negotiate with Monsanto. In 2009, Economic
+Coordination Committee (ECC) endorsed the frame work that the two-committee negotiated and sent Monsanto to work further with Punjab &
+Sindh provinces after signing a MOU in early
+2010. Punjab Government made progress in
+streamlining all the elements of business model but a definitive agreement could not be reached owing internal misalignment
+within
+Government of Punjab. While Monsanto was negotiating with Government of Pakistan /
+Punjab they did regulatory trials with Bollgard II® individually as well as in Collaboration with
+Pakistan Central Cotton Committee (PCCC). In years 2015-16 there was a step down in cotton crops. There was a decline of 28% in yield
+because of destruction of the crop by pest attack.
+An agriculturist and horticulture master from
+Bahawalpur, Farooq Bajwa mentioned that farmers in Punjab had to suffer Pakistani Rupees
+(PKR) 170 billion loss in the production of the crop [23]. The Punjab Agriculture Department
+(PAD), which has been consulting stakeholders after the Punjab chief minister approved the acquisition of GM technology from Monsanto in
+August, decided in Feb 2017 to strike a conditional deal with Monsanto. It would be ensured that R&D institutes and seed companies
+get a level playing field. Officials of Department of Agriculture, Government of Punjab quoted in different newspapers that funds are allocated for
+the deal with Monsanto but as of now nothing tangible has surfaced. By conducting a survey
+[24].
+
+2.5 Informal
+Cotton in Pakistan
+
+By government institutions work on genetically modified cotton started in late 90’s.
+Despite several research efforts and triumphant fields’ trials in 2005, until 2010, Bt cotton varieties were not commercialized by Pakistan.
+Late commercialization of Bt Cotton varieties by the Government encouraged the informal way of adaptation of Bt cotton in Pakistan. In Pakistan
+1st Bt cotton variety was planted in 2002 by informal way.
+A comprehensive
+Agriculture Research Council (PARC) found out that these varieties occupied sixty percent of cotton growing region in Pakistan in 2007 in
+Sindh and Punjab respectively 90% and 50% area in 2007 [24] with 39 Bt cotton varieties was cultivated informally in 2011 which increased to
+85 % [25].
+
+2.6 Reason behind this Informal Way
+
+Slow Agriculture Biotech research by mainly two public Institutes NIBGE and
+CEMB and many breeders
+Slow process enacting biosafety legislation
+Convention on biodiversity signed in 1992
+
+Cartagena protocol on Biosafety signed in
+2002 but not ratified till 2009
+Biosafety guideline approved in 2005
+IPOP formed in 2005
+Plant Breeders Act and Amendments in seed Act waited years before enactment in
+2016 and 2017.
+Until 2008 no variety was submitted to
+NBC out of a fear of infringement of
+Monsanto IP.
+Poor seed quality and scattered seed industry.
+ Bt Varieties susceptible to CLCV
+Low level of awareness of farmers about
+Bt technology
+Government of Pakistan and Monsanto negotiations dragged for so long and eventually remained unsuccessful.
+
+2.7 Problems
+Associated this
+Informal Way
+
+•
+Poor implementation of Biosafety rules
+•
+Trait Introgression in local varieties done unprofessionally, local varieties released with exotic blood compromising standards
+for fiber and agronomy.
+Gene expression less than the required quantity which can lead to early insect resistance.
+
+2.8 Commercialization of Bt Cotton in
+
+Bt cotton was officially approved by the
+Government in 2009 with 1st crop being cultivated in 2010. Pakistan signed CBD in 1992 which was confirmed in July 1994. Cartagena
+Protocol on Biosafety was signed in June 2001 and was sanctioned in March 2009. To reinforce the Innovative work in Pakistan, Government of
+Pakistan has made a few steps including building up of Intellectual Property Rights Organization of
+Pakistan (IPOP), Amendments to Seed Act 1967 and Approval of Plant Breeding Act Pakistan biosafety guidelines 2005. In 2010 eight Bt cotton
+varieties and one hybrid (IR-3701, Neelum-122,
+FH-113, Sitara-008, MG-6, Ali Akbar-703, Ali
+Akbar-802, IR-1524, GN Hybrid-2085) were approved formally by
+Government
+On
+
+april
+2013, expert subcommittee Punjab recommended in its 69th meeting that thirteen single Bt gene varieties containing double genes; VH 7-259, BH-178,
 CIM- 599, CIM-602, FH-118, FH-142, IR-NIAB-
-824, IUB-222, Sayban-201, Sitara-11M, A-555, 
-KZ-181, Tarzan- 2and two CA-12 and CEMB-33. 
-[26]. 
- 
-Estimated gains to Pakistan Economics from Bt 
-cotton was US$1.9 billion for 2010 and US$299 
-Million for 2014 [22]. In Pakistan 15 Bt cotton and 
-2 hybrids varieties were approved for general 
-cultivation Pakistan from 2010 to 2014 [27]. In 
-2015, TAC recommended21 Bt cotton varieties 
-to NBC for Biosafety clearance PSC approved 
-11BtCotton and 2 non Bt cotton varieties sothese 
-varieties got commercialization from NBC in April 
-2016. (Cotton Commissioner Dr Khalid Abdullah 
-interview to Business Recorder news 3 May 
-2016). 
- 
-A study showed that 20 Bt cotton adjustment 
-brings about critical low pesticide utilize, higher 
-yield, higher gross margins, environmental 
-benefits as far as higher farmland biodiversity 
-and lower soil and groundwater tainting. The 
-authors noted that these positive externalities are 
-valued 
-at 
-US$79 
-per 
-section 
-land 
-(US$195/hectare), which adds another 39% to 
-the advantages as far as higher gross margins. 
-Including monetary and outer advantages brings 
-about aggregate advantages of US$284 per 
-section of land (US$701/hectare), or US$1.7 
-billion for the whole Bt cotton area in Pakistan 
-[28]. Sadashivappa and Qaim [29] portrayed that 
-Bt farmers were able to reduce pesticides 
-application 
-by 
-40% 
-while 
-simultaneously 
-they were also able to get yield advantages of 
-30-40%. 
- 
-3. PAKISTAN 
-IS 
-4TH 
-BIGGEST 
-PRODUCER OF COTTON IN THE 
-WORLD 
- 
-In Pakistan record Cotton production happened 
-in season 2014-15 of 13.958 M bales. Both 
-provinces Punjab and Sindh recorded the highest 
-cotton production in that year (PCGA). Large 
-area under cotton crop is the key reason for high 
-cotton production (Dr. Mohmmad Ali, director 
-marketing and economic research at PCCC) In 
-that year farmer sowed 94% seed to targeted 
-land as compared to 87% in preceding years. 
-Most high-flying varieties of Bt cotton used by the 
-farmers in Punjab were Bt 142 and Bt 886 and in 
-Sindh was Bt 73761. In Punjab 250 thousand 
-bales were affected due to floods in Punjab 2014 
-(PCGA, 2015). In year 2015-16, with an average 
-decline of twenty-eight percent in cotton yield, 
-government missed the target of 
-growth of 4.7% during the financial 
-which reduced economic growth by
-crisis in Pakistan 2015-16) concede
+824, IUB-222, Sayban-201, Sitara-11M, A-555,
+KZ-181, Tarzan- 2and two CA-12 and CEMB-33.
+[26].
+
+Estimated gains to Pakistan Economics from Bt cotton was US$1.9 billion for 2010 and US$299
+Million for 2014 [22]. In Pakistan 15 Bt cotton and
+2 hybrids varieties were approved for general
+cultivation Pakistan from 2010 to 2014 [27]. In
+2015, TAC recommended21 Bt cotton varieties to NBC for Biosafety clearance PSC approved
+11BtCotton and 2 non Bt cotton varieties sothese varieties got commercialization from NBC in April
+2016. (Cotton Commissioner Dr Khalid Abdullah
+interview to Business Recorder news 3 May
+2016).
+
+A study showed that 20 Bt cotton adjustment brings about critical low pesticide utilize, higher yield, higher gross margins, environmental
+benefits as far as higher farmland biodiversity and lower soil and groundwater tainting. The authors noted that these positive externalities are
+valued at
+US$79
+per section land
+(US$195/hectare), which adds another 39% to the advantages as far as higher gross margins.
+Including monetary and outer advantages brings about aggregate advantages of US$284 per section of land (US$701/hectare), or US$1.7
+billion for the whole Bt cotton area in Pakistan
+[28]. Sadashivappa and Qaim [29] portrayed that
+Bt farmers were able to reduce pesticides application by
+40% while simultaneously they were also able to get yield advantages of
+30-40%.
+
+3. PAKISTAN
+IS
+4TH
+BIGGEST
+PRODUCER OF COTTON IN THE
+WORLD
+
+In Pakistan record Cotton production happened in season 2014-15 of 13.958 M bales. Both provinces Punjab and Sindh recorded the highest
+cotton production in that year (PCGA). Large area under cotton crop is the key reason for high cotton production (Dr. Mohmmad Ali, director
+marketing and economic research at PCCC) In that year farmer sowed 94% seed to targeted land as compared to 87% in preceding years.
+Most high-flying varieties of Bt cotton used by the farmers in Punjab were Bt 142 and Bt 886 and in
+Sindh was Bt 73761. In Punjab 250 thousand bales were affected due to floods in Punjab 2014
+(PCGA, 2015). In year 2015-16, with an average decline of twenty-eight percent in cotton yield,
+
+government missed the target of growth of 4.7% during the financial which reduced economic growth by crisis in Pakistan 2015-16) concede
 finance minister during his bud
-Cotton slump creates a shortfall of 6
-against 16 Million bales of Cotton
+Cotton slump creates a shortfall of 6 against 16 Million bales of Cotton
 (APTMA). USDA circular summari
 2015 to 2016, the yields were 544
-hectare, the most minimal in the
-years. To help textile industry, the
-around $4 billion in 2016 on co
-Cotton slump caused the abatem
-than 7 percent in cotton income to 
-in financial the year 2015-16 from 
-from the year 2014-15. This c
-reduced the cotton production glob
-million. Cotton production on 1st De
-was 5.103 M bales compared to 8.4
-2014-2015 which was a 40% reduc
-with Sindh showing 3.26% reduct
-yield was 17.12 mounds /acre 
-compared to 23.02 mounds/acre 
-biotic and abiotic factors were foun
-report of committee designated by t
-Department 2015-16. 
- 
-A key basis for the cotton slum
-authenticity, climate change, Bt 
-cotton prices, insect attack (w
- 
- 
+hectare, the most minimal in the years. To help textile industry, the around $4 billion in 2016 on co
+Cotton slump caused the abatem than 7 percent in cotton income to in financial the year 2015-16 from from the year 2014-15. This c
+reduced the cotton production glob million. Cotton production on 1st De was 5.103 M bales compared to 8.4
+2014-2015 which was a 40% reduc with Sindh showing 3.26% reduct yield was 17.12 mounds /acre compared to 23.02 mounds/acre
+biotic and abiotic factors were foun report of committee designated by t
+Department 2015-16.
+
+A key basis for the cotton slum authenticity, climate change, Bt cotton prices, insect attack (w
+
 Source: USDA, CIR, 20
- 
- 
+
 Shahbaz et al.; AJAEES, 29(2): 1-11, 2019; Article n
 
-5.5% with a 
-year 2015-16 
-y 0.5% (Cotton 
-ed the federal 
-dget speech. 
-6 million bales 
- consumption 
-zes that from 
-4 kg for each 
-e previous 17 
-e nation spent 
-otton imports. 
-ment of more 
-$12.46 billion 
-$13.45 billion 
-cotton slump 
-bally to 96.926 
-ecember 2015 
-498M bales in 
-ction in Punjab 
-tion. Average 
-in 2015 as 
-in 2014. Ten 
-nd out by the 
-he Agriculture 
-mp was seed 
-toxin, seed 
-hite fly, pink 
-bollworm, etc.), weeds, insecticide
-and CLCV [30,31]. Out of seeds p
-farmer 3% of the seeds were provi
-seed corporation, 43% by the re
-companies (700) and remaining
-unauthenticated venders [31]. The
-showed 
-low 
-plant 
-population
-germination effect by the rain at th
-time. 
-Reasonable 
-standpoint 
-producers use pretty much amount
-than prescribed to control the pre
-which does not kill the pests but r
-its resistance. Thus farmers need
-more and more quantity of thes
-(Saleem et al. 2013). Another m
-low yield was rainfall due to which
-normal feeding roots, stunted 
-impaired 
-photosynthesis, 
-a
-environment for breeding whitefly, 
-flower shedding, high humidity 
-diseases. During 2015 rainy days 
-24 against 12 in 2014 and in R.Y. 
-rainy days were 14 against 4 in 20
-low yield of cotton GOP, 2016). Th
-condition was the reason behind th
-a square, lower and small 
-temperature recorded in Multan 
-September 2015 reduced high yie
-flower shedding and fewer bolls se
+5.5% with a year 2015-16 y 0.5% (Cotton ed the federal dget speech.
+6 million bales
+ consumption zes that from
+4 kg for each
+e previous 17 e nation spent otton imports.
+ment of more
+$12.46 billion
+$13.45 billion cotton slump bally to 96.926 ecember 2015
+498M bales in ction in Punjab tion. Average in 2015 as in 2014. Ten nd out by the he Agriculture mp was seed toxin, seed hite fly, pink
+bollworm, etc.), weeds, insecticide and CLCV [30,31]. Out of seeds p farmer 3% of the seeds were provi seed corporation, 43% by the re
+companies (700) and remaining unauthenticated venders [31]. The showed low plant population germination effect by the rain at th
+time.
+Reasonable standpoint producers use pretty much amount than prescribed to control the pre which does not kill the pests but r
+its resistance. Thus farmers need more and more quantity of thes
+(Saleem et al. 2013). Another m low yield was rainfall due to which normal feeding roots, stunted impaired photosynthesis,
+a environment for breeding whitefly, flower shedding, high humidity diseases. During 2015 rainy days
+24 against 12 in 2014 and in R. Y.
+rainy days were 14 against 4 in 20 low yield of cotton GOP, 2016). Th condition was the reason behind th a square, lower and small
+temperature recorded in Multan
+September 2015 reduced high yie flower shedding and fewer bolls se
 
 Source: PAKISTAN ECONOMIC SUR
-Fig. 1. 
- 
- 
- 
- 
- 
- 
-no.AJAEES.45961 
- 
- 
-e, planting time 
-provided to the 
-ided by Punjab 
-egistered seed 
- 54% by the 
-e seeds in turn 
-n 
-poor 
-he germination 
-shows 
-t of bug sprays 
-essure of pest 
-rather increase 
-d to use even 
-se insecticides 
-ain reason for 
-h resulted in no 
-plant growth, 
-a 
-favorable 
-less pollination, 
-offered fungal 
-in Multan were 
-Khan counted 
-015 (Causes of 
-his waterlogged 
-he shedding of 
-bolls. Higher 
-from June to 
-eld because of 
-etting. 
- 
-RVEY 2015-16 
+Fig. 1.
 
-4. 2016-17 COTTON VISION 
- 
-Pakistan cotton production is forecasted to be 
-7.7 M bales, a 10% boost from the last year. 
-Yield recovery is estimated by the USDA at 699 
-kg/ha, 28% up from the last cropping year. Area 
-of harvested will be dropped by 14% to 2.4 
-million ha. An increase in sugarcane area 
-decreases 
-cotton 
-crop 
-area 
-due 
-government support to sugarcane crop. Farmers 
-were faced with increased prices of agriculture 
-chemicals and yet have low cotton prices in the 
-market. USDA’s office of Agriculture affairs in 
-Islamabad concluded that seed cotton prices at 
-the end of harvest were $0.37 US/pound as 
-compared to $0.25US /pound from last year. This 
-too late increase in prices does not help in 
-encouraging the farmer to invest more on 
-insecticide and labor (USAID, 2017). 
- 
-5. 2017-18 COTTON VISION 
- 
-2017-18 cotton production forecast is at 8.2 
-million 480-pounds bales this increase in 6% 
-from the last year is due to the recovery in 
-increase area estimated 2.8 million hectares, 17 % 
-up compared to the last year. Due to the high 
-prices of cotton, it increased in area during the 
-time of planting period. Farmers emerge to have 
-taken benefit of $625 million subsides package 
-by government on fertilizer, electricity rates for 
-tube well, reduced interest rates, lesser the sale 
-text, January 3, 2018 report from PCGA seed 
-cotton arrival to date up 7 % from last season. 
-Reported arrivals are up 4% in Punjab which 
-account approximately 75% total cotton of 
-Pakistan [32]. 
- 
-6. WAY FORWARD TO UPLIFT THE 
-COTTON YIELD 
- 
-Dr. 
-Iqrar 
-Ahmad, 
-Vice 
-Chancellor, 
-University of Agriculture, Faisalabad said 
-agriculturists 
-have 
-been 
-confronting the issue of seeds since 1992 
-yet unfortunately no administration has 
-done anything genuine to address this 
-issue. To get the per hectare yield, the 
-administration ought to commit in new 
-innovation and grow new seeds to keep 
-the potential dangers of illnesses against 
-the cotton crop. In addition to this, he also 
-said that the breakdown of cotton seed 
-technology is an exceptionally dismal issue 
-since it is straight forwardly connected with 
-the nation's economy. This is the duty of 
-the government and different stakeholders 
-collectively to find an exit plan on war-
-footing. We need to do this all alone. No 
-assistance will originate from above [23]. 
-2015 Seed amendment Act and 2016 plant 
-breeder right bill is also introduced to 
-promote investment in local plant breeding 
-and national seed production programs 
-[27]. 
-The area is estimated at 2.4 million 
-hectares in 2016-17, down 0.1 M ha from 
-last season. The lower area this year is 
-largely a reflection of the lower prices at 
-the time of planting for cotton relative to 
-other crops at the time. An increase in 
-sugarcane area offset the decrease in 
-cotton [33] 
-The 
-government 
-should 
-provide 
-an 
-enabling 
-environment 
-commercialization of 2nd /3rd generation 
-cotton 
-technology 
-Roundup 
-Ready® Flex for control of Bollworm and 
-weeds. Following proposal is suggested for 
-deliberation and consideration for the 
-government. 
- 
-• 
-APTMA/PCGA may be involved in the 
-collection and provision of technology 
-fee to 2nd/3rd generation Bt cotton 
-supplier. 
-• 
-Technology fee to the companies 
-might be paid out of Cotton Cess fund 
-under cotton control act. 
-• 
-PARB has a mandate of importing 
-emerging 
-Agriculture 
-Technologies 
-hence PARB may be entrusted with 
-task 
-importing 
-2nd/3rd 
-generation Bt cotton with Roundup 
-Ready® Flex technology. 
-• 
-Government to ensure the supply of 
-Cotton certified seed through local and 
-international companies 
- 
-Develop a mechanism for the Warranty of 
-Bt presence in the certified seed 
-Monitoring of Bt expression in the field 
-Ban Cotton sowing before the 15th April to 
-avoid Pink Boll worm attack.) 
-The using of laser technology can solve 
-the issue of stagnating rainwater. 
-Ban of sowing of sugarcane in cotton zone 
-which happens due to the Government 
-protecting and facilitating sugar industry 
-(PCGA Chairman BR research, 2017) 
+no. AJAEES.45961
 
-7. CONCLUSION 
- 
-This Study explore the challenges of Bt cotton 
-adaptation before and after formal adaptation the 
-problem facing by farmer due to seed adultration 
-and low level of Bt gene expression and most of 
-varieties harboring just Cry1Ac gene. Likewise 
-there is dramatic reduction in pesticidies after the 
-adaptation of Bt cotton in different countries but 
-in Pakistan after formal adaptation there was 
-negative impact since Pakistan is ranking as 
-major cotton producer in the world and having 
-excellent R&D Institutes there is need to work 
-with 2nd/3rd generation Bt cotton with Roundup 
-Ready® Flex technology also government need 
-to pay attention for funding and for paying 
-technology adaptation fee and new ability to 
-cultivate 2nd/3rd generation Bt cotton coupled 
-with the availability of genuine Bt cotton seed 
-may upturn the yield and mark cotton prices. This 
-paper 
-also 
-examine 
-performance 
-unapproved Bt varieties and approved varieties 
-and role of public and private institution in the 
-adaptation and intrest of government and effect 
-of Bt Cotton on Pakistan economy. 
- 
-COMPETING INTERESTS 
- 
-Authors have declared that no competing 
-interests exist. 
- 
-REFERENCES 
- 
-1. 
-Nazli thesis. Impact of Bt cotton adoption 
-on farmers wellbeing in Pakistan; 2010. 
-2. 
-Salam Abdul. Production, prices and 
-emerging challenges in the Pakistan 
-Cotton Sector. ed.) Cotton-Textile-Apparel 
-Sectors of Pakistan; 2008. 
-3. 
-Mazari, Raashid Bashir. International Code 
-of Conduct on the Distribution and Use of 
-Pesticides. Country Report. Department of 
-Plant 
-Protection, 
-Ministry 
-Food, 
-Agriculture & Livestock, Government of 
-Pakistan; 2005. 
-4. 
-ISAAA. Global Review of the Field Testing 
-Transgenic 
-Plants; 1996. 
-Available:http://www.isaaa.org/resources/p
-ublications/briefs/01/download/isaaa-brief-
-01-1996.pdf 
-5. 
-James, 
-Clive. 
-Global 
-Status 
-Commercialized Biotech/GM Crops: 2008. 
-ISAAA Brief No. 39. ISAAA: Ithaca, NY; 
-2008. 
-6. 
-Rana Muhammad Ahsan. Formalizing the 
-informal: The commercialization of GM 
-cotton in Pakistan; 2010. 
-7. 
-Baloch QB. Minutes of the meeting on 
-"Fast Track Approval of Cotton Varieties 
-and Control of Mealy Bug" held on 25th 
-November, 2006 at the Central Cotton 
-Research 
-Institute 
-(CCRI), 
-Multan. 
-MINFAL, 
-Government 
-Islamabad, Unpublished; 2006. 
-8. 
-NBC. Minutes of Meeting held on 25th 
-November 
-2006. 
-National 
-Committee (NBC), Ministry of Environment, 
-Government 
-Islamabad, 
-Unpublished; 2006. 
-9. 
-Hayee A. Cultivation of Bt cotton - 
-Pakistan's experience. Islamabad, Action 
-Aid Pakistan; 2005. 
-10. 
-Khan GA. Inheritance of Transgene(s) in 
-Cotton (Gossypium hirsutum L.). Centre of 
-Excellence in Molecular Biology (CEMB). 
-Lahore, The University of Punjab. PhD 
-Thesis. 2007;231. 
-11. 
-Deputy ADC MINFAL 2008 Deputy ADC 
-MINFAL. 
-Letter 
-from 
-Dr. 
-Tassawar 
-Hussain Malik, Deputy ADC MINFAL to Mr. 
-Javed Saleem Qureshi, Director Marketing 
-and Sales, Ali Akbar Group dated 12 June 
-2008: Genetically Modified cotton Varieties 
-of M/s Ali Akbar Group, Lahore. MINFAL. 
-Islamabad, Unpublished; 2008. 
-12. 
-Chairman APTMA, Cotton Crop Failure - 
-Letter 
-from 
-Chairman 
-APTMA 
-Secretary MINFAL dated November 1, 
-2007. MINFAL, Government of Pakistan. 
-Islamabad, 
-Unpublished; 
-Chairman 
-APTMA (2007b). Bt Cotton - Letter from 
-Chairman 
-APTMA 
-Secretary, 
-Department of Agriculture, Government of 
-Punjab dated July 4, 2007. Department of 
-Agriculture, Government of Punjab. Lahore, 
-Unpublished; 2007. 
-13. 
-CRI. Presentation before the Working 
-Group on Agriculture. Ayub Agricultural 
-Research 
-Institute 
-CRI 
-(AARI), 
-Government 
-Punjab. 
-Faisalabad, 
-Unpublished; 2008 
-14. 
-Biosafety guidelines; 2005. 
-Available:http://environment.gov.pk/act-
-rules/BiosftyGlines2005.pdf 
-15. 
-Ali S, Hameed S. Status of cotton 
-harboring Bt gene in Pakistan. Islamabad, 
-Pakistan Agricultural Research Council 
-(PARC). 2007;25. 
-16. 
-Agri Farm (2007). Letter from Chief 
-Executive 
-Agri 
-Farm 
-Secretary 
-Agriculture, Government of Punjab dated 
+e, planting time provided to the ided by Punjab egistered seed
+ 54% by the e seeds in turn n poor he germination shows t of bug sprays essure of pest rather increase d to use even se insecticides
+ain reason for h resulted in no plant growth, a favorable less pollination, offered fungal in Multan were
+Khan counted
+015 (Causes of
+his waterlogged he shedding of bolls. Higher from June to eld because of etting.
 
-September 29, 2007: Transfer of Bt 
-Technology 
-Developing 
-Insect 
-Resistant Cotton Varieties in Punjab. 
-Department of Agriculture, Government of 
-Punjab, Unpublished. 
-17. 
-Xuanjun 
-F, 
-Daxi 
-C. 
-Commercial 
-implementation of intellectual property 
-rights 
-Chinese 
-transgenic 
-insect-
-resistant cotton with Bt gene and Bt +CpTI 
-genes. Journal of Agricultural Biotechno-
-logy. 2001;9(2):103-106. 
-18. 
-Huang J, Hu R. Bt cotton benefits, cost, 
-and impact in China. AgBio Forum. 
-2002;5(4):153-166. 
-19. 
-Auriga GM. Minutes of the meeting dated 6 
-June 2007 (Draft for Approval). Cotton 
-Research Institute (CRI), Government of 
-Punjab. Faisalabad, Unpublished; 2007. 
-20. 
-Director CRI. Note on acquisition of Bt 
-technology from China. Cotton Research 
-Institute (CRI), Government of Punjab. 
-Faisalabad, Unpublished; 2007. 
-21. 
-DG pest Warning, Bt Cotton in Punjab. 
-Pest 
-Warning 
-Quality 
-Control, 
-Department of Agriculture, Government of 
-Punjab. Lahore, Unpublished; 2007. 
-22. 
-ISAAA. Twentieth Anniversary (1996 to 
-2015) of the Global Commercialization of 
-Biotech Crops and Biotech Crop Highlights 
-in 2015, ISAAA Brief No. 51 (International 
-Service for the Acquisition of Agri-Biotech 
-Applications, Ithaca, NY; 2015. 
-23. 
-MIT Technology review; 2016. 
-Available:http://www.technologyreview.pk/
-pakistans-cotton-emergency/ 
-24. 
-PARC. Status of cotton harboring Bt gene 
-in Pakistan. Institute of Agr-Biotechnology 
-& Genetic Resources, National Agricultural 
-Research Centre, Pakistan Agricultural 
-Research Council, Islamabad; 2008. 
-25. 
-James, 
-Clive. 
-Global 
-status 
-commercialized Biotech/GM Crops: 2010. 
-ISAAA Brief No. 43. ISAAA: Ithaca, NY; 
-2011. 
-26. 
-Saira Azam, Tahir Rehman Samiullah, 
-Aneela Yasmeen, Salah ud Din, Adnan 
-Iqbal, Abdul Qayyum Ra, Idrees Ahmad 
-Nasir, Bushra Rashid, Ahmad Ali Shahid, 
-Munir 
-Ahmad, 
-Tayyab 
-Husnain. 
-Dissemination of Bt cotton in cotton 
-growing belt of Pakistan; 2013. 
-27. 
-Tassawar 
-Hussain 
-Malik, 
-Muhammad 
-Zahir Ahsan. Review of the cotton market 
-in Pakistan and its future prospects; 2016. 
-Available:https://www.ocl-
-journal.org/articles/ocl/full_html/2016/06/oc
-l160022/ocl160022.html 
-28. 
-Nasir Nadeem, Abdul Ghafoor Awan, 
-Muhammad 
-Abubakar 
-Nawaz. 
-Published the study “Estimation of Cost 
-Benefit Ratio of Bt Cotton Growers in 
-District Khanewl, Pakistan in 2015”; 2015. 
-29. 
-Sadashivappa P, Qaim M. BT cotton in 
-India: Development of benefits and the role 
-of government seed price intervention. Ag 
-Bio Forum. 2009;12(2):172–183. 
-30. 
-crises 
-2015-16 
-department of research and development 
-international affairs of Faisalabad chamber 
-of commerce and Indutry, Faisalabad, 
-Available:http://fcci.com.pk/wp-
-content/uploads/2017/08/Cotton-Crises.pdf 
-31. 
-Dr Iqrar khan, Managing Director PSC, 
-Director CCRI Multan, DG agriculture 
-(PW&QC) 
-Lahore, 
-DG 
-agriculture 
-(research Report Causes of low yield of 
-Cotton during cotton crop season 2015-16 
-Government of Punjab Convener) FSD. 
-32. 
-USDA; 2018. 
+RVEY 2015-16
+
+4. 2016-17 COTTON VISION
+
+Pakistan cotton production is forecasted to be
+7.7 M bales, a 10% boost from the last year.
+Yield recovery is estimated by the USDA at 699 kg/ha, 28% up from the last cropping year. Area of harvested will be dropped by 14% to 2.4
+million ha. An increase in sugarcane area decreases cotton crop area due government support to sugarcane crop. Farmers were faced with increased prices of agriculture
+chemicals and yet have low cotton prices in the market. USDA’s office of Agriculture affairs in
+Islamabad concluded that seed cotton prices at the end of harvest were $0.37 US/pound as compared to $0.25US /pound from last year. This
+too late increase in prices does not help in encouraging the farmer to invest more on insecticide and labor (USAID, 2017).
+
+5. 2017-18 COTTON VISION
+
+2017-18 cotton production forecast is at 8.2 million 480-pounds bales this increase in 6% from the last year is due to the recovery in
+increase area estimated 2.8 million hectares, 17 % up compared to the last year. Due to the high prices of cotton, it increased in area during the
+time of planting period. Farmers emerge to have taken benefit of $625 million subsides package by government on fertilizer, electricity rates for
+tube well, reduced interest rates, lesser the sale text, January 3, 2018 report from PCGA seed cotton arrival to date up 7 % from last season.
+Reported arrivals are up 4% in Punjab which account approximately 75% total cotton of
+Pakistan [32].
+
+6. WAY FORWARD TO UPLIFT THE
+COTTON YIELD
+
+Dr.
+Iqrar
+Ahmad,
+Vice
+Chancellor,
+University of Agriculture, Faisalabad said agriculturists have been confronting the issue of seeds since 1992 yet unfortunately no administration has
+done anything genuine to address this issue. To get the per hectare yield, the administration ought to commit in new innovation and grow new seeds to keep
+the potential dangers of illnesses against the cotton crop. In addition to this, he also said that the breakdown of cotton seed
+technology is an exceptionally dismal issue since it is straight forwardly connected with the nation's economy. This is the duty of
+the government and different stakeholders collectively to find an exit plan on war- footing. We need to do this all alone. No
+assistance will originate from above [23].
+2015 Seed amendment Act and 2016 plant
+breeder right bill is also introduced to promote investment in local plant breeding and national seed production programs
+[27].
+The area is estimated at 2.4 million hectares in 2016-17, down 0.1 M ha from last season. The lower area this year is largely a reflection of the lower prices at
+the time of planting for cotton relative to other crops at the time. An increase in sugarcane area offset the decrease in
+cotton [33]
+The government should provide an enabling environment commercialization of 2nd /3rd generation cotton technology
+Roundup
+Ready® Flex for control of Bollworm and weeds. Following proposal is suggested for deliberation and consideration for the
+government.
+
+•
+APTMA/PCGA may be involved in the collection and provision of technology fee to 2nd/3rd generation Bt cotton supplier.
+•
+Technology fee to the companies might be paid out of Cotton Cess fund under cotton control act.
+•
+PARB has a mandate of importing emerging
+Agriculture
+Technologies hence PARB may be entrusted with task importing
+2nd/3rd generation Bt cotton with Roundup
+Ready® Flex technology.
+•
+Government to ensure the supply of
+Cotton certified seed through local and international companies
+
+Develop a mechanism for the Warranty of
+Bt presence in the certified seed
+Monitoring of Bt expression in the field
+Ban Cotton sowing before the 15th April to avoid Pink Boll worm attack.)
+The using of laser technology can solve the issue of stagnating rainwater.
+Ban of sowing of sugarcane in cotton zone which happens due to the Government protecting and facilitating sugar industry
+(PCGA Chairman BR research, 2017)
+
+7. CONCLUSION
+
+This Study explore the challenges of Bt cotton adaptation before and after formal adaptation the problem facing by farmer due to seed adultration
+and low level of Bt gene expression and most of varieties harboring just Cry1Ac gene. Likewise there is dramatic reduction in pesticidies after the
+adaptation of Bt cotton in different countries but in Pakistan after formal adaptation there was negative impact since Pakistan is ranking as
+major cotton producer in the world and having excellent R&D Institutes there is need to work with 2nd/3rd generation Bt cotton with Roundup
+Ready® Flex technology also government need to pay attention for funding and for paying technology adaptation fee and new ability to
+cultivate 2nd/3rd generation Bt cotton coupled with the availability of genuine Bt cotton seed may upturn the yield and mark cotton prices. This
+paper also examine performance unapproved Bt varieties and approved varieties and role of public and private institution in the
+adaptation and intrest of government and effect of Bt Cotton on Pakistan economy.
+
+COMPETING INTERESTS
+
+Authors have declared that no competing interests exist.
+
+REFERENCES
+
+1.
+Nazli thesis. Impact of Bt cotton adoption on farmers wellbeing in Pakistan; 2010.
+2.
+Salam Abdul. Production, prices and emerging challenges in the Pakistan
+Cotton Sector. ed.) Cotton-Textile-Apparel
+Sectors of Pakistan; 2008.
+3.
+Mazari, Raashid Bashir. International Code of Conduct on the Distribution and Use of
+Pesticides. Country Report. Department of
+Plant
+Protection,
+Ministry
+Food,
+Agriculture & Livestock, Government of
+Pakistan; 2005.
+4.
+ISAAA. Global Review of the Field Testing
+Transgenic
+Plants; 1996.
+Available:http://www.isaaa.org/resources/p ublications/briefs/01/download/isaaa-brief-
+01-1996.pdf
+5.
+James,
+Clive.
+Global
+Status
+Commercialized Biotech/GM Crops: 2008.
+ISAAA Brief No. 39. ISAAA: Ithaca, NY;
+2008.
+6.
+Rana Muhammad Ahsan. Formalizing the informal: The commercialization of GM cotton in Pakistan; 2010.
+7.
+Baloch QB. Minutes of the meeting on
+"Fast Track Approval of Cotton Varieties and Control of Mealy Bug" held on 25th
+November, 2006 at the Central Cotton
+Research
+Institute
+(CCRI),
+Multan.
+MINFAL,
+Government
+Islamabad, Unpublished; 2006.
+8.
+NBC. Minutes of Meeting held on 25th
+November
+2006.
+National
+Committee (NBC), Ministry of Environment,
+Government
+Islamabad,
+Unpublished; 2006.
+9.
+Hayee A. Cultivation of Bt cotton -
+Pakistan's experience. Islamabad, Action
+Aid Pakistan; 2005.
+10.
+Khan GA. Inheritance of Transgene(s) in
+Cotton (Gossypium hirsutum L.). Centre of
+Excellence in Molecular Biology (CEMB).
+Lahore, The University of Punjab. PhD
+Thesis. 2007;231.
+11.
+Deputy ADC MINFAL 2008 Deputy ADC
+MINFAL.
+Letter from
+Dr.
+Tassawar
+Hussain Malik, Deputy ADC MINFAL to Mr.
+Javed Saleem Qureshi, Director Marketing and Sales, Ali Akbar Group dated 12 June
+2008: Genetically Modified cotton Varieties of M/s Ali Akbar Group, Lahore. MINFAL.
+Islamabad, Unpublished; 2008.
+12.
+Chairman APTMA, Cotton Crop Failure -
+Letter from
+Chairman
+APTMA
+Secretary MINFAL dated November 1,
+2007. MINFAL, Government of Pakistan.
+Islamabad,
+Unpublished;
+Chairman
+APTMA (2007b). Bt Cotton - Letter from
+Chairman
+APTMA
+Secretary,
+Department of Agriculture, Government of
+Punjab dated July 4, 2007. Department of
+Agriculture, Government of Punjab. Lahore,
+Unpublished; 2007.
+13.
+CRI. Presentation before the Working
+Group on Agriculture. Ayub Agricultural
+Research
+Institute
+CRI
+(AARI),
+Government
+Punjab.
+Faisalabad,
+Unpublished; 2008
+14.
+Biosafety guidelines; 2005.
+Available:http://environment.gov.pk/act- rules/BiosftyGlines2005.pdf
+15.
+Ali S, Hameed S. Status of cotton harboring Bt gene in Pakistan. Islamabad,
+Pakistan Agricultural Research Council
+(PARC). 2007;25.
+16.
+Agri Farm (2007). Letter from Chief
+Executive
+Agri
+Farm
+Secretary
+Agriculture, Government of Punjab dated
+
+September 29, 2007: Transfer of Bt
+Technology
+Developing
+Insect
+Resistant Cotton Varieties in Punjab.
+Department of Agriculture, Government of
+Punjab, Unpublished.
+17.
+Xuanjun
+F,
+Daxi
+C.
+Commercial implementation of intellectual property rights
+Chinese transgenic insect- resistant cotton with Bt gene and Bt +CpTI genes. Journal of Agricultural Biotechno- logy. 2001;9(2):103-106.
+18.
+Huang J, Hu R. Bt cotton benefits, cost, and impact in China. AgBio Forum.
+2002;5(4):153-166.
+19.
+Auriga GM. Minutes of the meeting dated 6
+June 2007 (Draft for Approval). Cotton
+Research Institute (CRI), Government of
+Punjab. Faisalabad, Unpublished; 2007.
+20.
+Director CRI. Note on acquisition of Bt technology from China. Cotton Research
+Institute (CRI), Government of Punjab.
+Faisalabad, Unpublished; 2007.
+21.
+DG pest Warning, Bt Cotton in Punjab.
+Pest
+Warning
+Quality
+Control,
+Department of Agriculture, Government of
+Punjab. Lahore, Unpublished; 2007.
+22.
+ISAAA. Twentieth Anniversary (1996 to
+2015) of the Global Commercialization of
+Biotech Crops and Biotech Crop Highlights in 2015, ISAAA Brief No. 51 (International
+Service for the Acquisition of Agri-Biotech
+Applications, Ithaca, NY; 2015.
+23.
+MIT Technology review; 2016.
+Available:http://www.technologyreview.pk/ pakistans-cotton-emergency/
+24.
+PARC. Status of cotton harboring Bt gene in Pakistan. Institute of Agr-Biotechnology
+& Genetic Resources, National Agricultural
+Research Centre, Pakistan Agricultural
+Research Council, Islamabad; 2008.
+25.
+James,
+Clive.
+Global status commercialized Biotech/GM Crops: 2010.
+ISAAA Brief No. 43. ISAAA: Ithaca, NY;
+2011.
+26.
+Saira Azam, Tahir Rehman Samiullah,
+Aneela Yasmeen, Salah ud Din, Adnan
+Iqbal, Abdul Qayyum Ra, Idrees Ahmad
+Nasir, Bushra Rashid, Ahmad Ali Shahid,
+Munir
+Ahmad,
+Tayyab
+Husnain.
+Dissemination of Bt cotton in cotton growing belt of Pakistan; 2013.
+27.
+Tassawar
+Hussain
+Malik,
+Muhammad
+Zahir Ahsan. Review of the cotton market in Pakistan and its future prospects; 2016.
+Available:https://www.ocl- journal.org/articles/ocl/full_html/2016/06/oc l160022/ocl160022.html
+28.
+Nasir Nadeem, Abdul Ghafoor Awan,
+Muhammad
+Abubakar
+Nawaz.
+Published the study “Estimation of Cost
+Benefit Ratio of Bt Cotton Growers in
+District Khanewl, Pakistan in 2015”; 2015.
+29.
+Sadashivappa P, Qaim M. BT cotton in
+India: Development of benefits and the role of government seed price intervention. Ag
+Bio Forum. 2009;12(2):172–183.
+30.
+crises
+2015-16 department of research and development international affairs of Faisalabad chamber of commerce and Indutry, Faisalabad,
+Available:http://fcci.com.pk/wp- content/uploads/2017/08/Cotton-Crises.pdf
+31.
+Dr Iqrar khan, Managing Director PSC,
+Director CCRI Multan, DG agriculture
+(PW&QC)
+Lahore,
+DG agriculture
+(research Report Causes of low yield of
+Cotton during cotton crop season 2015-16
+Government of Punjab Convener) FSD.
+32.
+USDA; 2018.
 Available:https://gain.fas.usda.gov/Recent
 %20GAIN%20Publications/Cotton%20and
-%20Products%20Update_Islamabad_Paki
-stan_8-31-2018.pdf 
-33. 
-USDA; 2016. 
+%20Products%20Update_Islamabad_Paki stan_8-31-2018.pdf
+33.
+USDA; 2016.
 Available:https://gain.fas.usda.gov/Recent
 %20GAIN%20Publications/Cotton%20and
-%20Products%20Update_Islamabad_Paki
-stan_7-1-2016.pdf 
- 
- 
-_________________________________________________________________________________ 
-© 2019 Shahbaz et al.; This is an Open Access article distributed under the terms of the Creative Commons Attribution License 
-(http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, 
-provided the original work is properly cited. 
- 
- 
- 
- 
- 
-Peer-review history: 
-The peer review history for this paper can be accessed here: 
+%20Products%20Update_Islamabad_Paki stan_7-1-2016.pdf
+
+© 2019 Shahbaz et al.; This is an Open Access article distributed under the terms of the Creative Commons Attribution License
+(http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium,
+provided the original work is properly cited.
+
+Peer-review history:
+The peer review history for this paper can be accessed here:
 http://www.sciencedomain.org/review-history/28163
