@@ -1,0 +1,24 @@
+filename,crop,word_count,source
+FAO_cotton.txt,Cotton,56055,FAO
+PAD_cotton.txt,Cotton,9746,Unknown
+PARC_cooton_02.txt,Cotton,8018,PARC
+PARC_cotton.txt,Cotton,6660,PARC
+PARC_cotton_03.txt,Cotton,6779,PARC
+FAO_maize.txt,Maize,7812,FAO
+maize.txt,Maize,307,Unknown
+maize_post_harvest.txt,Maize,35493,Unknown
+PARC_maize.txt,Maize,4116,PARC
+FAO_rice-2.txt,Rice,16356,FAO
+FAO_rice_01.txt,Rice,1502,FAO
+FAO_rice_3.txt,Rice,1215,FAO
+FAO_rice_4.txt,Rice,4598,FAO
+UAF_rice.txt,Rice,883,UAF
+FAO_sugarcane.txt,Sugarcane,7358,FAO
+PARC_sugarcane.txt,Sugarcane,3107,PARC
+PARC_sugarcane_02.txt,Sugarcane,5406,PARC
+sugarcane.txt,Sugarcane,17669,Unknown
+UAF_sugarcane.txt,Sugarcane,5641,UAF
+FAO_wheat.txt,Wheat,20700,FAO
+FAO_wheat_03.txt,Wheat,12841,FAO
+FAO_wheat_post_harvestation.txt,Wheat,9907,FAO
+PMD_wheat.txt,Wheat,7947,Pakistan Meteorological Department
