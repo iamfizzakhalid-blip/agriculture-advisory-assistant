@@ -1,575 +1,84 @@
-September 2022 | Volume 35 | Issue 3 | Page 533
-Pakistan Journal of Agricultural Research
-Research Article
+Pakistan Journal of Agricultural Research Research Article
 Abstract | Sugarcane is a main cash crop of Pakistan grown extensively in varying agro-climatic conditions.
-It confers a sound economic base to the sugar industry and also supports paper and chipboard manufacturing industry. The rapid human population growth in the country has increased the sugar demand. The present position
-of low yield and recovery in sugarcane stipulates the breeders to take realistic innovative attempts in varietal development programs to evaluate and release new sugarcane of high cane and sugar yield potential to fulfill the
-sugar demand in the country. Limited work regarding appraisal of variation in lately evolved sugarcane genotypes for morphological and quality-related characters has been reported in Pakistan. Evaluation of sugarcane genotypes
-for desired attributes acceptable to growers and sugar mills is necessary before releasing them as commercial varieties. The study was undertaken to evaluate variations in sugarcane genotypes employing four morphological
-(Cane thickness, cane height, millable stalks, and cane yield) and four quality-related (Brix, pol, purity, and commercial cane sugar percentage) traits. Experiments were conducted in plant crop for two consecutive years
-2018-19 and 2019-20 during the autumn cropping season at Makli farm of PARC-National Sugar and Tropical
-Horticulture Research Institute (NSTHRI), Thatta, Pakistan. A total of four sugarcane genotypes i.e., YtTh-1701,
-YtTh-1705, YtTh-1707, and YtTh-1730 against standard variety Thatta-10 as check were tested. The genotypes were developed from the exotic fuzz of China. The trials were conducted under RCBD with three replications.
-The ANOVA exhibited significant (p≤0.05) differences among the genotypes for cane thickness, cane height, number of millable canes, and cane yield, whereas, non-significant (p≥0.05) variations were observed for brix%,
-pol%, purity% and commercial cane sugar percentage (CCS%). The mean data showed a maximum cane yield of
-150.84 t ha-1 for YtTh-1705, followed by YtTh-1707 (145.42 t ha-1) and YtTh-1701 (142.29 t ha-1). Whereas, the
-minimum yield of 104 t ha-1 was recorded in YtTh-1730 against the check variety (137.09 t ha-1). Similarly, the maximum CCS of 12.08% was displayed by YtTh-1705, followed by check variety Thatta-10 with CCS of 11.73%.
-Whereas, the CCS% in other sugarcane genotypes was low as compared to check variety. Among the inspected sugarcane genotypes YtTh-1705 was found promising due to highly improved performance for quantitative and
-qualitative parameters. Therefore, can be included in the gene pool for further varietal development studies.
-Riaz Noor Panhwar1*, Abdul Fatah Soomro1, Muhammad Chohan1, Illahi Bux Bhatti1, Ali Hassan Mari1,
-Samia Arain1 and Sagheer Ahmad2
-1Pakistan Agricultural Research Council, National Sugar and Tropical Horticulture Research Institute, Thatta, Pakistan;
-2National Coordinator (Sugar Crops), Pakistan Agricultural Research Council, Islamabad, Pakistan.
-Received | July 14, 2021; Accepted | August 23, 2022; Published | September 08, 2022
-*Correspondence | Riaz Noor Panhwar, Pakistan Agricultural Research Council, National Sugar and Tropical Horticulture Research Institute,
-Thatta, Pakistan; Email: rnoor_73@yahoo.com
-Citation | Panhwar, R. N., A. F. Soomro, M. Chohan, I. B. Bhatti, A. H. Mari, S. Arain and S. Ahmad. 2022. Assessment of variation in newly
-developed sugarcane genotypes for morphological and quality associated parameters. Pakistan Journal of Agricultural Research, 35(3): 533-540.
-DOI | https://dx.doi.org/10.17582/journal.pjar/2022/35.3.533.540
-Keywords | Sugarcane, Genotypes, Cane yield and quality
-Copyright: 2022 by the authors. Licensee ResearchersLinks Ltd, England, UK.
-This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://
-creativecommons.org/licenses/by/4.0/).
-Assessment of Variation in Newly Developed Sugarcane Genotypes for Morphological and Quality Associated Parameters
+It confers a sound economic base to the sugar industry and also supports paper and chipboard manufacturing industry. The rapid human population growth in the country has increased the sugar demand. The present position of low yield and recovery in sugarcane stipulates the breeders to take realistic innovative attempts in varietal development programs to evaluate and release new sugarcane of high cane and sugar yield potential to fulfill the sugar demand in the country. Limited work regarding appraisal of variation in lately evolved sugarcane genotypes for morphological and quality-related characters has been reported in Pakistan. Evaluation of sugarcane genotypes for desired attributes acceptable to growers and sugar mills is necessary before releasing them as commercial varieties. The study was undertaken to evaluate variations in sugarcane genotypes employing four morphological (Cane thickness, cane height, millable stalks, and cane yield) and four quality-related (Brix, pol, purity, and commercial cane sugar percentage) traits. Experiments were conducted in plant crop for two consecutive years 2018-19 and 2019-20 during the autumn cropping season at Makli farm of PARC-National Sugar and Tropical Horticulture Research Institute (NSTHRI), Thatta, Pakistan. A total of four sugarcane genotypes i.e., YtTh-1701, YtTh-1705, YtTh-1707, and YtTh-1730 against standard variety Thatta-10 as check were tested. The genotypes were developed from the exotic fuzz of China. The trials were conducted under RCBD with three replications. The ANOVA exhibited significant (p≤0.05) differences among the genotypes for cane thickness, cane height, number of millable canes, and cane yield, whereas, non-significant (p≥0.05) variations were observed for brix%, pol%, purity% and commercial cane sugar percentage (CCS%). The mean data showed a maximum cane yield of 150.84 t ha-1 for YtTh-1705, followed by YtTh-1707 (145.42 t ha-1) and YtTh-1701 (142.29 t ha-1). Whereas, the minimum yield of 104 t ha-1 was recorded in YtTh-1730 against the check variety (137.09 t ha-1). Similarly, the maximum CCS of 12.08% was displayed by YtTh-1705, followed by check variety Thatta-10 with CCS of 11.73%. Whereas, the CCS% in other sugarcane genotypes was low as compared to check variety. Among the inspected sugarcane genotypes YtTh-1705 was found promising due to highly improved performance for quantitative and qualitative parameters. Therefore, can be included in the gene pool for further varietal development studies. Riaz Noor Panhwar1*, Abdul Fatah Soomro1, Muhammad Chohan1, Illahi Bux Bhatti1, Ali Hassan Mari1, Samia Arain1 and Sagheer Ahmad2 1Pakistan Agricultural Research Council, National Sugar and Tropical Horticulture Research Institute, Thatta, Pakistan; 2National Coordinator (Sugar Crops), Pakistan Agricultural Research Council, Islamabad, Pakistan. Received | July 14, 2021; Accepted | August 23, 2022; Published | September 08, 2022 *Correspondence | Riaz Noor Panhwar, Pakistan Agricultural Research Council, National Sugar and Tropical Horticulture Research Institute, Thatta, Pakistan; Email: rnoor_73@yahoo.com Citation | Panhwar, R. N., A. F. Soomro, M. Chohan, I. B. Bhatti, A. H. Mari, S. Arain and S. Ahmad. 2022. Assessment of variation in newly developed sugarcane genotypes for morphological and quality associated parameters. Pakistan Journal of Agricultural Research, 35(3): 533-540. DOI | https://dx.doi.org/10.17582/journal.pjar/2022/35.3.533.540 Keywords | Sugarcane, Genotypes, Cane yield and quality Copyright: 2022 by the authors. Licensee ResearchersLinks Ltd, England, UK. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/4.0/). Assessment of Variation in Newly Developed Sugarcane Genotypes for Morphological and Quality Associated Parameters
 
-September 2022 | Volume 35 | Issue 3 | Page 534
 Introduction
-S ugarcane (Saccharum officinarum L.) is a highly valuable crop, being cultivated in tropical and subtropical climatic regions of the world on the whole
-for sugar production (Ochami and Ochieng, 2020).
-Its wider adaptability to varying climatic conditions offers a steady economic base for the survival of the sugarcane industry as the world’s population is
-increasing rapidly and creating the necessity for food and renewable energy supply (Skocaj et al., 2013).
-Sugarcane is the fount of basic material for the sugar industry to manufacture sugar, ethanol, and spirit
-(Lott et al., 2018) as well as supports to paper and chipboard industry worldwide (Khan et al., 2017).
-Sugarcane is the second main cash crop of Pakistan puts forth a strong impact on the welfare of the farming community as it contributes a large part
-of their earnings (Hassan et al., 2017). In Pakistan, sugarcane is cultivated on an area of 1,038,879 hectares with an average cane yield of 64.59 t ha-1 and sugar
-recovery of 9.89% (Annual Report, 2020, PSMA) and a total of 98.74% of the sugar is obtained from sugarcane to fulfill the domestic level requirement
-(Annual Report, 2020, PSMA). The average per hectare yield in Pakistan is not so much as in other sugarcane-producing countries of the world (Junejo et
-al., 2021). Whereas, the agro-ecological conditions in different parts of Pakistan are highly conducive to cane production. Among the numerous reasons
-that lower sugarcane yield in Pakistan, the one main cause for that, is the cultivation of unapproved and low-yielding varieties (Khan et al., 2018). In Pakistan,
-the majority of commercially cultivated sugarcane varieties are becoming obsolete and dropping their potential over time (Junejo et al., 2012) and our
-growers do not have the choice of the difference in their sugarcane crop with the latest better sugarcane varieties (Majeedano et al., 2003; Junejo et al., 2012).
-Sugarcane productivity could in no way be improved until and unless potential varieties accompanied by appropriate technologies are adopted by the growers
-(Khalid et al., 2014).
-Improved varieties have an important part in the productivity enhancement of sugarcane (Memon et al., 2010) and there exists a broad perspective of
-sugarcane research and development in Pakistan quite the opposite to other top cane growing countries (Williams and Rehman, 2016). The existing
-situation of stagnant cane yield and sugar recovery in the country demands pragmatic efforts in varietal development programs to discover the potential of
-sugarcane lines through their assessment based on variation for yield and quality contributing attributes.
-In this regard, Tahir et al. (2014) recommended that in the indirect selection of varieties for cane yield it would be worthwhile that testing of sugarcane
-varieties should be formed on maximum tillers capacity, taller cane stalks, and greater sugar recovery.
-Conversely, the conciliation should be made with other parameters like purity, and internode length, whereby they display a negative indirect effect.
-Ochami and Ochieng (2020) reported that in the study area the cane yield of sugarcane varieties depends upon yield parameters; cane height, cane
-thickness, and the number of millable canes. Tyagi et al. (2012) reported that the selection of genotypes on account of preferred characteristics of cane and
-sugar yield such as the number of millable canes, cane weight, and cane height should be the decisive factor in the sugarcane varietal development program.
-The adaptability of a variety to particular agro-climatic conditions of the area to recognize the maximum yield leads to its success (Prabhakar et al., 2012;
-Getaneh et al., 2015). Consensus of the growers and sugar mills for a variety now rests largely on its cane yield and quality potential. The selection of variety
-exclusively gets better the cane yield in the range of
-28-60 percent (Kathiresan et al., 2001).
-Therefore, for sustaining high cane and sugar productivity, it is peremptory to evaluate sugarcane lines for profit-oriented traits so that the inherent
-genetic potential of the newly developed sugarcane lines could be sorted out for yield and quality-related parameters before these are released as commercial
-varieties.
-Keeping in view the importance of the study, newly developed sugarcane genotypes were evaluated for cane yield and quality associated parameters in agro-
-climatic conditions of Thatta, Pakistan to have the high cane, sucrose contents, resistance to biotic and abiotic stresses genotypes.
+S ugarcane (Saccharum officinarum L.) is a highly valuable crop, being cultivated in tropical and subtropical climatic regions of the world on the whole for sugar production (Ochami and Ochieng, 2020). Its wider adaptability to varying climatic conditions offers a steady economic base for the survival of the sugarcane industry as the world’s population is increasing rapidly and creating the necessity for food and renewable energy supply (Skocaj et al., 2013). Sugarcane is the fount of basic material for the sugar industry to manufacture sugar, ethanol, and spirit (Lott et al., 2018) as well as supports to paper and chipboard industry worldwide (Khan et al., 2017). Sugarcane is the second main cash crop of Pakistan puts forth a strong impact on the welfare of the farming community as it contributes a large part of their earnings (Hassan et al., 2017). In Pakistan, sugarcane is cultivated on an area of 1,038,879 hectares with an average cane yield of 64.59 t ha-1 and sugar recovery of 9.89% (Annual Report, 2020, PSMA) and a total of 98.74% of the sugar is obtained from sugarcane to fulfill the domestic level requirement (Annual Report, 2020, PSMA). The average per hectare yield in Pakistan is not so much as in other sugarcane-producing countries of the world (Junejo et al., 2021). Whereas, the agro-ecological conditions in different parts of Pakistan are highly conducive to cane production. Among the numerous reasons that lower sugarcane yield in Pakistan, the one main cause for that, is the cultivation of unapproved and low-yielding varieties (Khan et al., 2018). In Pakistan, the majority of commercially cultivated sugarcane varieties are becoming obsolete and dropping their potential over time (Junejo et al., 2012) and our growers do not have the choice of the difference in their sugarcane crop with the latest better sugarcane varieties (Majeedano et al., 2003; Junejo et al., 2012). Sugarcane productivity could in no way be improved until and unless potential varieties accompanied by appropriate technologies are adopted by the growers (Khalid et al., 2014). Improved varieties have an important part in the productivity enhancement of sugarcane (Memon et al., 2010) and there exists a broad perspective of sugarcane research and development in Pakistan quite the opposite to other top cane growing countries (Williams and Rehman, 2016). The existing situation of stagnant cane yield and sugar recovery in the country demands pragmatic efforts in varietal development programs to discover the potential of sugarcane lines through their assessment based on variation for yield and quality contributing attributes. In this regard, Tahir et al. (2014) recommended that in the indirect selection of varieties for cane yield it would be worthwhile that testing of sugarcane varieties should be formed on maximum tillers capacity, taller cane stalks, and greater sugar recovery. Conversely, the conciliation should be made with other parameters like purity, and internode length, whereby they display a negative indirect effect. Ochami and Ochieng (2020) reported that in the study area the cane yield of sugarcane varieties depends upon yield parameters; cane height, cane thickness, and the number of millable canes. Tyagi et al. (2012) reported that the selection of genotypes on account of preferred characteristics of cane and sugar yield such as the number of millable canes, cane weight, and cane height should be the decisive factor in the sugarcane varietal development program. The adaptability of a variety to particular agro-climatic conditions of the area to recognize the maximum yield leads to its success (Prabhakar et al., 2012; Getaneh et al., 2015). Consensus of the growers and sugar mills for a variety now rests largely on its cane yield and quality potential. The selection of variety exclusively gets better the cane yield in the range of 28-60 percent (Kathiresan et al., 2001). Therefore, for sustaining high cane and sugar productivity, it is peremptory to evaluate sugarcane lines for profit-oriented traits so that the inherent genetic potential of the newly developed sugarcane lines could be sorted out for yield and quality-related parameters before these are released as commercial varieties. Keeping in view the importance of the study, newly developed sugarcane genotypes were evaluated for cane yield and quality associated parameters in agro- climatic conditions of Thatta, Pakistan to have the high cane, sucrose contents, resistance to biotic and abiotic stresses genotypes.
 Materials and Methods
 The experiments were conducted in plant crop for two consecutive years 2018-19 and 2019-20 during
-Subject to the CABI Digital Library Terms & Conditions, available at https://cabidigitallibrary.org/terms-and-conditions
 
-September 2022 | Volume 35 | Issue 3 | Page 535 the autumn cropping season at Makli farm of PARC-
-National Sugar and Tropical Horticulture Research
-Institute (NSTHRI), Thatta, Pakistan (24O 46’34.11”
-N, 67O 53’10.72” E). The soil of the experimental site during 2018-19 was characterized as clay loam with pH (7.4), EC (0.93 dS m-1), poorly available nitrogen
-(0.06%), and low available phosphorus (3.97 mg kg-
-1), and adequate exchangeable potassium (232 mg kg-1). While, during 2019-20, the soil of the site was clay loam with pH (7.7), EC (1.03 dS m-1), poorly
-available nitrogen (0.04%), low available phosphorus
-(3.81 mg kg-1), and adequate exchangeable potassium
-(224 mg kg-1).
-The plant material for this study was comprised of four newly developed sugarcane genotypes namely
-YtTh-1701, YtTh-1705, YtTh-1707, and YtTh-1730 developed from the exotic fuzz of China. The fuzz was obtained from Guang Zhou Sugar Industry Research
-Institute (GSRI), Guang Dong, China under Pak-
-China Cooperation Project on Agriculture, PARC,
-Islamabad. The cross name of each sugarcane fuzz was prefixed as Yt after the name of Yuetang district in Hunan province, China. The names of sugarcane
-genotypes developed through Yt named sugarcane fuzz were proposed as YtTh (Yt stands for Yuetang and
-Th for their development in Thatta). The trials were conducted in a randomized complete block design
-(RCBD) with three replications. The experimental plots consisted of 10 m long three rows having 4 m row to row spacing. Two bud sets of each sugarcane
-genotype were placed in furrows using an overlapping planting method and then covered with a thin layer of soil.
+National Sugar and Tropical Horticulture Research Institute (NSTHRI), Thatta, Pakistan (24O 46’34.11” N, 67O 53’10.72” E). The soil of the experimental site during 2018-19 was characterized as clay loam with pH (7.4), EC (0.93 dS m-1), poorly available nitrogen (0.06%), and low available phosphorus (3.97 mg kg- 1), and adequate exchangeable potassium (232 mg kg-1). While, during 2019-20, the soil of the site was clay loam with pH (7.7), EC (1.03 dS m-1), poorly available nitrogen (0.04%), low available phosphorus (3.81 mg kg-1), and adequate exchangeable potassium (224 mg kg-1). The plant material for this study was comprised of four newly developed sugarcane genotypes namely YtTh-1701, YtTh-1705, YtTh-1707, and YtTh-1730 developed from the exotic fuzz of China. The fuzz was obtained from Guang Zhou Sugar Industry Research Institute (GSRI), Guang Dong, China under Pak- China Cooperation Project on Agriculture, PARC, Islamabad. The cross name of each sugarcane fuzz was prefixed as Yt after the name of Yuetang district in Hunan province, China. The names of sugarcane genotypes developed through Yt named sugarcane fuzz were proposed as YtTh (Yt stands for Yuetang and Th for their development in Thatta). The trials were conducted in a randomized complete block design (RCBD) with three replications. The experimental plots consisted of 10 m long three rows having 4 m row to row spacing. Two bud sets of each sugarcane genotype were placed in furrows using an overlapping planting method and then covered with a thin layer of soil.
 Recommended dosage (230:115:125 kg ha-1) of N:
-P2O5: K2O fertilizers were applied in the form of
-Urea, TSP, and SOP. The full fertilizer dose of all phosphorus, potassium, and 1/3 nitrogen was applied at the time of planting, whereas the remaining
-nitrogen in two equal splits was applied subsequently after 45 and 90 days of planting. The agronomic practices, viz. weeding and earthing up, etc as well
-as insect pest and disease management practices were done as per recommendation. Irrigations were given as and when necessary as per crop water requirements.
-The data on cane yield, yield components, viz. cane thickness, cane height, and the number of millable canes were recorded at harvest. Five canes of each
-sugarcane genotype were collected randomly from each replication for juice analysis. The juice quality parameters, viz. brix%, pol%, purity%, and commercial
-cane sugar percentage (CCS %) were recorded at harvest using standard procedures (Meade and Chen,
-1977).
-The collected data were statistically analyzed by using computer software Statistix version 8.1. Analysis of variance (ANOVA) was done for the characteristics
-under study. The differences between treatment means were tested for significance at alpha 0.05 by
-Tukey’s Honestly Significant Difference (HSD) test according to Steel et al. (1997).
+P2O5: K2O fertilizers were applied in the form of Urea, TSP, and SOP. The full fertilizer dose of all phosphorus, potassium, and 1/3 nitrogen was applied at the time of planting, whereas the remaining nitrogen in two equal splits was applied subsequently after 45 and 90 days of planting. The agronomic practices, viz. weeding and earthing up, etc as well as insect pest and disease management practices were done as per recommendation. Irrigations were given as and when necessary as per crop water requirements. The data on cane yield, yield components, viz. cane thickness, cane height, and the number of millable canes were recorded at harvest. Five canes of each sugarcane genotype were collected randomly from each replication for juice analysis. The juice quality parameters, viz. brix%, pol%, purity%, and commercial cane sugar percentage (CCS %) were recorded at harvest using standard procedures (Meade and Chen, 1977). The collected data were statistically analyzed by using computer software Statistix version 8.1. Analysis of variance (ANOVA) was done for the characteristics under study. The differences between treatment means were tested for significance at alpha 0.05 by Tukey’s Honestly Significant Difference (HSD) test according to Steel et al. (1997).
 Results and Discussion
-Combined analysis of variance of sugarcane genotypes for cane yield and yield parameters over two years presented in Table 1 indicated that mean squires
-of genotypes for cane thickness, height, millable canes and cane yield were significant at 0.05% level of probability. In case of years, the effect was non-
-significant for cane thickness and height, while, significant (P<0.05) for millable canes and cane yield.
-The interaction of years with genotypes was found non-significant for cane thickness, and cane height, whereas, significant (P<0.05) for millable canes and
-cane yield.
-The mean data of all sugarcane genotypes for cane yield and yield related characters is presented in
+Combined analysis of variance of sugarcane genotypes for cane yield and yield parameters over two years presented in Table 1 indicated that mean squires of genotypes for cane thickness, height, millable canes and cane yield were significant at 0.05% level of probability. In case of years, the effect was non- significant for cane thickness and height, while, significant (P<0.05) for millable canes and cane yield. The interaction of years with genotypes was found non-significant for cane thickness, and cane height, whereas, significant (P<0.05) for millable canes and cane yield. The mean data of all sugarcane genotypes for cane yield and yield related characters is presented in
 Table 3, which revealed that the genotype YtTh-1705 exhibited significantly higher mean cane thickness
-(30.83 mm), which was 17.67% greater over check variety Thatta-10 (25.38 mm) followed by YtTh-
-1707 and YtTh-1701 which remained statistically
-at par mean cane thickness of 28.97 and 28.47 mm, respectively. Moreover, YtTh-1730 showed minimum results with mean cane thickness of 24.83 mm. The
-effect of year on cane thickness of sugarcane genotypes was not pronounced, however, it was noticed that during evaluation in the year 2018-19 and 2019-20,
-all the sugarcane genotypes with exception of YtTh-
-1730 had produced thicker cane stalks as compared
-to check variety.
-In case of height, all the genotypes showed variable behavior with respect to this trait. The genotype YtTh-
-Subject to the CABI Digital Library Terms & Conditions, available at https://cabidigitallibrary.org/terms-and-conditions
+(30.83 mm), which was 17.67% greater over check variety Thatta-10 (25.38 mm) followed by YtTh- 1707 and YtTh-1701 which remained statistically at par mean cane thickness of 28.97 and 28.47 mm, respectively. Moreover, YtTh-1730 showed minimum results with mean cane thickness of 24.83 mm. The effect of year on cane thickness of sugarcane genotypes was not pronounced, however, it was noticed that during evaluation in the year 2018-19 and 2019-20, all the sugarcane genotypes with exception of YtTh- 1730 had produced thicker cane stalks as compared to check variety. In case of height, all the genotypes showed variable behavior with respect to this trait. The genotype YtTh-
 
-September 2022 | Volume 35 | Issue 3 | Page 536
-1701 possessed significantly taller canes of 318.72
-cm length followed by check variety Thatta-10 and
-YtTh-1705, which showed statistically similar results with mean cane height of 315.88 and 312.56 cm, respectively. In contrast, the genotype YtTh-1707
-displayed least values for mean cane height (264.58 cm).
-The results in Table 3 indicated that all the sugarcane genotypes under test interacted differently with years.
-It was observed that millable canes 165.0 (000 ha-1) were significantly highest in check variety Thatta-10 followed by YtTh-1705 which showed 145.83 millable
-canes (000 ha-1). While, the sugarcane genotypes YtTh-
-1701, YtTh-1707 and YtTh-1730 displayed 67.68,
-63.64 and 48.87 % less values of millable canes (000
-ha-1) as compared to check variety.
-In case of cane yield highly encouraging results were achieved from all sugarcane genotypes except YtTh-
-1730 during the years 2018-19 and 2019-20. The data
-in Table 3 indicated that the genotype YtTh-1705 has proved to be promising by producing maximum mean cane yield of 150.84 t ha-1, followed by YtTh-
-1707, YtTh-1701 and Thatta-10 with statistically on par mean cane yield of 145.42, 142.29 and 137.09 t ha-1, respectively. The sugarcane genotype YtTh-
-1730 could not out yielded the check variety due to
-minimum mean cane yield of 104 t ha-1. The effect of years on cane yield of genotypes was distinctive, it was noted that in 2018-19 comparatively greater cane yield
-was exhibited over the year 2019-20 (Table 3).
+1701 possessed significantly taller canes of 318.72 cm length followed by check variety Thatta-10 and YtTh-1705, which showed statistically similar results with mean cane height of 315.88 and 312.56 cm, respectively. In contrast, the genotype YtTh-1707 displayed least values for mean cane height (264.58 cm). The results in Table 3 indicated that all the sugarcane genotypes under test interacted differently with years. It was observed that millable canes 165.0 (000 ha-1) were significantly highest in check variety Thatta-10 followed by YtTh-1705 which showed 145.83 millable canes (000 ha-1). While, the sugarcane genotypes YtTh- 1701, YtTh-1707 and YtTh-1730 displayed 67.68, 63.64 and 48.87 % less values of millable canes (000 ha-1) as compared to check variety. In case of cane yield highly encouraging results were achieved from all sugarcane genotypes except YtTh- 1730 during the years 2018-19 and 2019-20. The data in Table 3 indicated that the genotype YtTh-1705 has proved to be promising by producing maximum mean cane yield of 150.84 t ha-1, followed by YtTh- 1707, YtTh-1701 and Thatta-10 with statistically on par mean cane yield of 145.42, 142.29 and 137.09 t ha-1, respectively. The sugarcane genotype YtTh- 1730 could not out yielded the check variety due to minimum mean cane yield of 104 t ha-1. The effect of years on cane yield of genotypes was distinctive, it was noted that in 2018-19 comparatively greater cane yield was exhibited over the year 2019-20 (Table 3).
 Table 1: Mean square for cane yield and yield parameters of sugarcane genotypes at Makli farm, Thatta during 2018-
-19 and 2019-20.
-Source
-DF
-Mean square values
-Cane thickness
-Cane height
-Millable canes
-Cane yield
-Replication
+19 and 2019-20. Source DF Mean square values Cane thickness Cane height Millable canes Cane yield Replication
 
-3.3555
-1128.51
-242.50
-163.8
-Genotype
+3.3555 1128.51 242.50 163.8 Genotype
 
-38.4329*
-3077.22*
-5289.60*
-1985.2*
-Year
+38.4329* 3077.22* 5289.60* 1985.2* Year
 
-9.6107 NS
-251.26 NS
-2341.72*
-37984.5*
-Genotype x year
+9.6107 NS 251.26 NS 2341.72* 37984.5* Genotype x year
 
-7.2893 NS
-864.08 NS
-2459.63*
-638.1*
-Error
+7.2893 NS 864.08 NS 2459.63* 638.1* Error
 
-3.6688
-204.28
-112.45
-227.2
-*, significant at 0.05%; NS, non-significant; df, degrees of freedom.
+3.6688 204.28 112.45 227.2 *, significant at 0.05%; NS, non-significant; df, degrees of freedom.
 Table 2: Mean square for different quality parameters of sugarcane genotypes at Makli farm, Thatta during 2018-19 and 2019-20.
-Source
-DF
-Mean square values
-Brix
-Pol
-Purity
-CCS
-Replication
+Source DF Mean square values Brix Pol Purity CCS Replication
 
-12.2880
-30.5424
-139.321
-0.38988
-Genotype
+12.2880 30.5424 139.321 0.38988 Genotype
 
-1.2570 NS
-1.3528 NS
-2.320 NS
-1.08453 NS
-Year
+1.2570 NS 1.3528 NS 2.320 NS 1.08453 NS Year
 
-5.7583 NS
-18.2394*
-175.301*
-9.58228NS
-Genotype x year
+5.7583 NS 18.2394* 175.301* 9.58228NS Genotype x year
 
-2.7294 NS
-1.0874 NS
-22.728 NS
-1.80227 NS
-Error
+2.7294 NS 1.0874 NS 22.728 NS 1.80227 NS Error
 
-3.2480
-1.5622
-21.841
-2.54586
-*, significant at 0.05%, NS, non-significant, df, degrees of freedom.
+3.2480 1.5622 21.841 2.54586 *, significant at 0.05%, NS, non-significant, df, degrees of freedom.
 Table 3: Cane yield and yield parameters data of sugarcane genotypes at Makli farm, Thatta during 2018-19 and
-2019-20.
-Genotypes Cane thickness
-(mm)
-Mean
-Cane height
-(cm)
-Mean
-Millable canes
-(000 ha-1)
-Mean
-Cane yield
-(t ha-1)
-Mean
-Year
-2018-19 2019-20
-2018-19 2019-20
-2018-19 2019-20
-2018-19
-2019-20
-YtTh-1701 26.11
-30.83
-28.47 b 324.44
-313.00
-318.72 a 96.67 d
-100.00 d 98.34 c 193.33 a
-91.25 de
-142.29a
-YtTh-1705 31.33
-30.33
-30.83 a 303.66
-321.33
-312.56 a 106.67d 185.00 a 145.83b 186.67ab 115.00 cd 150.84a
-YtTh-1707 29.11
-28.83
-28.97ab 278.82
-250.33
-264.58 c 96.67 d
-105.00 d 100.83c 183.33 ab 107.50 cd 145.42a
-YtTh-1730 24.33
-25.33
-24.83 c 282.89
-303.99
-293.44 b 126.67c 95.00 d
-110.83c 128.33 c
-81.25 e
-104.79b
-Thatta-10
-24.77
-25.99
-25.38 c 329.77
-301.99
-315.88 a 150.00 b 180.00 a 165.0a
-166.67 b
-107.50 cd 137.09a
-Mean
-27.13
-28.26
--
-298.13
-303.92
--
-115.33 a 133.00 b -
-171.67 a
-100.50 b
--
-Means followed by the same letters in column and row did not differ significantly at P<0.05.
-Subject to the CABI Digital Library Terms & Conditions, available at https://cabidigitallibrary.org/terms-and-conditions
+2019-20. Genotypes Cane thickness (mm) Mean Cane height (cm) Mean Millable canes (000 ha-1) Mean Cane yield (t ha-1) Mean Year 2018-19 2019-20 2018-19 2019-20 2018-19 2019-20 2018-19 2019-20 YtTh-1701 26.11 30.83 28.47 b 324.44 313.00 318.72 a 96.67 d 100.00 d 98.34 c 193.33 a 91.25 de 142.29a YtTh-1705 31.33 30.33 30.83 a 303.66 321.33 312.56 a 106.67d 185.00 a 145.83b 186.67ab 115.00 cd 150.84a YtTh-1707 29.11 28.83 28.97ab 278.82 250.33 264.58 c 96.67 d 105.00 d 100.83c 183.33 ab 107.50 cd 145.42a YtTh-1730 24.33 25.33 24.83 c 282.89 303.99 293.44 b 126.67c 95.00 d 110.83c 128.33 c 81.25 e 104.79b Thatta-10 24.77 25.99 25.38 c 329.77 301.99 315.88 a 150.00 b 180.00 a 165.0a 166.67 b 107.50 cd 137.09a Mean 27.13 28.26 - 298.13 303.92 - 115.33 a 133.00 b - 171.67 a 100.50 b - Means followed by the same letters in column and row did not differ significantly at P<0.05.
 
-September 2022 | Volume 35 | Issue 3 | Page 537
-The inherent genetic potential of the sugarcane genotypes might have played role in higher and lower cane yield in this experiment. The sugarcane
-genotypes with striking intrinsic genetic makeup possess potential to generate acceptable outcomes for per hectare yield under certain set of environmental
-situation. Various workers (Kadam et al., 2004; Khaliq et al., 2018; Ali et al., 2020; Nishad and Kumar, 2020) have also exhibited alike trend of performance in
-different genotypes planted in equal set of agro- climatic conditions and reported variability in different agronomic and yield attributes together
-with the mention yield components. Higher cane yield in YtTh-1705 may possibly be on account of well coordinated association of thicker cane stalks,
-longer cane stalks and more number of millable canes.
-The genotype YtTh-1701 regardless of possessing relatively lesser millable canes produced better cane yield might be owing to combined effect of longer,
-thicker and heavier cane stalks. Moreover, the genotype YtTh-1707 in spite of bearing fairly shorter cane stalks gave encouraging yield probably because
-of the weighty millable canes which compensated the shorter stalk length and weight. The lowest cane yield in genotype YtTh-1730 could be attributed to thinner
-cane stalks which resulted in low weight of millable canes. Cane length and cane thickness parameters of a sugarcane variety are of much importance because
-that enable the stalk weight to contribute directly in final harvest (Naidu et al., 2007; Hussain et al.,
-2017). The formation of millable canes independently by varieties may possibly be linked to their tillering capacity and extent of tillers that mature to millable
-cane. The difference in number of millable canes among the investigated varieties is possibly because of their variable genetic makeup (Ochami and
-Ochieng, 2020). Similarly, various workers (Arain et al., 2011; Getaneh et al., 2015; Bughio et al.,
-2018; Endris, 2018; Ali et al., 2020; Junejo et al.,
-2021) have reported that cane yield in sugarcane is highly affected by cane length, cane diameter, cane population (millable cane), and potential of variety
-to make use of accessible resources and its genetic makeup response in a specified environment.
-The mean squares computed through analysis of variance for brix, pol, purity and CCS are presented in
+The inherent genetic potential of the sugarcane genotypes might have played role in higher and lower cane yield in this experiment. The sugarcane genotypes with striking intrinsic genetic makeup possess potential to generate acceptable outcomes for per hectare yield under certain set of environmental situation. Various workers (Kadam et al., 2004; Khaliq et al., 2018; Ali et al., 2020; Nishad and Kumar, 2020) have also exhibited alike trend of performance in different genotypes planted in equal set of agro- climatic conditions and reported variability in different agronomic and yield attributes together with the mention yield components. Higher cane yield in YtTh-1705 may possibly be on account of well coordinated association of thicker cane stalks, longer cane stalks and more number of millable canes. The genotype YtTh-1701 regardless of possessing relatively lesser millable canes produced better cane yield might be owing to combined effect of longer, thicker and heavier cane stalks. Moreover, the genotype YtTh-1707 in spite of bearing fairly shorter cane stalks gave encouraging yield probably because of the weighty millable canes which compensated the shorter stalk length and weight. The lowest cane yield in genotype YtTh-1730 could be attributed to thinner cane stalks which resulted in low weight of millable canes. Cane length and cane thickness parameters of a sugarcane variety are of much importance because that enable the stalk weight to contribute directly in final harvest (Naidu et al., 2007; Hussain et al., 2017). The formation of millable canes independently by varieties may possibly be linked to their tillering capacity and extent of tillers that mature to millable cane. The difference in number of millable canes among the investigated varieties is possibly because of their variable genetic makeup (Ochami and Ochieng, 2020). Similarly, various workers (Arain et al., 2011; Getaneh et al., 2015; Bughio et al., 2018; Endris, 2018; Ali et al., 2020; Junejo et al., 2021) have reported that cane yield in sugarcane is highly affected by cane length, cane diameter, cane population (millable cane), and potential of variety to make use of accessible resources and its genetic makeup response in a specified environment. The mean squares computed through analysis of variance for brix, pol, purity and CCS are presented in
 Table 2 which showed that genotype effect was non- significant (P<0.05) with respects to all quality related traits. The effect of year was significant (P<0.05) for
-pol and purity, whereas, non-significant for brix and
-CCS. The years x genotypes interaction was also non significant for all same parameters at 0.05% levels of probability.
-The data of sugarcane genotypes for quality parameters presented in Table 4 indicated that maximum mean brix (21.65%) was recorded from
-YtTh-1705 followed by check variety Thatta-10 with mean brix of 21.0%. While, the other investigated genotypes could not surpass YtTh-1705 and check
-variety in terms of mean brix content. In case of pol%, the genotype YtTh-1705 remained on top by producing maximum mean pol value of 18.40%.
-Check variety Thatta-10 displayed next better mean pol value (17.83%). There was a distinctive effect of years on pol of genotypes. The pol value was of the
-genotypes was considerably higher in the year 2018-
-19 compared to 2019-20 (Table 4).
-In case of commercial cane sugar (CCS) the sugarcane genotype YtTh-1705 demonstrated maximum mean
-CCS of 12.08% against the check variety Thatta-10 which produced mean CCS (11.73%) and thus, YtTh-
-1705 exhibited 2.89% higher CCS over check variety.
-The CCS% in rest other sugarcane genotypes in trial was below than that of Thatta-10 (Table 4).
+pol and purity, whereas, non-significant for brix and CCS. The years x genotypes interaction was also non significant for all same parameters at 0.05% levels of probability. The data of sugarcane genotypes for quality parameters presented in Table 4 indicated that maximum mean brix (21.65%) was recorded from YtTh-1705 followed by check variety Thatta-10 with mean brix of 21.0%. While, the other investigated genotypes could not surpass YtTh-1705 and check variety in terms of mean brix content. In case of pol%, the genotype YtTh-1705 remained on top by producing maximum mean pol value of 18.40%. Check variety Thatta-10 displayed next better mean pol value (17.83%). There was a distinctive effect of years on pol of genotypes. The pol value was of the genotypes was considerably higher in the year 2018- 19 compared to 2019-20 (Table 4). In case of commercial cane sugar (CCS) the sugarcane genotype YtTh-1705 demonstrated maximum mean CCS of 12.08% against the check variety Thatta-10 which produced mean CCS (11.73%) and thus, YtTh- 1705 exhibited 2.89% higher CCS over check variety. The CCS% in rest other sugarcane genotypes in trial was below than that of Thatta-10 (Table 4).
 Table 4: Quality parameters data of sugarcane genotypes at Makli farm, Thatta during 2018-19 and 2019-20.
-Genotypes
-Brix (%)
-Mean
-Pol (%)
-Mean
-Purity (%)
-Mean
-CCS (%)
-Mean
-Year
-2018-19 2019-20
-2018-19 2019-20
-2018-19 2019-20
-2018-19 2019-20
-YtTh-1701
-21.3
-19.6
-20.45
-18.39
-15.88
-17.13
-86.38
-81.02
-83.70
-11.37
-10.95
-11.16
-YtTh-1705
-22.6
-20.7
-21.65
-19.51
-17.29
-18.40
-86.32
-83.52
-84.92
-12.06
-12.11
-12.08
-YtTh-1707
-21.4
-20.3
-20.85
-18.62
-16.75
-17.68
-87.00
-82.51
-85.25
-10.45
-11.66
-11.05
-YtTh-1730
-21.5
-19.8
-20.65
-18.74
-16.11
-17.42
-87.16
-81.36
-84.26
-11.64
-11.13
-11.38
-Thatta-10
-21.0
-21.0
-21.00
-18.26
-17.40
-17.83
-86.95
-82.85
-84.90
-11.33
-12.14
-11.73
-Mean
-21.56
-20.88
--
-18.70 a
-16.68 b
--
-86.76 a
-82.45 b
--
-11.59
-11.37
--
-Means followed by the same letters in column and row did not differ significantly at P<0.05.
-Subject to the CABI Digital Library Terms & Conditions, available at https://cabidigitallibrary.org/terms-and-conditions
+Genotypes Brix (%) Mean Pol (%) Mean Purity (%) Mean CCS (%) Mean Year 2018-19 2019-20 2018-19 2019-20 2018-19 2019-20 2018-19 2019-20 YtTh-1701 21.3 19.6 20.45 18.39 15.88 17.13 86.38 81.02 83.70 11.37 10.95 11.16 YtTh-1705 22.6 20.7 21.65 19.51 17.29 18.40 86.32 83.52 84.92 12.06 12.11 12.08 YtTh-1707 21.4 20.3 20.85 18.62 16.75 17.68 87.00 82.51 85.25 10.45 11.66 11.05 YtTh-1730 21.5 19.8 20.65 18.74 16.11 17.42 87.16 81.36 84.26 11.64 11.13 11.38 Thatta-10 21.0 21.0 21.00 18.26 17.40 17.83 86.95 82.85 84.90 11.33 12.14 11.73 Mean 21.56 20.88 - 18.70 a 16.68 b - 86.76 a 82.45 b - 11.59 11.37 - Means followed by the same letters in column and row did not differ significantly at P<0.05.
 
-September 2022 | Volume 35 | Issue 3 | Page 538
-All the studied sugarcane genotypes exhibited variable behavior with regards to quality parameters.
-The variability might be attributed to their different genetic makeup. This variation among the sugarcane genotypes may be ascribed to the high adoptability of
-the genotypes in the climatic condition of Thatta area which is regarded as highly conducive for sugarcane growth and breeding (Arain et al., 2011; Bughio et
-al., 2018; Junejo et al., 2021). The final measurement of sucrose level in a particular genotype is judged by computing commercial cane sugar percentage and
-sugar yield, which are of highly essential from miller’s and breeder’s perspective (Nadeem et al., 2008;
-Hussain et al., 2017). Highest CCS in YtTh-1705 was due to the well-coordinated interplay of birx, pol and purity values. While, the genotype YtTh-1730
-despite having higher mean purity value exhibited lowest CCS because of low brix and pol values. Brix and pol values measured from sugarcane juice are
-main parameters in calculating CCS (Albertson and
-Christopher, 2004). Both are important qualitative parameters used for maturity judgment (Khalid et al., 2014). If the brix value of a genotype is high and
-sucrose content is less, correspondingly the purity value may be reduced, which eventually may decrease
-CCS. Different workers (Getaneh et al., 2015; Khan et al., 2018; Reddy et al., 2020) found high correlation in most of the quality parameters of sugarcane with
-each other. According to Shikanda et al. (2017) a higher purity value points to high sucrose content.
-They further reported that in sugarcane crop, pol % and purity % of cane juice possess the strong and positive association.
+All the studied sugarcane genotypes exhibited variable behavior with regards to quality parameters. The variability might be attributed to their different genetic makeup. This variation among the sugarcane genotypes may be ascribed to the high adoptability of the genotypes in the climatic condition of Thatta area which is regarded as highly conducive for sugarcane growth and breeding (Arain et al., 2011; Bughio et al., 2018; Junejo et al., 2021). The final measurement of sucrose level in a particular genotype is judged by computing commercial cane sugar percentage and sugar yield, which are of highly essential from miller’s and breeder’s perspective (Nadeem et al., 2008; Hussain et al., 2017). Highest CCS in YtTh-1705 was due to the well-coordinated interplay of birx, pol and purity values. While, the genotype YtTh-1730 despite having higher mean purity value exhibited lowest CCS because of low brix and pol values. Brix and pol values measured from sugarcane juice are main parameters in calculating CCS (Albertson and Christopher, 2004). Both are important qualitative parameters used for maturity judgment (Khalid et al., 2014). If the brix value of a genotype is high and sucrose content is less, correspondingly the purity value may be reduced, which eventually may decrease CCS. Different workers (Getaneh et al., 2015; Khan et al., 2018; Reddy et al., 2020) found high correlation in most of the quality parameters of sugarcane with each other. According to Shikanda et al. (2017) a higher purity value points to high sucrose content. They further reported that in sugarcane crop, pol % and purity % of cane juice possess the strong and positive association.
 Conclusions and Recommendations
-Among investigated sugarcane genotypes YtTh-1705 showed highly encouraging results in terms of cane yield and CCS%. It can be included in the gene pool
-for further varietal development studies.
+Among investigated sugarcane genotypes YtTh-1705 showed highly encouraging results in terms of cane yield and CCS%. It can be included in the gene pool for further varietal development studies.
 Acknowledgement
-The authors are thankful to PARC authorities and
-Guang Zhou Sugar Industry Research Institute
-(GSRI), Guang Dong, China for providing sugarcane fuzz through Pak-China Cooperation Project on
-Agriculture. The authors are also thankful to PARC authorities for providing research and laboratory facilities for sugarcane variety development work at
-PARC-NSTHRI, Thatta.
+The authors are thankful to PARC authorities and Guang Zhou Sugar Industry Research Institute (GSRI), Guang Dong, China for providing sugarcane fuzz through Pak-China Cooperation Project on Agriculture. The authors are also thankful to PARC authorities for providing research and laboratory facilities for sugarcane variety development work at PARC-NSTHRI, Thatta.
 Novelty Statement
-The yield and quality performance of different sugar- cane genotypes developed from exotic sugarcane fuzz
-(true seed) of China has been presented in the paper which was not previously studied.
+The yield and quality performance of different sugar- cane genotypes developed from exotic sugarcane fuzz (true seed) of China has been presented in the paper which was not previously studied.
 Author’s Contribution
-Riaz Noor Panhwar: Conceived the idea, conducted the experiments and prepared write-up of the original draft of the research paper.
-Abdul Fatah Soomro: Provided guidance for exe- cution of this research experiment and reviewed the paper.
-Muhammad Chohan: Assisted in data collection of different agronomic parameters and soil sample anal- ysis.
-Illahi Bux Bhatti: Helped in data entry and statistical analysis for various traits.
-Ali Hassan Mari: Assisted in data collection and analysis of different quality parameters.
-Samia Arain: Helped in write-up of conclusion and review of literature collection.
-Sagheer Ahmad: Reviewed and edited the manu- script also provided technical input in all steps.
+Riaz Noor Panhwar: Conceived the idea, conducted the experiments and prepared write-up of the original draft of the research paper. Abdul Fatah Soomro: Provided guidance for exe- cution of this research experiment and reviewed the paper. Muhammad Chohan: Assisted in data collection of different agronomic parameters and soil sample anal- ysis. Illahi Bux Bhatti: Helped in data entry and statistical analysis for various traits. Ali Hassan Mari: Assisted in data collection and analysis of different quality parameters. Samia Arain: Helped in write-up of conclusion and review of literature collection. Sagheer Ahmad: Reviewed and edited the manu- script also provided technical input in all steps.
 Conflict of interest
 The authors have declared no conflict of interest.
 References
-Albertson, P. L., and P. L. G. Christopher. 2004. The effect of hexose upon pol, brix and calculated
-CCS in sugarcane: A potential for negative pol bias in juice from actively growing cane. J. Am.
-Soc. Sug. Tech., 24: 185-198.
-Ali, M. A., M. S. Hassan, B. D. Mohamed and
-M. H. Ali. 2020. Performance and stability analysis of some sugarcane genotypes across different environments. SVU-Int. J. Agric.
-Sci., 2(2): 192-213. https://doi.org/10.21608/ svuijas.2020.40066.1028
-Annual Report, 2020. Pakistan Sugar Mills
-Association (PSMA), Islamabad. pp. 1-52.
-Arain, M. Y., R. N. Panhwar, N. Gujar, M. Chohan,
-M. A. Rajput, A. F. Soomro and S. Junejo.
-2011. Evaluation of new candidate sugarcane
-varieties for some qualitative and quantitative traits under Thatta agro-climatic conditions. J.
-Anim. Plant Sci., 21(2): 226-230.
-Subject to the CABI Digital Library Terms & Conditions, available at https://cabidigitallibrary.org/terms-and-conditions
+Albertson, P. L., and P. L. G. Christopher. 2004. The effect of hexose upon pol, brix and calculated CCS in sugarcane: A potential for negative pol bias in juice from actively growing cane. J. Am. Soc. Sug. Tech., 24: 185-198. Ali, M. A., M. S. Hassan, B. D. Mohamed and M. H. Ali. 2020. Performance and stability analysis of some sugarcane genotypes across different environments. SVU-Int. J. Agric. Sci., 2(2): 192-213. https://doi.org/10.21608/ svuijas.2020.40066.1028 Annual Report, 2020. Pakistan Sugar Mills Association (PSMA), Islamabad. pp. 1-52. Arain, M. Y., R. N. Panhwar, N. Gujar, M. Chohan, M. A. Rajput, A. F. Soomro and S. Junejo. 2011. Evaluation of new candidate sugarcane varieties for some qualitative and quantitative traits under Thatta agro-climatic conditions. J. Anim. Plant Sci., 21(2): 226-230.
 
-September 2022 | Volume 35 | Issue 3 | Page 539
-Bughio, N., R. N. Panhwar, M. Chohan, S. Junejo, and G. S. Unar. 2018. Cane yield and quality appraisal of Thatta-2109 sugarcane variety in
-different varietal testing trials in Sindh. Pak.
-Sug. J., 28(3): 8-14.
-Endris, Y., 2018. Effect of intra row sett spacing on growth and yield of early maturing sugarcane varieties (Cuba Origin -2003 Entry) as
-influenced by Ethephon at Metahara Sugar
+Bughio, N., R. N. Panhwar, M. Chohan, S. Junejo, and G. S. Unar. 2018. Cane yield and quality appraisal of Thatta-2109 sugarcane variety in different varietal testing trials in Sindh. Pak. Sug. J., 28(3): 8-14. Endris, Y., 2018. Effect of intra row sett spacing on growth and yield of early maturing sugarcane varieties (Cuba Origin -2003 Entry) as influenced by Ethephon at Metahara Sugar
 Estate, Ethiopia. Int. J. Adv. Res. Biol. Sci., 5(6):
-67-78.
-Getaneh, A., F. Tadesse, and N. Ayele. 2015.
-Agronomic performance of ten varieties under
-Wonji- Shoa agro-climatic conditions. J. Agric.
-Nat. Res. Sci., 2(1): 260-266.
-Hassan, S., A. Bashir, I. Mehmood, M. R. Yaseen and M. Qasim. 2017. Comparative economics of fresh and ratoon sugarcane production across
-selected districts of central Punjab. J. Agric.
-Res., 55(3): 557-564.
-Hussain, S., M. Anwar-ul-Haq, S. Hussain, Z.
-Akram, M. Afzal and I. Shabbir. 2017. Best suited timing schedule of inorganic NPK fertilizers and its effect on qualitative and
-quantitative attributes of spring sown sugarcane
-(Saccharum officinarum L.). J. Saudi Soc. Agric.
-Sci., 16: 66-71. https://doi.org/10.1016/j.
+67-78. Getaneh, A., F. Tadesse, and N. Ayele. 2015. Agronomic performance of ten varieties under Wonji- Shoa agro-climatic conditions. J. Agric. Nat. Res. Sci., 2(1): 260-266. Hassan, S., A. Bashir, I. Mehmood, M. R. Yaseen and M. Qasim. 2017. Comparative economics of fresh and ratoon sugarcane production across selected districts of central Punjab. J. Agric. Res., 55(3): 557-564. Hussain, S., M. Anwar-ul-Haq, S. Hussain, Z. Akram, M. Afzal and I. Shabbir. 2017. Best suited timing schedule of inorganic NPK fertilizers and its effect on qualitative and quantitative attributes of spring sown sugarcane (Saccharum officinarum L.). J. Saudi Soc. Agric. Sci., 16: 66-71. https://doi.org/10.1016/j.
 
-Junejo, S., A. F. Soomro, R. N. Panhwar, M. Chohan,
-A. G., Soomro, A. H. Mari, I. B. Bhatti, G. M.
+Junejo, S., A. F. Soomro, R. N. Panhwar, M. Chohan, A. G., Soomro, A. H. Mari, I. B. Bhatti, G. M.
 Kaloi, S. Arain and Z. Zahoor. 2021. Screening and comparison of sugarcane genotypes for cane and sugar yield traits. Pak. Sugar J., 36(1):
-9-16.
-Junejo, S., R. N. Panhwar, B. R. Kazi, A. A. Junejo,
-U. A. Talpur, G. M. Kaloi and M. Zubair. 2012.
-Study of sugarcane germplasm varieties for flowering ability under agro-climatic conditions of Thatta. J. Anim. Plant Sci., 22(3): 688-694.
-Kadam, U. A., R. R. Hasure, J. P. Patil and B. R.
-Kanse. 2004. Response of sugarcane varieties for different dates of harvesting under pre-seasonal conditions. Coop. Sugar, 35(6): 471-474.
-Kathiresan, G., M. L. Manoharan, K. Duraiswamy, and S. Paneerselvam. 2001. Yield gap bridging in sugarcane. Kissan World, 28(2): 25-26.
-Khalid, M., Hidayat ur Rahman, M. A. Rabbani,
+9-16. Junejo, S., R. N. Panhwar, B. R. Kazi, A. A. Junejo, U. A. Talpur, G. M. Kaloi and M. Zubair. 2012. Study of sugarcane germplasm varieties for flowering ability under agro-climatic conditions of Thatta. J. Anim. Plant Sci., 22(3): 688-694. Kadam, U. A., R. R. Hasure, J. P. Patil and B. R. Kanse. 2004. Response of sugarcane varieties for different dates of harvesting under pre-seasonal conditions. Coop. Sugar, 35(6): 471-474. Kathiresan, G., M. L. Manoharan, K. Duraiswamy, and S. Paneerselvam. 2001. Yield gap bridging in sugarcane. Kissan World, 28(2): 25-26. Khalid, M., Hidayat ur Rahman, M. A. Rabbani,
 Farhatullah and A. Khan. 2014. Qualitative and quantitative assessment of newly selected sugarcane varieties. Sarhad J. Agric., 30(2):
-188-191.
-Khaliq, A., M. Yasin, M. S. Afzal and N. Ahmad.
-2018. Evaluation of different exotic sugarcane
-genotypes. Russ. J. Agric. Soc. Econ. Sci.,
+188-191. Khaliq, A., M. Yasin, M. S. Afzal and N. Ahmad. 2018. Evaluation of different exotic sugarcane genotypes. Russ. J. Agric. Soc. Econ. Sci.,
 4(76):
-296-301.
-https://doi.org/10.18551/
+296-301. https://doi.org/10.18551/
 
-Khan, F., M. T. A. Shah and M. Z. Khan. 2017. Role of various factors in sugarcane production in selected area of Khyber Pakhtunkhwa, Pakistan.
-J. Agric. Res., 55(3): 577-584.
-Khan, M. T., I. A. Khan, S. Yasmeen, N. Seema and G. S. Nizamani. 2018. Field evaluation of diverse sugarcane germplasm in agro-climatic
-conditions of Tandojam, Sindh. Pak. J. Bot.,
-50(4): 1441-1450.
-Lott, M. M. P., A. T. de Q. Xavier, and A. A. O de
-Silva. 2018. Qualitative analysis of the behavior of the seedlings of sugarcane of different varieties using the method of temporary immersion. J.
-Environ. Anal. Prog., 3(1): 49-54. https://doi.
-org/10.24221/jeap.3.1.2018.1700.049-054
-Majidano, H. I., Y. J. Minhas, A. D. Jarwar, S. D.
-Tunio and H. K. Puno. 2003. Effect of potassium levels and method of application on sugarcane yield. Pak. Sug. J., 3: 17-19.
-Meade, G. P. and J. C. P. Chen. 1977. Cane sugar hand book 10th. Wiley Inter Science, John
-Wiley and Sons, New York, Pp. 947.
-Memon, A., A. M. Khushk and U. Farooq. 2010.
-Adoption of sugarcane varieties in the sugarcane
-Growing areas of Pakistan. Pak. J. Agric. Res.,
-23(3-4): 122-131.
-Nadeem, M. A., M. A. Sarwar, A. Ghafar and A. A.
-Chattha. 2008. Comparative study of some sugarcane strains in relation to yield and quality.
-Pak. Sug. J., 13: 27-29.
-Naidu, N. V., V. Rajabapa Rao, V. R. Rajeswari,
-M. Charumathi, Ravikumar and B. Rosiaah.
-2007. 97A 85- An early maturing promising
-pre release sugarcane clone suitable for Andhra
-Pradesh. SISSTA, 1-6.
-Nishad, H. K., and B. Kumar. 2020. Genetic divergence in early maturing sugarcane clones for the cane yield and yield attributing traits.
-Int. J. Sci. Res. Publ., 10(2): 548-564. https:// doi.org/10.29322/IJSRP.10.02.2020.p9876
-Ochami, F., and N. Ochieng. 2020. Evaluation of some new sugarcane varieties for yield and yield components under coastal climatic conditions.
-Int. J. Adv. St. Res., 3(8): 2581-5997.
-Prabhakar, K., M. S. Rao, K. V. N. Madhuri, K. R.
-Subbaiah and G. Karunasagar. 2012. Evaluation
-Subject to the CABI Digital Library Terms & Conditions, available at https://cabidigitallibrary.org/terms-and-conditions
+Khan, F., M. T. A. Shah and M. Z. Khan. 2017. Role of various factors in sugarcane production in selected area of Khyber Pakhtunkhwa, Pakistan. J. Agric. Res., 55(3): 577-584. Khan, M. T., I. A. Khan, S. Yasmeen, N. Seema and G. S. Nizamani. 2018. Field evaluation of diverse sugarcane germplasm in agro-climatic conditions of Tandojam, Sindh. Pak. J. Bot., 50(4): 1441-1450. Lott, M. M. P., A. T. de Q. Xavier, and A. A. O de Silva. 2018. Qualitative analysis of the behavior of the seedlings of sugarcane of different varieties using the method of temporary immersion. J. Environ. Anal. Prog., 3(1): 49-54. https://doi. org/10.24221/jeap.3.1.2018.1700.049-054 Majidano, H. I., Y. J. Minhas, A. D. Jarwar, S. D. Tunio and H. K. Puno. 2003. Effect of potassium levels and method of application on sugarcane yield. Pak. Sug. J., 3: 17-19. Meade, G. P. and J. C. P. Chen. 1977. Cane sugar hand book 10th. Wiley Inter Science, John Wiley and Sons, New York, Pp. 947. Memon, A., A. M. Khushk and U. Farooq. 2010. Adoption of sugarcane varieties in the sugarcane Growing areas of Pakistan. Pak. J. Agric. Res., 23(3-4): 122-131. Nadeem, M. A., M. A. Sarwar, A. Ghafar and A. A. Chattha. 2008. Comparative study of some sugarcane strains in relation to yield and quality. Pak. Sug. J., 13: 27-29. Naidu, N. V., V. Rajabapa Rao, V. R. Rajeswari, M. Charumathi, Ravikumar and B. Rosiaah. 2007. 97A 85- An early maturing promising pre release sugarcane clone suitable for Andhra Pradesh. SISSTA, 1-6. Nishad, H. K., and B. Kumar. 2020. Genetic divergence in early maturing sugarcane clones for the cane yield and yield attributing traits. Int. J. Sci. Res. Publ., 10(2): 548-564. https:// doi.org/10.29322/IJSRP.10.02.2020.p9876 Ochami, F., and N. Ochieng. 2020. Evaluation of some new sugarcane varieties for yield and yield components under coastal climatic conditions. Int. J. Adv. St. Res., 3(8): 2581-5997. Prabhakar, K., M. S. Rao, K. V. N. Madhuri, K. R. Subbaiah and G. Karunasagar. 2012. Evaluation
 
-September 2022 | Volume 35 | Issue 3 | Page 540 of promising sugarcane varieties for yield and quality in alfisols. J. Sug. Res., 2(1): 54-56.
-Reddy, G. E., G. Rakesh, P. J. Naik, N. Swapna,
-Y. Swathi, Y. Bharathi, M. V. Kumar and M.
-Venkataiah. 2020. Character association among yield and quality traits in early maturing sugarcane clones. Curr. J. Appl. Sci. Tech.,
+Reddy, G. E., G. Rakesh, P. J. Naik, N. Swapna, Y. Swathi, Y. Bharathi, M. V. Kumar and M. Venkataiah. 2020. Character association among yield and quality traits in early maturing sugarcane clones. Curr. J. Appl. Sci. Tech.,
 39(30):
-137-143.
-https://doi.org/10.9734/ cjast/2020/v39i3030981
-Shikanda, E., J. Jamoza and O. Kiplagat. 2017.
-Genotypic evaluation of sugarcane (Saccharum spp. Hybrids) clones for sucrose content in western Kenya. J. Plant Breed. Crop
-Sci., 9(3): 30-36. https://doi.org/10.5897/
-JPBCS2016.0618
-Skocaj, D. M., Y. L. Everingham and B. L. Schroeder.
-2013. Nitrogen management guidelines for
-sugarcane production in Australia: Can these be modified for wet tropical conditions using seasonal climate forecasting? Springer Sci. Rev.,
-1: 51-71. https://doi.org/10.1007/s40362-013-
-0004-9
-Sohu, I. A., A. H. Memon and B. A. Abro. 2008.
-Performance of promising sugarcane varieties in comparison with commercial varieties. Life
-Sci. Int. J., 2(3): 760-764.
-Steel, R. G. D., J. H. Torrie and D. Dickery. 1997.
-Principles and procedures of statistics. A biomaterial approach. 3rd Ed. McGraw Hill,
-Inc. New York, USA.
-Tahir, M., I. H. Khalil and H. Rahman. 2014.
-Evaluation of important characters for improving cane yield in sugarcane (Saccharum sp.). Sarhad J. Agric., 30(3): 319-323.
-Tyagi, V. K., S. Sharma and S. B. Bhardwaj. 2012.
-Pattern of association among cane yield, sugar yield and their components in sugarcane
+137-143. https://doi.org/10.9734/ cjast/2020/v39i3030981 Shikanda, E., J. Jamoza and O. Kiplagat. 2017. Genotypic evaluation of sugarcane (Saccharum spp. Hybrids) clones for sucrose content in western Kenya. J. Plant Breed. Crop Sci., 9(3): 30-36. https://doi.org/10.5897/ JPBCS2016.0618 Skocaj, D. M., Y. L. Everingham and B. L. Schroeder. 2013. Nitrogen management guidelines for sugarcane production in Australia: Can these be modified for wet tropical conditions using seasonal climate forecasting? Springer Sci. Rev., 1: 51-71. https://doi.org/10.1007/s40362-013- 0004-9 Sohu, I. A., A. H. Memon and B. A. Abro. 2008. Performance of promising sugarcane varieties in comparison with commercial varieties. Life Sci. Int. J., 2(3): 760-764. Steel, R. G. D., J. H. Torrie and D. Dickery. 1997. Principles and procedures of statistics. A biomaterial approach. 3rd Ed. McGraw Hill, Inc. New York, USA. Tahir, M., I. H. Khalil and H. Rahman. 2014. Evaluation of important characters for improving cane yield in sugarcane (Saccharum sp.). Sarhad J. Agric., 30(3): 319-323. Tyagi, V. K., S. Sharma and S. B. Bhardwaj. 2012. Pattern of association among cane yield, sugar yield and their components in sugarcane
 (Saccharum officinarum L.). J. Agric. Res., 50(1):
-29-38.
-Williams, D. and M. S. U. Rehman. 2016. Pakistan sugar: Annual report 2016. Gain Rep. USDA
-Foreign Agric. Serv. Glob. Agric. Inf. Network,
-GAIN Rep. Number PK1608.
-Subject to the CABI Digital Library Terms & Conditions, available at https://cabidigitallibrary.org/terms-and-conditions
+29-38. Williams, D. and M. S. U. Rehman. 2016. Pakistan sugar: Annual report 2016. Gain Rep. USDA Foreign Agric. Serv. Glob. Agric. Inf. Network, GAIN Rep. Number PK1608.

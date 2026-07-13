@@ -1,71 +1,18 @@
-WHEAT
-Post-harvest Operations
+WHEAT Post-harvest Operations
 
- - Post-harvest Compendium
+- Post-harvest Compendium
 
-Edited by AGSI/FAO: Danilo Mejia (Technical), Beverly Lewis (Language&Style)
-Organisation: Pakistan Agricultural Research Council (PARC)
-Author: Umar K. Baloch
+Edited by AGSI/FAO: Danilo Mejia (Technical), Beverly Lewis (Language&Style) Organisation: Pakistan Agricultural Research Council (PARC) Author: Umar K. Baloch
 
-Contents
-1. Introduction... 1
-1.1 Economic and Social Impact... 3
-1.2 World Trade... 5
-1.3 Primary product... 5
-1.4 Secondary and Derived Products... 6
-1.5 Requirements for export and quality assurance... 7
-1.6 Consumer preference... 7
-2. Post-production Operations... 7
-2.1 Harvesting... 7
-2.2 Transport... 9
-2.3 Threshing... 10
-2.4 Drying... 12
-2.5 Cleaning... 12
-2.6 Storage... 13
-3. Overall losses... 13
-3.1 Wheat loss factors... 14
-3.2 Public sector storage loss... 15
-3.3 Farm storage loss... 16
-4. Pest Control... 18
-4.1 Pest species... 18
-4.2 Pest Control... 18
-5. References... 20
-6. Annex... 21
-6.1 Acronyms... 21
+Contents 1. Introduction... 1 1.1 Economic and Social Impact... 3 1.2 World Trade... 5 1.3 Primary product... 5 1.4 Secondary and Derived Products... 6 1.5 Requirements for export and quality assurance... 7 1.6 Consumer preference... 7 2. Post-production Operations... 7 2.1 Harvesting... 7 2.2 Transport... 9 2.3 Threshing... 10 2.4 Drying... 12 2.5 Cleaning... 12 2.6 Storage... 13 3. Overall losses... 13 3.1 Wheat loss factors... 14 3.2 Public sector storage loss... 15 3.3 Farm storage loss... 16 4. Pest Control... 18 4.1 Pest species... 18 4.2 Pest Control... 18 5. References... 20 6. Annex... 21 6.1 Acronyms... 21
 
-1. Introduction
-Wheat, has been the staple food of the major civilisations in Europe, Western Asia, and North
-Africa for 8,000 years. During the past four decades the crop has undergone historic changes.
-Asia experienced benefits from the "Green Revolution", started in the mid 1960s. The region made great strides in food production, achieving sufficiency in basic grains. Crop production
-is dictated by Nature, but post-production operations play an important role in creating a stable food supply. It is estimated that about 25.0 million tons of wheat are lost during post-
-harvest stages (including storage and post-production). About 46 percentage of this loss is recorded in developing countries.
-In Asia wheat, rice and maize are the major food grains contributing over 90 percentage of the total food grains. Regional production data show (see Table 1) an estimated 42 percentage of
-the world's wheat, rice and maize during 1997 were produced in Asia, followed by 31
+1. Introduction Wheat, has been the staple food of the major civilisations in Europe, Western Asia, and North Africa for 8,000 years. During the past four decades the crop has undergone historic changes. Asia experienced benefits from the "Green Revolution", started in the mid 1960s. The region made great strides in food production, achieving sufficiency in basic grains. Crop production is dictated by Nature, but post-production operations play an important role in creating a stable food supply. It is estimated that about 25.0 million tons of wheat are lost during post-harvest stages (including storage and post-production). About 46 percentage of this loss is recorded in developing countries. In Asia wheat, rice and maize are the major food grains contributing over 90 percentage of the total food grains. Regional production data show (see Table 1) an estimated 42 percentage of the world's wheat, rice and maize during 1997 were produced in Asia, followed by 31
 
-percentage in Europe and 16 percentage in North Central America (NC America). Asia contributes about 92 percentage of world's rice production followed by South America and
-Africa at about 3 percentage each. NC America contributes half of the world's maize production, followed by Asia, Europe and South America who contribute 27 percentage, 11
-percentage and 8 percentage, respectively.
-Table: 1. World Cereal Production (million tons) - Estimates 1997
+percentage in Europe and 16 percentage in North Central America (NC America). Asia contributes about 92 percentage of world's rice production followed by South America and Africa at about 3 percentage each. NC America contributes half of the world's maize production, followed by Asia, Europe and South America who contribute 27 percentage, 11 percentage and 8 percentage, respectively. Table: 1. World Cereal Production (million tons) - Estimates 1997
 
-Wheat
-Rice (Paddy)
-Course Grains
-Asia
+Wheat Rice (Paddy) Course Grains Asia
 
-520.2
-198.6
-967.8
-Africa
-15.5
-16.8
-78.4
-110.6
-Central America
-3.4
-28.7
-34.2
-South America
-18.8
+520.2 198.6 967.8 Africa 15.5 16.8 78.4 110.6 Central America 3.4 28.7 34.2 South America 18.8
 
 61.2
 
@@ -73,78 +20,17 @@ North America
 
 8.1
 
-392.1
-Europe
-132.6
-2.6
-172.6
-307.8
-CIS
-80.1
-1.4
-67.6
+392.1 Europe 132.6 2.6 172.6 307.8 CIS 80.1 1.4 67.6
 
-Oceania
-18.2
-1.4
-9.6
-29.3
-World
-610.6
-570.6
-907.6
-2088.8
-Developing Countries
-283.6
-544.1
+Oceania 18.2 9.6 29.3 World 610.6 570.6 907.6 2088.8 Developing Countries 283.6 544.1
 
-1184.7
-Developed Countries
+1184.7 Developed Countries
 
-26.5
-550.6
-904.1
-Source: Food outlook, FAO Rome, No. 1, 1998
+26.5 550.6 904.1 Source: Food outlook, FAO Rome, No. 1, 1998
 
 The major wheat producing and consuming countries in Asia are China, India, Iran, Pakistan and Turkey. The production of wheat in Asia for the years 1991 - 1997 is shown in Table 2.
 
-Table: 2. Wheat Production in the Asian Developing Countries (000, tons)
-Country/Year
-1,991
-1,993
-1,995
-1,997
-Afghanistan
-1,726
-1,700
-1,700
-1,700
-Bangladesh
-1,004
-1,176
-1,245
-1,400
-China
-95,954
-106,395
-101,964
-120,000
-India
-55,135
-57,210
-65,767
-68,700
-Iran
-8,793
-10,732
-11,228
-11,200
-Iraq
-1,476
-1,187
-1,236
-1,063
-Jordan
+Table: 2. Wheat Production in the Asian Developing Countries (000, tons) Country/Year 1,991 1,993 1,995 1,997 Afghanistan 1,726 1,700 Bangladesh 1,004 1,176 1,245 1,400 China 95,954 106,395 101,964 120,000 India 55,135 57,210 65,767 68,700 Iran 8,793 10,732 11,228 11,200 Iraq 1,476 1,187 1,236 1,063 Jordan
 
 Korea DP RP
 
@@ -156,736 +42,88 @@ Myanmar
 
 Nepal
 
-1,072
-Pakistan
-1,457
-16,157
-17,002
-16,667
-Saudi Arabia
-4,036
-3,430
-2,453
-1,500
-Syria
-2,140
-3,627
-4,184
-4,300
-Turkey
-20,419
-21,016
-18,015
-18,700
-Yemen
+1,072 Pakistan 1,457 16,157 17,002 16,667 Saudi Arabia 4,036 3,430 2,453 1,500 Syria 2,140 3,627 4,184 4,300 Turkey 20,419 21,016 18,015 18,700 Yemen
 
 Others
 
 Source: Food Outlook, FAO, Rome, No.1, 1998
 
-Wheat is grown under diverse climate conditions, from dry land with limited moisture for the duration of the growing season (e.g.located in much of the USA, Australia, CIS, West Asia
-and North Africa); and land with adequate water throughout the season such as the countries of Western Europe. Half of the developing world's wheat growing area comprises large
-irrigated tracts, mostly found in India, Pakistan and China.
-Bread wheat (Triticum aestivum L.) is planted on 93 percentage of the global wheat growing area. The spring-habit and winter-habit crop is durum wheat (T. turgidum var. durum). Two-
-thirds of the cultivated land devoted to wheat is sown with spring types in the developing world. Winter wheat covers a significant expanse of Turkey, Iran, China, USA and Europe.
-Since 1950 the world wheat production tripled to 611 million tons in 1997. The growth rate was much faster from 1960-1980 than in the last 18 years. Three quarters of the production is
-attributed to an increase in yield rather than an increase in area. The most impressive changes have taken place in the large mixed cereal sectors of the developing world such as China. The
-traditional importers of wheat among the developed countries have also experienced rapid gains in yield. In West Asia and North Africa the yields have been smaller with a slower pace
-of change. Yields are also low in the tropical belt, which produces less than one percentage of world's wheat. The average wheat yield in developing countries in 1950 was about 700 kg/ha.
-By 1996 average yield tripled to 2241 kg/ha. This progress stemmed from development of new wheat varieties, which were shorter in stature, high yielding, and earlier to mature. These
-were supplemented with technologies including methods of sowing, seed rate, irrigation, fertilising, moisture conservation and integrated pest management. Potential yield,
-particularly in the African and Asian developing countries was not fulfilled as a consequence of inadequate application of improved practices. lack of water, fertilisers, pesticides,
-improved seeds and socio-economic constraints where the majority of the people below the poverty line are living.
-1.1 Economic and Social Impact
-Improved wheat production enlarged the demand for agricultural labour. In one study in
-India, it was estimated that an average increase of 23 man-days per hectare per crop season was needed to accommodate extra fertiliser application, irrigation, weed control, and harvest
-volume. Assuming an increase of only 10-15 man-days of labour for a given wheat crop, 30 million hectares of modern varieties would require from 300-450 million man-days of
-additional labour per year, a benefit for employment. These operations promote secondary employment in harvest and post-harvest operations including transportation, storage,
-manufacturing and merchandising of fertilisers, herbicides and farm tools. Multiple cropping was stimulated by early maturing wheat varieties and the use of fertiliser, further expanding
-employment.
-There has been rapid evolution in the management practices employed for improved high yielding varieties (HYV). In the Indian and Pakistani Punjab, farmers mostly use nitrogenous
-and phosphate fertilisers and take advantage of improved water management practices. They apply herbicides to control the grassy weeds that have proliferated. Mechanical land
-preparation and the use of tractors have also been widely adopted. Mechanisation has been increased partly because of the adoption of early-maturing semi-dwarf varieties.
-Much of the world's wheat is grown in dry land areas. Even without the introduction of new varieties, substantial gains in productivity have been realised through improved tillage
-methods to conserve moisture before planting, to execute more timely planting and to maintain better weed control. In Turkey's dry Anatolian Plateau, earlier ploughing, clean
-fallow and broad-leaf weed control quickly became the norm in the 1970s. The adoption of improved management practices was a major factor in doubling wheat yields and making
-Turkey self-sufficient.
+Wheat is grown under diverse climate conditions, from dry land with limited moisture for the duration of the growing season (e.g.located in much of the USA, Australia, CIS, West Asia and North Africa); and land with adequate water throughout the season such as the countries of Western Europe. Half of the developing world's wheat growing area comprises large irrigated tracts, mostly found in India, Pakistan and China. Bread wheat (Triticum aestivum L.) is planted on 93 percentage of the global wheat growing area. The spring-habit and winter-habit crop is durum wheat (T. turgidum var. durum). Two-thirds of the cultivated land devoted to wheat is sown with spring types in the developing world. Winter wheat covers a significant expanse of Turkey, Iran, China, USA and Europe. Since 1950 the world wheat production tripled to 611 million tons in 1997. The growth rate was much faster from 1960-1980 than in the last 18 years. Three quarters of the production is attributed to an increase in yield rather than an increase in area. The most impressive changes have taken place in the large mixed cereal sectors of the developing world such as China. The traditional importers of wheat among the developed countries have also experienced rapid gains in yield. In West Asia and North Africa the yields have been smaller with a slower pace of change. Yields are also low in the tropical belt, which produces less than one percentage of world's wheat. The average wheat yield in developing countries in 1950 was about 700 kg/ha. By 1996 average yield tripled to 2241 kg/ha. This progress stemmed from development of new wheat varieties, which were shorter in stature, high yielding, and earlier to mature. These were supplemented with technologies including methods of sowing, seed rate, irrigation, fertilising, moisture conservation and integrated pest management. Potential yield, particularly in the African and Asian developing countries was not fulfilled as a consequence of inadequate application of improved practices. lack of water, fertilisers, pesticides, improved seeds and socio-economic constraints where the majority of the people below the poverty line are living. 1.1 Economic and Social Impact Improved wheat production enlarged the demand for agricultural labour. In one study in India, it was estimated that an average increase of 23 man-days per hectare per crop season was needed to accommodate extra fertiliser application, irrigation, weed control, and harvest volume. Assuming an increase of only 10-15 man-days of labour for a given wheat crop, 30 million hectares of modern varieties would require from 300-450 million man-days of additional labour per year, a benefit for employment. These operations promote secondary employment in harvest and post-harvest operations including transportation, storage, manufacturing and merchandising of fertilisers, herbicides and farm tools. Multiple cropping was stimulated by early maturing wheat varieties and the use of fertiliser, further expanding employment. There has been rapid evolution in the management practices employed for improved high yielding varieties (HYV). In the Indian and Pakistani Punjab, farmers mostly use nitrogenous and phosphate fertilisers and take advantage of improved water management practices. They apply herbicides to control the grassy weeds that have proliferated. Mechanical land preparation and the use of tractors have also been widely adopted. Mechanisation has been increased partly because of the adoption of early-maturing semi-dwarf varieties. Much of the world's wheat is grown in dry land areas. Even without the introduction of new varieties, substantial gains in productivity have been realised through improved tillage methods to conserve moisture before planting, to execute more timely planting and to maintain better weed control. In Turkey's dry Anatolian Plateau, earlier ploughing, clean fallow and broad-leaf weed control quickly became the norm in the 1970s. The adoption of improved management practices was a major factor in doubling wheat yields and making Turkey self-sufficient.
 
-In the past decade, industrialised countries adopted reduced and zero tillage methods to conserve soil and reduce costs (i.e. energy costs). These techniques are now being tested in
-less developed countries. One notable example is the direct drilling of wheat in rice stubble.
-This method has generated tremendous productivity improvement for the eight million hectares of wheat planted in Asia. In industrialised countries yields are high, but these results
-are costly. This is true for Western Europe where numerous inputs are used. The level of inputs for wheat production is still very low in many developing countries. However fertiliser
-is widely used on much of the wheat grown on dry land in West Asia and some parts of North
-America. A combination of more effective research, extension in crop management and appropriate policies to provide inputs is needed to achieve better socio-economic status of the
-community.
-The agricultural advances experienced in the late 1960s in Asia were repeated elsewhere during the 1970s, as semi-dwarf varieties spread to less favourable growing environments.
-Semi-dwarf wheat varieties were rapidly applied in Mexico during the early 1960s. By 1967 use had expanded to irrigated wheat areas of Northern India and Pakistan. Within a period of
-5 years, HYV had been selected by more than half of the wheat growers. The planting of
-HYV also encouraged the use of fertilisers and provision of improved water supplies. Wheat yields in India, Pakistan and Mexico more than doubled between 1965 and 1985. By 1985,
-over 50 million-hectares of wheat in the developing countries were cultivated with semi- dwarf wheat. Excluding those from China, most of these varieties incorporated germ plasma
-from the CIMMYT in Mexico.
-Gains in wheat crop productivity created overall benefits for employment, nutrition and income. The expanded wheat production saved hundreds of millions of dollars for India,
-Pakistan, Iran, Indonesia, Bangladesh, Republic of Korea and Turkey. Otherwise these countries would have been obligated to import food to sustain their large, growing
-populations.
-The consumption of wheat world-wide can be divided into two main categories of countries.
-These are defined by production and consumption patterns, further dictated by the degree of economic development.
-The first group comprises the industrialised counties where wheat is a traditional staple food for all except Japan. Western Europe is a developed market that has historically imported
-wheat, excluding France. (Japan is not an importer of this grain). The USA, Canada,
-Argentina, Australia and France have been major exporters of wheat. Centrally planned economies that have traded wheat include the CIS and Eastern Europe.
-The second group incorporates the developing countries. Among them, North Africa, West
-Asia and the southern portion of South America represent traditional wheat consuming countries. Next are the large mixed cereal systems of India, China, Mexico and Brazil where
-wheat has been a major crop only in selected regions. Tropical countries between latitudes
-23°N and 23°S are territories where wheat has not commonly been produced or consumed.
-The nutritional impact of the new varieties was higher when measured in actual calories, protein and essential amino acids. The enhanced productivity of the HYV led to a rise in total
-protein and energy supply of at least 20 percentage. The earlier maturity of some new varieties made multiple cropping possible, which augmented the nutritional balance.
-Throughout the developing world the use of wheat per capita has rapidly grown. In the large mixed-cereal economies of India, China and Mexico, higher levels of consumption have been
-met from greater domestic production and self-sufficiency. Other countries, such as the traditional wheat consumers of North Africa and West Asia have used imports to meet
-increased consumption. The substitution of wheat for maize, roots, tubers and other foods has accelerated in many countries in conjunction with rising income; urbanisation plus
-government subsidies to ensure low bread prices for consumers. Wheat consumption has risen
+In the past decade, industrialised countries adopted reduced and zero tillage methods to conserve soil and reduce costs (i.e. energy costs). These techniques are now being tested in less developed countries. One notable example is the direct drilling of wheat in rice stubble. This method has generated tremendous productivity improvement for the eight million hectares of wheat planted in Asia. In industrialised countries yields are high, but these results are costly. This is true for Western Europe where numerous inputs are used. The level of inputs for wheat production is still very low in many developing countries. However fertiliser is widely used on much of the wheat grown on dry land in West Asia and some parts of North America. A combination of more effective research, extension in crop management and appropriate policies to provide inputs is needed to achieve better socio-economic status of the community. The agricultural advances experienced in the late 1960s in Asia were repeated elsewhere during the 1970s, as semi-dwarf varieties spread to less favourable growing environments. Semi-dwarf wheat varieties were rapidly applied in Mexico during the early 1960s. By 1967 use had expanded to irrigated wheat areas of Northern India and Pakistan. Within a period of 5 years, HYV had been selected by more than half of the wheat growers. The planting of HYV also encouraged the use of fertilisers and provision of improved water supplies. Wheat yields in India, Pakistan and Mexico more than doubled between 1965 and 1985. By 1985, over 50 million-hectares of wheat in the developing countries were cultivated with semi- dwarf wheat. Excluding those from China, most of these varieties incorporated germ plasma from the CIMMYT in Mexico. Gains in wheat crop productivity created overall benefits for employment, nutrition and income. The expanded wheat production saved hundreds of millions of dollars for India, Pakistan, Iran, Indonesia, Bangladesh, Republic of Korea and Turkey. Otherwise these countries would have been obligated to import food to sustain their large, growing populations. The consumption of wheat world-wide can be divided into two main categories of countries. These are defined by production and consumption patterns, further dictated by the degree of economic development. The first group comprises the industrialised counties where wheat is a traditional staple food for all except Japan. Western Europe is a developed market that has historically imported wheat, excluding France. (Japan is not an importer of this grain). The USA, Canada, Argentina, Australia and France have been major exporters of wheat. Centrally planned economies that have traded wheat include the CIS and Eastern Europe. The second group incorporates the developing countries. Among them, North Africa, West Asia and the southern portion of South America represent traditional wheat consuming countries. Next are the large mixed cereal systems of India, China, Mexico and Brazil where wheat has been a major crop only in selected regions. Tropical countries between latitudes 23°N and 23°S are territories where wheat has not commonly been produced or consumed. The nutritional impact of the new varieties was higher when measured in actual calories, protein and essential amino acids. The enhanced productivity of the HYV led to a rise in total protein and energy supply of at least 20 percentage. The earlier maturity of some new varieties made multiple cropping possible, which augmented the nutritional balance. Throughout the developing world the use of wheat per capita has rapidly grown. In the large mixed-cereal economies of India, China and Mexico, higher levels of consumption have been met from greater domestic production and self-sufficiency. Other countries, such as the traditional wheat consumers of North Africa and West Asia have used imports to meet increased consumption. The substitution of wheat for maize, roots, tubers and other foods has accelerated in many countries in conjunction with rising income; urbanisation plus government subsidies to ensure low bread prices for consumers. Wheat consumption has risen
 
-more slowly in the developed nations partially due to stable population growth. The utilisation of wheat is highest in Eastern Europe and CIS, where 40 percentage is used as animal feed. In
-many richer countries, the per capita consumption of wheat is declining as high-energy animal products replace it.
-1.2 World Trade
-Actual production and consumption patterns have sharply altered the world trade in wheat.
-Western Europe is a net exporter and India and Pakistan (excluding border leakage) are self- sufficient (Exception: Pakistan during 1997 imported about 4.0 million tons to offset Afghan
-and Kashmir refugee food requirements and leakage. During 1998 the imports are expected to be less than one million tons). The largest importers are CIS, West Asia, North African
-countries and the tropical belt.
-The developing world's share of all wheat imports is currently around 60 percentage. At the same time imports have risen and wheat has assumed greater importance in the local diet.
-There is a global surplus of wheat. Prices have declined by 46 percentage terms since 1950.
-Stocks have reached record levels over the past decade.
-The forecast for world trade is significantly below levels reached in the early 1990s. In 1997-
-98 production was down more than 10 percentage exceeding 17 million tons from 1996-97
-levels among the traditional exporting countries Argentina, Australia, Canada and the
-European Union. The loss is only partially offset by a 6.6 million-ton increase in the projected production in the United States. Nevertheless, supply available for export has become a lesser
-concern because of record production. Coupled with the absence of large purchases from
-China and CIS, the gradual upward trend of the past 25 years is expected to continue unabated.
-1.3 Primary product
-The wheat grain consists of four major parts. Their weight is expressed as a percentage of the total seed as follows:
+more slowly in the developed nations partially due to stable population growth. The utilisation of wheat is highest in Eastern Europe and CIS, where 40 percentage is used as animal feed. In many richer countries, the per capita consumption of wheat is declining as high-energy animal products replace it. 1.2 World Trade Actual production and consumption patterns have sharply altered the world trade in wheat. Western Europe is a net exporter and India and Pakistan (excluding border leakage) are self- sufficient (Exception: Pakistan during 1997 imported about 4.0 million tons to offset Afghan and Kashmir refugee food requirements and leakage. During 1998 the imports are expected to be less than one million tons). The largest importers are CIS, West Asia, North African countries and the tropical belt. The developing world's share of all wheat imports is currently around 60 percentage. At the same time imports have risen and wheat has assumed greater importance in the local diet. There is a global surplus of wheat. Prices have declined by 46 percentage terms since 1950. Stocks have reached record levels over the past decade. The forecast for world trade is significantly below levels reached in the early 1990s. In 1997-98 production was down more than 10 percentage exceeding 17 million tons from 1996-97 levels among the traditional exporting countries Argentina, Australia, Canada and the European Union. The loss is only partially offset by a 6.6 million-ton increase in the projected production in the United States. Nevertheless, supply available for export has become a lesser concern because of record production. Coupled with the absence of large purchases from China and CIS, the gradual upward trend of the past 25 years is expected to continue unabated. 1.3 Primary product The wheat grain consists of four major parts. Their weight is expressed as a percentage of the total seed as follows:
 
-Seed Coat (Bran):
- 10 percentage
-Aleuron layer (Bran):
- 2 percentage
-Endosperm:
- 83 percentage
-Germ:
- 5 percentage
- 100 percentage
+Seed Coat (Bran): 10 percentage Aleuron layer (Bran): 2 percentage Endosperm: 83 percentage Germ: 5 percentage 100 percentage
 
-The endosperm contains starch granule cells, fixed in the protein matrix, and is coated with cellulose wall. The endosperm is surrounded with aleuron cell layer. The grain has a
-protective covering called the seed coat. Scutulum separates the germ from the endosperm.
-The germ embodies the rudimentary root and shoot of the future plant (Figure 1).
-In the industrialised world, wheat milling yields flour and mill feed. Before milling, the grain is cleaned and the moisture content of the grain is increased to easily separate the bran (the
-outer portion of the kernel called seed coat plus the aleuron layer) and the germ from the endosperm. The milling process yields generally 72 to 74 percentage flour. The rest is mill
-feed. The percentage of flour is multiplied in developing countries, particularly when a given country is trying to diminish wheat imports. If only excessively coarse bran is removed to
-produce whole-wheat flour, recovery runs as high as 90 percentage (called small milling process). In South Asia, the whole grain is milled and the flour recovery is 99 percentage or
-more.
+The endosperm contains starch granule cells, fixed in the protein matrix, and is coated with cellulose wall. The endosperm is surrounded with aleuron cell layer. The grain has a protective covering called the seed coat. Scutulum separates the germ from the endosperm. The germ embodies the rudimentary root and shoot of the future plant (Figure 1). In the industrialised world, wheat milling yields flour and mill feed. Before milling, the grain is cleaned and the moisture content of the grain is increased to easily separate the bran (the outer portion of the kernel called seed coat plus the aleuron layer) and the germ from the endosperm. The milling process yields generally 72 to 74 percentage flour. The rest is mill feed. The percentage of flour is multiplied in developing countries, particularly when a given country is trying to diminish wheat imports. If only excessively coarse bran is removed to produce whole-wheat flour, recovery runs as high as 90 percentage (called small milling process). In South Asia, the whole grain is milled and the flour recovery is 99 percentage or more.
 
-The composition of proteins and carbohydrates are considerably different in various food grains. Protein content of durum wheat is low, while whole wheat measures as high as 14.6
-percentage. The nutritional composition of commonly used food-grains is listed in Table 3.
-Table: 3. Nutritional Composition (%) of Various Food Grains
-Food-grain
-Protein
-Fat
-Carbohydrate
-Crude fibre
-Ash
+The composition of proteins and carbohydrates are considerably different in various food grains. Protein content of durum wheat is low, while whole wheat measures as high as 14.6 percentage. The nutritional composition of commonly used food-grains is listed in Table 3. Table: 3. Nutritional Composition (%) of Various Food Grains Food-grain Protein Fat Carbohydrate Crude fibre Ash
 
-Wheat
-10.6 - 14.6
-1.6 - 2.1
-66.9 - 75.9
-1.7 - 2.3
-1.3 - 2.2
-Barley
-8.3 - 11.8
-1.8 - 2.1
-68.0 - 72.0
-4.3 - 5.7
-2.3 - 2.7
-Rice
-8.4 - 12.0
-0.9 - 1.3
-70.5 - 76.3
-0.9 - 1.3
-9.6 - 13.4
-Maize
-9.5 - 11.5
-4.0 - 5.0
-68.0 - 75.0
-1.7 - 2.0
-1.2 - 1.6
-Sorghum
-8.0 - 9.5
-1.9 - 2.0
-70.0 - 74.2
-2.0 - 2.5
-1.7 - 2.0
-Millet
-9.4 - 10.5
-3.2 - 3.8
-68.5 - 71.5
-1.5 - 1.8
-1.8 - 2.2
-Gram
-16.3 - 17.9
-0.17 - 0.19 60.2 - 62.3
-1.9 - 2.7
-2.1 - 2.6
-Source: Derived from materials cited in 5. References:
+10.6 - 14.6 1.6 - 2.1 66.9 - 75.9 1.7 - 2.3 1.3 - 2.2 Barley 8.3 - 11.8 1.8 - 2.1 68.0 - 72.0 4.3 - 5.7 2.3 - 2.7 Rice 8.4 - 12.0 0.9 - 1.3 70.5 - 76.3 9.6 - 13.4 Maize 9.5 - 11.5 4.0 - 5.0 68.0 - 75.0 1.7 - 2.0 1.2 - 1.6 Sorghum 8.0 - 9.5 1.9 - 2.0 70.0 - 74.2 2.0 - 2.5 Millet 9.4 - 10.5 3.2 - 3.8 68.5 - 71.5 1.5 - 1.8 1.8 - 2.2 Gram 16.3 - 17.9 0.17 - 0.19 60.2 - 62.3 1.9 - 2.7 2.1 - 2.6 Source: Derived from materials cited in 5. References:
 
-The major primary wheat products of Asia, particularly South Asia is flour, Suji and Maida, which are widely marketed. The Suji and Maida are commonly used for cookies and desserts.
-The nutritional composition of these products is given in Table 4.
-Table 4: Average Composition (%) of Wheat and Wheat Products in South Asia
-Commodity
-Moisture
-Protein
-Total Ash Crude Fibre Fatty Acid
-(mg)
-Gluten
-Wheat
-13.3
-12.7
-1.4
-2.4
-20.5
+The major primary wheat products of Asia, particularly South Asia is flour, Suji and Maida, which are widely marketed. The Suji and Maida are commonly used for cookies and desserts. The nutritional composition of these products is given in Table 4. Table 4: Average Composition (%) of Wheat and Wheat Products in South Asia Commodity Moisture Total Ash Crude Fibre Fatty Acid (mg) Gluten 13.3 12.7 2.4 20.5
 
-Flour
-12.4
-11.8
-1.3
+Flour 12.4 11.8 1.3
 
-Suji
-13.4
+Suji 13.4
 
-0.4
-31.9
-5.6
-Maida
-12.9
-7.9
-0.6
-0.07
-48.2
-6.8
-Source: Pingale, S. V. 1978. Handling and storage of food grains. ICAR, New Delhi India.
-The roller milling process was developed to get the best possible separation of endosperm from the bran. The flour extraction rate depends upon the type and design of the mill. Milling
-losses are highest in the older mills. In South Asia small stone mills driven by a one horsepower motor have been developed as a cottage industry. The mill grinds wheat into
-coarse flour (called atta) and has eliminated the drudgery of hand pounding the grain in most villages.
-Industrialised countries have systems for grading flours based upon texture, protein, ash content and other physical and chemical measurements. Automated commercial bakeries
-demand detailed grading systems, as they need precise and consistent flour characteristics to manufacture wheat products. Such exacting standards are not necessary in most developing
-countries, with the exception of large bakeries in big cities that seek standardised flour.
-1.4 Secondary and Derived Products
-The advanced milling process yields wheat bran, semolina, wheat germ and wheat germ oil as the main secondary and derived products. Wheat is a valuable ingredient of feed given to milk
-and beef livestock and poultry because it contains more nutrients than the traditional feed grains such as maize, sorghum and barley. In developing countries, whole-grain wheat is
-usually fed to animals only when the grain has sprouted, shrivelled, or become damaged.
+0.4 31.9 5.6 Maida 12.9 7.9 0.6 0.07 48.2 6.8 Source: Pingale, S. V. 1978. Handling and storage of food grains. ICAR, New Delhi India. The roller milling process was developed to get the best possible separation of endosperm from the bran. The flour extraction rate depends upon the type and design of the mill. Milling losses are highest in the older mills. In South Asia small stone mills driven by a one horsepower motor have been developed as a cottage industry. The mill grinds wheat into coarse flour (called atta) and has eliminated the drudgery of hand pounding the grain in most villages. Industrialised countries have systems for grading flours based upon texture, protein, ash content and other physical and chemical measurements. Automated commercial bakeries demand detailed grading systems, as they need precise and consistent flour characteristics to manufacture wheat products. Such exacting standards are not necessary in most developing countries, with the exception of large bakeries in big cities that seek standardised flour. 1.4 Secondary and Derived Products The advanced milling process yields wheat bran, semolina, wheat germ and wheat germ oil as the main secondary and derived products. Wheat is a valuable ingredient of feed given to milk and beef livestock and poultry because it contains more nutrients than the traditional feed grains such as maize, sorghum and barley. In developing countries, whole-grain wheat is usually fed to animals only when the grain has sprouted, shrivelled, or become damaged.
 
-Mill feed, the by-product of wheat milling (about 25-30 percentage), is an advantageous raw material for mixed feeds. The mill feed percentage is lower in some countries because millers
-seek to maximise the output of flour. Mill feeds contrast in nutritional value, but typically contain 13 to 14 percentage protein and 2.5 to 3.0 percentage fat (both higher than whole
-wheat), and 9 to 12 percentage fibre, having feeding value only for ruminants. Mill feeds are more vulnerable to severe storage losses than whole grain because of their high oil content.
-Mill feed must be safeguarded against birds, rodents and insects. It must be protected from moulds induced by excess moisture.
-1.5 Requirements for export and quality assurance
-Half to three fourths of the wheat produced in developing countries does not enter marketing channels. The families who grow it periodically bring a sack of wheat to town for grinding at
-a small mill and carry the flour back home for family use.
-The farmers sell the rest of their wheat (25 to 50 percentage of production) to a local grain merchant or to a government agency. This wheat enters the marketing process of storage for a
-few months to a year, followed by milling into flour, then distribution to commercial bakeries or food shops where the urban consumer buys flour for home baking.
-Wheat from most developing countries is unlikely to reach the export market as they export only 10-13 million tons (1997) per year; nearly all of which originates in just three countries-
-Argentina, Turkey, and occasionally India. On the other hand, over 70 million tons of wheat a year was imported by over 100 developing countries in recent years.
-1.6 Consumer preference
-To identify desirable qualities in wheat, farmers prefer the ability to resist diseases, mature at the proper time, not lodge or shatter before harvest and yield good plump grain. The miller
-prefers uniform grain free of foreign matter, with low moisture content, higher protein and yield of flour. The baker looks for flour that produces dough that can hold gas bubbles and
-make a large loaf of bread with good internal texture and colour. The consumer has a strong preference for appearance, texture, aroma and flavour of bread, biscuits, cakes and other
-products-characteristics that may be traced partly to the wheat kernel. Scientists who develop new wheat varieties and production standards must consider all these specifications of the
-farmer, miller, baker and consumer for wheat production.
-Sixty-five to seventy percentage of the world's wheat flour is consumed as bread. In European countries the demand for semolina products is much higher than for wheat flour products.
-Over 90 percentage of wheat is consumed as flour in the developing nations of South and
-West Asia.
-2. Post-production Operations
-Although post-production operations vary from country to country and region to region throughout the world, procedures are similar among the developing countries. However,
-operations diversify with farm size such as small landholders, medium scale farmers and progressive growers. Post-production operations will be dissimilar between the developed and
-developing countries. Functions like harvesting, transportation, threshing, cleaning, drying, storage, packaging and marketing are described below.
-2.1 Harvesting
-A major proportion of the crop in Asia is harvested manually using sickles (over 70 percentage in Pakistan, India and Bangladesh - Figure 2) or with types of knives leaving 3-6
-cm wheat straw above the ground level. Methods and timing of harvesting are important
+Mill feed, the by-product of wheat milling (about 25-30 percentage), is an advantageous raw material for mixed feeds. The mill feed percentage is lower in some countries because millers seek to maximise the output of flour. Mill feeds contrast in nutritional value, but typically contain 13 to 14 percentage protein and 2.5 to 3.0 percentage fat (both higher than whole wheat), and 9 to 12 percentage fibre, having feeding value only for ruminants. Mill feeds are more vulnerable to severe storage losses than whole grain because of their high oil content. Mill feed must be safeguarded against birds, rodents and insects. It must be protected from moulds induced by excess moisture. 1.5 Requirements for export and quality assurance Half to three fourths of the wheat produced in developing countries does not enter marketing channels. The families who grow it periodically bring a sack of wheat to town for grinding at a small mill and carry the flour back home for family use. The farmers sell the rest of their wheat (25 to 50 percentage of production) to a local grain merchant or to a government agency. This wheat enters the marketing process of storage for a few months to a year, followed by milling into flour, then distribution to commercial bakeries or food shops where the urban consumer buys flour for home baking. Wheat from most developing countries is unlikely to reach the export market as they export only 10-13 million tons (1997) per year; nearly all of which originates in just three countries-Argentina, Turkey, and occasionally India. On the other hand, over 70 million tons of wheat a year was imported by over 100 developing countries in recent years. 1.6 Consumer preference To identify desirable qualities in wheat, farmers prefer the ability to resist diseases, mature at the proper time, not lodge or shatter before harvest and yield good plump grain. The miller prefers uniform grain free of foreign matter, with low moisture content, higher protein and yield of flour. The baker looks for flour that produces dough that can hold gas bubbles and make a large loaf of bread with good internal texture and colour. The consumer has a strong preference for appearance, texture, aroma and flavour of bread, biscuits, cakes and other products-characteristics that may be traced partly to the wheat kernel. Scientists who develop new wheat varieties and production standards must consider all these specifications of the farmer, miller, baker and consumer for wheat production. Sixty-five to seventy percentage of the world's wheat flour is consumed as bread. In European countries the demand for semolina products is much higher than for wheat flour products. Over 90 percentage of wheat is consumed as flour in the developing nations of South and West Asia. 2. Post-production Operations Although post-production operations vary from country to country and region to region throughout the world, procedures are similar among the developing countries. However, operations diversify with farm size such as small landholders, medium scale farmers and progressive growers. Post-production operations will be dissimilar between the developed and developing countries. Functions like harvesting, transportation, threshing, cleaning, drying, storage, packaging and marketing are described below. 2.1 Harvesting A major proportion of the crop in Asia is harvested manually using sickles (over 70 percentage in Pakistan, India and Bangladesh - Figure 2) or with types of knives leaving 3-6 cm wheat straw above the ground level. Methods and timing of harvesting are important
 
-factors to total crop yield. In South Asia wheat is harvested in the dry summer months from
-March to May. Farmers are conscious of the fact that the harvested wheat should be dry enough for threshing and storage. Artificial drying is uncommon. The manually harvested
-wheat crop is tied into small bundles and stacked in bunches of 10 - 15 bundles, which are left in the field for one to three days to dry (Figure 3). Combine or mechanical harvesters (Figure
-4) yield a higher proportion of immature grains and pose a moisture hazard, leaving no time for the grain to dry.
+factors to total crop yield. In South Asia wheat is harvested in the dry summer months from March to May. Farmers are conscious of the fact that the harvested wheat should be dry enough for threshing and storage. Artificial drying is uncommon. The manually harvested wheat crop is tied into small bundles and stacked in bunches of 10 - 15 bundles, which are left in the field for one to three days to dry (Figure 3). Combine or mechanical harvesters (Figure 4) yield a higher proportion of immature grains and pose a moisture hazard, leaving no time for the grain to dry.
 
 Figure 2: Woman harvesting wheat manually
 
 Figure 3: Manually harvested crop left to dry on the field
 
-Figure 4: Mechanical harvester
-2.2 Transport
-Labour-intensive systems of grain movement serve to minimise capital investment in countries where the cost of labour is low. Most wheat is manually loaded and unloaded from
-wagons, trucks, railroad cars, and barges between farm and mill. The greater the grain loss the higher the cost. In some situations, bagged wheat may be loaded on and off vehicles ten times
-manually before it is milled.
-Highly efficient bulk handling systems exist in developed countries to load loose wheat into trucks. Using an auger, wheat is moved to the grain-processing centre in a single trip, dumped
-into a receiving bin, carried by a mechanical conveyor through the cleaning and drying processes and into storage. Next, it is moved out of storage into the flour mill at the same
-location, where the finished flour is mechanically bagged, loaded into trucks by elevator, and taken to a commercial bakery or retail market without once being handled manually. National
-policy regarding the appropriate degree of mechanical wheat handling is often based on the need to maximise employment for unskilled labour.
-In South Asia post-harvest handling, transport and storage of grains at the farm level is done partially in bulk. The transportation of grain to primary markets by the farmers is also done in
-bulk using bullock carts, tractor trolleys or lorries. At the market yard, the grain is displayed in bulk, auctioned, cleaned, bagged, weighed and delivered to consumers in bags. The food
-grain trade depends upon labour. Therefore, handling, transport and storage of marketed grains in bags is common. Availability of cheaper jute bags in these countries also encourages
-handling, storage and marketing of grain in bags. Large quantities of food grain have to be moved through rail or road transport, another major factor promoting use of bags.
-From farms in Pakistan, wheat is mainly transported in animal driven carts or carried on camelback. Large farmers use tractor driven trolleys and trucks. In each case bags are used for
-transportation. Problems arise when old torn bags are used which spill grain, causing loss.
-Mostly 100-kg bags are used which are cumbersome to carry. Other hazards for bags are hooks which tear the bags, the rough surface of the carts and trolleys and nails, which damage
-sacks when they are pulled. Transportation occurs from farm to market, market to consumer, market to temporary storage, temporary storage to long term storage and long term storage to
-consumers.
+Figure 4: Mechanical harvester 2.2 Transport Labour-intensive systems of grain movement serve to minimise capital investment in countries where the cost of labour is low. Most wheat is manually loaded and unloaded from wagons, trucks, railroad cars, and barges between farm and mill. The greater the grain loss the higher the cost. In some situations, bagged wheat may be loaded on and off vehicles ten times manually before it is milled. Highly efficient bulk handling systems exist in developed countries to load loose wheat into trucks. Using an auger, wheat is moved to the grain-processing centre in a single trip, dumped into a receiving bin, carried by a mechanical conveyor through the cleaning and drying processes and into storage. Next, it is moved out of storage into the flour mill at the same location, where the finished flour is mechanically bagged, loaded into trucks by elevator, and taken to a commercial bakery or retail market without once being handled manually. National policy regarding the appropriate degree of mechanical wheat handling is often based on the need to maximise employment for unskilled labour. In South Asia post-harvest handling, transport and storage of grains at the farm level is done partially in bulk. The transportation of grain to primary markets by the farmers is also done in bulk using bullock carts, tractor trolleys or lorries. At the market yard, the grain is displayed in bulk, auctioned, cleaned, bagged, weighed and delivered to consumers in bags. The food grain trade depends upon labour. Therefore, handling, transport and storage of marketed grains in bags is common. Availability of cheaper jute bags in these countries also encourages handling, storage and marketing of grain in bags. Large quantities of food grain have to be moved through rail or road transport, another major factor promoting use of bags. From farms in Pakistan, wheat is mainly transported in animal driven carts or carried on camelback. Large farmers use tractor driven trolleys and trucks. In each case bags are used for transportation. Problems arise when old torn bags are used which spill grain, causing loss. Mostly 100-kg bags are used which are cumbersome to carry. Other hazards for bags are hooks which tear the bags, the rough surface of the carts and trolleys and nails, which damage sacks when they are pulled. Transportation occurs from farm to market, market to consumer, market to temporary storage, temporary storage to long term storage and long term storage to consumers.
 
-2.3 Threshing
-The sheaves of wheat are carried to the threshing floor manually or on the backs of animals like camel donkeys and bullock (Figure 5). Tractor trolleys and bullock carts are mostly used
-for transporting harvested wheat crop to the threshing floor where they are spread out to dry in the sun and wind for a few days. The threshing and separation of the grain from the straw is
-done in a variety of ways. The wheat crop may be beaten with sticks or trampled by a bunch of animals. Animals may be used to draw a wheat bundle/stone roller over the thick layer of
-harvested wheat crop. Or, an implement consisting of a series of steel disks may be used. In some locales, a tractor may be repeatedly driven over the wheat stack spread on the threshing
-floor.
+2.3 Threshing The sheaves of wheat are carried to the threshing floor manually or on the backs of animals like camel donkeys and bullock (Figure 5). Tractor trolleys and bullock carts are mostly used for transporting harvested wheat crop to the threshing floor where they are spread out to dry in the sun and wind for a few days. The threshing and separation of the grain from the straw is done in a variety of ways. The wheat crop may be beaten with sticks or trampled by a bunch of animals. Animals may be used to draw a wheat bundle/stone roller over the thick layer of harvested wheat crop. Or, an implement consisting of a series of steel disks may be used. In some locales, a tractor may be repeatedly driven over the wheat stack spread on the threshing floor.
 
-Figure 5: Animal transport to threshing floor
-The tractor-drawn thresher (Figure 6) and self-propelled harvester combine causes the least grain contamination, but are capital intensive solutions. Farmers, who cultivate only one or
-two hectares a season, hire small threshers, which are, light enough to be carried from one field to another by two people. Pedal or motor-driven mechanical threshers have been
-devised. One type has a revolving drum with projecting teeth that strip off the grain when a sheaf of wheat is held against the moving surface.
+Figure 5: Animal transport to threshing floor The tractor-drawn thresher (Figure 6) and self-propelled harvester combine causes the least grain contamination, but are capital intensive solutions. Farmers, who cultivate only one or two hectares a season, hire small threshers, which are, light enough to be carried from one field to another by two people. Pedal or motor-driven mechanical threshers have been devised. One type has a revolving drum with projecting teeth that strip off the grain when a sheaf of wheat is held against the moving surface.
 
-Figure 6: Tractor-drawn thresher
-After threshing, the straw (bhoosa) is stacked around the threshing floor (Figure 7), and used as animal feed, bedding, cooking fuel, to make sun-dried bricks, or compost. The wheat grain
-will be contaminated with pieces of straw chaff, broken grains, stones, and dirt when it is spread on the threshing floor for further drying.
+Figure 6: Tractor-drawn thresher After threshing, the straw (bhoosa) is stacked around the threshing floor (Figure 7), and used as animal feed, bedding, cooking fuel, to make sun-dried bricks, or compost. The wheat grain will be contaminated with pieces of straw chaff, broken grains, stones, and dirt when it is spread on the threshing floor for further drying.
 
-Figure 7: Straw stacks around the threshing floor
-Labour saving schemes are employed in some farming communities. An old and simple improvement in threshing is to beat a sheaf of wheat and the grain heads against a low wall,
-an oil drum, or a wagon bed. This method is more efficient than trampling as the grains fall into a container or onto a woven mat. Small quantities are threshed but are less likely to
-become contaminated.
+Figure 7: Straw stacks around the threshing floor Labour saving schemes are employed in some farming communities. An old and simple improvement in threshing is to beat a sheaf of wheat and the grain heads against a low wall, an oil drum, or a wagon bed. This method is more efficient than trampling as the grains fall into a container or onto a woven mat. Small quantities are threshed but are less likely to become contaminated.
 
-In many developing countries manpower is shifting from cereal production to cash crops or to industry causing a dearth of manpower in the urban areas. However, by tradition, the whole
-family participates in the harvesting and threshing process together with borrowed or hired labour. Women also join in these activities. In places where mechanical harvesters are used
-women do not participate. Labour prefers to be paid in kind than in cash. In typical communities, the farmers share resources of the village. Manpower reciprocates labour in the
-harvesting and threshing schedule. Whenever threshing is by bullocks, the community shares the threshing floor and animals.
-Threshing is mainly mechanical (60-80 percentage) in Pakistan. Tractor-driven threshers and at times combine harvesters are used. The design and maintenance of the thresher are central
-to reducing the broken grain percentage. Threshing using animals is also common in many areas of Pakistan. Several animals continuously walk around a pole to crush the wheat straw
-and heads to separate the grains and convert the straw to bhoosa.
-2.4 Drying
-The most critical decision in harvesting is not the degree of mechanisation but the timing of the harvest. If the harvest starts late, the grain becomes too dry and rate of grain shattering is
-high. The longer a ripe crop is left in the field or on the threshing floor, the higher will be the loss from natural calamities including hailstorm, fire, birds, or rodents. The moisture content
-of the grain will be high, making drying difficult if the harvest start too early.
-The moisture content of wheat grain is a crucial factor from harvest until milling. Moisture content of 25 percentage is not uncommon in newly harvested grain in humid areas but it
-must be dried immediately to protect it against mould. At 14 percentage moisture grain can be safely stored for 2 to 3 months. For longer periods of storage from 4-12 months, the moisture
-content must be reduced to 13 percentage or below.
-Drying in many wheat-growing countries of Asia, Africa, and Latin America is done by spreading a thin layer of grain in the sun, on the threshing floor or on rooftops. Mechanical
-drying of wheat grain is not practised in most of the developing countries. It is mostly sun dried. Sun drying is risky because it depends on weather conditions leading to dirty grain,
-spillage loss and bird attack.
-Each small farmer cannot afford mechanical equipment for cleaning and drying, but as a co- operative they could own such equipment. Some commercial grain buyers or government
-warehouses offer to accumulate the grain of small farmers, bulk, clean, and dry it with modern equipment. Unfortunately these services are rare in developing countries.
-As the weather is quite warm at harvest, the moisture content of the grain (Pakistan) is below
-10 percentage. During the rainy season moisture content slowly increases to 15 percentage.
-Deterioration of grain is closely related to the moisture content which is key to safe storage.
-Temperature and relative humidity influence moisture content of a stored product. The moisture content of wheat in Pakistan when first stored is usually low. In areas where there is
-heavy rainfall during summer, the relative humidity and grain moisture content increases.
-The wheat delivered from the farm at harvest to the village market or to a government food corporation presents different challenges. Since mills need to be able to hold sufficient grain
-for 30 to 60 days of milling this wheat may be kept in sheds, large steel bins, concrete silos, or in the holding bins of a flour mill. Wheat may be temporarily stored in railroad cars or in open
-piles in market towns where protection is little better than on a village-threshing floor.
-2.5 Cleaning
-After threshing, the straw, chaff, immature grains, sand, stones, and other substances are separated from the grain by sieving, winnowing or hand picking. In traditional manual
-winnowing, a shallow basket containing grain is held overhead, and the grain is tossed during
+In many developing countries manpower is shifting from cereal production to cash crops or to industry causing a dearth of manpower in the urban areas. However, by tradition, the whole family participates in the harvesting and threshing process together with borrowed or hired labour. Women also join in these activities. In places where mechanical harvesters are used women do not participate. Labour prefers to be paid in kind than in cash. In typical communities, the farmers share resources of the village. Manpower reciprocates labour in the harvesting and threshing schedule. Whenever threshing is by bullocks, the community shares the threshing floor and animals. Threshing is mainly mechanical (60-80 percentage) in Pakistan. Tractor-driven threshers and at times combine harvesters are used. The design and maintenance of the thresher are central to reducing the broken grain percentage. Threshing using animals is also common in many areas of Pakistan. Several animals continuously walk around a pole to crush the wheat straw and heads to separate the grains and convert the straw to bhoosa. 2.4 Drying The most critical decision in harvesting is not the degree of mechanisation but the timing of the harvest. If the harvest starts late, the grain becomes too dry and rate of grain shattering is high. The longer a ripe crop is left in the field or on the threshing floor, the higher will be the loss from natural calamities including hailstorm, fire, birds, or rodents. The moisture content of the grain will be high, making drying difficult if the harvest start too early. The moisture content of wheat grain is a crucial factor from harvest until milling. Moisture content of 25 percentage is not uncommon in newly harvested grain in humid areas but it must be dried immediately to protect it against mould. At 14 percentage moisture grain can be safely stored for 2 to 3 months. For longer periods of storage from 4-12 months, the moisture content must be reduced to 13 percentage or below. Drying in many wheat-growing countries of Asia, Africa, and Latin America is done by spreading a thin layer of grain in the sun, on the threshing floor or on rooftops. Mechanical drying of wheat grain is not practised in most of the developing countries. It is mostly sun dried. Sun drying is risky because it depends on weather conditions leading to dirty grain, spillage loss and bird attack. Each small farmer cannot afford mechanical equipment for cleaning and drying, but as a co- operative they could own such equipment. Some commercial grain buyers or government warehouses offer to accumulate the grain of small farmers, bulk, clean, and dry it with modern equipment. Unfortunately these services are rare in developing countries. As the weather is quite warm at harvest, the moisture content of the grain (Pakistan) is below 10 percentage. During the rainy season moisture content slowly increases to 15 percentage. Deterioration of grain is closely related to the moisture content which is key to safe storage. Temperature and relative humidity influence moisture content of a stored product. The moisture content of wheat in Pakistan when first stored is usually low. In areas where there is heavy rainfall during summer, the relative humidity and grain moisture content increases. The wheat delivered from the farm at harvest to the village market or to a government food corporation presents different challenges. Since mills need to be able to hold sufficient grain for 30 to 60 days of milling this wheat may be kept in sheds, large steel bins, concrete silos, or in the holding bins of a flour mill. Wheat may be temporarily stored in railroad cars or in open piles in market towns where protection is little better than on a village-threshing floor. 2.5 Cleaning After threshing, the straw, chaff, immature grains, sand, stones, and other substances are separated from the grain by sieving, winnowing or hand picking. In traditional manual winnowing, a shallow basket containing grain is held overhead, and the grain is tossed during
 
-periods of fast winds. Lighter weight broken grain, straw, and weed seed are carried by the wind to one side, as the whole grain falls to the bottom of the winnowing device. The
-winnowing device may stand on a stool to give the falling grain longer exposure to the wind.
-Manual winnowing requires a continuous brisk wind and several repetitions. Even then, the results are erratic producing grain, which is far from satisfactory. Wheat cleaning is most
-often done manually by women, occasionally by professionals.
-Simple, low-cost appliances that use hand-driven or motorised blowers have been developed that are more efficient and less time consuming than hand winnowing. A FAO publication on
-processing and storage of food grains by rural families describes grain mills, flourmills and sophisticated grain cleaners. Lending agencies that finance grain storage facilities can provide
-advice on appropriate cleaning equipment.
-2.6 Storage
-In South Asia and most of the developing countries, farmers for their own use for food, cattle feed and seed retain about 50-80 percentage of the grain produced. The farmers generally
-store their grain in simple granaries constructed from locally available materials like paddy straw, split bamboo, reeds, mud and bricks. A majority of wheat is stored in bags in a room,
-bin, drum or container for family consumption or is piled in farm buildings lacking proper flooring, closed doors and windows. Wheat is lost to moulds, birds, rodents, and insects.
-Storage varies in size and type including indoor, outdoor, above-ground, under-ground or airtight structures. Some conventional storage structures used by the farmers in Asia are:
-1. Mud structures mostly bins or pots
-2. Wood or Bamboo structures
-3. Metallic drums, bins or containers
-4. Kothis (small rooms)
-5. Bokharies (straw structures)
-It has been estimated that in Pakistan about 70 percentage of wheat is stored at farms in bags.
-The balance is stocked in the market and public sector storage partially in bulk. Wheat storage is primarily assigned to the public sector for food security.
-Provincial Food Departments, Federal Food Directorate, Defence Department, National
-Logistic Cell and Pakistan Agricultural Supply Corporation are main public agencies, which are responsible for food security, using storage structures including house type sheds,
-binnishells, and silos. Some wheat is also stored in the open and covered with tarpaulin or polyethylene.
-3. Overall losses
-Depending on level of the self-sufficiency of the country the marketable surplus of food grain varies by factors comprising farm and family size, productivity and other parameters. In
-Pakistan, it is generally estimated that approximately 65 to 75 percentage of total wheat produced is stored at the farm. Smaller farms generally keep more grain for consumption. It is
-estimated that the quantity of wheat entering commercial channels from farms up to maximum 4.5 ha in size is negligible. Nationally, the 4.5 ha farm is worked by about 65
-percentage of the farmers, who occupy 35 percentage of the cultivated land.
-The major food grains are usually stored at the farm in specially constructed mud bins, protected by a cover, inside the house or in the open courtyard. Wheat may also be stored as a
-heap covered by straw, mud and dung plastered, loose in a room, or in bags, metal bins, baskets and pots. These widely contrasting storage practices may explain the range of storage
-loss in Asian countries.
-The global emphasis on increased food production has been on the development of modern technologies relevant to the pre-harvest activities. The emphasis on achieving a significant
+periods of fast winds. Lighter weight broken grain, straw, and weed seed are carried by the wind to one side, as the whole grain falls to the bottom of the winnowing device. The winnowing device may stand on a stool to give the falling grain longer exposure to the wind. Manual winnowing requires a continuous brisk wind and several repetitions. Even then, the results are erratic producing grain, which is far from satisfactory. Wheat cleaning is most often done manually by women, occasionally by professionals. Simple, low-cost appliances that use hand-driven or motorised blowers have been developed that are more efficient and less time consuming than hand winnowing. A FAO publication on processing and storage of food grains by rural families describes grain mills, flourmills and sophisticated grain cleaners. Lending agencies that finance grain storage facilities can provide advice on appropriate cleaning equipment. 2.6 Storage In South Asia and most of the developing countries, farmers for their own use for food, cattle feed and seed retain about 50-80 percentage of the grain produced. The farmers generally store their grain in simple granaries constructed from locally available materials like paddy straw, split bamboo, reeds, mud and bricks. A majority of wheat is stored in bags in a room, bin, drum or container for family consumption or is piled in farm buildings lacking proper flooring, closed doors and windows. Wheat is lost to moulds, birds, rodents, and insects. Storage varies in size and type including indoor, outdoor, above-ground, under-ground or airtight structures. Some conventional storage structures used by the farmers in Asia are: 1. Mud structures mostly bins or pots 2. Wood or Bamboo structures 3. Metallic drums, bins or containers 4. Kothis (small rooms) 5. Bokharies (straw structures) It has been estimated that in Pakistan about 70 percentage of wheat is stored at farms in bags. The balance is stocked in the market and public sector storage partially in bulk. Wheat storage is primarily assigned to the public sector for food security. Provincial Food Departments, Federal Food Directorate, Defence Department, National Logistic Cell and Pakistan Agricultural Supply Corporation are main public agencies, which are responsible for food security, using storage structures including house type sheds, binnishells, and silos. Some wheat is also stored in the open and covered with tarpaulin or polyethylene. 3. Overall losses Depending on level of the self-sufficiency of the country the marketable surplus of food grain varies by factors comprising farm and family size, productivity and other parameters. In Pakistan, it is generally estimated that approximately 65 to 75 percentage of total wheat produced is stored at the farm. Smaller farms generally keep more grain for consumption. It is estimated that the quantity of wheat entering commercial channels from farms up to maximum 4.5 ha in size is negligible. Nationally, the 4.5 ha farm is worked by about 65 percentage of the farmers, who occupy 35 percentage of the cultivated land. The major food grains are usually stored at the farm in specially constructed mud bins, protected by a cover, inside the house or in the open courtyard. Wheat may also be stored as a heap covered by straw, mud and dung plastered, loose in a room, or in bags, metal bins, baskets and pots. These widely contrasting storage practices may explain the range of storage loss in Asian countries. The global emphasis on increased food production has been on the development of modern technologies relevant to the pre-harvest activities. The emphasis on achieving a significant
 
-reduction in post production food loss gained momentum from the World Food Conference in
-1974 and the resolution passed at the 7th special session of the United Nations General
-Assembly in 1975.
-Reports by a FAO Food Security Mission in 1980 and a World Bank Grain Storage Project
-Mission in 1981 in Pakistan, drew attention to the potential seriousness of farm storage loss, particularly for wheat. It was noted that considerable loss caused by insects, and to a lesser
-extent by rodents and fungi, occurs when grain is stored for three months or longer. Relatively low levels of insect damage may result in the rejection of a large amount of potential food
-material at the cleaning/food preparation stage. FAO, therefore, has been instrumental in developing action plans to reduce loss in grain after harvest through loss assessment,
-technology transfer and development of expertise via information dissemination.
-3.1 Wheat loss factors
-Loss is defined as a measurable decrease of the food quantity and quality. Loss should not be confused with superficial damage generally due to deterioration. Quantitative loss is physical
-and can be measured in weight or volume, while qualitative loss can only be assessed.
-Quantitative loss, qualitative loss, nutritional loss, seed viability loss and commercial loss may gauge this reduction.
-The major biotic factors influencing wheat loss during storage are insects, moulds, birds and rats. The major insect species known to infect wheat include Khapra beetle, Trogoderma
-granarium Everts; Lesser grain borer, Rhizopertha dominica (F); Rice Weevil, Stitophilus oryzae (L.) and Red flour beetle, Tribolium castaneum (Hbst). All these insects may be found
-extensively in most developing countries to different extremes. Other insect species are recognised storage pests that also infest stored wheat like Angoumois grain moth, Sitotroga
-cerealella (Oliv.); Rice moth, Corcyra cephalonica Straint; Saw toothed grain beetle
-Oryzaephilus surinamensis (L.); Long headed flour beetle Latheticus oryzae Wat.; Flat grain beetle Cryptolestes pusillus (Schoen).
-Biotic factors including temperature, humidity and type of storage all affect environmental conditions in storage. High temperature causes deterioration, while low temperature is good
-for storage. High temperature accelerates the respiration of grain, which produces carbon dioxide, heat and water, conditions favourable for spoilage. Humidity equally impacts grain
-storage. Increasing humidity increases spoilage, while decreasing humidity is good for storage.
-The type of storage plays a fundamental role in storage efficiency. If a concrete or mud storage structure can absorb water or allow the water vapours to pass through, in the case of a
-jute bag, the bio-chemical changes and mould attack are minimal, but the risk of insect infestation increases. Sun drying or turning of food grain has many advantages as it provides
-an opportunity for inspection and precautionary measures to avoid spoilage. Aeration greatly minimises mould growth, insect activity, and respiration of the seed. Further aeration provides
-a cooling action and equalises the temperature throughout the mass of the grain stored. Bad odours developed by stored grains can be easily and effectively removed.
-Climate conditions, grain conditions at storage (presence of infestation, moisture content, foreign matter content), the period of storage, grain and pest control practices all contribute to
-the rate of loss caused by insects and mould growth. As these factors interact, it is difficult to isolate them or identify one factor, which has a direct influence on loss. Average statistics for
-loss, whether for store types, areas, or quantities of grain stored are inconclusive. An average figure for loss for a region or a country holds no significance unless a decision regarding a
-new system of storage, or new pest control techniques is required. Nevertheless average loss figures are always sought. The loss figures consist of the following:
+reduction in post production food loss gained momentum from the World Food Conference in 1974 and the resolution passed at the 7th special session of the United Nations General Assembly in 1975. Reports by a FAO Food Security Mission in 1980 and a World Bank Grain Storage Project Mission in 1981 in Pakistan, drew attention to the potential seriousness of farm storage loss, particularly for wheat. It was noted that considerable loss caused by insects, and to a lesser extent by rodents and fungi, occurs when grain is stored for three months or longer. Relatively low levels of insect damage may result in the rejection of a large amount of potential food material at the cleaning/food preparation stage. FAO, therefore, has been instrumental in developing action plans to reduce loss in grain after harvest through loss assessment, technology transfer and development of expertise via information dissemination. 3.1 Wheat loss factors Loss is defined as a measurable decrease of the food quantity and quality. Loss should not be confused with superficial damage generally due to deterioration. Quantitative loss is physical and can be measured in weight or volume, while qualitative loss can only be assessed. Quantitative loss, qualitative loss, nutritional loss, seed viability loss and commercial loss may gauge this reduction. The major biotic factors influencing wheat loss during storage are insects, moulds, birds and rats. The major insect species known to infect wheat include Khapra beetle, Trogoderma granarium Everts; Lesser grain borer, Rhizopertha dominica (F); Rice Weevil, Stitophilus oryzae (L.) and Red flour beetle, Tribolium castaneum (Hbst). All these insects may be found extensively in most developing countries to different extremes. Other insect species are recognised storage pests that also infest stored wheat like Angoumois grain moth, Sitotroga cerealella (Oliv.); Rice moth, Corcyra cephalonica Straint; Saw toothed grain beetle Oryzaephilus surinamensis (L.); Long headed flour beetle Latheticus oryzae Wat.; Flat grain beetle Cryptolestes pusillus (Schoen). Biotic factors including temperature, humidity and type of storage all affect environmental conditions in storage. High temperature causes deterioration, while low temperature is good for storage. High temperature accelerates the respiration of grain, which produces carbon dioxide, heat and water, conditions favourable for spoilage. Humidity equally impacts grain storage. Increasing humidity increases spoilage, while decreasing humidity is good for storage. The type of storage plays a fundamental role in storage efficiency. If a concrete or mud storage structure can absorb water or allow the water vapours to pass through, in the case of a jute bag, the bio-chemical changes and mould attack are minimal, but the risk of insect infestation increases. Sun drying or turning of food grain has many advantages as it provides an opportunity for inspection and precautionary measures to avoid spoilage. Aeration greatly minimises mould growth, insect activity, and respiration of the seed. Further aeration provides a cooling action and equalises the temperature throughout the mass of the grain stored. Bad odours developed by stored grains can be easily and effectively removed. Climate conditions, grain conditions at storage (presence of infestation, moisture content, foreign matter content), the period of storage, grain and pest control practices all contribute to the rate of loss caused by insects and mould growth. As these factors interact, it is difficult to isolate them or identify one factor, which has a direct influence on loss. Average statistics for loss, whether for store types, areas, or quantities of grain stored are inconclusive. An average figure for loss for a region or a country holds no significance unless a decision regarding a new system of storage, or new pest control techniques is required. Nevertheless average loss figures are always sought. The loss figures consist of the following:
 
- The weight loss which occurred during storage = The difference between the condition of grain at the end of the storage period, compared to the condition at initial storage
- The weight loss, which happened before the grain was stored (Note: some of the grain under study had been stored elsewhere for an unspecified time).
-3.2 Public sector storage loss
-A preliminary review of public sector storage facilities in Pakistan by the author during 1984-
-85 confirmed the widely held view that loss due to insect infestation, mould growth and the
-activities of birds and rodents were often serious. The review also concluded that insect pests are most important. The survey of storage loss during 1984-85, therefore, focussed upon the
-measurement of weight loss caused by insects and mould growth (Table 5).
-Table 5: Estimates of Storage Loss in various Provinces of Pakistan
-Province
-Average Storage
-Period (months)
-Loss percentage
+ The weight loss which occurred during storage = The difference between the condition of grain at the end of the storage period, compared to the condition at initial storage  The weight loss, which happened before the grain was stored (Note: some of the grain under study had been stored elsewhere for an unspecified time). 3.2 Public sector storage loss A preliminary review of public sector storage facilities in Pakistan by the author during 1984-85 confirmed the widely held view that loss due to insect infestation, mould growth and the activities of birds and rodents were often serious. The review also concluded that insect pests are most important. The survey of storage loss during 1984-85, therefore, focussed upon the measurement of weight loss caused by insects and mould growth (Table 5). Table 5: Estimates of Storage Loss in various Provinces of Pakistan Province Average Storage Period (months) Loss percentage
 
-Insect
-Moulds
+Insect Moulds
 
-Pre-storage
-Storage
+Pre-storage Storage
 
-Sindh
-6.4
-0.1
-2.9
-0.3
-3.3
-Punjab
-6.3
-0.1
-1.8
-0.3
-2.2
-NWFP
-6.5
-2.9
-2.6
-6.2
-Baluchistan
-2.6
-0.5
-1.2
-0.5
-2.2
-Pakistan
-5.4
-0.9
-0.4
-3.5
-Source: Baloch, U. K. et. al. 1994, Loss Assessment and Loss Prevention in Wheat Storage in
-Pakistan. in Stored Product Protection ed. Ed Highley, CAB. International. Pp 906-10
+Sindh 6.4 0.1 2.9 0.3 3.3 Punjab 6.3 1.8 2.2 NWFP 6.5 6.2 Baluchistan 0.5 1.2 5.4 0.9 3.5 Source: Baloch, U. K. et. al. 1994, Loss Assessment and Loss Prevention in Wheat Storage in Pakistan. in Stored Product Protection ed. Ed Highley, CAB. International. Pp 906-10
 
-Loss due to insect infestation occurs in all regions, but is higher in grain stored at Karachi in
-Sindh and in Peshawar in NWFP. The higher loss at Karachi may be caused by generally favourable temperature and relative humidity, which are also conducive for insect growth
-combined with the difficulties in fumigating such large sheds. When the additional loss is taken into account from Peshawar (NWFP), the average loss due to insect pests during storage
-in two-year-old wheat was 8.9 percentage, with loss in individual cases as high as 15 percentage.
-Mould damage is not a serious problem in countries like Pakistan, where wheat stored at procurement is usually dry at 10 percentage moisture content or less. During the rainy season
-the moisture content of stored grain may rise, but the average moisture content is rarely above
-13.3 percentage. The loss figure due to mould measures the amount of grain, damaged so
-badly that it was regarded unfit for human consumption. Mould damage in tropical or humid countries is indicative of defects in storage structures and moisture migration due to insect
-activities.
-Grain stored in the open covered with tarpaulin sheets, is always at risk and such stocks of grain suffer heavily. Some stacks of grain inside the shed are also damaged by mould because
-of rainwater. Occasionally rain enters through open or broken windows or through doors opened to allow ventilation and not closed in time. Wheat stored in bins is susceptible to
-localised mould damage, particularly in the surface layers. This results from condensation on the inner side of the metal manhole covering the top of the bin. Moisture migration following
-the activity of insects is common in bulk stored grain, but it is also noted in bag stacks.
+Loss due to insect infestation occurs in all regions, but is higher in grain stored at Karachi in Sindh and in Peshawar in NWFP. The higher loss at Karachi may be caused by generally favourable temperature and relative humidity, which are also conducive for insect growth combined with the difficulties in fumigating such large sheds. When the additional loss is taken into account from Peshawar (NWFP), the average loss due to insect pests during storage in two-year-old wheat was 8.9 percentage, with loss in individual cases as high as 15 percentage. Mould damage is not a serious problem in countries like Pakistan, where wheat stored at procurement is usually dry at 10 percentage moisture content or less. During the rainy season the moisture content of stored grain may rise, but the average moisture content is rarely above 13.3 percentage. The loss figure due to mould measures the amount of grain, damaged so badly that it was regarded unfit for human consumption. Mould damage in tropical or humid countries is indicative of defects in storage structures and moisture migration due to insect activities. Grain stored in the open covered with tarpaulin sheets, is always at risk and such stocks of grain suffer heavily. Some stacks of grain inside the shed are also damaged by mould because of rainwater. Occasionally rain enters through open or broken windows or through doors opened to allow ventilation and not closed in time. Wheat stored in bins is susceptible to localised mould damage, particularly in the surface layers. This results from condensation on the inner side of the metal manhole covering the top of the bin. Moisture migration following the activity of insects is common in bulk stored grain, but it is also noted in bag stacks.
 
-3.3 Farm storage loss
-A 1983 review by the author in Pakistan confirmed a broad variability in the reported estimates for wheat loss at the farm level and the need for quantitative data to base a loss
-reduction program. Following this was a preliminary survey, which provided an excellent record and understanding of the operation of post-harvest activities at the farm and village
-level. It also clearly demonstrated that farmers are concerned about the loss of grain occurring during long-term storage. While there was a need to establish reliable estimates of storage
-loss, there was already evidence to suggest that certain farm households were losing considerable quantities of grain to insects. The survey drew attention to the urgent need to
-formulate a suitable extension package on good storage management directed to both men and women.
-Loss assessment surveys were conducted to determine the harvest loss from shattering of grain, loss of panicles and other effects, threshing loss and the amount of grain lost to rodents
-in the period between harvesting and storage. Based on the total quantity of wheat harvested,
-0.35 percentage was lost during harvesting, 1.24 percentage was lost during threshing and
-0.15 percentage was lost during temporary storage. Losses during harvesting are related to the
-degree of maturity of the crop at harvest and to delays in harvesting. Such losses are difficult to reduce. Although this represents a private loss to the owner, some of this grain will be
-recovered by those permitted to pick wheatears in the harvested field. Losses during threshing are operations-related and may be eliminated with a better adjustment of the thresher to limit
-the amount of grain lost with the straw.
-3.3.1 Loss assessment survey
-A socio-economic survey in Pakistan in 1984-85 confirmed that insect infestation was the most significant cause of loss in storage. Approximately 55 percentage of the households
-sampled regarded this as a major problem, while 15 percentage responded that it was a minor problem. There was inconsistent information provided when data from the farmers about
-perceived loss was compared with that provided by women. According to women respondents, the perceived storage loss due to insects in rain-fed and irrigated areas are about
-4.0 percentage and 3.6 percentage, respectively, similar to the results obtained in the loss
-assessment survey. However, the actual food loss is likely to be far greater, since more than
-80 percentage of the respondents admitted to discarding damaged grain. Of this group,
-approximately 30 percentage stated that the grain would be destroyed while others questioned would use the grain for animal feed.
-The perception of losses by those directly concerned with storage management is a useful indicator to assess motivation for adopting new techniques for loss reduction. The results of
-the survey indicated that motivation is high. Most of the respondents felt that there was a need for additional advice on better pest control methods. Few suggestions were made for new
-types of storage containers; those who did referred to metal or concrete bins. Financial constraints limit the adoption of new storage structures.
-While the traditional storage systems restrain loss to a low level, the introduction of new varieties of grains has placed an extra burden on those responsible for grain conservation,
-specifically the women members of the community.
-3.3.2 Loss assessment studies
-In Pakistan, wheat is commonly stored in jute bags, bharolas (containers of mud, plaster and straw), kothis (rectangular grain stores of mud, cow dung and straw) and open rooms. In the
-rain fed area, 90 percentage of farmers use jute bags, whereas, in the irrigated area, 42 percentage use jute bags and 44 percentage use mud bins. A small number of farmers in both
+3.3 Farm storage loss A 1983 review by the author in Pakistan confirmed a broad variability in the reported estimates for wheat loss at the farm level and the need for quantitative data to base a loss reduction program. Following this was a preliminary survey, which provided an excellent record and understanding of the operation of post-harvest activities at the farm and village level. It also clearly demonstrated that farmers are concerned about the loss of grain occurring during long-term storage. While there was a need to establish reliable estimates of storage loss, there was already evidence to suggest that certain farm households were losing considerable quantities of grain to insects. The survey drew attention to the urgent need to formulate a suitable extension package on good storage management directed to both men and women. Loss assessment surveys were conducted to determine the harvest loss from shattering of grain, loss of panicles and other effects, threshing loss and the amount of grain lost to rodents in the period between harvesting and storage. Based on the total quantity of wheat harvested, 0.35 percentage was lost during harvesting, 1.24 percentage was lost during threshing and 0.15 percentage was lost during temporary storage. Losses during harvesting are related to the degree of maturity of the crop at harvest and to delays in harvesting. Such losses are difficult to reduce. Although this represents a private loss to the owner, some of this grain will be recovered by those permitted to pick wheatears in the harvested field. Losses during threshing are operations-related and may be eliminated with a better adjustment of the thresher to limit the amount of grain lost with the straw. 3.3.1 Loss assessment survey A socio-economic survey in Pakistan in 1984-85 confirmed that insect infestation was the most significant cause of loss in storage. Approximately 55 percentage of the households sampled regarded this as a major problem, while 15 percentage responded that it was a minor problem. There was inconsistent information provided when data from the farmers about perceived loss was compared with that provided by women. According to women respondents, the perceived storage loss due to insects in rain-fed and irrigated areas are about 4.0 percentage and 3.6 percentage, respectively, similar to the results obtained in the loss assessment survey. However, the actual food loss is likely to be far greater, since more than 80 percentage of the respondents admitted to discarding damaged grain. Of this group, approximately 30 percentage stated that the grain would be destroyed while others questioned would use the grain for animal feed. The perception of losses by those directly concerned with storage management is a useful indicator to assess motivation for adopting new techniques for loss reduction. The results of the survey indicated that motivation is high. Most of the respondents felt that there was a need for additional advice on better pest control methods. Few suggestions were made for new types of storage containers; those who did referred to metal or concrete bins. Financial constraints limit the adoption of new storage structures. While the traditional storage systems restrain loss to a low level, the introduction of new varieties of grains has placed an extra burden on those responsible for grain conservation, specifically the women members of the community. 3.3.2 Loss assessment studies In Pakistan, wheat is commonly stored in jute bags, bharolas (containers of mud, plaster and straw), kothis (rectangular grain stores of mud, cow dung and straw) and open rooms. In the rain fed area, 90 percentage of farmers use jute bags, whereas, in the irrigated area, 42 percentage use jute bags and 44 percentage use mud bins. A small number of farmers in both
 
-areas use metal bins. The losses in the different storage types range from 0.1 percentage to over 10 percentage. Such wide variations are not unexpected, as the extent of loss will depend
-upon the quantity stored, the storage period, the consumption pattern, the condition of the grain at storage and the pest control methods used. The levels of insect infestation and of
-damaged grain were highest in jute bags. The average weight loss recorded in the different storage facilities is given in Tables 6 and 7.
-Table: 6 Average weight loss (%) in different types of stores
-Type of storage
-Rain fed area
-Irrigated area
-Jute bag
-3.1
-6.6
-Mud bin
-2.3
-6.1
-Open Room
-2.2
-5.5
-Metal bin
-2.0
-Source:Baloch, U. K. et. al. 1994, Loss Assessment and Loss Prevention in Wheat Storage...
-in Pakistan. In Stored Product Protection ed. Ed Highley, CAB. International. Pp 906-10
-Table: 7 Storage containers used by farmers (%)
-Storage Container
-1984-85
-1985-86
+areas use metal bins. The losses in the different storage types range from 0.1 percentage to over 10 percentage. Such wide variations are not unexpected, as the extent of loss will depend upon the quantity stored, the storage period, the consumption pattern, the condition of the grain at storage and the pest control methods used. The levels of insect infestation and of damaged grain were highest in jute bags. The average weight loss recorded in the different storage facilities is given in Tables 6 and 7. Table: 6 Average weight loss (%) in different types of stores Type of storage Rain fed area Irrigated area Jute bag 3.1 6.6 Mud bin 2.3 6.1 Open Room 5.5 Metal bin 2.0 Source:Baloch, U. K. et. al. 1994, Loss Assessment and Loss Prevention in Wheat Storage... in Pakistan. In Stored Product Protection ed. Ed Highley, CAB. International. Pp 906-10 Table: 7 Storage containers used by farmers (%) Storage Container 1984-85 1985-86
 
-Irrigated
-Rain fed
-Irrigated
-Rain fed
+Irrigated Rain fed
 
-1. Sacks
-43.04
-90.00
-32.50
-78.83
-2. Metal Bin/Box*
-3.37
-4.59
-4.08
-13.75
-3. Bharola/Mud bin
-27.00
-2.92
-28.75
-2.00
-4. Other Storage
-26.59
--
-32.25
-4.59
-Source:Baloch, U. K. et. al. 1994, Loss Assessment and Loss Prevention in Wheat Storage...
-in Pakistan. in Stored Product Protection ed. Ed Highley, CAB. International. Pp 906-10
+1. Sacks 43.04 90.00 32.50 78.83 2. Metal Bin/Box* 3.37 4.59 4.08 13.75 3. Bharola/Mud bin 27.00 2.92 28.75 2.00 4. Other Storage 26.59 -32.25 Source:Baloch, U. K. et. al. 1994, Loss Assessment and Loss Prevention in Wheat Storage... in Pakistan. in Stored Product Protection ed. Ed Highley, CAB. International. Pp 906-10
 
-*As a result of the project activities the trends of adoption of improved storage techniques
-(metal bin) in rain fed areas have increased as compared to irrigated area during 1985-86.
-In India the Pansay Committee estimated post harvest loss at 9.3 percentage, of which an estimated 6.6 percentage was attributed to storage loss The breakdown of storage loss for
-food grains was 2.55 percentage for insects, 2.50 percentages for rodents, 0.85 percentage for birds and 0.68 percentage for moisture. The Administrative Staff College of India (ASCI)
-Hyderabad in August 1976 calculated the following storage loss estimates (Table 8).
-Table: 8 Estimated Storage Loss (%) of Food-grains
-Cause
-Farm level
-Trade
-Public Agencies
+*As a result of the project activities the trends of adoption of improved storage techniques (metal bin) in rain fed areas have increased as compared to irrigated area during 1985-86. In India the Pansay Committee estimated post harvest loss at 9.3 percentage, of which an estimated 6.6 percentage was attributed to storage loss The breakdown of storage loss for food grains was 2.55 percentage for insects, 2.50 percentages for rodents, 0.85 percentage for birds and 0.68 percentage for moisture. The Administrative Staff College of India (ASCI) Hyderabad in August 1976 calculated the following storage loss estimates (Table 8). Table: 8 Estimated Storage Loss (%) of Food-grains Cause Farm level Trade Public Agencies
 
-Sheds
-Silos
-Insects
-3.4
-3.4
-0.5-1.0
-0.5
-Rodents
-0.5-1.0
-0.3-1.0
-Neg.
-Nil
-Birds
-Neg.
-0.2
-0.2
-Nil
-Moisture
-Neg.
-0.2
-0.2
-0.2
-Others
--
-0.3
-0.3
-Neg.
+Sheds Silos Insects 0.5-1.0 Rodents 0.3-1.0 Neg. Nil Birds 0.2
 
-1.3-1.7
-Source:Sawhney, K. L. 1988. Post Harvest Handling and Storage of Food Grain in India.
-Workshop on Bulk Storage of Food Grains. FAO. Hanzhu, China.
+1.3-1.7 Source:Sawhney, K. L. 1988. Post Harvest Handling and Storage of Food Grain in India. Workshop on Bulk Storage of Food Grains. FAO. Hanzhu, China.
 
-4. Pest Control
-Similar insects infest wheat during storage in the public sector sheds and the farm level.
-However, the population dynamics of different insect species varies with the factors affecting storage.
-4.1 Pest species
-Rice weevil (Sitophilus oryzae L.) is the dominant pest of stored wheat causing grain damage from 2-5 percentage. Most damage is caused during Monsoon season plus the couple of
-months following monsoon. It feeds internally, reducing the weight and degrading the quality of the grain. For instance the grain may become humid, hot, and unfit for human
-consumption.
-Lesser grain borer (Rhyzopertha dominica) is also a destructive pest causing damage throughout the country. Adults and larvae feed inside the grain. This reduces the weight and
-degrades the quality. The lesser grain borer is most abundant in humid climates and whenever the moisture content of wheat is high.
-Khapra beetle (Trogoderma granarium) is a widespread but sporadic pest. It causes extensive damage in conditions of high humidity and high moisture content. Red flour beetle (Tribolium
-castaneum) and Rice moth (Sitotroga cerealella) also cause significant damage to wheat.
-4.2 Pest Control
-Pakistani farmers attempt to control insects using sun drying, applications of available insecticide, phosphine producing compounds (e.g., Phostoxin), elemental mercury and neem,
-a natural material of plant origin The use of pesticides is more common in the irrigated areas where 13 percentage of farmers use insecticides and fumigants and 41 percentage treat the
-grain with mercury. Although some degree of control seems to have been achieved, most chemical treatments are unsatisfactory and can be dangerous to health. Moreover, the
-widespread and uncontrolled use of pesticides waste scarce resources when treatments are ineffective. The exposure of insect pests to sub-lethal doses may promote resistant strains of
-pest species.
-The amount of grain lost to rodents provides further evidence of the need to control field infestations of rodents. The rat damage to wheat in upland valleys of both wet and dry
-mountains, where Bandicota bengalensis is a serious pest, has been estimated at 6.0 percentage in post harvest system. Some reports indicate that loss due to rats have been
-projected as high as 4-6 percentage and as low as one percentage. The private MICAS
-Associates in 1976 estimated 2.3 percentage wheat loss from rats at the farm level. Studies conducted by the FSM Project of USAID indicated that the rodent infestations at the village
-level and in the town market measure less than five percentage.
-The use of tracking dusts of zinc phosphide (5 and 10 percentage), racumin (0.75 percentage) and liquid warfarin (0.025 percentage) was highly effective in reducing the populations by 80-
-90 percentage. With the use of these compounds 10-20 percentage greater yields can be
-achieved with a 50-fold return on the cost of investment.
-4.2.1 Traditional Pest Control Methods
-In south Asia the following are the most important methods practised at farm level during wheat storage:
-Sun drying: The sun drying is the single most popular method of moisture reduction and pest control. Luckily the temperature during and after harvest of wheat provide for the initial kill
-of insects and reduce moisture in the grain. This helps to delay infestation of insects and formation of mould. The effectiveness of this method for small and large farmers alike is
+4. Pest Control Similar insects infest wheat during storage in the public sector sheds and the farm level. However, the population dynamics of different insect species varies with the factors affecting storage. 4.1 Pest species Rice weevil (Sitophilus oryzae L.) is the dominant pest of stored wheat causing grain damage from 2-5 percentage. Most damage is caused during Monsoon season plus the couple of months following monsoon. It feeds internally, reducing the weight and degrading the quality of the grain. For instance the grain may become humid, hot, and unfit for human consumption. Lesser grain borer (Rhyzopertha dominica) is also a destructive pest causing damage throughout the country. Adults and larvae feed inside the grain. This reduces the weight and degrades the quality. The lesser grain borer is most abundant in humid climates and whenever the moisture content of wheat is high. Khapra beetle (Trogoderma granarium) is a widespread but sporadic pest. It causes extensive damage in conditions of high humidity and high moisture content. Red flour beetle (Tribolium castaneum) and Rice moth (Sitotroga cerealella) also cause significant damage to wheat. 4.2 Pest Control Pakistani farmers attempt to control insects using sun drying, applications of available insecticide, phosphine producing compounds (e.g., Phostoxin), elemental mercury and neem, a natural material of plant origin The use of pesticides is more common in the irrigated areas where 13 percentage of farmers use insecticides and fumigants and 41 percentage treat the grain with mercury. Although some degree of control seems to have been achieved, most chemical treatments are unsatisfactory and can be dangerous to health. Moreover, the widespread and uncontrolled use of pesticides waste scarce resources when treatments are ineffective. The exposure of insect pests to sub-lethal doses may promote resistant strains of pest species. The amount of grain lost to rodents provides further evidence of the need to control field infestations of rodents. The rat damage to wheat in upland valleys of both wet and dry mountains, where Bandicota bengalensis is a serious pest, has been estimated at 6.0 percentage in post harvest system. Some reports indicate that loss due to rats have been projected as high as 4-6 percentage and as low as one percentage. The private MICAS Associates in 1976 estimated 2.3 percentage wheat loss from rats at the farm level. Studies conducted by the FSM Project of USAID indicated that the rodent infestations at the village level and in the town market measure less than five percentage. The use of tracking dusts of zinc phosphide (5 and 10 percentage), racumin (0.75 percentage) and liquid warfarin (0.025 percentage) was highly effective in reducing the populations by 80-90 percentage. With the use of these compounds 10-20 percentage greater yields can be achieved with a 50-fold return on the cost of investment. 4.2.1 Traditional Pest Control Methods In south Asia the following are the most important methods practised at farm level during wheat storage: Sun drying: The sun drying is the single most popular method of moisture reduction and pest control. Luckily the temperature during and after harvest of wheat provide for the initial kill of insects and reduce moisture in the grain. This helps to delay infestation of insects and formation of mould. The effectiveness of this method for small and large farmers alike is
 
-equally good. Small farmers are more efficient in drying their grain in small-scale storage.
-After 2 or 3 months of storage, they kill insects which might have developed during this period and eliminate any insect problem once they have carried out sun drying in
-August/September.
-Use of Mercury: The use of mercury is a local tradition in South Asia for insect prevention in storage particularly in the Punjab provinces of Pakistan and India and nearby districts. Despite
-its potential hazards farmers have adopted the practise. No studies have been conducted to demonstrate the toxic effects of mercury on human and animal health.
-Use of Neem: The neem tree (Azardirachta indica) is native to the Indo-Pakistan sub- continent and grows abundantly in this region. Neem trees are plentiful in South Asia and
-certain other developing countries where farmers are aware of its properties. In a diagnostic survey, it is reported that food grain is mostly stored in gunny bags in which farmers
-sometimes mix dried neem leaves. Those who store wheat in mud bins, rub fresh neem leaves on the inside walls of the bins. In the districts of Nawabshah and Khairpur, in Pakistan Palli is
-commonly used for storage. Some farmers plaster its walls and top with mud having crushed neem leaves. In Rahim Yar Khan District, neem extract is sprinkled on the wheat straw
-packed at the bottom of Palli before placing the grain. In other areas, farmers treat storage bags with neem extracts before putting in the grain. Farmers presently utilise neem, mixing
-whole neem leaves with grain in gunny bags or in earthen containers. They also use ground neem leaf paste mixed with mud used for making mud bins. Empty gunny bags are soaked
-overnight in water containing 2-10 percentage neem leaves on a weight/volume basis, and the grain is stored in these bags after drying them. Most farmers rate the first method to be
-superior.
-Considerable research has been undertaken on the properties of neem as grain protectant.
-However, most of this research has not been adopted for practical application on larger scale.
-The water extract of neem leaves was highly repellant to major stored grain insect pests. The neem seeds compared with the leaves, flowers, and fruits exhibited the maximum potency.
-Tests show that flour beetle, fed on neem seed extract treated at the rate of 800 ppm, failed to produce viable progeny; and their feeding was greatly reduced. Based on experiments, it is
-reported that 20 percentage of water extract of neem leaves can block the penetration of insects into treated bags (paper or cloth) for at least 6 months during storage.
-4.2.2 Chemical Pest Control
-The majority of farmers in developing countries belong to the subsistence group and often cannot afford the costly modern grain protectants. Fumigation with toxic gases is most
-effective in airtight structures and is only economical if carried out on a commercial scale.
-Even if properly applied, the fumigated grains are still liable to frequent re-infestation by insect pests. This technology is not yet applicable to the farm level in Pakistan because
-storage structures are not airtight and located inside or near residential areas where fumigation may be dangerous.
-The admixture of insecticide dusts with grain can provide protection against insects, but pose a danger from their persistent harmful residues. Breeding of resistant strains of insects cannot
-be explicitly prevented nor can the high cost of environmental pollution be ignored.
-Moreover, application of insecticides requires sophisticated techniques and complicated calculations, which farmers cannot easily comprehend.
-However, there are no traditional methods adopted for pest management, in the public sheds.
-Local market dealers or agents procure wheat directly or from the government. Wheat is transported using private trucks to the food department sheds, which can be privately hired
-storage facilities.
+equally good. Small farmers are more efficient in drying their grain in small-scale storage. After 2 or 3 months of storage, they kill insects which might have developed during this period and eliminate any insect problem once they have carried out sun drying in August/September. Use of Mercury: The use of mercury is a local tradition in South Asia for insect prevention in storage particularly in the Punjab provinces of Pakistan and India and nearby districts. Despite its potential hazards farmers have adopted the practise. No studies have been conducted to demonstrate the toxic effects of mercury on human and animal health. Use of Neem: The neem tree (Azardirachta indica) is native to the Indo-Pakistan sub- continent and grows abundantly in this region. Neem trees are plentiful in South Asia and certain other developing countries where farmers are aware of its properties. In a diagnostic survey, it is reported that food grain is mostly stored in gunny bags in which farmers sometimes mix dried neem leaves. Those who store wheat in mud bins, rub fresh neem leaves on the inside walls of the bins. In the districts of Nawabshah and Khairpur, in Pakistan Palli is commonly used for storage. Some farmers plaster its walls and top with mud having crushed neem leaves. In Rahim Yar Khan District, neem extract is sprinkled on the wheat straw packed at the bottom of Palli before placing the grain. In other areas, farmers treat storage bags with neem extracts before putting in the grain. Farmers presently utilise neem, mixing whole neem leaves with grain in gunny bags or in earthen containers. They also use ground neem leaf paste mixed with mud used for making mud bins. Empty gunny bags are soaked overnight in water containing 2-10 percentage neem leaves on a weight/volume basis, and the grain is stored in these bags after drying them. Most farmers rate the first method to be superior. Considerable research has been undertaken on the properties of neem as grain protectant. However, most of this research has not been adopted for practical application on larger scale. The water extract of neem leaves was highly repellant to major stored grain insect pests. The neem seeds compared with the leaves, flowers, and fruits exhibited the maximum potency. Tests show that flour beetle, fed on neem seed extract treated at the rate of 800 ppm, failed to produce viable progeny; and their feeding was greatly reduced. Based on experiments, it is reported that 20 percentage of water extract of neem leaves can block the penetration of insects into treated bags (paper or cloth) for at least 6 months during storage. 4.2.2 Chemical Pest Control The majority of farmers in developing countries belong to the subsistence group and often cannot afford the costly modern grain protectants. Fumigation with toxic gases is most effective in airtight structures and is only economical if carried out on a commercial scale. Even if properly applied, the fumigated grains are still liable to frequent re-infestation by insect pests. This technology is not yet applicable to the farm level in Pakistan because storage structures are not airtight and located inside or near residential areas where fumigation may be dangerous. The admixture of insecticide dusts with grain can provide protection against insects, but pose a danger from their persistent harmful residues. Breeding of resistant strains of insects cannot be explicitly prevented nor can the high cost of environmental pollution be ignored. Moreover, application of insecticides requires sophisticated techniques and complicated calculations, which farmers cannot easily comprehend. However, there are no traditional methods adopted for pest management, in the public sheds. Local market dealers or agents procure wheat directly or from the government. Wheat is transported using private trucks to the food department sheds, which can be privately hired storage facilities.
 
-The storage loss studies and the socio-economic surveys provided the justification for a pilot- scale program of loss reduction. Since insects were the major cause of storage loss, the loss
-reduction activities focused on finding ways of successfully fumigating farm grain stores.
-Alternative methods of insect control, such as the admixture of insecticides with grain could not be considered since appropriate formulas are not available in Pakistan. The design of the
-local metal bin was modified in consultation with PARC's agricultural engineers to assist the manufacturers and farmers to produce a much stronger bin, more suitable for fumigation. The
-fumigation of small quantities of grain in bags was also tested in villages. The bags are enclosed in a polythene envelope, which is sealed after introducing the phosphine-producing
-compounds. If the polythene sheet is left in place after treatment, the risk of cross-infestation is significantly reduced.
-5. References
-Baloch, U. K. (1994). Post-Production Systems in Pakistan. Expert Consultation in regional
-Priorities and Co-operation in Post-Harvest Systems in Asia. FAO/RAPA. Bangkok,
-Thailand.
-Baloch, U. K., Irshad, M. and Ahmed, M. (1994). Loss Assessment and Loss Prevention in
-Wheat Storage - Technology Development and Transfer in Pakistan. Stored Product
-Protection. International Maize and Wheat Improvement Centre (CABI). England, UK.
-Baloch, U. K. (1992). Integrated Pest Management in Food Grains. FAO/PARC. Islamabad,
-Pakistan.
-Baloch, U. K., Irshad, M., Bajoi, A. H., Baloch, G. M., Khalil, S. K. and Quayyum, H. A. (1986).
-Loss in Public Sector Storage in Pakistan. Pakistan Agricultural Research Council (PARC).
-Islamabad, Pakistan.
-Baloch, U. K., Irshad, M. and Iqbal, J. (1984). Post-Harvest Loss Research and Extension
-Training in Pakistan. A Review. Pakistan Agricultural Research Council (PARC). Islamabad,
-Pakistan.
-Baloch, U. K. and Admed, M. (1986). Post-Harvest Research, Management and Technology
-Transfer System in India. Pakistan Agricultural Research Council (PARC). Islamabad,
-Pakistan.
-Baloch, U. K., Naeemullah, M. and Sabri, M. (1986). Survey of Farm-Level Storage Loss in
-Major Food Grain - Wheat Storage Season 1985-86. FAO/PARC. Islamabad, Pakistan.
-Baloch, U. K. (1989). Survey of Farm-Level Storage Loss in Major Food Grains - Pakistan.
-FAO. Rome, Italy.
-Byerlee, D. and Curtis, B. B. A Crop Transformed. Developing World Agriculture.
-International Maize and Wheat Improvement Centre (CIMMYT). Mexico.
-Champ, B. R. (1985). Occurrence of resistance to pesticide in grain storage pests. Proceedings of Australian Centre for International Research (ACIAR) on Pesticides and Humid Tropical
-Grain Storage System No. 14. pp. 225-229.
-Chaudry, M. A. (1980). Food grain loss during storage in Pakistan. University of Agriculture.
-Faisalabad, Pakistan.
-FAO. (1996). Production Yearbook Vol. 51. FAO. Rome. Italy.
-FAO. (1998). Food Outlook. FAO. Rome, Italy.
-Gilani, G. (1984). Use of botanical material for protection of stored grains - A review. Insect
-Pests. Proceedings from IRRI Planning workshop on the use of plant material for pest control. Manila, Philippines.
-Government of Pakistan. (1995). Agricultural Statistics of Pakistan. 1993-94. pp. 308.
-Ministry of Food, Agriculture and Livestock. Islamabad, Pakistan.
-Hall, D. W. (1970). Handling and storage of food grains in tropical and sub-tropical areas.
-Agricultural Development Paper No. 90. pp. 350. FAO. Rome, Italy.
+The storage loss studies and the socio-economic surveys provided the justification for a pilot- scale program of loss reduction. Since insects were the major cause of storage loss, the loss reduction activities focused on finding ways of successfully fumigating farm grain stores. Alternative methods of insect control, such as the admixture of insecticides with grain could not be considered since appropriate formulas are not available in Pakistan. The design of the local metal bin was modified in consultation with PARC's agricultural engineers to assist the manufacturers and farmers to produce a much stronger bin, more suitable for fumigation. The fumigation of small quantities of grain in bags was also tested in villages. The bags are enclosed in a polythene envelope, which is sealed after introducing the phosphine-producing compounds. If the polythene sheet is left in place after treatment, the risk of cross-infestation is significantly reduced. 5. References Baloch, U. K. (1994). Post-Production Systems in Pakistan. Expert Consultation in regional Priorities and Co-operation in Post-Harvest Systems in Asia. FAO/RAPA. Bangkok, Thailand. Baloch, U. K., Irshad, M. and Ahmed, M. (1994). Loss Assessment and Loss Prevention in Wheat Storage - Technology Development and Transfer in Pakistan. Stored Product Protection. International Maize and Wheat Improvement Centre (CABI). England, UK. Baloch, U. K. (1992). Integrated Pest Management in Food Grains. FAO/PARC. Islamabad, Pakistan. Baloch, U. K., Irshad, M., Bajoi, A. H., Baloch, G. M., Khalil, S. K. and Quayyum, H. A. (1986). Loss in Public Sector Storage in Pakistan. Pakistan Agricultural Research Council (PARC). Islamabad, Pakistan. Baloch, U. K., Irshad, M. and Iqbal, J. (1984). Post-Harvest Loss Research and Extension Training in Pakistan. A Review. Pakistan Agricultural Research Council (PARC). Islamabad, Baloch, U. K. and Admed, M. (1986). Post-Harvest Research, Management and Technology Transfer System in India. Pakistan Agricultural Research Council (PARC). Islamabad, Baloch, U. K., Naeemullah, M. and Sabri, M. (1986). Survey of Farm-Level Storage Loss in Major Food Grain - Wheat Storage Season 1985-86. FAO/PARC. Islamabad, Pakistan. Baloch, U. K. (1989). Survey of Farm-Level Storage Loss in Major Food Grains - Pakistan. FAO. Rome, Italy. Byerlee, D. and Curtis, B. B. A Crop Transformed. Developing World Agriculture. International Maize and Wheat Improvement Centre (CIMMYT). Mexico. Champ, B. R. (1985). Occurrence of resistance to pesticide in grain storage pests. Proceedings of Australian Centre for International Research (ACIAR) on Pesticides and Humid Tropical Grain Storage System No. 14. pp. 225-229. Chaudry, M. A. (1980). Food grain loss during storage in Pakistan. University of Agriculture. Faisalabad, Pakistan. FAO. (1996). Production Yearbook Vol. 51. FAO. Rome. Italy. FAO. (1998). Food Outlook. FAO. Rome, Italy. Gilani, G. (1984). Use of botanical material for protection of stored grains - A review. Insect Pests. Proceedings from IRRI Planning workshop on the use of plant material for pest control. Manila, Philippines. Government of Pakistan. (1995). Agricultural Statistics of Pakistan. 1993-94. pp. 308. Ministry of Food, Agriculture and Livestock. Islamabad, Pakistan. Hall, D. W. (1970). Handling and storage of food grains in tropical and sub-tropical areas. Agricultural Development Paper No. 90. pp. 350. FAO. Rome, Italy.
 
-Han-Bin, W. (1988). Briefing on grain storage and farm-level in China. Proceedings of FAO
-Regional Workshop on farm storage. Harpur, India.
-Hanson, H., Borlauge, N. E. and Anderson, R. G. Wheat in the Third World. International
-Maize and Wheat Improvement Centre (CIMMYT). Mexico.
-Krishnamurthy, K., Uniyal, V., Singh, J. and Pingala, S. V. (1967). Studies on rodents and their control. Bull Tech., 5(3): 147-153.
-Lal, S. (1988). Estimation of loss and economics of specific storage loss. Proceedings of FAO
-Regional Workshop on Farm storage. Harpur, India.
-Sawhney, K. L. (1988). Post-harvest handling and storage of food grain in India. Proceedings of FAO Workshop on Bulk Storage of Food Grains. Hanzhu, China.
-Shresta, D. P. (1988). Rural save grain project in Nepal (A Review). Proceedings of FAO
-Regional Workshop on farm storage. Harpur, India.
+Han-Bin, W. (1988). Briefing on grain storage and farm-level in China. Proceedings of FAO Regional Workshop on farm storage. Harpur, India. Hanson, H., Borlauge, N. E. and Anderson, R. G. Wheat in the Third World. International Maize and Wheat Improvement Centre (CIMMYT). Mexico. Krishnamurthy, K., Uniyal, V., Singh, J. and Pingala, S. V. (1967). Studies on rodents and their control. Bull Tech., 5(3): 147-153. Lal, S. (1988). Estimation of loss and economics of specific storage loss. Proceedings of FAO Regional Workshop on Farm storage. Harpur, India. Sawhney, K. L. (1988). Post-harvest handling and storage of food grain in India. Proceedings of FAO Workshop on Bulk Storage of Food Grains. Hanzhu, China. Shresta, D. P. (1988). Rural save grain project in Nepal (A Review). Proceedings of FAO Regional Workshop on farm storage. Harpur, India.
 
-6. Annex
-6.1 Acronyms
-ACIAR
-Australian Centre for International Research
-CABI
-Commonwealth Agriculture Bureau International
-CIMMYT
-International Maize and Wheat Improvement Centre
-CIS
-Commonwealth of Independent States
-FAO
-Food and Agriculture Organization of the United Nations
-FSM
-Food Security Management ha.
-Hectares
-HYV
-High Yielding Varieties
-IRRI
-International Rice Research Institute
-Kg.
-Kilograms mmt.
-Million metric ton mt.
-Metric ton
-NC America
-North and Central America
-NWFP
-North West Frontier Province
-PARC
-Pakistan Agricultural Research Council ppm.
-Parts per million
-USA
-United States of America
-USAID
-United States Agency for International Development
-USSR
-United Soviet Socialist Republic (now CIS)
+6. Annex 6.1 Acronyms ACIAR Australian Centre for International Research CABI Commonwealth Agriculture Bureau International CIMMYT International Maize and Wheat Improvement Centre Commonwealth of Independent States FAO Food and Agriculture Organization of the United Nations FSM Food Security Management ha. Hectares HYV High Yielding Varieties IRRI International Rice Research Institute Kg. Kilograms mmt. Million metric ton mt. Metric ton NC America North and Central America North West Frontier Province PARC Pakistan Agricultural Research Council ppm. Parts per million USA United States of America USAID United States Agency for International Development USSR United Soviet Socialist Republic (now CIS)

@@ -1,5 +1,3 @@
-December 2021 | Volume 34 | Issue 4 | Page 713
-Pakistan Journal of Agricultural Research
 Research Article
 Introduction
 C otton, Gossypium hirsutum L. is a major fiber and cash crop of Pakistan and is considered as the main strength of the country’s economy (Tayyib et
@@ -31,7 +29,6 @@ Spatial Survey of Cotton (Gossypium hirsutum L.) Insect Pests and
 Leaf Curl Virus (CLCuV) in Relation to Weather Parameters in
 Muzaffargarh, Punjab, Pakistan
 
-December 2021 | Volume 34 | Issue 4 | Page 714
 Various restraints contribute to this fact. Insect pests are one of the primary menaces to cotton production
 (Ahmad et al., 2011). Worldwide, 162 insect pest species have been documented that feed on different cotton growth stages (Kannan et al., 2004). Generally,
 insect pest composite on the cotton crop is divided into two groups; sucking and chewing insect pest complex. Jassid (Amrasca devastans Distant), whitefly
@@ -77,9 +74,7 @@ Sampling of sucking insects and CLCuV
 Jassid (Amrasca devastans), whitefly (Bemesia tabaci) and thrips (Thrips tabaci) population were recorded on
 20 leaves randomly selected from 20 plants per block;
 upper, middle and lower leaves, one from each plant.
-Subject to the CABI Digital Library Terms & Conditions, available at https://cabidigitallibrary.org/terms-and-conditions
 
-December 2021 | Volume 34 | Issue 4 | Page 715
 Cotton mealybug (Phenacoccus solenopsis) population was recorded on 20 cm twig from 15 plants. Dusky cotton bug (Oxacarenus laetus) population was
 estimated from 25 randomly selected plants by recording the number of bugs from five bolls of each plant. Cotton leaf curl virus incidence was noted by
 observing symptoms from 100 plants.
@@ -122,9 +117,7 @@ The results revealed that the mean percentage of jassid hot spots ranged 4.56-7.
 2018-2020. The population of jassid was highest in 2020 with 7.22% of hot spots followed by
 2018 (6.29%), while the lowest hot spots were
 recorded in 2019 with 4.56% hot spots (Table 2).
-Subject to the CABI Digital Library Terms & Conditions, available at https://cabidigitallibrary.org/terms-and-conditions
 
-December 2021 | Volume 34 | Issue 4 | Page 716
 Table 1: Weekly meteorological data of weather factors during 2018 -2020.
 Months Weeks
 
@@ -391,9 +384,7 @@ humidity (Table 3). Multivariate analysis revealed that cumulatively weather fac
 The minimum temperature was the most prominent factor with 53.7 and 28.1% role during 2018 and 19 whereas during 2020, the maximum temperature was
 the most dominant parameter with an 18.5 % impact on population fluctuation. Relative humidity had 2.9-
 20.5% influence on the jassid population fluctuation during 2018-20 (Table 4).
-Subject to the CABI Digital Library Terms & Conditions, available at https://cabidigitallibrary.org/terms-and-conditions
 
-December 2021 | Volume 34 | Issue 4 | Page 717
 Table 3: Correlation (r) values of weather factors with cotton insect pests and CLCuV.
 Pests
 
@@ -646,9 +637,7 @@ to the increase in temperature and relative humidity with maximum temperature ra
 41°C, minimum temperature 27-31°C and relative humidity 51-67% and afterwards declined rapidly in September during all the years of study (Table
 1, Figure 3). A population reduction was observed due to a decline in both temperature and relative humidity in September. Correlation analysis results
 showed that the thrips population exhibited non- significant positive relationships with maximum and minimum temperature, whereas relative humidity
-Subject to the CABI Digital Library Terms & Conditions, available at https://cabidigitallibrary.org/terms-and-conditions
 
-December 2021 | Volume 34 | Issue 4 | Page 718 correlation was significantly positive during the year
 2018 (Table 3). Multivariate analysis revealed that
 cumulatively weather factors retained 48.6, 34.7 and
 35.8 % impact on the fluctuation of thrips population
@@ -692,9 +681,7 @@ infestation was favored by maximum temperature 32-
 34 °C, minimum temperature 20-25°C and relative
 humidity 50-60%. Correlation analysis showed that pink bollworm infestation had a significantly negative correlation with maximum temperature during 2019
 and 2020 whereas significant and negative correlation
-Subject to the CABI Digital Library Terms & Conditions, available at https://cabidigitallibrary.org/terms-and-conditions
 
-December 2021 | Volume 34 | Issue 4 | Page 719 with minimum temperature during 2020. Relative humidity had a non-significant positive correlation
 with pink bollworm infestation during the first two years of study (2018 and 19), while the correlation was negative during 2020 (Table 3). Multivariate
 regression analysis revealed that cumulatively weather factors illustrated 17.5, 35 and 79.4% impact on the fluctuation of pink bollworm infestation during the
 years 2018, 2019 and 2020, respectively. The maximum temperature was the most influential factor with 16.6,
@@ -724,9 +711,7 @@ population was above ETL at few locations with hot spots percent of 1.22 % (Tabl
 Spotted bollworm (Earis insulana and E. vitella.)
 Table 1 shows that that infestation of spotted bollworm was negligible and no hot spots were found during the years 2018 and 2019 where as in 2020 its
 population was above ETL at only one location with hot spot percent of 0.024 % (Table 2).
-Subject to the CABI Digital Library Terms & Conditions, available at https://cabidigitallibrary.org/terms-and-conditions
 
-December 2021 | Volume 34 | Issue 4 | Page 720
 American bollworm (Helicoverpa armigera)
 American bollworm population was also negligible and no hot spots were recorded during all the years of study (Table 2).
 Cotton leaf curl virus
@@ -766,9 +751,7 @@ Dutta, 2000; Arif et al., 2006; Babu and Meghwal,
 jassid.
 Thrips feed on different hosts and cause considerable yield loss to various economically important crops.
 Climatic factors play a vital part in the population
-Subject to the CABI Digital Library Terms & Conditions, available at https://cabidigitallibrary.org/terms-and-conditions
 
-December 2021 | Volume 34 | Issue 4 | Page 721 dynamics of sucking pests (Panickar and Patel, 2001;
 Murugan and Uthamasamay, 2001). The present results showed peak population in the middle of
 August favored by maximum temperature 36-38°C, minimum temperature 27-30°C and high relative humidity (60%). Similarly, Hameed et al. (2014)
 also reported peak abundance of thrips during the month of August. Contrary to this, Abro et al. (2004) recorded high abundance of thrips in the early season
@@ -808,9 +791,7 @@ maximum and minimum temperature. Hameed et al.
 (2014) observed the peak of cotton leaf curl virus in the 1st week of September during 2006, whereas in 2nd week of July in 2007 with similar correlation results.
 Conclusions and Recommendations
 The current study gives a brief account of how the population of different insect pests varies in relationship with abiotic factors (over three consecutive
-Subject to the CABI Digital Library Terms & Conditions, available at https://cabidigitallibrary.org/terms-and-conditions
 
-December 2021 | Volume 34 | Issue 4 | Page 722 growing seasons). It was noticed that maximum and minimum temperatures are the main factors that have
 a significant influence on the population fluctuation of insect pests. This study would be helpful in timely initiating various control tactics to maximize efficacy
 and minimize yield losses due to insect pests.
 Acknowledgements
@@ -874,9 +855,7 @@ Agric. Res., 5: 3102-3107.
 Asif, M. U., R. Muhammad, M. H. Khan and M.
 Sohail. 2019. Seasonal population dynamics of cotton jassid (Amrasca devastans) in different cotton varieties under field
 conditions.
-Subject to the CABI Digital Library Terms & Conditions, available at https://cabidigitallibrary.org/terms-and-conditions
 
-December 2021 | Volume 34 | Issue 4 | Page 723
 J. Ent. Res., 43(3): 315-318. https://doi.
 org/10.5958/0974-4576.2019.00058.6
 Asif, M. U., R. Muhammad, M. H. Khan, M. Sohail and M. Awais. 2020. Incidence and population dynamics of thrips (Thrips tabaci) on different
@@ -952,9 +931,7 @@ Abdullah and M. A. Talpur. 2015. Monitoring and population dynamics of pink boll
 Sindh-Pakistan. Int. J. Interdiscip. Res. Sci. Soc.
 Cult., 1(2): 51-60.
 Kingsolver, J. G., 1989. Weather and the population dynamics of insects: Integrating physiological
-Subject to the CABI Digital Library Terms & Conditions, available at https://cabidigitallibrary.org/terms-and-conditions
 
-December 2021 | Volume 34 | Issue 4 | Page 724 and population ecology.
 Physiol.
 Zool.,
 62(2):
@@ -1022,4 +999,3 @@ Australia:
 A comparison of regression based models and a bioclimatic based modeling approach. Insect
 Sci., 12: 45–46. https://doi.org/10.1111/j.1672-
 9609.2005.00007.x
-Subject to the CABI Digital Library Terms & Conditions, available at https://cabidigitallibrary.org/terms-and-conditions

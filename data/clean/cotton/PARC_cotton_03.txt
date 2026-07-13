@@ -1,184 +1,198 @@
-Available Online at EScience Press
-Journal of Plant and Environment
-ISSN: 2710-1665 (Online), 2710-1657 (Print) https://esciencepress.net/journals/JPE
-Cotton Production Trends in Pakistan: An Integrative Review
-Khalid Mehmood Ch1. Saleem Ashraf 1*, Ijaz Ashraf1
-1Institute of Agricultural Extension, Education and Rural Development, University of Agriculture Faisalabad, Pakistan.
-A R T I C L E I N F O
+Available Online at EScience Press Journal of Plant and Environment
+Cotton Production Trends in Pakistan: An Integrative Review Khalid
+Mehmood Ch1. Saleem Ashraf 1*, Ijaz Ashraf1 1Institute of Agricultural
+Extension, Education and Rural Development, University of Agriculture
+Faisalabad, Pakistan. A R T I C L E I N F O
 
-A B S T R A C T
-Article History
-Received: August 24, 2021
-Revised: November 30, 2021
-Accepted: December 18, 2021
- Cotton is regarded as a cash crop in Pakistan and the country is ranked 5th in terms of production and 5th importer in the world as well. Cotton production in Pakistan is
-under huge pressure and it's continuously declining over the period. This review aimed at exploring the different reasons for the cotton production decline. This review
-comprises two major sections. In the first section, percentage change in area, production and yield of cotton in Punjab, Sindh and Pakistan is calculated from 1990-
-2020. This analysis indicated a drastic decline in area, production and the average
-yield of cotton in the country. In the second section, previously published literature is consolidated to explore the different constraints causing change in the area,
-production and average yield of cotton. The major constraints causing the sweeping decline included environmental constraints, climate change, water-related
-constraints, agronomic constraints and socio-economic related constraints. This study concludes that cotton crop decline is not in favor of cotton associated industry,
-farming groups and national economy and it is much needed to bring reforms for the revival of cotton crop. This study urges further research on exploring the reasons that
-are compelling farmers to reduce the cotton area, quitting cotton cultivation or switching to other crops.
-Keywords
-Climate Change
-Decline
-Change
-Textile Industry
-Constraints
-Corresponding Author: Saleem Ashraf
-Email: saleem1828@gmail.com
-© The Author(s) 2021.
+A B S T R A C T Article History Received: August 24, 2021 Revised:
+November 30, 2021 Accepted: December 18, 2021 Cotton is regarded as a
+cash crop in Pakistan and the country is ranked 5th in terms of
+production and 5th importer in the world as well. Cotton production in
+Pakistan is under huge pressure and it’s continuously declining over the
+period. This review aimed at exploring the different reasons for the
+cotton production decline. This review comprises two major sections. In
+the first section, percentage change in area, production and yield of
+cotton in Punjab, Sindh and Pakistan is calculated from 1990- 2020. This
+analysis indicated a drastic decline in area, production and the average
+yield of cotton in the country. In the second section, previously
+published literature is consolidated to explore the different
+constraints causing change in the area, production and average yield of
+cotton. The major constraints causing the sweeping decline included
+environmental constraints, climate change, water-related constraints,
+agronomic constraints and socio-economic related constraints. This study
+concludes that cotton crop decline is not in favor of cotton associated
+industry, farming groups and national economy and it is much needed to
+bring reforms for the revival of cotton crop. This study urges further
+research on exploring the reasons that are compelling farmers to reduce
+the cotton area, quitting cotton cultivation or switching to other
+crops. Keywords Climate Change Decline Change Textile Industry
+Constraints Corresponding Author: Saleem Ashraf Email:
+saleem1828@gmail.com © The Author(s) 2021.
 
-INTRODUCTION
-Pakistan is regarded as 5th largest cotton producer after
-China, India, United States and Brazil and as well as 5th leading importer of the cotton in the world after China,
-Bangladesh, Vietnam and Turkey. In Pakistan, cotton enjoys the status of industrial cash crop and therefore is helpful in supporting the rual livelihoods and national
-economy as well. Cotton is the chief source of input to textile sector, that is the largest industrial sector of
-Pakistan absorbing 40 % of total labor force (GOP, 2019).
-Cotton and related textile products not only earn foreign exchange but are also the protruding source of livelihood for the millions of farmers. Around 1.6 million farmers in
-Pakistan were cotton growers cultivating cotton on 15 % of total cropped area in Pakistan (USDA, 2019).
-Cotton has a tremendous role in progress of rural sector in Pakistan. Because of universal linkages, cotton has a dominating scope towards agricultural development and
-posing significant impacts on the overall economic development in Pakistan. During 2018-19, cotton added
-4.5 % to agriculture value addition (GOP, 2019). Cotton is
-promising source of fiber around the world and cottonseed offers edible oil to meet the 64 % of the nation’s demand for edible oil (Abid et al., 2011). In
-addition, the cotton seed byproduct commonly known as seed cake is considered as valuable animals’ feed.
-Cotton, being the source of livelihood and reflective contributor to the national economy, had emerged as a topic of national interest as number of researchers of
-national and international cadre have a keen interest on researching cotton and future developments in cotton sector. For instance, Ashraf et al. (2018) forecasted the
+INTRODUCTION Pakistan is regarded as 5th largest cotton producer after
+China, India, United States and Brazil and as well as 5th leading
+importer of the cotton in the world after China, Bangladesh, Vietnam and
+Turkey. In Pakistan, cotton enjoys the status of industrial cash crop
+and therefore is helpful in supporting the rual livelihoods and national
+economy as well. Cotton is the chief source of input to textile sector,
+that is the largest industrial sector of Pakistan absorbing 40 % of
+total labor force (GOP, 2019). Cotton and related textile products not
+only earn foreign exchange but are also the protruding source of
+livelihood for the millions of farmers. Around 1.6 million farmers in
+Pakistan were cotton growers cultivating cotton on 15 % of total cropped
+area in Pakistan (USDA, 2019). Cotton has a tremendous role in progress
+of rural sector in Pakistan. Because of universal linkages, cotton has a
+dominating scope towards agricultural development and posing significant
+impacts on the overall economic development in Pakistan. During 2018-19,
+cotton added 4.5 % to agriculture value addition (GOP, 2019). Cotton is
+promising source of fiber around the world and cottonseed offers edible
+oil to meet the 64 % of the nation’s demand for edible oil (Abid et al.,
+2011). In addition, the cotton seed byproduct commonly known as seed
+cake is considered as valuable animals’ feed. Cotton, being the source
+of livelihood and reflective contributor to the national economy, had
+emerged as a topic of national interest as number of researchers of
+national and international cadre have a keen interest on researching
+cotton and future developments in cotton sector. For instance, Ashraf et
+al. (2018) forecasted the
 
-area under cotton cultivation, production and yield in
-Punjab province of Pakistan by using the data from 1990-
-2017. Their results indicated that area under cotton
-cultivation and yield of cotton decreased gradually.
-Whereas this study further highlighted that average yield will continue to decline in Punjab till 2025. There are few more studies on cotton crop such as Ali et al. (2013); Ali
-et al. (2015); Tunio et al. (2016); Shuli et al. (2018) provides important insight into current and future situation of cotton crop in Punjab province in particular.
-These studies had an agreement that the cotton crop is facing a decline and synergistic work is much needed for its revival.
-Plenty of studies focusing on current and future trends of cotton have been conducted in Pakistan. Most of these studies were based on time series data and some were
-based on primary data collected from the specific study area and small sample size. Despite of conductance of these studies, hardly an in-depth scenario emerged in
-order to consolidate the ground reasons behind the cotton crop failure in Pakistan. Thus, there was a need for an extensive literature review to underpin and
-consolidate the different factors contributing to the failure of cotton crop. This review is conducted to bridge the research gap and aims to give readers a consolidated
-overview on different factors impeding the cotton crop production. This integrative review comprises of major two sections. The first section is to calculate the change in
-area, production and yield of the cotton in Punjab province, Sindh province and Pakistan, respectively. The second part is based on the critical examination of the
-literature review to explore the reasons behind this change in area, production average yield.
-Environmental, soil fertility, salinity, waterlogging, climate change, agronomic factors, water management related and socio-economic related constraints are
-critically examined to end up with the conclusions.
-Change in Area, production and Yield of Cotton crop
-In this section data regarding area, production and yield of cotton in Punjab, Sindh and Pakistan were collected from different sources like Pakistan Bureau of Statistics
-from 1990 to 2020. Considering the data, percentage change in an area, production and yield of cotton was calculated. The data in this regard are tabulated in
-Tables 1, 2 and 3.
-Change in area of cotton crop
-Table 1. indicates that from 1990-2005 the cotton area observed a continuous increase in Punjab province and in 2005 cotton cultivation was second highest at 2518
-000 hectares after reaching at 2526 000 hectares during
-2002. After 2005, the area under cotton cultivation
-continues to fall drastically showing a significant change. From the year 2016-17 to 2019-20 the change in areas was negative implying a major change in areas
-under cotton cultivation. In those areas, cotton was started to be replaced by alternate crops like sugarcane and maize in the Punjab province. As compared to
-Punjab, there was a minimum change in area under cotton cultivation in Sindh. However, as for as Pakistan is concerned, change in area of cotton cultivation is
-negative from the year 2016-17 to 2019-20. This confirms that area under cotton cultivation in the
-Punjab and Pakistan is decreasing gradually.
-Change in production of cotton crop
-Table 2. shows that from the year 1990 to 2020, the production of cotton in Punjab showed negative growth.
-This implies the obtained production was less than the potential and set target. From 2015-16, cotton crop in
-Punjab province witnessed a dominating drastic decline in production. It might be said that with the reduction in area under cultivation the production was also
-decreased. The Sindh province showed promising improvement in production of cotton. Across the
-Pakistan, production faced a decline as well.
-Change in average yield of cotton crop
-Table 3. shows that Punjab province observed a more decline in average yield of cotton as compared to Sindh province where average yield was higher. In Punjab
-province, for most of the years the change in average yield was negative. Especially from the year 2015, the change in yield was negative indicating a serious
-decline. During 2015, the average yield in Punjab was recorded at 481 Kg/hectare whereas in Sindh average yield was recorded on 952 kg/hectare in the same year.
-As for as national average was concerned, 581
-Kg/hectare was recorded in 2015. Afterwards, a fluctuation ca be observed in national average yield of cotton.
+area under cotton cultivation, production and yield in Punjab province
+of Pakistan by using the data from 1990- 2017. Their results indicated
+that area under cotton cultivation and yield of cotton decreased
+gradually. Whereas this study further highlighted that average yield
+will continue to decline in Punjab till 2025. There are few more studies
+on cotton crop such as Ali et al. (2013); Ali et al. (2015); Tunio et
+al. (2016); Shuli et al. (2018) provides important insight into current
+and future situation of cotton crop in Punjab province in particular.
+These studies had an agreement that the cotton crop is facing a decline
+and synergistic work is much needed for its revival. Plenty of studies
+focusing on current and future trends of cotton have been conducted in
+Pakistan. Most of these studies were based on time series data and some
+were based on primary data collected from the specific study area and
+small sample size. Despite of conductance of these studies, hardly an
+in-depth scenario emerged in order to consolidate the ground reasons
+behind the cotton crop failure in Pakistan. Thus, there was a need for
+an extensive literature review to underpin and consolidate the different
+factors contributing to the failure of cotton crop. This review is
+conducted to bridge the research gap and aims to give readers a
+consolidated overview on different factors impeding the cotton crop
+production. This integrative review comprises of major two sections. The
+first section is to calculate the change in area, production and yield
+of the cotton in Punjab province, Sindh province and Pakistan,
+respectively. The second part is based on the critical examination of
+the literature review to explore the reasons behind this change in area,
+production average yield. Environmental, soil fertility, salinity,
+waterlogging, climate change, agronomic factors, water management
+related and socio-economic related constraints are critically examined
+to end up with the conclusions. Change in Area, production and Yield of
+Cotton crop In this section data regarding area, production and yield of
+cotton in Punjab, Sindh and Pakistan were collected from different
+sources like Pakistan Bureau of Statistics from 1990 to 2020.
+Considering the data, percentage change in an area, production and yield
+of cotton was calculated. The data in this regard are tabulated in
+Tables 1, 2 and 3. Change in area of cotton crop Table 1. indicates that
+from 1990-2005 the cotton area observed a continuous increase in Punjab
+province and in 2005 cotton cultivation was second highest at 2518 000
+hectares after reaching at 2526 000 hectares during 2002. After 2005,
+the area under cotton cultivation continues to fall drastically showing
+a significant change. From the year 2016-17 to 2019-20 the change in
+areas was negative implying a major change in areas under cotton
+cultivation. In those areas, cotton was started to be replaced by
+alternate crops like sugarcane and maize in the Punjab province. As
+compared to Punjab, there was a minimum change in area under cotton
+cultivation in Sindh. However, as for as Pakistan is concerned, change
+in area of cotton cultivation is negative from the year 2016-17 to
+2019-20. This confirms that area under cotton cultivation in the Punjab
+and Pakistan is decreasing gradually. Change in production of cotton
+crop Table 2. shows that from the year 1990 to 2020, the production of
+cotton in Punjab showed negative growth. This implies the obtained
+production was less than the potential and set target. From 2015-16,
+cotton crop in Punjab province witnessed a dominating drastic decline in
+production. It might be said that with the reduction in area under
+cultivation the production was also decreased. The Sindh province showed
+promising improvement in production of cotton. Across the Pakistan,
+production faced a decline as well. Change in average yield of cotton
+crop Table 3. shows that Punjab province observed a more decline in
+average yield of cotton as compared to Sindh province where average
+yield was higher. In Punjab province, for most of the years the change
+in average yield was negative. Especially from the year 2015, the change
+in yield was negative indicating a serious decline. During 2015, the
+average yield in Punjab was recorded at 481 Kg/hectare whereas in Sindh
+average yield was recorded on 952 kg/hectare in the same year. As for as
+national average was concerned, 581 Kg/hectare was recorded in 2015.
+Afterwards, a fluctuation ca be observed in national average yield of
+cotton.
 
-Table 1. Change in cotton area under cultivation in Punjab, Sindh and Pakistan from 1990-2020.
-Year
-Punjab province
-Sindh province
-Area
-% Change
-Area
-% Change
-Area
-% Change
-1990-1991
+Table 1. Change in cotton area under cultivation in Punjab, Sindh and
+Pakistan from 1990-2020. Year Punjab province Sindh province Area %
+Change Area % Change Area % Change 1990-1991
 
--
-1991-1992
+-   1991-1992
 
 7.67
 
 2.05
 
-6.54
-1992-1993
+6.54 1992-1993
 
 14.78
 
 -26.07
 
-6.50
-1993-1994
+6.50 1993-1994
 
 5.89
 
 3.35
 
-5.33
-1994-1995
+5.33 1994-1995
 
 5.65
 
 -24.39
 
--0.34
-1995-1996
+-0.34 1995-1996
 
 15.96
 
 -1.49
 
-12.58
-1996-1997
+12.58 1996-1997
 
 19.59
 
 11.92
 
-18.26
-1997-1998
+18.26 1997-1998
 
 10.55
 
 11.73
--
-0.00
-1998-1999
+
+0.00 1998-1999
 
 7.49
 
 17.32
--
-0.00
-1999-2000
+
+0.00 1999-2000
 
 9.65
 
 18.06
 
-12.06
-2000-2001
+12.06 2000-2001
 
 12.34
 
 -2.42
 
-9.95
-2001-2002
+9.95 2001-2002
 
 18.93
 
 1.86
 
-17.02
-2002-2003
+17.02 2002-2003
 
 3.95
 
@@ -288,41 +302,29 @@ Area
 
 -5.11
 
-Table 2. Change in production of cotton in Punjab, Sindh and Pakistan during from 1990-2020.
-Year
-Punjab province
-Sindh province
-Production
-% Change
-Production
-% Change
-Production
-% Change
-1990-1991
+Table 2. Change in production of cotton in Punjab, Sindh and Pakistan
+during from 1990-2020. Year Punjab province Sindh province Production %
+Change Production % Change Production % Change 1990-1991
 
-33.2
-1991-1992
+33.2 1991-1992
 
 34.3
 
 24.7
 
--6.0
-1992-1993
+-6.0 1992-1993
 
 -3.1
 
 -27.5
 
--16.5
-1993-1994
+-16.5 1993-1994
 
 -23.3
 
 34.8
 
--9.7
-1994-1995
+-9.7 1994-1995
 
 -12.8
 
@@ -336,50 +338,43 @@ Production
 
 65.4
 
--2.6
-1996-1997
+-2.6 1996-1997
 
 -16.4
 
 100.0
 
--4.9
-1997-1998
+-4.9 1997-1998
 
 -19.8
 
 107.6
 
--9.0
-1998-1999
+-9.0 1998-1999
 
 -22.0
 
 89.7
 
-16.8
-1999-2000
+16.8 1999-2000
 
 3.6
 
 111.3
 
-11.5
-2000-2001
+11.5 2000-2001
 
 0.5
 
 90.3
 
-10.2
-2001-2002
+10.2 2001-2002
 
 -5.4
 
 117.2
 
-6.1
-2002-2003
+6.1 2002-2003
 
 -9.8
 
@@ -489,18 +484,10 @@ Production
 
 33.2
 
-Table 3. Change in average yield of cotton in Punjab, Sindh and Pakistan from 1990-2020.
-Year
-Punjab province
-Sindh province
+Table 3. Change in average yield of cotton in Punjab, Sindh and Pakistan
+from 1990-2020. Year Punjab province Sindh province
 
-Yield
-% Change
-Yield
-% Change
-Yield
-% Change
-1990-91
+Yield % Change Yield % Change Yield % Change 1990-91
 
 1991-92
 
@@ -508,76 +495,67 @@ Yield
 
 22.2
 
-25.0
-1992-93
+25.0 1992-93
 
 -15.71
 
 -2.0
 
--11.7
-1993-94
+-11.7 1993-94
 
 -27.61
 
 30.6
 
--20.7
-1994-95
+-20.7 1994-95
 
 -17.47
 
 50.8
 
--9.3
-1995-96
+-9.3 1995-96
 
 -11.60
 
 68.0
 
--2.3
-1996-97
+-2.3 1996-97
 
 -30.10
 
 78.7
 
--17.7
-1997-98
+-17.7 1997-98
 
 -27.46
 
 86.0
--
+
 1998-99
 
 -27.46
 
 61.8
--
+
 1999-2000
 
 -5.58
 
 78.9
 
-4.2
-2000-2001
+4.2 2000-2001
 
 -10.72
 
 95.2
 
-1.5
-2001-2002
+1.5 2001-2002
 
 -20.56
 
 113.2
 
--5.9
-2002-2003
+-5.9 2002-2003
 
 -13.36
 
@@ -687,404 +665,448 @@ Yield
 
 0.3
 
-Factors behind the change in area, production and
-Yield of the cotton in Pakistan
-In this section different factors contributing to change in area, production and yield of cotton in Punjab, Sindh and
-Pakistan are explored. Scholarly articles were critically examined to consolidate those challenges which are regarded as the key impediments in lowering the
-production of cotton. Plenty of research studies have been conducted to unveil different challenges thus, the literature was further grouped into different sections
-such as (i) environmental constraints (ii) water management constraints (iii) agronomic constraints (iv), socio-economic constraints.
-Under the environmental constraints, soil salinity and waterlogging, soil fertility depletion and climatic impacts are discussed.
-Environmental constraints
-Soil Salinity and waterlogging
-Soil salinity refers to the state, when excessive salts accumulate inside the soil and adversely harm the physical, chemical and biological properties of the soil.
-Around the world, 831Mha was reported as salt affected.
-Of this total salt-affected area, 397 Mha was saline and
-434 Mha was sodic (Hasanuzzaman et al., 2014). For
-Pakistan, 4.5Mha area was regarded salt affected (Aslam,
-2016). Pakistan is an agrarian country where tube well irrigation is seen as more accessible. Due to saline ground water and use of poor-quality tube well water for
-irrigation purpose, the level of salinity surged (Qureshi et al., 2008). Findings were endorsed by the report of
-Pakistan Council of Science and Technology (2003), as the report found 70 percent of the tube wells of Indus basin impelled sodic or saline-sodic water. The total saline or
-saline sodic area reached to 2.3 Mha. This intense salinity had adverse impacts on growth of plants. Shahzad et al.
-(2019) confined that the escalated level of salinity accompanying the high electrical conductivity (EC) caused dehydration in plant cells, diminished the plant
-growth and sometimes the death of plants occurred particular those which were considerably less tolerant.
-Salinity has direct adverse impacts on cotton plant growth process because of its moderate tolerance to salinity. The threshold level of cotton regarding salt
-tolerance was 7.7 dSm-1 (Zhang et al., 2013). Soil salinity inversely influence the cotton yield, growth and fiber quality and pertaining to salt stress delayed flowering,
-less fruiting, fruit shedding and lessening in boll weight could occur eventually (Sharif et al., 2019). Salinity caused 50-90% reduction in cotton yield (Ahmad et al.,
-2002; Khorsandi and Anagholi, 2009).
-Cotton crop has poor waterlogging tolerance as well.
-Waterlogging can potentially reduce the growth and development process of the cotton and its quality, physiological metabolism and the yield at the end (Ashraf
-et al., 2011; Dodd et al., 2013). Flowering, seedling,
+Factors behind the change in area, production and Yield of the cotton in
+Pakistan In this section different factors contributing to change in
+area, production and yield of cotton in Punjab, Sindh and Pakistan are
+explored. Scholarly articles were critically examined to consolidate
+those challenges which are regarded as the key impediments in lowering
+the production of cotton. Plenty of research studies have been conducted
+to unveil different challenges thus, the literature was further grouped
+into different sections such as (i) environmental constraints (ii) water
+management constraints (iii) agronomic constraints (iv), socio-economic
+constraints. Under the environmental constraints, soil salinity and
+waterlogging, soil fertility depletion and climatic impacts are
+discussed. Environmental constraints Soil Salinity and waterlogging Soil
+salinity refers to the state, when excessive salts accumulate inside the
+soil and adversely harm the physical, chemical and biological properties
+of the soil. Around the world, 831Mha was reported as salt affected. Of
+this total salt-affected area, 397 Mha was saline and 434 Mha was sodic
+(Hasanuzzaman et al., 2014). For Pakistan, 4.5Mha area was regarded salt
+affected (Aslam, 2016). Pakistan is an agrarian country where tube well
+irrigation is seen as more accessible. Due to saline ground water and
+use of poor-quality tube well water for irrigation purpose, the level of
+salinity surged (Qureshi et al., 2008). Findings were endorsed by the
+report of Pakistan Council of Science and Technology (2003), as the
+report found 70 percent of the tube wells of Indus basin impelled sodic
+or saline-sodic water. The total saline or saline sodic area reached to
+2.3 Mha. This intense salinity had adverse impacts on growth of plants.
+Shahzad et al. (2019) confined that the escalated level of salinity
+accompanying the high electrical conductivity (EC) caused dehydration in
+plant cells, diminished the plant growth and sometimes the death of
+plants occurred particular those which were considerably less tolerant.
+Salinity has direct adverse impacts on cotton plant growth process
+because of its moderate tolerance to salinity. The threshold level of
+cotton regarding salt tolerance was 7.7 dSm-1 (Zhang et al., 2013). Soil
+salinity inversely influence the cotton yield, growth and fiber quality
+and pertaining to salt stress delayed flowering, less fruiting, fruit
+shedding and lessening in boll weight could occur eventually (Sharif et
+al., 2019). Salinity caused 50-90% reduction in cotton yield (Ahmad et
+al., 2002; Khorsandi and Anagholi, 2009). Cotton crop has poor
+waterlogging tolerance as well. Waterlogging can potentially reduce the
+growth and development process of the cotton and its quality,
+physiological metabolism and the yield at the end (Ashraf et al., 2011;
+Dodd et al., 2013). Flowering, seedling,
 
-squaring and boll-opening stages were influenced negatively by the waterlogging whereas the yield reduced inclusively. Waterlogging further negatively influenced
-the quality attributes of the cotton such as uniformity index, elongation, micronaire value, upper-half mean length yellowness and lint quality (Wang, Chen, et al.,
-2017). According to the findings of Zhang et al. (2021), waterlogging conditions reduced the oxygen level in soil, handicap the growth and development stages and led the
-crop to failure at the end by impairing and blocking the nutrient uptake (Milroy et al., 2009; Dodd et al., 2013;
-Guang et al., 2012; Najeeb et al., 2015).
-Soil fertility depletion
-Adequate nutrient-use efficiency is much needed for the plant to grow well. Thus, availability of required nutrients in the root zone of plant is obligatory and helpful for the
-plant to stand responsive (Havlin and Heiniger, 2020). In case of reduction of soil fertility, the production of the particular crop may go down. Hamid and Ahmad (2001)
-reported a low fertilizer use efficiency which reduced the soil fertility level further causing a drastic decline in crop
-production. They further identified that cultivation of crops one after the other depleted the nutrition from soil.
-Moreover, injudicious and imbalance use of fertilizer as being practices across the Pakistan further depleted the nutritional vigor of land. Solaiman and Ahmed (2006)
-reported an excessive application of Nitrogen (N) quicker than for Phosphorous (P) or Potassium (K) as P & K are often regarded as an expensive import. Pakistani soils are
-lacking in all three N, P & K macro-nutrients. Being a less expensive use of N was high and it has increased the yields but yet the yield gap exists because of limited
-addition of P & K (Solaiman and Ahmed, 2006). Pakistan was ranked fourth in terms of N use but low average yields of the crops (Shahzad et al., 2019).
-Apart from these three macro-elements, almost two-third of agricultural soils in Pakistan were deficient in Zn
-(Rashid, 2005). A fertile soil and balanced availability of macro and micro-nutrients is obligatory for the cotton production and certain quality. Wakeel and Ishfaq (2016)
-found that majority of the soils (67%) in cotton areas of
-Pakistan were deficient in P whereas farmers in the cotton growing areas were more inclined towards use of
-N & P whereas only 16% of farmers had the use of K fertilizer. Cotton growers had inadequate awareness about the balanced use of fertilizers for the cotton
-(Mahmood et al., 2017). Cotton is considered highly inefficient in nutrients utilization in producing seed cotton yields (Malik, 1998). Thus, it is much needed for
-the farmers to sustain the soil fertility and ensure availability of required balanced fertilizers in root zone.
-Climatic impacts
-Cotton crop has ecstatic resilience level to high temperature and drought conditions because of its vertical tap root system. Cotton is perennial shrub that
-necessitates warm days and night for optimal growth and development. Boyer (1982) had reported that cotton was sensitive to fluctuating temperature and readiness of
-water at the flowering and boll formation stage. Pakistan is turning water scarce which may originate the delay in land preparation and delayed sowing of cotton which
-further lowered the number of bolls, dry matter, fiber quality and cottonseed yield (Arshad et al., 2021; Wang,
-Deng, et al., 2017; Wang et al., 2014). Abbas (2020) was of the view that increasing temperature in Pakistan was not increasing the production of cotton. Sowing of cotton,
-emergence, flowering and maturity stages were inversely correlated with the temperature. This implies that with the increase in temperature the yield of cotton was not
-promising.
-There is more evidence that has reported an adverse impact of climate change on cotton crops. Iqbal et al.
-(2017) and Amin et al. (2018) agreed that cotton production declined due to climate change and cotton production management
-techniques appeared unproductive in wake of climate change (Zulfiqar and
-Thapa, 2018; Zulfiqar et al., 2017). According to the findings of Zhang et al. (2008) and Amin et al. (2018), owing to indeterminate growth patterns of cotton, the
-crop attains a composite set of fruits, which are regarded as extremely vulnerable to the erratic weather and eventually ending to production discrepancy.
-Water management constraints
-Water is a key element for the optimum growth of the cotton (Sahito et al., 2015). Cotton requires balanced irrigation to mature whereas excessive of inadequate
-irrigations can lower its production. Some studies such as
-Patel et al. (1995), El-Shahawy and Abd-El-Malik (2005) and Abd-El-Malak and Radwan (1998) found that growth and yield component of cotton were significantly
-influenced by the irrigation frequencies. The findings of the Sahito et al. (2015) had the same view that growth attributes and yield components of cotton were
-significantly associated with the frequency of irrigations.
-Adequate application of irrigation ensured enhanced boll formation and development (Ertek and Kanber, 2003).
+squaring and boll-opening stages were influenced negatively by the
+waterlogging whereas the yield reduced inclusively. Waterlogging further
+negatively influenced the quality attributes of the cotton such as
+uniformity index, elongation, micronaire value, upper-half mean length
+yellowness and lint quality (Wang, Chen, et al., 2017). According to the
+findings of Zhang et al. (2021), waterlogging conditions reduced the
+oxygen level in soil, handicap the growth and development stages and led
+the crop to failure at the end by impairing and blocking the nutrient
+uptake (Milroy et al., 2009; Dodd et al., 2013; Guang et al., 2012;
+Najeeb et al., 2015). Soil fertility depletion Adequate nutrient-use
+efficiency is much needed for the plant to grow well. Thus, availability
+of required nutrients in the root zone of plant is obligatory and
+helpful for the plant to stand responsive (Havlin and Heiniger, 2020).
+In case of reduction of soil fertility, the production of the particular
+crop may go down. Hamid and Ahmad (2001) reported a low fertilizer use
+efficiency which reduced the soil fertility level further causing a
+drastic decline in crop production. They further identified that
+cultivation of crops one after the other depleted the nutrition from
+soil. Moreover, injudicious and imbalance use of fertilizer as being
+practices across the Pakistan further depleted the nutritional vigor of
+land. Solaiman and Ahmed (2006) reported an excessive application of
+Nitrogen (N) quicker than for Phosphorous (P) or Potassium (K) as P & K
+are often regarded as an expensive import. Pakistani soils are lacking
+in all three N, P & K macro-nutrients. Being a less expensive use of N
+was high and it has increased the yields but yet the yield gap exists
+because of limited addition of P & K (Solaiman and Ahmed, 2006).
+Pakistan was ranked fourth in terms of N use but low average yields of
+the crops (Shahzad et al., 2019). Apart from these three macro-elements,
+almost two-third of agricultural soils in Pakistan were deficient in Zn
+(Rashid, 2005). A fertile soil and balanced availability of macro and
+micro-nutrients is obligatory for the cotton production and certain
+quality. Wakeel and Ishfaq (2016) found that majority of the soils (67%)
+in cotton areas of Pakistan were deficient in P whereas farmers in the
+cotton growing areas were more inclined towards use of N & P whereas
+only 16% of farmers had the use of K fertilizer. Cotton growers had
+inadequate awareness about the balanced use of fertilizers for the
+cotton (Mahmood et al., 2017). Cotton is considered highly inefficient
+in nutrients utilization in producing seed cotton yields (Malik, 1998).
+Thus, it is much needed for the farmers to sustain the soil fertility
+and ensure availability of required balanced fertilizers in root zone.
+Climatic impacts Cotton crop has ecstatic resilience level to high
+temperature and drought conditions because of its vertical tap root
+system. Cotton is perennial shrub that necessitates warm days and night
+for optimal growth and development. Boyer (1982) had reported that
+cotton was sensitive to fluctuating temperature and readiness of water
+at the flowering and boll formation stage. Pakistan is turning water
+scarce which may originate the delay in land preparation and delayed
+sowing of cotton which further lowered the number of bolls, dry matter,
+fiber quality and cottonseed yield (Arshad et al., 2021; Wang, Deng, et
+al., 2017; Wang et al., 2014). Abbas (2020) was of the view that
+increasing temperature in Pakistan was not increasing the production of
+cotton. Sowing of cotton, emergence, flowering and maturity stages were
+inversely correlated with the temperature. This implies that with the
+increase in temperature the yield of cotton was not promising. There is
+more evidence that has reported an adverse impact of climate change on
+cotton crops. Iqbal et al. (2017) and Amin et al. (2018) agreed that
+cotton production declined due to climate change and cotton production
+management techniques appeared unproductive in wake of climate change
+(Zulfiqar and Thapa, 2018; Zulfiqar et al., 2017). According to the
+findings of Zhang et al. (2008) and Amin et al. (2018), owing to
+indeterminate growth patterns of cotton, the crop attains a composite
+set of fruits, which are regarded as extremely vulnerable to the erratic
+weather and eventually ending to production discrepancy. Water
+management constraints Water is a key element for the optimum growth of
+the cotton (Sahito et al., 2015). Cotton requires balanced irrigation to
+mature whereas excessive of inadequate irrigations can lower its
+production. Some studies such as Patel et al. (1995), El-Shahawy and
+Abd-El-Malik (2005) and Abd-El-Malak and Radwan (1998) found that growth
+and yield component of cotton were significantly influenced by the
+irrigation frequencies. The findings of the Sahito et al. (2015) had the
+same view that growth attributes and yield components of cotton were
+significantly associated with the frequency of irrigations. Adequate
+application of irrigation ensured enhanced boll formation and
+development (Ertek and Kanber, 2003).
 
-This implies that over irrigation in the cotton should be avoided (Abd-El-Malak and Radwan, 1998; Rajput, 2006;
-Enciso et al., 2003). These studies concluded that moderate level of water is adequate for the cotton whereas excessive application of water can hinder the
-growth parameters. Some more studies such as Makhdum
-(2011) and Nazli (2012) have reported that excessive irrigation applied by the farmers had negative impacts on the production of cotton in Pakistan. This excessive usage
-of water in cotton crop, excessive use of groundwater as most of the farmers use tube wells and deterioration of natural resources were not only influencing the cotton
-yield but also pressurizing the sustainability of the system (Watto and Mugera, 2015; Zulfiqar and Thapa,
-2018; Zhu et al., 2013; Watto, 2013).
-Agronomic constraints
-Agronomic aspects are regarded important in the increased production of cotton. In case agronomic aspects are not understood well the production of cotton crop
-may face a drastic decline for many reasons. According to
-Ali et al. (2009) of the many agronomic aspects responsible for the low production of cotton, planting technique was the key. It helps the plant to grow well and
-offers a good crop stand and eventually ensuring the good production. Farmers in Pakistan are usually found practicing traditional methods of sowing cotton which
-earned them poor production. On contrary, the modern techniques could have given them the higher level of production. Boquet (2005) found that wider plant
-spacing in cotton crop gave an increase in number of bolls, increased boll weight and escalated lint yield.
-Whereas, in low plant density, Stephenson IV et al. (2011) found an optimum plant height, a greater number of monopodial and sympodial branches and an increase in
-number of bolls. Shahzad et al. (2019) recommended the sowing of cotton on 25 cm apart rows for the best fiber quality and more production.
-Apart from the sowing technique, cotton production was influenced by the incidence of pests, outbreak of diseases, weeds infestation, soil salinity, degradation of soil, and
-development of herbicides resistance in weeds were other agronomic reasons behind the low production of cotton (Mollaee et al., 2019). In another study, Ali et al.
-(2019) have reported that insects pests attack was the main suppressor of cotton production and application of insecticides was the only way possible to control the
-insects’ pests. They further explored that, non-availability of quality seed, diseases outbreak, heat and drought stress and unpredictable market prices were strong
-reasons behind poor production of cotton. Poor quality seed created germination problems and the plant coming out of soil remain week and stays susceptible to number
-of insects pests and diseases; ultimately leading to a hilarious crop failure (Atique ur et al., 2020). Fusarium wilt, boll rot, bacterial blight, leaf curl disease and
-Alternaria leaf spot were the common diseases contributing extensively in crop failure (Chohan et al.,
-2020). Forrester (2009) arbitrated that Pakistan lacks in professional seed industry, which is a mammoth factor hindering the production of cotton in Pakistan. Saeed et
-al. (2020) described that majority of seed growers in
-Pakistan didn’t receive any formal training and vast majority didn’t have the information regarding the safe storage and handling of the seed. While use substandard
-quality seed, not only the germination is influenced, but the cost of the production was also increased. Balaji and
-Kumar (2016) specifically highlighted that cost of production for the farmers was increased which cut their net profits. The report of Government of Pakistan (2019)
-reported the same findings that due to increased cost the benefits of farmers were compromised. In a study conducted by Raghavan (2008), he found that rise in
-input costs followed by erratic marketing and inadequate source for livelihoods hindered the cotton productivities.
-Socio-Economic constraints
-Socio-economic attributes of the farmers are augmented vital in the process of technological upscaling (Ahmad et al., 2021). Socio-economic conditions of the farmers had
-significant association with the cotton crop upscaling
-(Hashmi et al., 2016). They found that the size of the farm was statistically significant with the cotton crop production. In Pakistan, 1.6 million farmers were cotton
-growers. Whereas, 81% farmers are small landholders bearing average land less than 5.7 hectares (USDA, 2019).
-Contrary, the large farmers in Pakistan were reported as more influential and had more and easy access to the resources and the modern technology as reported by
-Kousar et al. (2017). On other hand, the small farmers had limited access to the services and resources they have were limited as well. This is worth mentioning that
-farmers decisions were associated with the access to resources, extension services (Nyairo et al., 2021), inputs availability, government support and affordability (USDA,
-2019). Thus, the small farmers were unable to make decisions much needed to improve the cotton productivity. Non-availability of required information,
+This implies that over irrigation in the cotton should be avoided
+(Abd-El-Malak and Radwan, 1998; Rajput, 2006; Enciso et al., 2003).
+These studies concluded that moderate level of water is adequate for the
+cotton whereas excessive application of water can hinder the growth
+parameters. Some more studies such as Makhdum (2011) and Nazli (2012)
+have reported that excessive irrigation applied by the farmers had
+negative impacts on the production of cotton in Pakistan. This excessive
+usage of water in cotton crop, excessive use of groundwater as most of
+the farmers use tube wells and deterioration of natural resources were
+not only influencing the cotton yield but also pressurizing the
+sustainability of the system (Watto and Mugera, 2015; Zulfiqar and
+Thapa, 2018; Zhu et al., 2013; Watto, 2013). Agronomic constraints
+Agronomic aspects are regarded important in the increased production of
+cotton. In case agronomic aspects are not understood well the production
+of cotton crop may face a drastic decline for many reasons. According to
+Ali et al. (2009) of the many agronomic aspects responsible for the low
+production of cotton, planting technique was the key. It helps the plant
+to grow well and offers a good crop stand and eventually ensuring the
+good production. Farmers in Pakistan are usually found practicing
+traditional methods of sowing cotton which earned them poor production.
+On contrary, the modern techniques could have given them the higher
+level of production. Boquet (2005) found that wider plant spacing in
+cotton crop gave an increase in number of bolls, increased boll weight
+and escalated lint yield. Whereas, in low plant density, Stephenson IV
+et al. (2011) found an optimum plant height, a greater number of
+monopodial and sympodial branches and an increase in number of bolls.
+Shahzad et al. (2019) recommended the sowing of cotton on 25 cm apart
+rows for the best fiber quality and more production. Apart from the
+sowing technique, cotton production was influenced by the incidence of
+pests, outbreak of diseases, weeds infestation, soil salinity,
+degradation of soil, and development of herbicides resistance in weeds
+were other agronomic reasons behind the low production of cotton
+(Mollaee et al., 2019). In another study, Ali et al. (2019) have
+reported that insects pests attack was the main suppressor of cotton
+production and application of insecticides was the only way possible to
+control the insects’ pests. They further explored that, non-availability
+of quality seed, diseases outbreak, heat and drought stress and
+unpredictable market prices were strong reasons behind poor production
+of cotton. Poor quality seed created germination problems and the plant
+coming out of soil remain week and stays susceptible to number of
+insects pests and diseases; ultimately leading to a hilarious crop
+failure (Atique ur et al., 2020). Fusarium wilt, boll rot, bacterial
+blight, leaf curl disease and Alternaria leaf spot were the common
+diseases contributing extensively in crop failure (Chohan et al., 2020).
+Forrester (2009) arbitrated that Pakistan lacks in professional seed
+industry, which is a mammoth factor hindering the production of cotton
+in Pakistan. Saeed et al. (2020) described that majority of seed growers
+in Pakistan didn’t receive any formal training and vast majority didn’t
+have the information regarding the safe storage and handling of the
+seed. While use substandard quality seed, not only the germination is
+influenced, but the cost of the production was also increased. Balaji
+and Kumar (2016) specifically highlighted that cost of production for
+the farmers was increased which cut their net profits. The report of
+Government of Pakistan (2019) reported the same findings that due to
+increased cost the benefits of farmers were compromised. In a study
+conducted by Raghavan (2008), he found that rise in input costs followed
+by erratic marketing and inadequate source for livelihoods hindered the
+cotton productivities. Socio-Economic constraints Socio-economic
+attributes of the farmers are augmented vital in the process of
+technological upscaling (Ahmad et al., 2021). Socio-economic conditions
+of the farmers had significant association with the cotton crop
+upscaling (Hashmi et al., 2016). They found that the size of the farm
+was statistically significant with the cotton crop production. In
+Pakistan, 1.6 million farmers were cotton growers. Whereas, 81% farmers
+are small landholders bearing average land less than 5.7 hectares (USDA,
+2019). Contrary, the large farmers in Pakistan were reported as more
+influential and had more and easy access to the resources and the modern
+technology as reported by Kousar et al. (2017). On other hand, the small
+farmers had limited access to the services and resources they have were
+limited as well. This is worth mentioning that farmers decisions were
+associated with the access to resources, extension services (Nyairo et
+al., 2021), inputs availability, government support and affordability
+(USDA, 2019). Thus, the small farmers were unable to make decisions much
+needed to improve the cotton productivity. Non-availability of required
+information,
 
-high prices of inputs like pesticides, soil reclamation materials, organic manures, poor technical knowledge aggravated the constraints and influenced the
-cotton production Gohil (2016). In another study,
-Raghavan (2008) rising input costs, sluggish marketing system and lack of sources to support livelihoods were barriers in wake of cotton production. Pertaining to many
-plights, farmers were ineffective in getting targeted yield of cotton. Financial limitations, exertion in accessing the credit, access to extension advisory services and
-inadequate level of formal education were factors suppressing the cotton yield (Wei et al., 2020). Saeed et al. (2020) found that farmers had lack of information
-regarding agricultural inputs (Hassan et al., 2021) and their use hindered farmers to prepare quality seed for the cotton crop. Number of research studies such as
-Makhdum (2011), Watto and Mugera (2015) and Zulfiqar and Thapa (2016) have reported that majority of the farming masses in Pakistan are still practicing traditional
-agriculture.
-Farmers are also producing cotton production through traditional production practices
-(using excessive inputs, high dose of fertilizers and excessive application water for irrigation).
-Consequently, the cost of production has increased excessively, and resources use efficiency remained very low (Makhdum, 2011; Watto and Mugera, 2015; Zulfiqar
-et al., 2017).
+high prices of inputs like pesticides, soil reclamation materials,
+organic manures, poor technical knowledge aggravated the constraints and
+influenced the cotton production Gohil (2016). In another study,
+Raghavan (2008) rising input costs, sluggish marketing system and lack
+of sources to support livelihoods were barriers in wake of cotton
+production. Pertaining to many plights, farmers were ineffective in
+getting targeted yield of cotton. Financial limitations, exertion in
+accessing the credit, access to extension advisory services and
+inadequate level of formal education were factors suppressing the cotton
+yield (Wei et al., 2020). Saeed et al. (2020) found that farmers had
+lack of information regarding agricultural inputs (Hassan et al., 2021)
+and their use hindered farmers to prepare quality seed for the cotton
+crop. Number of research studies such as Makhdum (2011), Watto and
+Mugera (2015) and Zulfiqar and Thapa (2016) have reported that majority
+of the farming masses in Pakistan are still practicing traditional
+agriculture. Farmers are also producing cotton production through
+traditional production practices (using excessive inputs, high dose of
+fertilizers and excessive application water for irrigation).
+Consequently, the cost of production has increased excessively, and
+resources use efficiency remained very low (Makhdum, 2011; Watto and
+Mugera, 2015; Zulfiqar et al., 2017).
 
-CONCLUSION AND RECOMMENDATIONS
-The economic value of the cotton crop for Pakistan is momentous and to facilitate the cotton led industry and the livelihoods of the farmers, the emergent need is to
-expedite the cotton production. The area, production and yield of the cotton in Punjab province and Pakistan is gradually changing inversely. The area has started to
-decline continuously and production is facing the same decline in Punjab province particularly. The average yield in the Punjab province has drastically declined. Whereas,
-In Pakistan, the area, production and yield are declining a well. This implies that Pakistan may become cotton scarce and dependence on imports will increase to run textile
-sector. From 2015, the change in area, production ad yield declined more severely. Environmental constraints especially climatic changes had more adverse impacts on
-the cotton production. However, the abrupt decrease in area under cotton cultivation turned the situation perplexed. The decline in production and yield of cotton
-can be associated with different agronomic, water related, environmental and socio-economic related constraints. The change is area is yet required to be
-explored that what reasons are behind causing the decline in area under cultivation. Possibility exists that pertaining to numerous constraints farmers have quit
-cotton cultivation or switched to other crops. This is suggested that further studies are required to critically examine the reasons of change in area under cotton
-cultivations. Moreover, the reasons should be explored that why farmers have quit cotton cultivation and what factors are compelling farmers to switch to other crops.
+CONCLUSION AND RECOMMENDATIONS The economic value of the cotton crop for
+Pakistan is momentous and to facilitate the cotton led industry and the
+livelihoods of the farmers, the emergent need is to expedite the cotton
+production. The area, production and yield of the cotton in Punjab
+province and Pakistan is gradually changing inversely. The area has
+started to decline continuously and production is facing the same
+decline in Punjab province particularly. The average yield in the Punjab
+province has drastically declined. Whereas, In Pakistan, the area,
+production and yield are declining a well. This implies that Pakistan
+may become cotton scarce and dependence on imports will increase to run
+textile sector. From 2015, the change in area, production ad yield
+declined more severely. Environmental constraints especially climatic
+changes had more adverse impacts on the cotton production. However, the
+abrupt decrease in area under cotton cultivation turned the situation
+perplexed. The decline in production and yield of cotton can be
+associated with different agronomic, water related, environmental and
+socio-economic related constraints. The change is area is yet required
+to be explored that what reasons are behind causing the decline in area
+under cultivation. Possibility exists that pertaining to numerous
+constraints farmers have quit cotton cultivation or switched to other
+crops. This is suggested that further studies are required to critically
+examine the reasons of change in area under cotton cultivations.
+Moreover, the reasons should be explored that why farmers have quit
+cotton cultivation and what factors are compelling farmers to switch to
+other crops.
 
-CONFLICT OF INTEREST
-The authors declare that they have no conflicts of interest.
+CONFLICT OF INTEREST The authors declare that they have no conflicts of
+interest.
 
-REFERENCES
-Abbas, S. 2020. Climate change and cotton production: an empirical investigation of Pakistan. Environmental
-Science and Pollution Research, 27: 29580-88.
-Abd-El-Malak, K. and F. Radwan. 1998. The proper irrigation intervals for vegetative and fruiting stages of cotton cultivar Giza 83. Egyptian Journal
-of Agricultural Research (Egypt).
-Abid, M., M. Ashfaq, S. Hassan and N. Fatima. 2011. A resource use efficiency analysis of small Bt cotton farmers in Punjab, Pakistan. Pak. J. Agric. Sci, 48:
-65-71.
-Ahmad, S., M. Z. Iqbal, A. Hussain and M. Hassan. 2002. Salt tolerance of cotton (Gossypium hirsutum L.). Asian
-Journal of Plant Sciences.
-Ahmad, T. I., R. E. Khan, M. A. Soharwardi, M. N. Shafiq and
-S. Gillani. 2021. Socioeconomics and agronomy of wheat yield in cotton-wheat cropping system in
-Punjab, Pakistan: A quality-quantity assessment.
-International Journal of Agricultural Extension, 9:
-69-78.
-Ali, A., M. Tahir, M. Ayub, I. Ali, A. Wasaya and F. Khalid.
-2009. Studies on the effect of plant spacing on the
-yield of recently approved varieties of cotton. Pak.
-j. life soc. sci, 7: 25-30.
-Ali, H., H. Ali, Z. Faridi and H. Ali. 2013. Production and forecasting trends of cotton in Pakistan: An analytical view. Journal of Basic and Applied
-Scientific Research, 3: 97-101.
-Ali, M. A., J. Farooq, A. Batool, A. Zahoor, F. Azeem, A.
-Mahmood and K. Jabran. 2019. Cotton Production in Pakistan. Wiley. Place Published. pp.249-76.
-Ali, S., N. Badar and H. Fatima. 2015. Forecasting
+REFERENCES Abbas, S. 2020. Climate change and cotton production: an
+empirical investigation of Pakistan. Environmental Science and Pollution
+Research, 27: 29580-88. Abd-El-Malak, K. and F. Radwan. 1998. The proper
+irrigation intervals for vegetative and fruiting stages of cotton
+cultivar Giza 83. Egyptian Journal of Agricultural Research (Egypt).
+Abid, M., M. Ashfaq, S. Hassan and N. Fatima. 2011. A resource use
+efficiency analysis of small Bt cotton farmers in Punjab, Pakistan. Pak.
+J. Agric. Sci, 48: 65-71. Ahmad, S., M. Z. Iqbal, A. Hussain and M.
+Hassan. 2002. Salt tolerance of cotton (Gossypium hirsutum L.). Asian
+Journal of Plant Sciences. Ahmad, T. I., R. E. Khan, M. A. Soharwardi,
+M. N. Shafiq and S. Gillani. 2021. Socioeconomics and agronomy of wheat
+yield in cotton-wheat cropping system in Punjab, Pakistan: A
+quality-quantity assessment. International Journal of Agricultural
+Extension, 9: 69-78. Ali, A., M. Tahir, M. Ayub, I. Ali, A. Wasaya and
+F. Khalid. 2009. Studies on the effect of plant spacing on the yield of
+recently approved varieties of cotton. Pak. j. life soc. sci, 7: 25-30.
+Ali, H., H. Ali, Z. Faridi and H. Ali. 2013. Production and forecasting
+trends of cotton in Pakistan: An analytical view. Journal of Basic and
+Applied Scientific Research, 3: 97-101. Ali, M. A., J. Farooq, A.
+Batool, A. Zahoor, F. Azeem, A. Mahmood and K. Jabran. 2019. Cotton
+Production in Pakistan. Wiley. Place Published. pp.249-76. Ali, S., N.
+Badar and H. Fatima. 2015. Forecasting
 
-production and yield of sugar cane and cotton crops of Pakistan for 2013-2030. Sarhad Journal of
-Agriculture, 31: 1-10.
-Amin, A., W. Nasim, M. Mubeen, A. Ahmad, M. Nadeem, P.
-Urich, S. Fahad, S. Ahmad, A. Wajid, F. Tabassum, H.
-M. Hammad, S. R. Sultana, S. Anwar, S. K. Baloch, A.
-Wahid, C. J. Wilkerson and G. Hoogenboom. 2018.
-Simulated
-CSM-CROPGRO-cotton yield under projected future climate by SimCLIM for southern
-Punjab, Pakistan. Agricultural Systems, 167: 213-
-22.
-Arshad, A., M. A. Raza, Y. Zhang, L. Zhang, X. Wang, M.
-Ahmed and M. Habib-ur-Rehman. 2021. Impact of
-Climate Warming on Cotton Growth and Yields in
-China and Pakistan: A Regional Perspective.
-Agriculture, 11: 97.
-Ashraf, M. A., M. S. A. Ahmad, M. Ashraf, F. Al-Qurainy and
-M. Y. Ashraf. 2011. Alleviation of waterlogging stress in upland cotton (Gossypium hirsutum L.) by exogenous application of potassium in soil and as a
-foliar spray. Crop and Pasture Science, 62: 25.
-Ashraf, S., A. H. Sangi, Z. Y. Hassan and M. Luqman. 2018.
-Future of cotton sector in Pakistan: A 2025
-Outlook. Pakistan Journal of Agricultural Research,
-31.
-Aslam, M. 2016. Agricultural productivity current scenario, constraints and future prospects in
-Pakistan. Sarhad Journal of Agriculture, 32: 289-
-303.
-Atique ur, R., M. Kamran and I. Afzal. 2020. Production and Processing of Quality Cotton Seed. Springer
-Singapore. Place Published. pp.547-70.
-Balaji, S. and S. Kumar. 2016. Constraints in Cotton
-Cultivation: Cost Issues and Options for Income
-Increments.
-Indian
-Journal
-Agricultural
-Economics, 71: 361-73.
-Boquet, D. J. 2005. Cotton in ultra‐narrow row spacing:
-Plant density and nitrogen fertilizer rates.
-Agronomy Journal, 97: 279-87.
-Boyer, J. S. 1982. Plant Productivity and Environment.
-Science, 218: 443-48.
-Chohan, S., R. Perveen, M. Abid, M. N. Tahir and M. Sajid.
-2020. Cotton Diseases and Their Management.
-Springer Singapore. Place Published. pp.239-70.
-Dodd, K., C. Guppy, P. V. Lockwood and I. J. Rochester.
-2013. Impact of waterlogging on the nutrition of
-cotton (Gossypium hirsutum L.) produced in sodic soils. Crop and Pasture Science, 64: 816-24.
-El-Shahawy, M. and R. Abd-El-Malik. 2005. Response of
-Giza 87 Cotton Cultivar Gossypium barbadense L. to
-Irrigation Intervals and Nitrogen Fertilization
-Levels. Egyptian Journal of Agricultural Research,
-77: 841-56.
-Enciso, J. M., B. L. Unruh, P. D. Colaizzi and W. L. Multer.
-2003. Cotton response to subsurface drip irrigation
-frequency under deficit irrigation.
-Applied
-Engineering in Agriculture, 19.
-Ertek, A. and R. Kanber. 2003. Effects of different drip irrigation programs on the boll number and shedding percentage yield
-cotton.
-Agricultural Water Management, 60: 1-11.
-Forrester, N. 2009. Changing the Cotton Landscape in
-Pakistan." Lahore: Ali Tareen Farms. Place
-Published.
-Gohil, G. 2016. Constraints Faced by Cotton Growers in
-Crisis Management of Cotton Cultivation in Gujarat.
-International Journal of Agriculture Sciences:
-0975-3710.
-GOP. 2019. Economic Survey of Pakistan. Finance
-Divisions, Islamabad, Pakistan. Place Published.
-Guang, C., W. Xiugui, L. Yu and L. Wenbing. 2012. Effect of
-Water Logging Stress on Cotton Leaf Area Index and Yield. Procedia Engineering, 28: 202-09.
-Hamid, A. and N. Ahmad. 2001. Integrated Plant Nutrient
-System:
-Development
-Rural
-Poverty
-Alleviation. In: Regional Workshop on Integrated
-Plant Nutrient System Development and Rural
-Poverty Alleviation 2001, Bangkok, Thailand, 18-
-20 September. Place Published.
-Hasanuzzaman, M., K. Nahar, M. Alam, P. C. Bhowmik, M.
-Hossain, M. M. Rahman, M. N. V. Prasad, M. Ozturk and M. Fujita. 2014. Potential use of halophytes to remediate saline soils.
-BioMed research international, 2014.
-Hashmi, M., M. Kamran, K. Bakhsh and M. Bashir. 2016.
-Role of socio-economic factors on scale efficiency of cotton farms. Bulgarian Journal of Agricultural
-Science, 22: 358-67.
-Hassan, G., I. Ashraf, N. U. Hassan, M. Ali, I. Khalid, E.
-Ashraf, H. Raza, R. T. Husnain and S. Asghar. 2021.
-Information deficiency among farmers regarding vegetable production practices in peri-urban areas of the Punjab-Pakistan. International Journal of
-Agricultural Extension, 9: 19-28.
-Havlin, J. and R. Heiniger. 2020. Soil Fertility Management for Better Crop Production. Agronomy, 10: 1349.
+production and yield of sugar cane and cotton crops of Pakistan for
+2013-2030. Sarhad Journal of Agriculture, 31: 1-10. Amin, A., W. Nasim,
+M. Mubeen, A. Ahmad, M. Nadeem, P. Urich, S. Fahad, S. Ahmad, A. Wajid,
+F. Tabassum, H. M. Hammad, S. R. Sultana, S. Anwar, S. K. Baloch, A.
+Wahid, C. J. Wilkerson and G. Hoogenboom. 2018. Simulated
+CSM-CROPGRO-cotton yield under projected future climate by SimCLIM for
+southern Punjab, Pakistan. Agricultural Systems, 167: 213- 22. Arshad,
+A., M. A. Raza, Y. Zhang, L. Zhang, X. Wang, M. Ahmed and M.
+Habib-ur-Rehman. 2021. Impact of Climate Warming on Cotton Growth and
+Yields in China and Pakistan: A Regional Perspective. Agriculture, 11:
+97. Ashraf, M. A., M. S. A. Ahmad, M. Ashraf, F. Al-Qurainy and M. Y.
+Ashraf. 2011. Alleviation of waterlogging stress in upland cotton
+(Gossypium hirsutum L.) by exogenous application of potassium in soil
+and as a foliar spray. Crop and Pasture Science, 62: 25. Ashraf, S., A.
+H. Sangi, Z. Y. Hassan and M. Luqman. 2018. Future of cotton sector in
+Pakistan: A 2025 31. Aslam, M. 2016. Agricultural productivity current
+scenario, constraints and future prospects in Pakistan. Sarhad Journal
+of Agriculture, 32: 289- 303. Atique ur, R., M. Kamran and I. Afzal.
+2020. Production and Processing of Quality Cotton Seed. Springer
+Singapore. Place Published. pp.547-70. Balaji, S. and S. Kumar. 2016.
+Constraints in Cotton Cultivation: Cost Issues and Options for Income
+Increments. Indian Journal Agricultural Economics, 71: 361-73. Boquet,
+D. J. 2005. Cotton in ultra‐narrow row spacing: Plant density and
+nitrogen fertilizer rates. Agronomy Journal, 97: 279-87. Boyer, J. S.
+1982. Plant Productivity and Environment. Science, 218: 443-48. Chohan,
+S., R. Perveen, M. Abid, M. N. Tahir and M. Sajid. 2020. Cotton Diseases
+and Their Management. Springer Singapore. Place Published. pp.239-70.
+Dodd, K., C. Guppy, P. V. Lockwood and I. J. Rochester. 2013. Impact of
+waterlogging on the nutrition of cotton (Gossypium hirsutum L.) produced
+in sodic soils. Crop and Pasture Science, 64: 816-24. El-Shahawy, M. and
+R. Abd-El-Malik. 2005. Response of Giza 87 Cotton Cultivar Gossypium
+barbadense L. to Irrigation Intervals and Nitrogen Fertilization Levels.
+Egyptian Journal of Agricultural Research, 77: 841-56. Enciso, J. M., B.
+L. Unruh, P. D. Colaizzi and W. L. Multer. 2003. Cotton response to
+subsurface drip irrigation frequency under deficit irrigation. Applied
+Engineering in Agriculture, 19. Ertek, A. and R. Kanber. 2003. Effects
+of different drip irrigation programs on the boll number and shedding
+percentage yield cotton. Agricultural Water Management, 60: 1-11.
+Forrester, N. 2009. Changing the Cotton Landscape in Pakistan.” Lahore:
+Ali Tareen Farms. Place Published. Gohil, G. 2016. Constraints Faced by
+Cotton Growers in Crisis Management of Cotton Cultivation in Gujarat.
+International Journal of Agriculture Sciences: 0975-3710. GOP. 2019.
+Economic Survey of Pakistan. Finance Divisions, Islamabad, Pakistan.
+Place Published. Guang, C., W. Xiugui, L. Yu and L. Wenbing. 2012.
+Effect of Water Logging Stress on Cotton Leaf Area Index and Yield.
+Procedia Engineering, 28: 202-09. Hamid, A. and N. Ahmad. 2001.
+Integrated Plant Nutrient System: Development Rural Poverty Alleviation.
+In: Regional Workshop on Integrated Plant Nutrient System Development
+and Rural Poverty Alleviation 2001, Bangkok, Thailand, 18- 20 September.
+Place Published. Hasanuzzaman, M., K. Nahar, M. Alam, P. C. Bhowmik, M.
+Hossain, M. M. Rahman, M. N. V. Prasad, M. Ozturk and M. Fujita. 2014.
+Potential use of halophytes to remediate saline soils. BioMed research
+international, 2014. Hashmi, M., M. Kamran, K. Bakhsh and M. Bashir.
+2016. Role of socio-economic factors on scale efficiency of cotton
+farms. Bulgarian Journal of Agricultural Science, 22: 358-67. Hassan,
+G., I. Ashraf, N. U. Hassan, M. Ali, I. Khalid, E. Ashraf, H. Raza, R.
+T. Husnain and S. Asghar. 2021. Information deficiency among farmers
+regarding vegetable production practices in peri-urban areas of the
+Punjab-Pakistan. International Journal of Agricultural Extension, 9:
+19-28. Havlin, J. and R. Heiniger. 2020. Soil Fertility Management for
+Better Crop Production. Agronomy, 10: 1349.
 
-Iqbal, M., S. Ul-Allah, M. Naeem, M. Ijaz, A. Sattar and A.
-Sher. 2017. Response of cotton genotypes to water and heat stress: from field to genes. Euphytica, 213.
-Khorsandi, F. and A. Anagholi. 2009. Reproductive compensation of cotton after salt stress relief at different growth stages. Journal of Agronomy and
-Crop Science, 195: 278-83.
-Kousar, S., P. S. U. Sabri, M. Zafar and A. Akhtar. 2017.
-Technological factors and adoption of green innovation: moderating role of government intervention: a case of SMEs in Pakistan. Pakistan
-Journal of Commerce and Social Sciences (PJCSS),
-11: 833-61.
-Makhdum, A. H. K., H. N.; Ahmad, S. 2011. Reducing cotton footprints through implementation of better management practices in cotton production; a step
-towards better cotton initiative. In Proceedings of the Fifth Meeting of the Asian Cotton Research and
-Development Network, Lahore, Pakistan, 23–26
-February 2011; pp. 1–18. Available online:
-https://www.icac.org/tis/regional_networks/asia n_network/meeting_5/ (accessed on 4 January
-2018). Place Published.
-Malik, M. 1998. Fertilizer Role in Sustainable Cotton
-Production. Place Published. pp.20-29.
-Milroy, S. P., M. P. Bange and P. Thongbai. 2009. Cotton leaf nutrient concentrations in response to waterlogging under field conditions. Field Crops
-Research, 113: 246-55.
-Mollaee, M., A. Mobli, N. K. Mutti, S. Manalil and B. S.
-Chauhan. 2019. Challenges and Opportunities in
-Cotton Production. Wiley. Place Published. pp.371-
-90.
+Iqbal, M., S. Ul-Allah, M. Naeem, M. Ijaz, A. Sattar and A. Sher. 2017.
+Response of cotton genotypes to water and heat stress: from field to
+genes. Euphytica, 213. Khorsandi, F. and A. Anagholi. 2009. Reproductive
+compensation of cotton after salt stress relief at different growth
+stages. Journal of Agronomy and Crop Science, 195: 278-83. Kousar, S.,
+P. S. U. Sabri, M. Zafar and A. Akhtar. 2017. Technological factors and
+adoption of green innovation: moderating role of government
+intervention: a case of SMEs in Pakistan. Pakistan Journal of Commerce
+and Social Sciences (PJCSS), 11: 833-61. Makhdum, A. H. K., H. N.;
+Ahmad, S. 2011. Reducing cotton footprints through implementation of
+better management practices in cotton production; a step towards better
+cotton initiative. In Proceedings of the Fifth Meeting of the Asian
+Cotton Research and Development Network, Lahore, Pakistan, 23–26
+February 2011; pp. 1–18. Available online: 2018). Place Published.
+Malik, M. 1998. Fertilizer Role in Sustainable Cotton Production. Place
+Published. pp.20-29. Milroy, S. P., M. P. Bange and P. Thongbai. 2009.
+Cotton leaf nutrient concentrations in response to waterlogging under
+field conditions. Field Crops Research, 113: 246-55. Mollaee, M., A.
+Mobli, N. K. Mutti, S. Manalil and B. S. Chauhan. 2019. Challenges and
+Opportunities in Cotton Production. Wiley. Place Published. pp.371- 90.
 Najeeb, U., M. P. Bange, D. K. Y. Tan and B. J. Atwell. 2015.
-Consequences of waterlogging in cotton and opportunities for mitigation of yield losses. AoB
-PLANTS, 7: plv080.
-Nazli, H. O., D.; Sarker, R.; Meilke, K. 2012. Bt Cotton
-Adoption and Wellbeing of Farmers in Pakistan. In
-Proceedings of the International Association of
-Agricultural
-Economists
-(IAAE)
-Triennial
-Conference, Foz do Iguaçu, Brazil, 18–24 August
-2012;
-pp.
-1–26.
-Available online:
-ageconsearch.umn.edu/bitstream/
-126172/
-(accessed on 3 February 2018). Place Published.
-Nyairo, N. M., L. J. Pfeiffer and M. Russell. 2021.
-Smallholder farmers’ perceptions of agricultural extension in adoption of new technologies in
-Kakamega County, Kenya. International Journal of
-Agricultural Extension, 9: 57-68.
-Pakistan Council of Science and Technology. 2003. Report of national committee on water resources development and management. Pakistan Council of
-Science and Technology, Government of Pakistan,
-Islamabad, Pakistan. Place Published.
-Patel, P., D. Patel and U. Patel. 1995. Response of cotton G.
-Cot Hy. 8 to irrigation based on IW/CPE ratio.
-Gujarat Agricultural University Research Journal,
-20: 143-45.
-Qureshi, A. S., P. G. McCornick, M. Qadir and Z. Aslam.
-2008. Managing salinity and waterlogging in the
-Indus Basin of Pakistan. Agricultural Water
-Management, 95: 1-10.
-Raghavan, M. 2008. Changing pattern of input use and cost of cultivation. Economic and Political Weekly:
-123-29.
-Rajput, H. A. 2006. Effect of Different Irrigation Regimes on the Performance of Different Cotton Cultivars.
-Master’s Thesis, Sindh Agriculture University,
-Tandojam. Place Published.
-Rashid, A. 2005. Establishment and management of micronutrient deficiencies in soils of Pakistan: A review. Soil Environ, 24: 1-22.
-Saeed, M. F., A. Jamal, I. Ahmad, S. Ali, G. M. Shah, S. K.
-Husnain, A. Farooq and J. Wang. 2020. Storage
-Conditions Deteriorate Cotton and Wheat Seeds
-Quality: An Assessment of Farmers’ Awareness in
-Pakistan. Agronomy, 10: 1246.
-Sahito, A., Z. A. Baloch, A. Mahar, S. A. Otho, S. A. Kalhoro,
-A. Ali, F. A. Kalhoro, R. N. Soomro and F. Ali. 2015.
-Effect of water stress on the growth and yield of cotton crop (Gossypium hirsutum L.). American
-Journal of Plant Sciences, 6: 1027.
-Shahzad, A. N., M. K. Qureshi, A. Wakeel and T.
-Misselbrook. 2019. Crop production in Pakistan low nitrogen use efficiencies.
-Nature
-Sustainability, 2: 1106-14.
-Sharif, I., S. Aleem, J. Farooq, M. Rizwan, A. Younas, G.
-Sarwar and S. M. Chohan. 2019. Salinity stress in cotton: effects, mechanism of tolerance and its management strategies. Physiology and Molecular
-Biology of Plants, 25: 807-20.
-Shuli, F., A. H. Jarwar, X. Wang, L. Wang and Q. Ma. 2018.
-Overview of the cotton in Pakistan and its future prospects.
-Journal
-Agricultural
-Research, 31: 396.
+Consequences of waterlogging in cotton and opportunities for mitigation
+of yield losses. AoB PLANTS, 7: plv080. Nazli, H. O., D.; Sarker, R.;
+Meilke, K. 2012. Bt Cotton Adoption and Wellbeing of Farmers in
+Pakistan. In Proceedings of the International Association of
+Agricultural Economists (IAAE) Triennial Conference, Foz do Iguaçu,
+Brazil, 18–24 August 2012; pp. 1–26. Available online:
+ageconsearch.umn.edu/bitstream/ 126172/ (accessed on 3 February 2018).
+Place Published. Nyairo, N. M., L. J. Pfeiffer and M. Russell. 2021.
+Smallholder farmers’ perceptions of agricultural extension in adoption
+of new technologies in Kakamega County, Kenya. International Journal of
+Agricultural Extension, 9: 57-68. Pakistan Council of Science and
+Technology. 2003. Report of national committee on water resources
+development and management. Pakistan Council of Science and Technology,
+Government of Pakistan, Islamabad, Pakistan. Place Published. Patel, P.,
+D. Patel and U. Patel. 1995. Response of cotton G. Cot Hy. 8 to
+irrigation based on IW/CPE ratio. Gujarat Agricultural University
+Research Journal, 20: 143-45. Qureshi, A. S., P. G. McCornick, M. Qadir
+and Z. Aslam. 2008. Managing salinity and waterlogging in the Indus
+Basin of Pakistan. Agricultural Water Management, 95: 1-10. Raghavan, M.
+2008. Changing pattern of input use and cost of cultivation. Economic
+and Political Weekly: 123-29. Rajput, H. A. 2006. Effect of Different
+Irrigation Regimes on the Performance of Different Cotton Cultivars.
+Master’s Thesis, Sindh Agriculture University, Tandojam. Place
+Published. Rashid, A. 2005. Establishment and management of
+micronutrient deficiencies in soils of Pakistan: A review. Soil Environ,
+24: 1-22. Saeed, M. F., A. Jamal, I. Ahmad, S. Ali, G. M. Shah, S. K.
+Husnain, A. Farooq and J. Wang. 2020. Storage Conditions Deteriorate
+Cotton and Wheat Seeds Quality: An Assessment of Farmers’ Awareness in
+Pakistan. Agronomy, 10: 1246. Sahito, A., Z. A. Baloch, A. Mahar, S. A.
+Otho, S. A. Kalhoro, A. Ali, F. A. Kalhoro, R. N. Soomro and F. Ali.
+2015. Effect of water stress on the growth and yield of cotton crop
+(Gossypium hirsutum L.). American Journal of Plant Sciences, 6: 1027.
+Shahzad, A. N., M. K. Qureshi, A. Wakeel and T. Misselbrook. 2019. Crop
+production in Pakistan low nitrogen use efficiencies. Nature
+Sustainability, 2: 1106-14. Sharif, I., S. Aleem, J. Farooq, M. Rizwan,
+A. Younas, G. Sarwar and S. M. Chohan. 2019. Salinity stress in cotton:
+effects, mechanism of tolerance and its management strategies.
+Physiology and Molecular Biology of Plants, 25: 807-20. Shuli, F., A. H.
+Jarwar, X. Wang, L. Wang and Q. Ma. 2018. Overview of the cotton in
+Pakistan and its future prospects. Journal Agricultural Research, 31:
+396.
 
-Solaiman, S. and N. Ahmed. 2006. Improving Plant
-Nutrient
-Management for
-Better
-Farmer
-Livelihoods. Food Security and Environmental
-Sustainability.
-Stephenson IV, D. O., L. T. Barber and F. M. Bourland.
-2011. Effect of twin-row planting pattern and plant
-density on cotton growth, yield, and fiber quality.
-Journal of Cotton Science, 15: 243-50.
-Tunio, A., H. Magsi and M. A. Solangi. 2016. Analyses of growth trends and production forecast of cash crops in Pakistan. International Journal of
-Agronomy and Agricultural Research, 9: 158-64.
-USDA. 2019. U. S. Department of Agriculture. Pakistan cotton and products annual 2019 (C., Bean, Ed.).
-Global Agriculture Information Networks, USDA
-Foreign agriculture services. Place Published.
-Wakeel, A. and M. Ishfaq. 2016. Promoting precise and balanced use of fertilizers in Pakistan at farm-gate level.
-Electronic
-International
-Fertilizer
-Correspondent (e-ifc): 20-25.
-Wang, X., Z. Deng, W. Zhang, Z. Meng, X. Chang and M. Lv.
-2017. Effect of Waterlogging Duration at Different
-Growth Stages on the Growth, Yield and Quality of
-Cotton. PloS one, 12: e0169029.
-Wang, X., L. Zhang, J. B. Evers, L. Mao, S. Wei, X. Pan, X.
-Zhao, W. van der Werf and Z. Li. 2014. Predicting the effects of environment and management on cotton fibre growth and quality: a functional-
-structural plant modelling approach. AoB PLANTS,
-6: plu040-plu40.
-Wang, Z., J. Chen, F. Xing, Y. Han, F. Chen, L. Zhang, Y. Li and C. Li. 2017. Response of cotton phenology to climate change on the North China Plain from 1981
-to 2012. Scientific Reports, 7.
-Watto, M. 2013. Measuring Groundwater Irrigation
-Efficiency in Pakistan: A DEA Approach Using the
-Sub-vector and Slack-based Models. In Proceedings of the 57th Australian Agricultural and Resource
-Economics Society Annual Conference, Sydney,
-Australia, 5–8 February 2013; pp. 1–35. Place
-Published.
-Watto, M. A. and A. W. Mugera. 2015. Econometric estimation of groundwater irrigation efficiency of cotton cultivation farms in Pakistan. Journal of
-Hydrology: Regional Studies, 4: 193-211.
-Wei, W., Z. Mushtaq, A. Ikram, M. Faisal, Z. Wan-Li and M.
-I. Ahmad. 2020. Estimating the economic viability of cotton growers in Punjab Province, Pakistan.
-SAGE Open, 10: 2158244020929310.
-Zhang, L., W. van der Werf, S. Zhang, B. Li and J. H. J.
-Spiertz.
-2008.
-Temperature-mediated developmental delay may limit yield of cotton in relay intercrops with wheat.
-Field
-Crops
-Research, 106: 258-68.
-Zhang, L., G. Zhang, Y. Wang, Z. Zhou, Y. Meng and B.
-Chen. 2013. Effect of soil salinity on physiological characteristics of functional leaves of cotton plants. Journal of Plant Research, 126: 293-304.
-Zhang, Y., G. Liu, H. Dong and C. Li. 2021. Waterlogging stress in cotton: Damage, adaptability, alleviation strategies, and mechanisms. The Crop Journal, 9:
-257-70.
-Zhu, T., C. Ringler, M. M. Iqbal, T. B. Sulser and M. A.
-Goheer. 2013. Climate change impacts and adaptation options for water and food in Pakistan:
-scenario analysis using an integrated global water and food projections model. Water International,
-38: 651-69.
-Zulfiqar, F., A. Datta and G. B. Thapa. 2017. Determinants and resource use efficiency of “better cotton”: An innovative cleaner production alternative. Journal
-of Cleaner Production, 166: 1372-80.
-Zulfiqar, F. and G. B. Thapa. 2016. Is ‘Better cotton’ better than conventional cotton in terms of input use efficiency and financial performance? Land
-Use Policy, 52: 136-43.
-Zulfiqar, F., and Thapa, G. B. (2018). Determinants and intensity of adoption of “better cotton” as an innovative cleaner production alternative. Journal
-of cleaner production, 172, 3468-3478.
-
-Publisher’s note: EScience Press remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
-Open Access This article is licensed under a Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+Solaiman, S. and N. Ahmed. 2006. Improving Plant Nutrient Management for
+Better Farmer Livelihoods. Food Security and Environmental
+Sustainability. Stephenson IV, D. O., L. T. Barber and F. M. Bourland.
+2011. Effect of twin-row planting pattern and plant density on cotton
+growth, yield, and fiber quality. Journal of Cotton Science, 15: 243-50.
+Tunio, A., H. Magsi and M. A. Solangi. 2016. Analyses of growth trends
+and production forecast of cash crops in Pakistan. International Journal
+of Agronomy and Agricultural Research, 9: 158-64. USDA. 2019. U. S.
+Department of Agriculture. Pakistan cotton and products annual 2019 (C.,
+Bean, Ed.). Global Agriculture Information Networks, USDA Foreign
+agriculture services. Place Published. Wakeel, A. and M. Ishfaq. 2016.
+Promoting precise and balanced use of fertilizers in Pakistan at
+farm-gate level. Electronic International Fertilizer Correspondent
+(e-ifc): 20-25. Wang, X., Z. Deng, W. Zhang, Z. Meng, X. Chang and M.
+Lv. 2017. Effect of Waterlogging Duration at Different Growth Stages on
+the Growth, Yield and Quality of Cotton. PloS one, 12: e0169029. Wang,
+X., L. Zhang, J. B. Evers, L. Mao, S. Wei, X. Pan, X. Zhao, W. van der
+Werf and Z. Li. 2014. Predicting the effects of environment and
+management on cotton fibre growth and quality: a functional- structural
+plant modelling approach. AoB PLANTS, 6: plu040-plu40. Wang, Z., J.
+Chen, F. Xing, Y. Han, F. Chen, L. Zhang, Y. Li and C. Li. 2017.
+Response of cotton phenology to climate change on the North China Plain
+from 1981 to 2012. Scientific Reports, 7. Watto, M. 2013. Measuring
+Groundwater Irrigation Efficiency in Pakistan: A DEA Approach Using the
+Sub-vector and Slack-based Models. In Proceedings of the 57th Australian
+Agricultural and Resource Economics Society Annual Conference, Sydney,
+Australia, 5–8 February 2013; pp. 1–35. Place Published. Watto, M. A.
+and A. W. Mugera. 2015. Econometric estimation of groundwater irrigation
+efficiency of cotton cultivation farms in Pakistan. Journal of
+Hydrology: Regional Studies, 4: 193-211. Wei, W., Z. Mushtaq, A. Ikram,
+M. Faisal, Z. Wan-Li and M. I. Ahmad. 2020. Estimating the economic
+viability of cotton growers in Punjab Province, Pakistan. SAGE Open, 10:
+2158244020929310. Zhang, L., W. van der Werf, S. Zhang, B. Li and J. H.
+J. Spiertz. 2008. Temperature-mediated developmental delay may limit
+yield of cotton in relay intercrops with wheat. Field Crops Research,
+106: 258-68. Zhang, L., G. Zhang, Y. Wang, Z. Zhou, Y. Meng and B. Chen.
+2013. Effect of soil salinity on physiological characteristics of
+functional leaves of cotton plants. Journal of Plant Research, 126:
+293-304. Zhang, Y., G. Liu, H. Dong and C. Li. 2021. Waterlogging stress
+in cotton: Damage, adaptability, alleviation strategies, and mechanisms.
+The Crop Journal, 9: 257-70. Zhu, T., C. Ringler, M. M. Iqbal, T. B.
+Sulser and M. A. Goheer. 2013. Climate change impacts and adaptation
+options for water and food in Pakistan: scenario analysis using an
+integrated global water and food projections model. Water International,
+38: 651-69. Zulfiqar, F., A. Datta and G. B. Thapa. 2017. Determinants
+and resource use efficiency of “better cotton”: An innovative cleaner
+production alternative. Journal of Cleaner Production, 166: 1372-80.
+Zulfiqar, F. and G. B. Thapa. 2016. Is ‘Better cotton’ better than
+conventional cotton in terms of input use efficiency and financial
+performance? Land Use Policy, 52: 136-43. Zulfiqar, F., and Thapa, G. B.
+(2018). Determinants and intensity of adoption of “better cotton” as an
+innovative cleaner production alternative. Journal of cleaner
+production, 172, 3468-3478.

@@ -1,7 +1,6 @@
-Advances in Agriculture and Biology (2018) 1(1): 34-39
- RESEARCH PAPER
+RESEARCH PAPER
 
- Evaluation of insect pest infestation and yield losses in maize crop in
+Evaluation of insect pest infestation and yield losses in maize crop in
 Maina, district Malakand
 
 Maqsood Ahmad1 and Shahzad Ahmad2
@@ -34,7 +33,6 @@ emphasizes the need for proactive measures to mitigate yield losses in maize cul
 
 Keywords: Aphids, Armyworm, Chilo partelus, Food industry, Insect pest, Livestock fodder, Maize
 
-Citation: Ahmad, M., & Ahmad, S. (2018). Evaluation of insect pest infestation and yield losses in maize crop in Maina, district Malakand. Advances in Agriculture and Biology, 1(1), 34-39.
 
 Introduction
 
@@ -53,7 +51,7 @@ Pakhtunkhwa contributing significantly to the agricultural landscape (Ozcan, 200
 yielding an average of 1643.2 thousand tons (Agriculture
 Statistics of Pakistan, 2000). Similar to other regions in the country, maize takes center stage as the primary kharif crop in
 the Northern Area. Farmers typically sow densely and gradually thin out surplus plants, as fodder is as crucial to them as the grain itself.
- Although corn cultivation may require fewer inputs compared to crops like cotton, such as plant growth regulators
+Although corn cultivation may require fewer inputs compared to crops like cotton, such as plant growth regulators
 (PGRs) and defoliation, proper and timely scouting for insect pests remains a crucial aspect for achieving optimal corn yields. The primary objective of scouting for any crop,
 including corn, is to minimize input costs and crop damage while maximizing profitability for the grower. Among the various factors contributing to low maize yields, insect pests
 play a significant role. Alam (1981) identified approximately
@@ -61,7 +59,6 @@ play a significant role. Alam (1981) identified approximately
 Parkash et al. (1985) documented the presence of the pyralid
 Chilo partelus, the noctuid Sesamia inferens, and the
 
-https://aabinternational.com/ Advances in Agriculture and Biology (2018) 1(1): 34-39
 
 anthomyid Atherigona sp in maize crops. Rahman (1987) listed 24 arthropod pests affecting maize. Karimullah et al.
 (1992) observed the early and midseason occurrence of cutworm (Agrotis ipsilon R.) and armyworm (Mythimna separata wlk), while earworm and the corn aphid
@@ -123,7 +120,6 @@ Shootfly (Atherigona soccata)
 Among the pests, the Shootfly (Atherigona soccata) showed a remarkable infestation, with percentages increasing from 3.7 %
 on 22/07/2018 to 9 % on 05/08/2018, reaching its peak at this
 
-https://aabinternational.com/ Advances in Agriculture and Biology (2018) 1(1): 34-39
 
 date. The infestation by Shoot fly was particularly impactful as it occurred at an early stage, typically starting after mid-July and peaking in the first week of August.
 This early infestation led to stunted growth and the development of dead hearts in the plants, characterized by wilting and yellowing of the central shoots, while the
@@ -254,7 +250,6 @@ Discussion
 
 Maize stem borer has been consistently identified as a significant pest in maize crops, with various studies supporting
 
-https://aabinternational.com/ Advances in Agriculture and Biology (2018) 1(1): 34-39
 
 its prevalence in Pakistan, India, and Ceylon, as reported by Khan (1967), Atwal (1976), Ghouri et al. (1978),
 Mohyuddin & Attique (1978). Karimullah et al. (1992) emphasized its status as a late-season pest, with the population kept in check during the early season monsoon
@@ -266,7 +261,7 @@ reported its infestation in maize crops in both India and
 Pakistan.
 This collective evidence highlights the importance of continued care and research efforts to develop effective strategies for mitigating the impact of
 maize stem borer on crop yields.
- Amjad et al. (2015) conducted a study to examine how various plant traits affect the resistance of maize against
+Amjad et al. (2015) conducted a study to examine how various plant traits affect the resistance of maize against
 Chilo partellus (Swinhoe). Ten different maize genotypes were assessed, consisting of seven hybrid types (FH-292,
 FH-810, FH-793, FH-930, FH-949, FH-963, and FH-985) and three commercial varieties (Agaiti-2002, Com-6625, and Com-32F-10). Their susceptibility or resistance to the
 pest was evaluated based on a range of physico-chemical plant traits. The findings highlighted that the genotype
@@ -279,7 +274,7 @@ displayed high susceptibility, recording the highest infestation rate at 19.45 %
 FH-963 (15.21 %) and FH-985 (12.10 %). The observed trend in pest infestation indicated a continuous increase, ultimately reaching a peak at 21.43 %. These results
 emphasize the significance of plant traits in influencing the resistance of maize genotypes against Chilo partellus, providing valuable insights for future agricultural practices
 and pest management strategies.
- In the research conducted by Naz et al. (2003) in
+In the research conducted by Naz et al. (2003) in
 KARINAJuglote, Northern Areas, an investigation into the insect pests affecting maize and their associated losses was carried out. The maize stem borer Chilo partelus emerged
 as a significant threat, leading to a substantial 24.5 % infestation of plants. Following closely behind was the maize aphid Rhopalosiphum maidis, with a 15 %
 infestation observed during the tasseling stage. The shootfly Atherigona soccata presented an early-stage threat, resulting in a 5 % infestation of plants.
@@ -293,7 +288,7 @@ imagery, airborne images captured from chartered or model planes, as well as ima
 Furthermore, a comprehensive analysis of the costs and benefits associated with each remote sensing technique was conducted, with a focus on their applicability to agricultural
 extension in developing countries, particularly in the context of
 Pakistan.
- In Nowshera, Pakistan, maize crops face a persistent threat from the maize stem borer, Chilo partellus (Swinhoe). The effective management of this pest necessitates the integration
+In Nowshera, Pakistan, maize crops face a persistent threat from the maize stem borer, Chilo partellus (Swinhoe). The effective management of this pest necessitates the integration
 of various control methods. A previous research study was conducted at the Cereal Crops Research Institute Pirsabak,
 Nowshera, Pakistan, to assess the efficacy of cultural, mechanical, biological, and chemical control methods, both individually and as part of an Integrated Pest Management
 (IPM) approach (Khan et al., 2015). Results demonstrated significant effectiveness in reducing C. partellus infestation across all control methods. But the IPM treatment exhibited the
@@ -303,7 +298,7 @@ insect pests on maize, categorizing moths as the most destructive, followed by b
 While field guides like Ortega's primarily focus on pest identification, recognizing beneficial insects is emphasized as a
 crucial step in developing effective crop protection strategies.
 Understanding the complex relationships between pests and their natural predators is fundamental to sustainable agricultural practices.
- Ramchandra (2013) investigated insect pests complex affecting maize (Zea mays Linn.) across various cropping systems and to explore management strategies for major insect
+Ramchandra (2013) investigated insect pests complex affecting maize (Zea mays Linn.) across various cropping systems and to explore management strategies for major insect
 pests. This study was carried out at S. V. Agricultural College,
 Tirupati, during the kharif season of 2012. The findings indicated that the incidence of shoot bug (Peregrinus maidis) was notably lower in maize intercropped with fieldbean,
 clusterbean, and groundnut. However, in sole maize and maize intercropped with cowpea, the population of shoot bugs reached the economic threshold level (ETL) at 75 days after
@@ -312,7 +307,6 @@ Proutista moesta), aphids (Rophalosiphum maidis), and pod bugs (Riptortus pedest
 clusterbean, followed by groundnut. Effective control against aphids was achieved through the application of three granular
 insecticides: carbofuran 3G (0.7 kg a.i. ha-1), fipronil 0.3G
 
-https://aabinternational.com/ Advances in Agriculture and Biology (2018) 1(1): 34-39
 
 (0.06 kg a.i. ha-1), and cartap hydrochloride 4G (0.8 kg a.i.
 ha-1). Additionally, among the sprays tested, rynaxypyr
@@ -395,13 +389,9 @@ Management (pp. 370). Islamabad, Pakistan: Pakistan
 Agricultural Research Council, National Agricultural
 Research Center.
 
-https://aabinternational.com/ Advances in Agriculture and Biology (2018) 1(1): 34-39
 
 Saeed, M. (1979). Control of maize stem borer, Chilo partelus, with granular insecticides (Unpublished master's thesis). Entomology Department, NWFP
 Agricultural University, Peshawar, Pakistan.
 Willers, J. L., Seal, M. R., & Luttrell, R. G. (1999). Remote sensing, line-intercept sampling for tarnished plant bugs
 (Heteroptera: Miridae) in Midsouth cotton. The Journal of Cotton Science, 3, 160-170.
 
-Copyright: © 2018 by the author(s). This open access article is distributed under a Creative Commons
-
-Attribution License (CC BY 4.0), https://creative- commons.org/licenses/by/4.0/

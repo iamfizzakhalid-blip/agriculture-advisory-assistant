@@ -1,8 +1,6 @@
 Wheat
-F I E L D G U I D E
 
 Wheat
-F I E L D G U I D E
 Food and Agriculture Organization of the United Nations
 Rome, 2008
 Graham Shepherd, soil scientist,
@@ -134,7 +132,6 @@ The VSA tool kit viii
 18. Variable crop performance due to soil aeration and soil wetness
 List of plates
 
-v
 19. Variable crop performance due to soil compaction
 20. Variable crop performance due to an iron pan
 21. Variable crop performance due to water-repellency
@@ -159,7 +156,6 @@ by good residue cover
 
 the next crop into stubble
 
-vi
 This publication is adapted from the methodology developed in: Shepherd, T. G. 2008. Visual
 Soil Assessment. Volume 1. Field guide for pastoral grazing and cropping on flat to rolling country. 2nd edition. Palmerston North, New Zealand, Horizons Regional Council. 106 pp.
 The authors gratefully acknowledge the contribution of a number of the photographs kindly provided by Annemie Leys (Katholieke Universiteit Leuven) and John Quinton, and the useful
@@ -223,7 +219,6 @@ Zn
 Zinc
 List of acronyms
 
-vii
 Introduction
 The maintenance of good soil quality is vital for the environmental and economic sustainability of wheat cropping. A decline in soil quality has a marked impact on yield and grain quality,
 production costs and the risk of soil erosion, and can therefore have significant consequences for society and the environment. A decline in soil physical properties in particular takes
@@ -246,7 +241,6 @@ Plant indicators allow you to make cause-and-effect links between management pra
 resource (soil) with plant performance and farm enterprise profitability. Because of this, soil quality assessment is not a combination of the ‘soil’ and ‘plant’ scores; rather, the scores should
 be looked at separately, and compared.
 
-viii
 Visual scoring
 Each indicator is given a visual score (VS) of 0 (poor), 1 (moderate), or 2 (good), based on the soil quality and plant performance observed when comparing the soil and plant with
 three photographs in the field guide manual. The scoring is flexible, so if the sample you are assessing does not align clearly with any one of the photographs but sits between two,
@@ -273,7 +267,6 @@ the soil during the drop shatter test;
 < a pad of scorecards – to record the VS for each indicator.
 PLATE 1 The VSA tool kit
 
-ix
 The procedure
 When it should be carried out
 The test should be carried out when the soils are moist and suitable for cultivation. If you are not sure, apply the ‘worm test’. Roll a worm of soil on the palm of one hand with the fingers of
@@ -302,7 +295,6 @@ to assess its condition, dig out two samples of 200x200x100 mm with a spade. If 
 200-mm depth is dominated by a tillage pan and you wish to assess its condition, remove the top 100 mm of soil and dig out two samples of 200x200x100 mm. Note that taking a 200-mm
 cube sample below the topsoil can also give valuable information about the condition of the subsoil and its implications for plant growth and farm management practices.
 
-x
 The drop shatter test
 Drop the test sample a maximum of three times from a height of 1 m onto the wooden square in the plastic basin. The number of times the sample is dropped and the height it is dropped
 from, is dependent on the texture of the soil and the degree to which the soil breaks up, as described in the section on soil structure.

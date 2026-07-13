@@ -1,367 +1,184 @@
-Wheat Crop Development in Central Punjab
-(Faisalabad, 2022–23)
+Wheat Crop Development in Central Punjab (Faisalabad, 2022–23)
 
 By
 
-Ali Imran
-(Meteorologist)
+Ali Imran (Meteorologist)
 
-Regional Agrometeological Centre
-Pakistan Meteorological Department
-Ayub Agriculture Research Institute
-Faisalabad, Pakistan
+Regional Agrometeological Centre Pakistan Meteorological Department Ayub Agriculture Research Institute Faisalabad, Pakistan
 
-Contents
 ABSTRACT ………………………………………………...
+
 CHAPTER 1: INTRODUCTION - 7
 
-1.1
-Geographical Description and Climate of Pakistan and Central Punjab (Study Area)
+1.1 Geographical Description and Climate of Pakistan and Central Punjab (Study Area)
 
 Scope of the Study ………………….………………………………………………………….………………
 
-1.3
-Objective of the Study…………………………………………………………………………………………
+1.3 Objective of the Study…………………………………………………………………………………………
 
 Review of Agriculture Production in Pakistan………………………………….………….………
 
-1.5
-Wheat Production in Pakistan ……………………………………………………………….…………….
+1.5 Wheat Production in Pakistan ……………………………………………………………….…………….
+
 CHAPTER 2: MATERIALS AND METHOD - 10
 
-2.1
-Phenology …………………………………………………………………...
+2.1 Phenology …………………………………………………………………...
 
-2.1.1
-Phenological Observations …………………………………………………………………….
+2.1.1 Phenological Observations …………………………………………………………………….
 
-2.2
-Methodology ……………………………………………………………………………………………………….
+2.2 Methodology ……………………………………………………………………………………………………….
+
 CHAPTER 3: RESULTS AND DISCUSSION - 13
 
-3.1
-Rainfall and Wheat Crop Growth ………………………………………………………………………….
+3.1 Rainfall and Wheat Crop Growth ………………………………………………………………………….
 
 Irrigation during Crop Growth ………………………………………………………………………………
 
-3.3
-Air Temperature and Wheat Crop Growth ………………………………………………………….
+3.3 Air Temperature and Wheat Crop Growth ………………………………………………………….
 
-3.4
-Soil Moisture Observations during Crop Growth …………………………………………………
+3.4 Soil Moisture Observations during Crop Growth …………………………………………………
 
-3.5
-Soil Temperature and Crop Growth …………………………………………………………………….
+3.5 Soil Temperature and Crop Growth …………………………………………………………………….
 
-3.6
-Heat Units Consumption and Crop Cycle……………………………………………………………….
+3.6 Heat Units Consumption and Crop Cycle……………………………………………………………….
 
-3.7
-Relative Humidity (%) ……………………………………………………………………………………………
+3.7 Relative Humidity (%) ……………………………………………………………………………………………
 
-3.8
-Reference Crop Evapotranspiration, ETo (mm/day) …………………………………………….
+3.8 Reference Crop Evapotranspiration, ETo (mm/day) …………………………………………….
 
-3.9
-Wind and Crop Growth…………………………………………………………………………………………
+3.9 Wind and Crop Growth…………………………………………………………………………………………
 
-3.10
-Crop Water Requirement………………………………………………………………………………….
+3.10 Crop Water Requirement………………………………………………………………………………….
 
-3.11
-Agro Meteorological Summary of Crop Cycle …………….………………………………...
+3.11 Agro Meteorological Summary of Crop Cycle …………….………………………………...
+
 CHAPTER 4: CONCLUSION AND RECOMMENDATIONS - 30
 
-4.1
-Conclusions …….…………………………………………………………………………………………………….
+4.1 Conclusions …….…………………………………………………………………………………………………….
 
-4.2
-Recommendations ……………………………………………………………………………………………….
+4.2 Recommendations ……………………………………………………………………………………………….
+
 REFERENCES ……………………………………...
 
-List of Figures
+Mean Annual Rainfall (mm) of Punjab [Normal (1981-2010)] ………………… Normal (1981-2010) Mean Monthly Rainfall (mm) of Faisalabad during Rabi Season …………….
 
-Page
-Figure 1.1
-Mean Annual Rainfall (mm) of Punjab [Normal (1981-2010)] …………………
-Figure 1.2
-Normal (1981-2010) Mean Monthly Rainfall (mm) of Faisalabad during
-Rabi Season …………….
-Figure 1.3
-Normal (1981-2010) Mean daily Maximum and Minimum Temperature
-(°C) of Faisalabad during Rabi Season ……………………………………………………
+Normal (1981-2010) Mean daily Maximum and Minimum Temperature (°C) of Faisalabad during Rabi Season ……………………………………………………
 
-Figure 3.1
 Comparison of Monthly Observed Precipitation with Normal (1981-2010) at Faisalabad ……………………………………………………………………………………….
-Figure 3.2
+
 Mean Monthly Minimum Temperature (°C) of Faisalabad…………………….
-Figure 3.3
-Mean Monthly Maximum Temperature (°C) of Faisalabad……………………
-Figure 3.4
-Mean Monthly Temperature (°C) during 2022-23…………………………………
-Figure 3.5
-Soil moisture chrono Isopleths for Rabi Crop at Faisalabad for the year
-2022-23...
 
-Figure 3.6
-Soil moisture at different depths during wheat crop 2022-23…………………
-Figure 3.7
-Moisture at deep soils (90cm) during wheat crop 2022-23……………………
-Figure 3.8
-Soil temperature during wheat crop 2022-23………………………………………
-Figure 3.9
-Heat units during crop life 2022-23………………………………………………………
-Figure 3.10
-March of Crop Coefficient (Kc) for normal duration of Wheat growing season (Emergence to Wax- Maturity). ………………………………………………
-Figure 3.11
-Crop Water Requirement (CWR) During Crop Life…………………………………
+Mean Monthly Maximum Temperature (°C) of Faisalabad…………………… Mean Monthly Temperature (°C) during 2022-23………………………………… Soil moisture chrono Isopleths for Rabi Crop at Faisalabad for the year 2022-23...
 
-List of Tables
+Soil moisture at different depths during wheat crop 2022-23………………… Moisture at deep soils (90cm) during wheat crop 2022-23…………………… Soil temperature during wheat crop 2022-23……………………………………… Heat units during crop life 2022-23……………………………………………………… March of Crop Coefficient (Kc) for normal duration of Wheat growing season (Emergence to Wax- Maturity). ……………………………………………… Crop Water Requirement (CWR) During Crop Life…………………………………
 
-Page
-Table 2.1
 Observed Meteorological Parameters …………………………………………………………….
-Table 2.2
-Phenological Stages of Wheat Crop …………………………………………………………………
-Table 3.1
-Brief Summary of the Wheat Crop ………………………………………………………………….
-Table 3.2
+
+Phenological Stages of Wheat Crop ………………………………………………………………… Brief Summary of the Wheat Crop ………………………………………………………………….
+
 Daily rainfall history of the crop life 2022-23………………………………………………….
-Table 3.3
-Mean Monthly Temperature during Rabi Season 2022-23……………………….……
-Table 3.4
-Heat Units Consumed by the Crop during Different Phenological Phases ……….
-Table 3.5
+
+Mean Monthly Temperature during Rabi Season 2022-23……………………….…… Heat Units Consumed by the Crop during Different Phenological Phases ……….
+
 Summary of some Meteorological Parameters during Rabi Season 2022-23 ….
 
 Abstract
 
-This study was conducted at RAMC (Regional Agrometeorological Center) Faisalabad to investigate the impact of weather conditions on the growth and development of wheat crop. Impact of variations
-in the meteorological parameters on different phenological phases and hence on final yield of wheat crop was analyzed. For this purpose, both meteorological and phenological data along with soil
-moisture data was collected from the meteorological observatory and agricultural field of physiology section of Ayub Agriculture Research Institute, Faisalabad. Besides this record, other necessary
-features like sowing time, fertilizer, weeds removing operations and irrigation schedule are also included in the current report for the Rabi season 2022-23. The wheat crop variety Arooj-2022 sown
-in the field under observation used 1695 heat units in 143 days during its life cycle from emergence to full maturity. The water requirement of crop was fulfilled by flood irrigation method. Crop was
-sown at the proper time. Air temperature remained above normal values during the most of the crop life. Rainfall received remained well below normal values during the crop season.
+This study was conducted at RAMC (Regional Agrometeorological Center) Faisalabad to investigate the impact of weather conditions on the growth and development of wheat crop. Impact of variations in the meteorological parameters on different phenological phases and hence on final yield of wheat crop was analyzed. For this purpose, both meteorological and phenological data along with soil moisture data was collected from the meteorological observatory and agricultural field of physiology section of Ayub Agriculture Research Institute, Faisalabad. Besides this record, other necessary features like sowing time, fertilizer, weeds removing operations and irrigation schedule are also included in the current report for the Rabi season 2022-23. The wheat crop variety Arooj-2022 sown in the field under observation used 1695 heat units in 143 days during its life cycle from emergence to full maturity. The water requirement of crop was fulfilled by flood irrigation method. Crop was sown at the proper time. Air temperature remained above normal values during the most of the crop life. Rainfall received remained well below normal values during the crop season.
 
 Chapter 1
-INTRODUCTION
-Wheat is the major food crop as well as one of the main agricultural products of Pakistan. This study is based upon field observations of wheat crop at Regional Agrometeorological Centre, Faisalabad cultivated
-in the experimental field of Ayub Agriculture research Institute, Faisalabad. Land at the study site consists of agriculture fields rotated among wheat, maize, rice, cotton and other seasonal crops. In experimental
-field wheat crop variety Arooj-2022 was cultivated. This study will help in understanding the effect of different climatic parameters on the growth and yield of wheat crop in central Punjab region.
-1.1
-Geographical Description and Climate of Central Punjab (Study Area)
-Pakistan has a variable climate, ranging from arid (33-254mm annual rainfall) in the south to semi-arid
-(254-508mm annual rainfall), sub-humid (508-1016mm annual rainfall) and humid (1016-2032mm annual rainfall) in the north. The Indus River that originates from the north along with its tributaries irrigates the
-great plains of the country including Central Punjab. Chaudhry and Rasul found that about 2/3 of the total agriculture area lies in the arid climate. [1]
-The study has been conducted for “Faisalabad District” in Central Punjab with longitude 73.06oE, latitude
-31.26oN and elevation of 184.5m from mean sea level. The climate of central and southern Punjab possesses the dry semi-arid agro-climatic characteristics (Figure– 1.1) but well managed canal irrigation
-system has placed it among the highly productive agriculture zones. Summer monsoon produces more rainfall and winter has a little contribution. Day time temperature reaches above 40°C during summer from
-April to September except some occasional relief from monsoon rains and decreases the evaporation demand of the atmosphere. The winter season starts from November and continues till March. December,
-January and February are the coldest months. In winter, night time temperature drops below 0°C [2]. More detail about the climate of Faisalabad during Rabi season is shown in the figures (1.2& 1.3). The highest
-amount of rainfall occurs during Rabi season in the months of March followed by April and February respectively. Day time mean maximum and night time mean minimum temperature gradually decrease
-from November to January and then start rising [3].
 
-Figure 1.1: Mean Annual Rainfall (mm) of Punjab
+INTRODUCTION Wheat is the major food crop as well as one of the main agricultural products of Pakistan. This study is based upon field observations of wheat crop at Regional Agrometeorological Centre, Faisalabad cultivated in the experimental field of Ayub Agriculture research Institute, Faisalabad. Land at the study site consists of agriculture fields rotated among wheat, maize, rice, cotton and other seasonal crops. In experimental field wheat crop variety Arooj-2022 was cultivated. This study will help in understanding the effect of different climatic parameters on the growth and yield of wheat crop in central Punjab region.
+
+1.1 Geographical Description and Climate of Central Punjab (Study Area) Pakistan has a variable climate, ranging from arid (33-254mm annual rainfall) in the south to semi-arid (254-508mm annual rainfall), sub-humid (508-1016mm annual rainfall) and humid (1016-2032mm annual rainfall) in the north. The Indus River that originates from the north along with its tributaries irrigates the great plains of the country including Central Punjab. Chaudhry and Rasul found that about 2/3 of the total agriculture area lies in the arid climate. [1] The study has been conducted for “Faisalabad District” in Central Punjab with longitude 73.06oE, latitude 31.26oN and elevation of 184.5m from mean sea level. The climate of central and southern Punjab possesses the dry semi-arid agro-climatic characteristics (Figure– 1.1) but well managed canal irrigation system has placed it among the highly productive agriculture zones. Summer monsoon produces more rainfall and winter has a little contribution. Day time temperature reaches above 40°C during summer from April to September except some occasional relief from monsoon rains and decreases the evaporation demand of the atmosphere. The winter season starts from November and continues till March. December, January and February are the coldest months. In winter, night time temperature drops below 0°C [2]. More detail about the climate of Faisalabad during Rabi season is shown in the figures (1.2& 1.3). The highest amount of rainfall occurs during Rabi season in the months of March followed by April and February respectively. Day time mean maximum and night time mean minimum temperature gradually decrease from November to January and then start rising [3].
+
 [Normal (1981-2010)]
 
-Figure 1.2: Normal (1981-2010) Mean Monthly
-Rainfall (mm) of Faisalabad during Rabi Season
-Figure 1.3: Normal (1981-2010) Mean daily
-Maximum and Minimum Temperature (ºC) of
-Faisalabad during Rabi Season
+Rainfall (mm) of Faisalabad during Rabi Season Maximum and Minimum Temperature (ºC) of Faisalabad during Rabi Season
 
-Scope of the Study
-Pakistan experiences a more variable and unpredictable behavior of weather systems as compared to other countries of the region. This type of weather patterns results in the variations in the amount of available
-water both for irrigated and rain fed agricultural lands, which consequently results in the fluctuations in annual yield of wheat. Sometime heavy rains along with persistent cloudy conditions trigger the viral or
-pest attack on wheat crop and also cause rapid growth of weeds in the fields. It also prolongs the crop period, which causes delay in sowing of next Kharif crop. Rain just after sowing causes decrease in the
-number of germinated wheat seeds and also at the time of harvesting/threshing badly damage the final yield. Abnormal rise in day time temperature or late sowing raises crop water requirement at a particular
-7.1
-11.1
-19.1
-23.8
-23.7
-27.3
-21.7
-22.1
-27.1
-34.1
-5.8
-4.7
-7.5
-12.9
-18.3
-Mean Maximum Temp.
+Scope of the Study Pakistan experiences a more variable and unpredictable behavior of weather systems as compared to other countries of the region. This type of weather patterns results in the variations in the amount of available water both for irrigated and rain fed agricultural lands, which consequently results in the fluctuations in annual yield of wheat. Sometime heavy rains along with persistent cloudy conditions trigger the viral or pest attack on wheat crop and also cause rapid growth of weeds in the fields. It also prolongs the crop period, which causes delay in sowing of next Kharif crop. Rain just after sowing causes decrease in the number of germinated wheat seeds and also at the time of harvesting/threshing badly damage the final yield. Abnormal rise in day time temperature or late sowing raises crop water requirement at a particular 7.1 11.1 19.1 23.8 23.7 27.3 21.7 22.1 27.1 34.1 5.8 4.7 7.5 12.9 18.3 Mean Maximum Temp.
+
 Mean Minimum Temp.
 
-phase. This could also cause early completion of phase and early maturity of grains. Due to which shriveled grain is obtained. Therefore, in this study the impacts of variations of meteorological parameters along with
-variations in soil temperature and moisture are analyzed to understand crop growth and development throughout the crop life and their impact on final yield of the crop.
-1.3
-Objective of the Study
-•
-To analyze and study the impact of various meteorological parameters on crop growth and development.
-•
-To investigate the water satisfaction sensitivity of crop in Faisalabad region.
-•
-To develop the relationship between weather parameters, crops life cycle and yield obtained.
-•
-To determine the onset of pests and diseases related to weather elements.
-•
-To get a step forward for formulation of yield estimation.
+phase. This could also cause early completion of phase and early maturity of grains. Due to which shriveled grain is obtained. Therefore, in this study the impacts of variations of meteorological parameters along with variations in soil temperature and moisture are analyzed to understand crop growth and development throughout the crop life and their impact on final yield of the crop.
 
-Review of Agriculture Production in Pakistan
-Pakistan is an agrarian country whose population and economy directly or in directly (70% directly and
-16% indirectly) depends upon agriculture. Agriculture is the mainstay of Pakistan's economy. It accounts for 21% of the GDP and together with agro-based products fetches 80% of the country’s total export
-earnings. More than 43.7% of the labor force is engaged in this sector. [4] The crops are most vibrant sub- sector of agriculture, it consists of 39.6% of agriculture and 8.3% of GDP. Therefore, any change in
-agricultural productivity creates a ripple effect throughout the rural population of Pakistan. Thus, rapid agricultural growth can stimulate and sustain the pace of industrial growth, setting into motion a mutually
-reinforcing process of sustained economic growth. [5]
-Punjab contributes about 76% to annual food grain production in the country. According to the Punjab
-Agriculture department “Punjab has 57% of the total cultivated and 69% of the total cropped area of
-Pakistan. [6] It provides about 83% of cotton, 80% of wheat, 97% fine aromatic rice, 63% of sugarcane and 51% of maize to the national food production. Among fruits, mango accounts for 66%, citrus more
-than 95%, guava 82% and dates 34% of total national production of these fruits. [7]
-1.5
-Wheat Production in Pakistan
-Wheat flour or “Atta” is the common food for most Pakistanis, supplying 72% of caloric energy in the average diet. It is the main food cereal crop in Pakistan and is essentially better from nutritional point of
-view than most of the cereals and other foods. It is estimated that in our country wheat consumption per capita is 124 kg per year, which is the highest amount over the world. [5] The above fact reflects the
-importance of wheat crop for our country. Therefore, every year variation in the total yield of wheat due to several factors including climate and weather variations directly affects the economy and social balance of
-the country.
-Wheat is a Rabi crop that is grown in the winter season. In Pakistan sowing of wheat takes place from
-October to December and harvests from the month of March to May. In Punjab sowing months of wheat are November and December whereas harvesting period is April and May.
+1.3 Objective of the Study • To analyze and study the impact of various meteorological parameters on crop growth and development.
+
+• To investigate the water satisfaction sensitivity of crop in Faisalabad region.
+
+• To develop the relationship between weather parameters, crops life cycle and yield obtained.
+
+• To determine the onset of pests and diseases related to weather elements.
+
+• To get a step forward for formulation of yield estimation.
+
+Review of Agriculture Production in Pakistan Pakistan is an agrarian country whose population and economy directly or in directly (70% directly and 16% indirectly) depends upon agriculture. Agriculture is the mainstay of Pakistan's economy. It accounts for 21% of the GDP and together with agro-based products fetches 80% of the country’s total export earnings. More than 43.7% of the labor force is engaged in this sector. [4] The crops are most vibrant sub- sector of agriculture, it consists of 39.6% of agriculture and 8.3% of GDP. Therefore, any change in agricultural productivity creates a ripple effect throughout the rural population of Pakistan. Thus, rapid agricultural growth can stimulate and sustain the pace of industrial growth, setting into motion a mutually reinforcing process of sustained economic growth. [5] Punjab contributes about 76% to annual food grain production in the country. According to the Punjab Agriculture department “Punjab has 57% of the total cultivated and 69% of the total cropped area of Pakistan. [6] It provides about 83% of cotton, 80% of wheat, 97% fine aromatic rice, 63% of sugarcane and 51% of maize to the national food production. Among fruits, mango accounts for 66%, citrus more than 95%, guava 82% and dates 34% of total national production of these fruits. [7] 1.5 Wheat Production in Pakistan Wheat flour or “Atta” is the common food for most Pakistanis, supplying 72% of caloric energy in the average diet. It is the main food cereal crop in Pakistan and is essentially better from nutritional point of view than most of the cereals and other foods. It is estimated that in our country wheat consumption per capita is 124 kg per year, which is the highest amount over the world. [5] The above fact reflects the importance of wheat crop for our country. Therefore, every year variation in the total yield of wheat due to several factors including climate and weather variations directly affects the economy and social balance of the country.
+
+Wheat is a Rabi crop that is grown in the winter season. In Pakistan sowing of wheat takes place from October to December and harvests from the month of March to May. In Punjab sowing months of wheat are November and December whereas harvesting period is April and May.
 
 Chapter 2
-MATERIALS AND METHOD
-The wheat crop variety Arooj-2022 was cultivated at Regional Agrometeorological Center, Faisalabad in central Punjab during Rabi season 2022-23. Both the meteorological and crop phenological data were
-recorded during the crop season. In order to compile the data of each development stage, careful, precise and timely recording of the following parameters (table 2.1) were undertaken at 0300, 0900 and 1200
-(UTC) as routine practice.
-Table 2.1: Observed Meteorological Parameters
-1.
-Air Temperature (˚C)
-Maximum & Minimum Temperature (˚C)
-Soil Temperature (˚C)
-Relative Humidity (%)
-Precipitation (mm)
-Pan Evaporation at 0300 & 1200UTC
-Bright Sunshine Hours
-Wind Speed (km/hour)
-Wind Direction
-Soil Moisture (%)
-Crop data including phenological data and soil moisture observation was collected according to World
-Meteorological Organization (WMO) and Food & Agriculture Organization (FAO) standards.
-2.1 Phenology
-For a sound understanding of plant growth and development, observation and recording of phenological stages of plant is an essential element (table 2.2). The impact of precipitation, heat, drought, diseases,
-insects, and weeds can be more accurately predicted with a clear picture of the relationship between growth stage and plant response to stress. The optimum timing of fertilizer, irrigation, herbicide, insecticide and
-fungicide applications are also best determined by crop growth or phenological stage rather than calendar date. [8]
 
-Table 2.2: Phenological Stages of Wheat Crop 2022-23
+MATERIALS AND METHOD The wheat crop variety Arooj-2022 was cultivated at Regional Agrometeorological Center, Faisalabad in central Punjab during Rabi season 2022-23. Both the meteorological and crop phenological data were recorded during the crop season. In order to compile the data of each development stage, careful, precise and timely recording of the following parameters (table 2.1) were undertaken at 0300, 0900 and 1200 (UTC) as routine practice.
 
-Phenological stage
-Date
 1.
+
+Air Temperature (˚C) Maximum & Minimum Temperature (˚C) Soil Temperature (˚C) Relative Humidity (%) Precipitation (mm) Pan Evaporation at 0300 & 1200UTC Bright Sunshine Hours Wind Speed (km/hour) Wind Direction Soil Moisture (%) Crop data including phenological data and soil moisture observation was collected according to World Meteorological Organization (WMO) and Food & Agriculture Organization (FAO) standards.
+
+2.1 Phenology For a sound understanding of plant growth and development, observation and recording of phenological stages of plant is an essential element (table 2.2). The impact of precipitation, heat, drought, diseases, insects, and weeds can be more accurately predicted with a clear picture of the relationship between growth stage and plant response to stress. The optimum timing of fertilizer, irrigation, herbicide, insecticide and fungicide applications are also best determined by crop growth or phenological stage rather than calendar date. [8]
+
+Phenological stage Date 1.
 
 Full Maturity
 
-2.1.1 Phenological Observations
-Generally, the field selected for Phenological observations should be of one hector in size but in this case area of field selected for observation was half acre and it was divided into 4 replications. Over all 10 plants
-were selected from each replication. These plants were tagged in a row in each replication. Thus, phenological observations were recorded on 40 plants and continued throughout the period on the same
-plants.
-Total number of plants in a particular phenological phase at the same time was observed from each replication on every Monday, Wednesday and Saturday and these observations were recorded on the
-prescribed Performa. When 10% of the selected plants were in certain phase, that particular phase was considered to be started. If 50% of the selected plants displayed a certain phase, that phase was considered
-to be in full swing. Similarly, 75% occurrence of certain phase displayed by the selected plants was considered as completion of that particular phase and next Phenological phase observations were started
-at their proper time. Thus, next phenological stage is not bound to appear after the completion of first one.
+2.1.1 Phenological Observations Generally, the field selected for Phenological observations should be of one hector in size but in this case area of field selected for observation was half acre and it was divided into 4 replications. Over all 10 plants were selected from each replication. These plants were tagged in a row in each replication. Thus, phenological observations were recorded on 40 plants and continued throughout the period on the same plants.
+
+Total number of plants in a particular phenological phase at the same time was observed from each replication on every Monday, Wednesday and Saturday and these observations were recorded on the prescribed Performa. When 10% of the selected plants were in certain phase, that particular phase was considered to be started. If 50% of the selected plants displayed a certain phase, that phase was considered to be in full swing. Similarly, 75% occurrence of certain phase displayed by the selected plants was considered as completion of that particular phase and next Phenological phase observations were started at their proper time. Thus, next phenological stage is not bound to appear after the completion of first one.
 
 It has been observed that at a time two phenological phases or no phase can exist.
-2.2 Methodology
-In this study the impact of different meteorological/non-meteorological parameters in comparison with the normal (1981-2010), including soil temperature and soil moisture, amount of seed per acre cultivated, time
-of sowing, fertilizer intake, number and timing of irrigation water added and pest attack/pesticide used over crop growth, development and final yield are discussed.
+
+2.2 Methodology In this study the impact of different meteorological/non-meteorological parameters in comparison with the normal (1981-2010), including soil temperature and soil moisture, amount of seed per acre cultivated, time of sowing, fertilizer intake, number and timing of irrigation water added and pest attack/pesticide used over crop growth, development and final yield are discussed.
 
 Chapter 3
-RESULTS AND DISCUSSION
-In this chapter, variations in meteorological and non-meteorological parameters and their impact on the wheat crop is analyzed along with a brief summary of whole wheat crop’s life cycle. Normally the wheat
-crop takes 120-140 days to get fully mature. The crop is cultivated in the start of November up to the mid of December. In order to investigate the chief causes about variation in the crop’s growth, development
-and yield related to varying weather conditions and some other factors during each phenological stages of wheat crop, different meteorological parameters are studied as well.
-Table 3.1: Brief Summary of the Wheat Crop
 
-Field size
-4 kanal
+RESULTS AND DISCUSSION In this chapter, variations in meteorological and non-meteorological parameters and their impact on the wheat crop is analyzed along with a brief summary of whole wheat crop’s life cycle. Normally the wheat crop takes 120-140 days to get fully mature. The crop is cultivated in the start of November up to the mid of December. In order to investigate the chief causes about variation in the crop’s growth, development and yield related to varying weather conditions and some other factors during each phenological stages of wheat crop, different meteorological parameters are studied as well.
 
-Crop variety
-Arooj-2022
+Field size 4 kanal
+
+Crop variety Arooj-2022
 
 Date of Sowing
 
-Information about any disease/pest
-Aphid,
-Rust attack,
-Pesticides
-And weedicides details
- Buctrilsaper 300ml/Hec, Axil 330 ml/Hec
+Information about any disease/pest Aphid, Rust attack, Pesticides And weedicides details Buctrilsaper 300ml/Hec, Axil 330 ml/Hec
 
-Quantity of seed per acre
-50 Kg
-Row spacing
- 30cm
-Schedule and quantity of supplied dose of
+Quantity of seed per acre 50 Kg Row spacing 30cm Schedule and quantity of supplied dose of
 
-1 bag Potash,2 bag DAP at sowing
-fertilizer
-1 bag Urea
-at 1st Irrigation
-Type of irrigation
-Flood irrigation
+1 bag Potash,2 bag DAP at sowing fertilizer 1 bag Urea at 1st Irrigation Type of irrigation Flood irrigation
 
-06-12-2022 (First irrigation)
-Irrigation schedule
-11-01-2023 (Second irrigation)
-24-02-2023 (Third irrigation)
-07-03-2023 (Fourth irrigation)
-Heat units consumed from sowing to full
+06-12-2022 (First irrigation) Irrigation schedule 11-01-2023 (Second irrigation) 24-02-2023 (Third irrigation) 07-03-2023 (Fourth irrigation) Heat units consumed from sowing to full
 
 maturity
 
-Total days taken by the crop from sowing to full maturity
-Date of harvesting
+Total days taken by the crop from sowing to full maturity Date of harvesting
 
-Actual/ Potential yield
-2040/3000 kg /acre
+Actual/ Potential yield 2040/3000 kg /acre
 
-3.1
-Rainfall and Wheat Crop Growth
-Rainfall is one of the most important factors that affect annual wheat production in Pakistan. In time or effective rainfall i.e., before sowing and shooting to grain formation stage is greatly beneficial. In the same
-way, rain just after sowing and before germination and at the time of full maturity negatively affect crop growth and ultimately reduce the yield. [9]
-During the crop season 2022–23, The months of November, January, March and April received above than normal rainfall while December and February received below rainfall. March received the highest
-amount of rainfall. During the Month of January, a spell of 30.6mm occurred on 29th January during shooting stage. Overall 62% above Normal precipitation was observed during the crop life.
+3.1 Rainfall and Wheat Crop Growth Rainfall is one of the most important factors that affect annual wheat production in Pakistan. In time or effective rainfall i.e., before sowing and shooting to grain formation stage is greatly beneficial. In the same way, rain just after sowing and before germination and at the time of full maturity negatively affect crop growth and ultimately reduce the yield. [9] During the crop season 2022–23, The months of November, January, March and April received above than normal rainfall while December and February received below rainfall. March received the highest amount of rainfall. During the Month of January, a spell of 30.6mm occurred on 29th January during shooting stage. Overall 62% above Normal precipitation was observed during the crop life.
 
-Figure 3.1: Comparison of Monthly observed rainfall with Normal (1981-2010) at Faisalabad during Rabi season 2022-23
+Observed Rainfall(mm) Normal(1981-2010)
 
-Observed Rainfall(mm)
-Normal(1981-2010)
+Year Phenological stage Day Rainfall(mm) Total Precipitation During Stage (mm) Monthly Total (mm)
 
-Table 3.2: Daily Rainfall History of the Crop Life 2022-23
-Year
-Phenological stage
-Day
-Rainfall(mm)
-Total
-Precipitation
-During Stage
-(mm)
-Monthly Total
-(mm)
+Germination 3.0
 
-Germination
-3.0
-
-Germination
-4.0
+Germination 4.0
 
 --
 
---
-4.0
+-- 4.0
 
 0.9
 
-2.3
-2.3
+2.3 2.3
 
 0.1
 
@@ -375,8 +192,7 @@ TR
 
 TR
 
-TR
-30.7
+TR 30.7
 
 --
 
@@ -386,8 +202,7 @@ TR
 
 6.4
 
-TR
-6.6
+TR 6.6
 
 Milk Maturity March
 
@@ -399,8 +214,7 @@ TR
 
 12.0
 
-14.4
-30.2
+14.4 30.2
 
 6.0
 
@@ -410,237 +224,85 @@ TR
 
 55.2
 
-17.4
-42.4
+17.4 42.4
 
- Full Maturity
+Full Maturity
 
 6.0
 
 Full Maturity
 
-Full Maturity
-10.6
+Full Maturity 10.6
 
-Harvesting
---
+Harvesting --
 
-Irrigation during Crop Growth
-The wheat crop was irrigated four times during the entire crop season before full maturity. First irrigation was made to the wheat crop 26 days after sowing during tillering stage. During the shooting stage, second
-irrigation was made. Third irrigation was made during flowering stage. Fourth irrigation was made at the start of milk maturity stage.
-3.3
-Air Temperature and Wheat Crop Growth
-Air temperature is also one of the most important climatic variables that affect plant life. Plants growth is restricted to certain limits of air temperature. An average increase of 1.9 °C in the mean minimum
-temperature is recorded in the Punjab over the past 54 years (1960-2013). The increase of 1.4 °C in the mean minimum temperature is projected for the next 30 years. This projected increase is a matter of concern
-for food and agriculture stakeholders in the Punjab province. [10]
- The main dry matter process i.e., photosynthesis is also temperature dependent. Hence three temperature values for a plant growth are of particular importance.
-• Biological Zero: is the minimum temperature below which plant growth stops; for wheat crop it
-ranges between 0°C and 5°C.
+Irrigation during Crop Growth The wheat crop was irrigated four times during the entire crop season before full maturity. First irrigation was made to the wheat crop 26 days after sowing during tillering stage. During the shooting stage, second irrigation was made. Third irrigation was made during flowering stage. Fourth irrigation was made at the start of milk maturity stage.
+
+3.3 Air Temperature and Wheat Crop Growth Air temperature is also one of the most important climatic variables that affect plant life. Plants growth is restricted to certain limits of air temperature. An average increase of 1.9 °C in the mean minimum temperature is recorded in the Punjab over the past 54 years (1960-2013). The increase of 1.4 °C in the mean minimum temperature is projected for the next 30 years. This projected increase is a matter of concern for food and agriculture stakeholders in the Punjab province. [10] The main dry matter process i.e., photosynthesis is also temperature dependent. Hence three temperature values for a plant growth are of particular importance.
+
+• Biological Zero: is the minimum temperature below which plant growth stops; for wheat crop it ranges between 0°C and 5°C.
+
 • Optimum Temperature: at which maximum plant growth occurs. For wheat crop its value is 25°C.
+
 • Maximum Temperature: above which the plant growth stops. For wheat crop its value is 30-32°C.
+
 [11]
 
-Detail of Mean Monthly Air Temperature, Monthly Mean Maximum and Minimum Temperature and
-Absolute Maximum and Minimum temperature are presented in Table – 3.3 along with Normal (1981-
-2010) values and is also shown in following figures (3.2 – 3.4).
+Detail of Mean Monthly Air Temperature, Monthly Mean Maximum and Minimum Temperature and Absolute Maximum and Minimum temperature are presented in Table – 3.3 along with Normal (1981- 2010) values and is also shown in following figures (3.2 – 3.4).
 
-Figure3.2: Mean Monthly Minimum Temperature
-(ºC) of Faisalabad during the Rabi Season
-Figure3.3: Mean Monthly Maximum Temperature
-(ºC) of Faisalabad during the Rabi Season
+Figure3.2: Mean Monthly Minimum Temperature (ºC) of Faisalabad during the Rabi Season Figure3.3: Mean Monthly Maximum Temperature (ºC) of Faisalabad during the Rabi Season
 
-Figure 3.4: Mean Monthly Temperature during
 2022-23
 
-Temperature(oC)
-Tmin: Observed VS
-Observed
-Normal(1981-2010)
+Temperature(oC) Tmin: Observed VS Observed Normal(1981-2010)
 
-Temperature(oC)
-Tmax: Observed VS
-Observed
-Normal(1981-2010)
-5.0
-10.0
-15.0
-20.0
-25.0
-30.0
-Temperature(oC)
-Tmean: Observed VS
-Observed
-Normal(1981-2010)
+Temperature(oC) Tmax: Observed VS Observed Normal(1981-2010) 5.0 10.0 15.0 20.0 25.0 30.0 Temperature(oC) Tmean: Observed VS Observed Normal(1981-2010)
 
-During the crop season of 2022–23, mean day time maximum temperature remained around normal during crop life except the month of February when it was above than normal value. Mean night time
-minimum temperature also remained slightly above normal during the most of the crop life especially during the month of February and March. Mean daily temperatures also remained around the normal values
-during most of the crop season expect February when it was above normal.
-Table3.3: Mean Monthly Temperatures during Rabi Season 2022-23
-Mean
-Monthly (°C)
-Monthly
-Mean Max.(°C)
-Monthly
-Mean Min(°C)
-Absolute
-Max. (°C)
-Absolute
-Min. (°C)
-Nov-2022
-20.3
-(19.2)
-28.2
-(27.2)
-12.4
-(11.5)
-33.5
-(34.0)
-8.0
-(2.5)
-Dec-2022
-14.6
-(13.7)
-21.8
-(21.6)
-7.4
-(6.3)
-27.0
-(29.2)
-3.0
-(-1.3)
-Jan-2023
-11.6
-(11.8)
-18.4
-(18.7)
-4.8
-(5.0)
-23.0
-(26.2)
-(-1.0)
-Feb-2023
-18.4
-(14.8)
-26.1
-(22.0)
-10.7
-(7.9)
-30.5
-(30.8)
-6.8
-(0.0)
-Mar-2023
-21.8
-(20.0)
-28.1
-(27.6)
-15.4
-(13.7)
-32.5
-(37.0)
-12.0
-(3.5)
-April-2023
-26.0
-(26.2)
-33.6
-(34.1)
-18.4
-(18.9)
-39.5
-(44.0)
-14.5
-(7.0)
- ( ) in Table 3.3 shows Normal values (1981-2010)
-3.4
-Soil Moisture Observations during Crop Growth
-Soil moisture plays a vital role during crop’s life. Soil moisture content is proportional to rainfall and intake of irrigated water and is inversely proportional to evapotranspiration from the plant and its surroundings.
-Variation in soil moisture during crop’s life play important role in plant growth and development. Water or soil moisture requirement of wheat crop varies during different growth or Phenological stages. Highest
-amount is needed during flowering stage followed by grain formation stages and then vegetative stages
-[12].
-To calculate soil moisture, soil samples are taken on 7th, 17thand 27th of each month in four replications at
-5, 10, 20, 30, 40, 50, 70 and 90 cm depths with the help of auger. However, in case of any anomalous event on the specific date, the sample can also be taken on the next day. Soil sample is then weighed and dried
-in the oven for about 8 hours. The dried sample is weighed again and moisture present in the soil is then calculated by the difference of weight between wet and dry samples as illustrated below:
+During the crop season of 2022–23, mean day time maximum temperature remained around normal during crop life except the month of February when it was above than normal value. Mean night time minimum temperature also remained slightly above normal during the most of the crop life especially during the month of February and March. Mean daily temperatures also remained around the normal values during most of the crop season expect February when it was above normal.
 
-𝑀𝑜𝑖𝑠𝑡𝑢𝑟𝑒(%) = (Weight of the cane containing soil before drying −Weight of the cane containing dry soil)
-(Weight of cane containing dry soil − weight of cane)
-× 100
-Moisture contents of the soil varied due to dry and wet spells throughout the season. After each effective irrigation or rain the moisture level increased in the shallow layers as compared to deep layers of the soil.
-During the crop season 2022–23, from the observed soil moisture data, figures (3.5 – 3.7) depicts that soil moisture remained satisfactory in general. It remained deficit at lesser depths during the early growth
-stage. The temperature remains normal during this period. Rainfall received during the crop season was above normal. Vertical axis shows the depth (cm) at which soil sample is taken and horizontal axis shows
-the date of soil sample collection.
+Table3.3: Mean Monthly Temperatures during Rabi Season 2022-23 Mean Monthly (°C) Monthly Mean Max.(°C) Monthly Mean Min(°C) Absolute Max. (°C) Absolute Min. (°C) Nov-2022 20.3 (19.2) 28.2 (27.2) 12.4 (11.5) 33.5 (34.0) 8.0 (2.5) Dec-2022 14.6 (13.7) 21.8 (21.6) 7.4 (6.3) 27.0 (29.2) 3.0 (-1.3) Jan-2023 11.6 (11.8) 18.4 (18.7) 4.8 (5.0) 23.0 (26.2) (-1.0) Feb-2023 18.4 (14.8) 26.1 (22.0) 10.7 (7.9) 30.5 (30.8) 6.8 (0.0) Mar-2023 21.8 (20.0) 28.1 (27.6) 15.4 (13.7) 32.5 (37.0) 12.0 (3.5) April-2023 26.0 (26.2) 33.6 (34.1) 18.4 (18.9) 39.5 (44.0) 14.5 (7.0) ( ) in Table 3.3 shows Normal values (1981-2010) 3.4 Soil Moisture Observations during Crop Growth Soil moisture plays a vital role during crop’s life. Soil moisture content is proportional to rainfall and intake of irrigated water and is inversely proportional to evapotranspiration from the plant and its surroundings.
 
-Figure 3.5: Soil moisture chrono Isopleths for Rabi Crop at Faisalabad for the year 2022-23.
+Variation in soil moisture during crop’s life play important role in plant growth and development. Water or soil moisture requirement of wheat crop varies during different growth or Phenological stages. Highest amount is needed during flowering stage followed by grain formation stages and then vegetative stages [12].
+
+To calculate soil moisture, soil samples are taken on 7th, 17thand 27th of each month in four replications at 5, 10, 20, 30, 40, 50, 70 and 90 cm depths with the help of auger. However, in case of any anomalous event on the specific date, the sample can also be taken on the next day. Soil sample is then weighed and dried in the oven for about 8 hours. The dried sample is weighed again and moisture present in the soil is then calculated by the difference of weight between wet and dry samples as illustrated below:
+
+𝑀𝑜𝑖𝑠𝑡𝑢𝑟𝑒(%) = (Weight of the cane containing soil before drying −Weight of the cane containing dry soil) (Weight of cane containing dry soil − weight of cane) × 100 Moisture contents of the soil varied due to dry and wet spells throughout the season. After each effective irrigation or rain the moisture level increased in the shallow layers as compared to deep layers of the soil.
+
+During the crop season 2022–23, from the observed soil moisture data, figures (3.5 – 3.7) depicts that soil moisture remained satisfactory in general. It remained deficit at lesser depths during the early growth stage. The temperature remains normal during this period. Rainfall received during the crop season was above normal. Vertical axis shows the depth (cm) at which soil sample is taken and horizontal axis shows the date of soil sample collection.
 
 Figure3.6: Soil moisture at different depths during wheat crop 2022-23
 
- Figure 3.7: Soil moisture at deep soils (90cm) during wheat crop 2022-23
-3.5
-Soil Temperature and Crop Growth
-Soil temperature is the most important parameter affecting the growth of the crop. Plants roots are very sensitive to the soil temperature. In comparison to air temperature, the amplitude of variation in soil
-temperature is much more pronounced because of the varying characteristics, texture, composition, and organic material of soil. Soil temperature influences the germination of seeds, the functional activity of the
-root system, the incidence of plant diseases and the rate of plant growth. The daytime soil temperature is more important than the night time temperature, because it is necessary to maintain the internal crop water
-status to match the evaporation rate. Optimal soil temperature for growth of wheat plant roots during the vegetative stage is below 20°C and is further lower than that for the shoots. [11]
+3.5 Soil Temperature and Crop Growth Soil temperature is the most important parameter affecting the growth of the crop. Plants roots are very sensitive to the soil temperature. In comparison to air temperature, the amplitude of variation in soil temperature is much more pronounced because of the varying characteristics, texture, composition, and organic material of soil. Soil temperature influences the germination of seeds, the functional activity of the root system, the incidence of plant diseases and the rate of plant growth. The daytime soil temperature is more important than the night time temperature, because it is necessary to maintain the internal crop water status to match the evaporation rate. Optimal soil temperature for growth of wheat plant roots during the vegetative stage is below 20°C and is further lower than that for the shoots. [11]
 
-Soil temperature is also an easy tool to predict the status of soil moisture content during varying conditions of air and soil throughout crop’s life. Generally, above normal condition of soil temperature at a particular
-depth indicates deficiency of soil moisture content and below normal soil temperature indicates satisfactory condition of soil moisture content.
-From the observed data, it is evident that generally, soil temperature increases gradually with increasing depths. Soil temperature varies as soil moisture varies from depth to depth and time to time. To measure
-soil temperature, the soil thermometers were installed at different depths to monitor the thermal regime of the soil. The soil temperatures in degree Celsius (℃) were observed and then recorded three times a day at
-0300, 0900 and 1200 UTC. The depth at which the soil temperatures were observed on daily basis includes
-5, 10, 20, 50 and 100 cm depths. It was observed that major root concentration is up to 40 cm.
-Note: This soil temperature data is collected from the soil observations taken at agromet observatory of
-RAMC Faisalabad situated near the experimental field of wheat crop. Therefore, this data tells us a general status of soil moisture of the soils of the area (which is not irrigated) and not of the crop’s field particularly,
-which is irrigated as per requirement. It is thus important to note that any deficiency in soil moisture indicated by soil temperature data may or may not be actually experienced by the crop’s soil, which was
-irrigated in accordance with water requirement of the crop several times during its life time.
-During the crop season 2022-23, soil temperature remained highest at all depths during month of April except for 100cm depth which was recorded highest during the month of November. It remained coolest
-in the month of January at all depths. (Data for 50cm depth is not available)
+Soil temperature is also an easy tool to predict the status of soil moisture content during varying conditions of air and soil throughout crop’s life. Generally, above normal condition of soil temperature at a particular depth indicates deficiency of soil moisture content and below normal soil temperature indicates satisfactory condition of soil moisture content.
 
- Figure 3.8: Soil temperature during wheat crop 2022-23
-3.6
-Heat Units Consumption during Crop Cycle
-Heat units, Growing Degree Days, effective heat units or growth units are a simple means of relating plant growth, development, and maturity to air temperature. Heat units are often used in agronomy, essentially
-5.0
-10.0
-15.0
-20.0
-25.0
-30.0
+From the observed data, it is evident that generally, soil temperature increases gradually with increasing depths. Soil temperature varies as soil moisture varies from depth to depth and time to time. To measure soil temperature, the soil thermometers were installed at different depths to monitor the thermal regime of the soil. The soil temperatures in degree Celsius (℃) were observed and then recorded three times a day at 0300, 0900 and 1200 UTC. The depth at which the soil temperatures were observed on daily basis includes 5, 10, 20, 50 and 100 cm depths. It was observed that major root concentration is up to 40 cm.
 
-Temperature(oC)
-Depth (cm)
+Note: This soil temperature data is collected from the soil observations taken at agromet observatory of RAMC Faisalabad situated near the experimental field of wheat crop. Therefore, this data tells us a general status of soil moisture of the soils of the area (which is not irrigated) and not of the crop’s field particularly, which is irrigated as per requirement. It is thus important to note that any deficiency in soil moisture indicated by soil temperature data may or may not be actually experienced by the crop’s soil, which was irrigated in accordance with water requirement of the crop several times during its life time.
+
+During the crop season 2022-23, soil temperature remained highest at all depths during month of April except for 100cm depth which was recorded highest during the month of November. It remained coolest in the month of January at all depths. (Data for 50cm depth is not available)
+
+3.6 Heat Units Consumption during Crop Cycle Heat units, Growing Degree Days, effective heat units or growth units are a simple means of relating plant growth, development, and maturity to air temperature. Heat units are often used in agronomy, essentially 5.0 10.0 15.0 20.0 25.0 30.0
+
+Temperature(oC) Depth (cm)
 
 to estimate or predict the length of the different phases of development in plants.
-The heat unit concept assumes a direct and linear relationship between plant growth and temperature. It starts with the assumption that total plant growth is dependent on the total amount of heat to which it is
-subjected during its life time. The heat units for a particular crop on any day are the difference between the daily mean temperature (T) and the base temperature (Tb) of the crop. Base temperature or Biological zero
-is the minimum temperature below which no growth occurs. The base temperature or threshold varies with different plants, and for the majority it ranges from 4.5 to 12. 5°C. Here for wheat crop base temperature is
-5°C. This concept assumes that a given cultivar requires the same summation (k) of the daily mean temperature for growing from one phenological stage to next stage, regardless of temperature distribution.
+
+The heat unit concept assumes a direct and linear relationship between plant growth and temperature. It starts with the assumption that total plant growth is dependent on the total amount of heat to which it is subjected during its life time. The heat units for a particular crop on any day are the difference between the daily mean temperature (T) and the base temperature (Tb) of the crop. Base temperature or Biological zero is the minimum temperature below which no growth occurs. The base temperature or threshold varies with different plants, and for the majority it ranges from 4.5 to 12. 5°C. Here for wheat crop base temperature is 5°C. This concept assumes that a given cultivar requires the same summation (k) of the daily mean temperature for growing from one phenological stage to next stage, regardless of temperature distribution.
+
 Generally, only positive values above the biological zero (Tb) are considered. The period of negative value is termed as “dormant” because crop does not grow under such conditions.
+
 In this study the effective method has been used for determining heat units which is represented by the following equation.
-𝐺𝐷𝐷= ∑(𝑇−𝑇𝑏) = 𝑘 𝑖𝑓 𝑇> 𝑇𝑏 and 𝐺𝐷𝐷= 0 = 𝑘 𝑖𝑓 𝑇< 𝑇𝑏
-Where T= Mean daily temperature, Tb = Biological Zero (5°C), k= Heat Unit [10].
-Inter Phase period for wheat crop during 2022-23 and corresponding heat units at RAMC Faisalabad observed at different phenological stages varies from phase to phase. Heat unit requirements of different
-phases and cumulative heat units for the crop have been worked out, are shown in figure 3.9 and Table–
-3.4. Total heat units consumed by the wheat crop were 1694.6 accumulated from germination to full
-maturity in 143 days. On average 11.8 heat units were consumed by the crop per day. Normally these heat units are consumed in 140 days at the rate of 11.6 heat units per day, which shows that the crop reached to
-full maturity in almost normal time. From figure 3.9 it is clear that crop consumed normal to above normal heat units during most of the vegetative stages. Below normal heat units were consumed during
-reproductive stages of flowering and full maturity. Milk Maturity stage again consumed higher than normal value of heat units. So most of the crop period experienced normal to higher than normal heat units.
 
-Figure 3.9: Heat units during crop life 2022-23
+𝐺𝐷𝐷= ∑(𝑇−𝑇𝑏) = 𝑘 𝑖𝑓 𝑇> 𝑇𝑏 and 𝐺𝐷𝐷= 0 = 𝑘 𝑖𝑓 𝑇< 𝑇𝑏 Where T= Mean daily temperature, Tb = Biological Zero (5°C), k= Heat Unit [10].
 
-Table 3.4: Heat Units Consumed by the Crop during Different Phenological Phases
+Inter Phase period for wheat crop during 2022-23 and corresponding heat units at RAMC Faisalabad observed at different phenological stages varies from phase to phase. Heat unit requirements of different phases and cumulative heat units for the crop have been worked out, are shown in figure 3.9 and Table– 3.4. Total heat units consumed by the wheat crop were 1694.6 accumulated from germination to full maturity in 143 days. On average 11.8 heat units were consumed by the crop per day. Normally these heat units are consumed in 140 days at the rate of 11.6 heat units per day, which shows that the crop reached to full maturity in almost normal time. From figure 3.9 it is clear that crop consumed normal to above normal heat units during most of the vegetative stages. Below normal heat units were consumed during reproductive stages of flowering and full maturity. Milk Maturity stage again consumed higher than normal value of heat units. So most of the crop period experienced normal to higher than normal heat units.
+
 S.
-Inter Phase
-Period
-No. of Days
-Taken
-Degree Days
-(T-5℃)
-Degree
-Days
 
-115.5
-132.5
-Third leaf
+Inter Phase Period No. of Days Taken Degree Days (T-5℃) Degree Days
+
+115.5 132.5 Third leaf
 
 110.5
 
@@ -652,8 +314,7 @@ Third leaf
 
 225.7
 
-Milk maturity
-293.8
+Milk maturity 293.8
 
 Wax maturity
 
@@ -663,336 +324,188 @@ Full maturity
 
 104.7
 
-Emergence to
-Maturity
-1694.6
+Emergence to Maturity 1694.6
 
 Degree Days
 
-3.7
-Relative Humidity (%)
-Relative humidity (RH) is simply defined as the ratio of the actual amount of water vapor (grams) in the unit mass of air at a given temperature to the mass of water vapor in the same sample of air when it is
-saturated at the same temperature. RH tells us about how much a sample of air around the observing station is saturated. It is expressed in percentage. For example, if relative humidity of the atmosphere is 60%. It
-means that 60% of the atmosphere is saturated with water vapor or moisture and 40% of the present moisture may be added more to saturate (100% RH) the atmosphere. RH is temperature and moisture
-dependent and may vary if moisture content or temperature of the atmosphere is changed. It is always inversely proportional to temperature and ETo. RH is calculated with the help of dry bulb and wet bulb
-temperatures fitted in the Stevenson screen. During the crop season 2022-23, RH remained below than the normal values during the vegetative growth period but it remained normal during the reproductive growth
-period.
-3.8
-Reference Crop Evapotranspiration, ETo (mm/day)
-Reference Crop Evapotranspiration or ETo is defined as the rate of Evapotranspiration from an extended surface of 8– 15 cm tall green grass cover of uniform height, actively growing, completely shading the
-ground, free from disease and not short of water. The standard method of calculating ETo is revised
-Penman-Monteith equation. Using this method, ETo is calculated using data of temperature (maximum and minimum), wind speed, relative humidity and solar radiation. Solar radiations are calculated with the help
-of total bright sunshine hour data at a particular station. Sunshine duration recorders with sunshine cards are used for sunshine hours recording [12].
-During the crop season 2022-23, relative humidity remained below normal during the vegetative growth period but it remained normal during the reproductive growth period whereas, ETо also remained below
-normal during the whole crop life.
-3.9
-Wind and Crop Growth
-Wind also play significant role in plant growth besides its role in variation of ETо. Normal/gentle wind is necessary for the movement of carbon dioxide to plant canopy so that normal rate of photosynthesis
-continue in day time. Strong cyclonic or stormy wind accompanied by any severe weather event like hail storm, heavy shower may badly affect/damage the crop. During the Rabi crop period 2022-23, a few such
-events occurred during the crop life but wind guest recorded was below 15 knots in each of the cases and no damaged was reported. Average wind speed remained below normal during most of the crop life.
+3.7 Relative Humidity (%) Relative humidity (RH) is simply defined as the ratio of the actual amount of water vapor (grams) in the unit mass of air at a given temperature to the mass of water vapor in the same sample of air when it is saturated at the same temperature. RH tells us about how much a sample of air around the observing station is saturated. It is expressed in percentage. For example, if relative humidity of the atmosphere is 60%. It means that 60% of the atmosphere is saturated with water vapor or moisture and 40% of the present moisture may be added more to saturate (100% RH) the atmosphere. RH is temperature and moisture dependent and may vary if moisture content or temperature of the atmosphere is changed. It is always inversely proportional to temperature and ETo. RH is calculated with the help of dry bulb and wet bulb temperatures fitted in the Stevenson screen. During the crop season 2022-23, RH remained below than the normal values during the vegetative growth period but it remained normal during the reproductive growth period.
 
-2.1. Crop Water Requirement (CWR)
-The crop water requirement (ET crop) is defined as the depth (or amount) of water needed to meet the water loss through evapotranspiration. In other words, it is the amount of water needed by the various crops
-to grow optimally.
-The crop water need always refers to a crop grown under optimal conditions, i.e. a uniform crop, actively growing, completely shading the ground, free of diseases, and favorable soil conditions (including fertility
-and water). The crop thus reaches its full production potential under the given environment.
+3.8 Reference Crop Evapotranspiration, ETo (mm/day) Reference Crop Evapotranspiration or ETo is defined as the rate of Evapotranspiration from an extended surface of 8– 15 cm tall green grass cover of uniform height, actively growing, completely shading the ground, free from disease and not short of water. The standard method of calculating ETo is revised Penman-Monteith equation. Using this method, ETo is calculated using data of temperature (maximum and minimum), wind speed, relative humidity and solar radiation. Solar radiations are calculated with the help of total bright sunshine hour data at a particular station. Sunshine duration recorders with sunshine cards are used for sunshine hours recording [12].
+
+During the crop season 2022-23, relative humidity remained below normal during the vegetative growth period but it remained normal during the reproductive growth period whereas, ETо also remained below normal during the whole crop life.
+
+3.9 Wind and Crop Growth Wind also play significant role in plant growth besides its role in variation of ETо. Normal/gentle wind is necessary for the movement of carbon dioxide to plant canopy so that normal rate of photosynthesis continue in day time. Strong cyclonic or stormy wind accompanied by any severe weather event like hail storm, heavy shower may badly affect/damage the crop. During the Rabi crop period 2022-23, a few such events occurred during the crop life but wind guest recorded was below 15 knots in each of the cases and no damaged was reported. Average wind speed remained below normal during most of the crop life.
+
+2.1. Crop Water Requirement (CWR) The crop water requirement (ET crop) is defined as the depth (or amount) of water needed to meet the water loss through evapotranspiration. In other words, it is the amount of water needed by the various crops to grow optimally.
+
+The crop water need always refers to a crop grown under optimal conditions, i.e. a uniform crop, actively growing, completely shading the ground, free of diseases, and favorable soil conditions (including fertility and water). The crop thus reaches its full production potential under the given environment.
+
 The crop water need mainly depends on:
+
 The climate: in a sunny and hot climate crops need more water per day than in a cloudy and cool climate.
+
 The crop type: crops like maize or sugarcane need more water than crops like millet or sorghum.
-The growth stage of the crop; fully grown crops need more water than crops that have just been planted
-[12]. Sajjad et al., used the output dataset from the Coordinated Regional Climate Downscaling Experiment
-(CORDEX) for South Asia, under two emission scenarios (RCP 4.5 and RCP8.5) concluded that future
-CWR is continuously increasing over the entire region, whereas significant CWR increase was observed for the months of August to November over northern and southern parts during the near future (2011-
-2040). The highest significant increase in CWR rate was recorded in August (0.24 mm/day) and September
-(0.22 mm/day) over Pakistan at 95% confidence level. The highest significant increase in CWR rate was observed in August (0.56 mm/day) and March (0.30 mm/day) over the whole country. Projected seasonal
-CWR indicated significant increase under RCP4.5 for Rabi seasons (0.43 mm/day) over the entire country during near future (2011-2040) [14].
 
-Table 3.5: Summary of some Meteorological Parameters during Rabi Season 2022-23
-Wind speed (km/hr)
-RH (%)
-Days with mean RH ≥80%
-ETо (mm/day)
-Nov-22
-1.6 (1.0)
-57 (71.2)
+The growth stage of the crop; fully grown crops need more water than crops that have just been planted [12]. Sajjad et al., used the output dataset from the Coordinated Regional Climate Downscaling Experiment (CORDEX) for South Asia, under two emission scenarios (RCP 4.5 and RCP8.5) concluded that future CWR is continuously increasing over the entire region, whereas significant CWR increase was observed for the months of August to November over northern and southern parts during the near future (2011- 2040). The highest significant increase in CWR rate was recorded in August (0.24 mm/day) and September (0.22 mm/day) over Pakistan at 95% confidence level. The highest significant increase in CWR rate was observed in August (0.56 mm/day) and March (0.30 mm/day) over the whole country. Projected seasonal CWR indicated significant increase under RCP4.5 for Rabi seasons (0.43 mm/day) over the entire country during near future (2011-2040) [14].
 
-2.1
-Dec-22
-1.4 (1.4)
-65(74.7)
-Jan-23
-1.7 (2.3)
-63 (76.5)
-Feb-23
-1.8 (3.0)
-53 (71.2)
+Wind speed (km/hr) RH (%) Days with mean RH ≥80% ETо (mm/day) Nov-22 1.6 (1.0) 57 (71.2)
 
-2.1
-Mar-23
-2.4 (3.9)
-64 (65.6)
+2.1 Dec-22 1.4 (1.4) 65(74.7) Jan-23 1.7 (2.3) 63 (76.5) Feb-23 1.8 (3.0) 53 (71.2)
 
-2.9
-Apr-23
-2.7 (3.6)
-50 (50.8)
+2.1 Mar-23 2.4 (3.9) 64 (65.6)
+
+2.9 Apr-23 2.7 (3.6) 50 (50.8)
 
 4.4
 
-3.10 Calculation of Crop Water Requirement (CWR)
-After determining ETo, the ET crop/crop water requirement (CWR) can be predicted using the appropriate crop-coefficient (Kc)
-ETcrop = Kc. ETo or CWR = Kc. ETo
-Crop coefficient (Kc) is actually the ratio of maximum crop evapotranspiration to reference crop evapotranspiration. For wheat, this ratio becomes 1 during the reproductive cycle (heading to grain
-formation) otherwise it remains less than 1 bearing minimum values during the early age of the crop and at maturity. The crop water requirement was calculated for the period from emergence to wax maturity.
-After wax ripeness practically, there is no need of irrigation because the hot and dry conditions are desirable to achieve rapid hard maturity. A schematic variation of the crop coefficient related to different crop
-development stages under normal conditions is given in figure 3.10.
+3.10 Calculation of Crop Water Requirement (CWR) After determining ETo, the ET crop/crop water requirement (CWR) can be predicted using the appropriate crop-coefficient (Kc) ETcrop = Kc. ETo or CWR = Kc. ETo Crop coefficient (Kc) is actually the ratio of maximum crop evapotranspiration to reference crop evapotranspiration. For wheat, this ratio becomes 1 during the reproductive cycle (heading to grain formation) otherwise it remains less than 1 bearing minimum values during the early age of the crop and at maturity. The crop water requirement was calculated for the period from emergence to wax maturity.
 
-Figure 3.10: March of Crop Coefficient (Kc) for normal duration of Wheat growing season (Emergence to
+After wax ripeness practically, there is no need of irrigation because the hot and dry conditions are desirable to achieve rapid hard maturity. A schematic variation of the crop coefficient related to different crop development stages under normal conditions is given in figure 3.10.
+
 Wax- Maturity).
+
 The water requirements can be calculated in millimeters and they can be converted into cubic meter per hectare by following equation:
-10 mm =
-1 cubic meter per hectare
-Along with the loss of water through evaporation and transpiration, the compensation of this loss by precipitation may also be considered. Normally most of the plants grow successfully and utilize water for
-0.1
-0.2
-0.3
-0.4
-0.5
-0.6
-0.7
-0.8
-0.9
-NOV
-DEC
-JAN
-FEB
-MAR
-APR
-MAY
-Months
-Kc height less than 1000m a.m.s.l height at or above 1000m a.m.s.l
+
+10 mm = 1 cubic meter per hectare Along with the loss of water through evaporation and transpiration, the compensation of this loss by precipitation may also be considered. Normally most of the plants grow successfully and utilize water for 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 NOV DEC JAN FEB MAR APR MAY Months Kc height less than 1000m a.m.s.l height at or above 1000m a.m.s.l
 
 the soil at 50% and above available soil moisture. The maximum demand (daily or seasonal) may be equal to the reference crop evapotranspiration (ETo) which is utilized through soil moisture [15].
-During the Rabi Season 2022-23 in Faisalabad, crop water requirement of wheat crop was observed below normal during the crop life. (Fig 3.11& Table 3.6). ETo also are remained below normal during all of the
-phonological stages. The available irrigated and rain water satisfied moisture requirement of the crop, which resulted in normal crop growth.
+
+During the Rabi Season 2022-23 in Faisalabad, crop water requirement of wheat crop was observed below normal during the crop life. (Fig 3.11& Table 3.6). ETo also are remained below normal during all of the phonological stages. The available irrigated and rain water satisfied moisture requirement of the crop, which resulted in normal crop growth.
 
 Figure3.11: Crop Water Requirement (CWR) During Crop Life
-Table 3.6: Heat Crop water requirement during different phenological phases
 
 S. No.
-Inter Phase
-Period
-No. of Days
-Taken
-ETo
-(mm)
-*ETo
-(mm)
-CWR=Kc
-ETO
-CWR=Kc
-*ETO
 
-19.4
-29.5
-13.15
-Third leaf
+Inter Phase Period No. of Days Taken ETo (mm) *ETo (mm) CWR=Kc ETO CWR=Kc *ETO
 
-17.1
-12.97
-18.2
-43.8
+19.4 29.5 13.15 Third leaf
 
-40.37
-68.2
-48.3
+17.1 12.97 18.2 43.8
 
-44.22
-58.6
+40.37 68.2 48.3
 
-17.6
-32.5
-12.24
-22.6
-32.2
-74.1
-16.08
+44.22 58.6
 
-Milk maturity
-52.1
+17.6 32.5 12.24 22.6 32.2 74.1 16.08
 
-62.1
-16.28
+Milk maturity 52.1
 
-19.4
-Wax maturity
+62.1 16.28
 
-27.6
-32.4
-5.54
+19.4 Wax maturity
 
-6.5
-Full maturity
+27.6 32.4 5.54
 
-23.8
-37.8
-3.59
+6.5 Full maturity
 
-5.7
-Emergence-
-Full maturity
+23.8 37.8 3.59
 
-281.9
-430.4
-164.4
-256.2
-*Normals based upon 1991-2010 data.
-0.00
-20.00
-40.00
-60.00
-80.00
-Emergence Third leaf
-FloewringMilk Maturity
-Wax MaturityFull Maturity
-CWR(mm)
+5.7 Emergence- Full maturity
 
-3.10
-Agro Meteorological Summary of Crop Cycle
-Different meteorological parameters were recorded at various phases of wheat crop during rabi season
-2022-23. The impact of these parameters at different phenological stages of wheat crop is discussed as under.
-3.10.1
-Wheat crop was sown at the start of second decade of November which is recommended/normal time for sowing. The mean temperature was around normal value and there was absolutely no rain after sowing so
-overall conditions were satisfactory for sowing.
-3.10.2
-Emergence phase was distinguished by the appearance of spike above the ground. When plant emergence stage was completed; the field was divided into four replications. The mean relative humidity during this
-phase was 51%. Mean air temperature during emergence was 18.4°C. No rainfall was reported during this stage. Crop growth was reported satisfactory and no abnormal weather was reported during emergence.
-3.10.3
-This phase is characterized by the appearance and extension of the third leaf to 1-2 centimeter length. This phase took 05 days to complete. The mean relative humidity was 60%; mean air temperature was17.2°C.
+281.9 430.4 164.4 256.2 *Normals based upon 1991-2010 data.
+
+0.00 20.00 40.00 60.00 80.00 Emergence Third leaf FloewringMilk Maturity Wax MaturityFull Maturity CWR(mm)
+
+3.10 Agro Meteorological Summary of Crop Cycle Different meteorological parameters were recorded at various phases of wheat crop during rabi season 2022-23. The impact of these parameters at different phenological stages of wheat crop is discussed as under.
+
+3.10.1 Wheat crop was sown at the start of second decade of November which is recommended/normal time for sowing. The mean temperature was around normal value and there was absolutely no rain after sowing so overall conditions were satisfactory for sowing.
+
+3.10.2 Emergence phase was distinguished by the appearance of spike above the ground. When plant emergence stage was completed; the field was divided into four replications. The mean relative humidity during this phase was 51%. Mean air temperature during emergence was 18.4°C. No rainfall was reported during this stage. Crop growth was reported satisfactory and no abnormal weather was reported during emergence.
+
+3.10.3 This phase is characterized by the appearance and extension of the third leaf to 1-2 centimeter length. This phase took 05 days to complete. The mean relative humidity was 60%; mean air temperature was17.2°C.
+
 This phase experienced no rainfall. Normal crop growth was reported during this stage.
-3.10.4
-This stage of crop growth took 06 days to complete. The mean air temperature during this phenological stage was 13.3°C and mean relative humidity was 67%. Rainfall amount recorded was 2.3 mm during this
-stage.
-3.10.5
-During this phase stem extension occurred in the crop. The mean air temperature was 13.6°Cand mean relative humidity was 56% during this stage. Rainfall received was 30.7mm during this phase.
-3.10.6
-It is the initiation of reproductive stage of wheat crop. The mean air temperature was 19.2°C during the heading phase. The relative humidity was around 52%. No rain was received during this stage.
 
-3.10.7
-The mean air temperature during this stage was recorded as 21.1°C and mean relative humidity was 60%.
+3.10.4 This stage of crop growth took 06 days to complete. The mean air temperature during this phenological stage was 13.3°C and mean relative humidity was 67%. Rainfall amount recorded was 2.3 mm during this stage.
+
+3.10.5 During this phase stem extension occurred in the crop. The mean air temperature was 13.6°Cand mean relative humidity was 56% during this stage. Rainfall received was 30.7mm during this phase.
+
+3.10.6 It is the initiation of reproductive stage of wheat crop. The mean air temperature was 19.2°C during the heading phase. The relative humidity was around 52%. No rain was received during this stage.
+
+3.10.7 The mean air temperature during this stage was recorded as 21.1°C and mean relative humidity was 60%.
+
 Rainfall reported was 6.6 mm during flowering.
-3.10.8
-Seed formation is considered as the most important phenological stage of the plant growth. The mean air temperature was recorded as 22.3°C whereas mean relative humidity during this phase was 65%.
+
+3.10.8 Seed formation is considered as the most important phenological stage of the plant growth. The mean air temperature was recorded as 22.3°C whereas mean relative humidity during this phase was 65%.
+
 Precipitation of 30.2 was recorded during this phase. This stage took 08 days for completion.
-3.10.9
-The mean air temperature was 21.3°C and relative humidity was recorded as 65% during wax maturity phase. This stage took 08 days for its completion. This phase experienced 42.4 mm of rainfall.
-3.10.10 Full Maturity
-Wheat requires high temperature at this stage for maturity. This phase took 06 days to complete. The mean air temperature recorded during this phase was 22.4°C and the relative humidity was 52%. Rainfall
-observed was 10.6mm during this phase.
+
+3.10.9 The mean air temperature was 21.3°C and relative humidity was recorded as 65% during wax maturity phase. This stage took 08 days for its completion. This phase experienced 42.4 mm of rainfall.
+
+3.10.10 Full Maturity Wheat requires high temperature at this stage for maturity. This phase took 06 days to complete. The mean air temperature recorded during this phase was 22.4°C and the relative humidity was 52%. Rainfall observed was 10.6mm during this phase.
 
 Chapter 4
-CONCLUSION AND RECOMMENDATIONS
-The crop variety Arooj-2022 was cultivated in the experimental field of Ayub Agriculture Research
-Institute Faisalabad. The sowing time of wheat is a very important factor. The time of sowing of wheat is directly related to yield and quality of grain produced.
-According to Table – 3.1 and Chapter-3 (Results and Discussion), the crop was sown at the proper time.
-Amount of seed cultivated per acre was 50 kg which is sufficient for the crop cultivated up to the start of
-December. Fertilizer intake was also enough i.e., 2 bags DAP and 1bag Potash at the time of sowing were added to the crop while 1 bag urea during 1st irrigation was added. Above normal rainfall was reported in
-the month of January while overall rainfall was much below normal during the crop life. Irrigation was made three times during the crop season which mostly fulfilled the water requirement of the crop. Day time
-temperatures were observed mostly in normal range. Night temperatures were observed mostly above normal values. RH was observed to be below normal to normal during the crop season. However, ETo
-remained below normal during the crop’s life. As a result, normal moisture content of soil in major root zone was observed during most of the crop life thus contributing to normal crop’s growth and development
-during vegetative stages. Total heat units consumed by the wheat crop were 1695 accumulated from emergence to full maturity in 143 days. On average 11.8 heat units were consumed by the crop per day.
-Normally these heat units are consumed at the rate of 11.6 heat units per day. From figure 3.9 it is clear that crop consumed above normal heat units at tillering, shooting and milk maturity stages for all the
-remaining stage it used below normal heat units.
-Excess of weeds also play important role in yield’s reduction as weeds consume considerable amount of moisture and other soil nutrients and negatively affect crop’s growth at the same time. But this issue can
-be resolved by proper and timely use of recommended varieties of weedicides. During 2022-23 recommended weedicides operations were performed in time, which also reinforced crop’s growth and
-production. Widely spread Rust attack was observed on the crop during its life cycle.
-4.1
-Conclusions
-During the Rabi season 2022-23, most of the air and soil weather parameters like soil temperature, rainfall, irrigation with suitable intervals, R. H and crop water requirement were in range required for normal crop
-growth. The normal day time and mean temperatures favor the normal completion of reproductive stages of grain formation and development. The favorable weather conditions resulted in high yield of the crop.
 
-4.2
-Recommendations
-Keeping above results and conclusions, following recommendations/suggestions are given to farmers and other stake holders to enhance wheat crop yield in central Punjab as well as all over Pakistan.
-1 – Farmers generally plant wheat late in rice-wheat, sugarcane-wheat, and cotton-wheat areas due to late
-harvesting of Kharif crop which results in drastic low yields because the crop is exposed to heat stress at grain formation stages (milk and wax maturity stages) leading to the formation of shriveled grain. Late-
-planted crop has lower germination, fewer tillers, smaller heads, shriveled grain and lower biomass than the timely planted crop. Any delay in planting would reduce yield drastically. To achieve good yield,
-sowing of wheat should be completed up to the mid of November in the irrigated planes of Punjab.
-2 – Wheat plant water requirement is maximum during flowering and grain formation stages (milk and
-wax maturity stages) followed by vegetative stages. Therefore, farmers and other decision makers should make possible the availability of irrigation water to wheat crop keeping this order in mind to get maximum
-crop yield.
-3 – Diseases, especially rusts (Stripe/Yellow Rust, Stem Rust, and Leaf Rust) and emerging scenario of
-increased incidences of Powdery Mildew and aphid are major biotic stresses of wheat crop that inflict heavy losses when in epidemic form. A simple one-year disease epidemic could cause a 2-3 billion-rupees
-loss to the country because of reduction in wheat yield (an example of 1977-78 epidemics). Therefore, breeders and pathologists should join hands to develop disease resistant and high yielding varieties in order
-to cope with threats created by ever changing rust races by using approaches like durable resistance.
+CONCLUSION AND RECOMMENDATIONS The crop variety Arooj-2022 was cultivated in the experimental field of Ayub Agriculture Research Institute Faisalabad. The sowing time of wheat is a very important factor. The time of sowing of wheat is directly related to yield and quality of grain produced.
+
+According to Table – 3.1 and Chapter-3 (Results and Discussion), the crop was sown at the proper time.
+
+Amount of seed cultivated per acre was 50 kg which is sufficient for the crop cultivated up to the start of December. Fertilizer intake was also enough i.e., 2 bags DAP and 1bag Potash at the time of sowing were added to the crop while 1 bag urea during 1st irrigation was added. Above normal rainfall was reported in the month of January while overall rainfall was much below normal during the crop life. Irrigation was made three times during the crop season which mostly fulfilled the water requirement of the crop. Day time temperatures were observed mostly in normal range. Night temperatures were observed mostly above normal values. RH was observed to be below normal to normal during the crop season. However, ETo remained below normal during the crop’s life. As a result, normal moisture content of soil in major root zone was observed during most of the crop life thus contributing to normal crop’s growth and development during vegetative stages. Total heat units consumed by the wheat crop were 1695 accumulated from emergence to full maturity in 143 days. On average 11.8 heat units were consumed by the crop per day.
+
+Normally these heat units are consumed at the rate of 11.6 heat units per day. From figure 3.9 it is clear that crop consumed above normal heat units at tillering, shooting and milk maturity stages for all the remaining stage it used below normal heat units.
+
+Excess of weeds also play important role in yield’s reduction as weeds consume considerable amount of moisture and other soil nutrients and negatively affect crop’s growth at the same time. But this issue can be resolved by proper and timely use of recommended varieties of weedicides. During 2022-23 recommended weedicides operations were performed in time, which also reinforced crop’s growth and production. Widely spread Rust attack was observed on the crop during its life cycle.
+
+4.1 Conclusions During the Rabi season 2022-23, most of the air and soil weather parameters like soil temperature, rainfall, irrigation with suitable intervals, R. H and crop water requirement were in range required for normal crop growth. The normal day time and mean temperatures favor the normal completion of reproductive stages of grain formation and development. The favorable weather conditions resulted in high yield of the crop.
+
+4.2 Recommendations Keeping above results and conclusions, following recommendations/suggestions are given to farmers and other stake holders to enhance wheat crop yield in central Punjab as well as all over Pakistan.
+
+1 – Farmers generally plant wheat late in rice-wheat, sugarcane-wheat, and cotton-wheat areas due to late harvesting of Kharif crop which results in drastic low yields because the crop is exposed to heat stress at grain formation stages (milk and wax maturity stages) leading to the formation of shriveled grain. Late- planted crop has lower germination, fewer tillers, smaller heads, shriveled grain and lower biomass than the timely planted crop. Any delay in planting would reduce yield drastically. To achieve good yield, sowing of wheat should be completed up to the mid of November in the irrigated planes of Punjab.
+
+2 – Wheat plant water requirement is maximum during flowering and grain formation stages (milk and wax maturity stages) followed by vegetative stages. Therefore, farmers and other decision makers should make possible the availability of irrigation water to wheat crop keeping this order in mind to get maximum crop yield.
+
+3 – Diseases, especially rusts (Stripe/Yellow Rust, Stem Rust, and Leaf Rust) and emerging scenario of increased incidences of Powdery Mildew and aphid are major biotic stresses of wheat crop that inflict heavy losses when in epidemic form. A simple one-year disease epidemic could cause a 2-3 billion-rupees loss to the country because of reduction in wheat yield (an example of 1977-78 epidemics). Therefore, breeders and pathologists should join hands to develop disease resistant and high yielding varieties in order to cope with threats created by ever changing rust races by using approaches like durable resistance.
+
 Farmers should use approved varieties of pesticides and insecticides.
-4 – The frequency of extreme weather events like heat waves, cold waves, flash flooding, and heavy
-snowfall has increased globally including Pakistan in the last decade due to climate change. Pakistan has also been facing water shortages and drought conditions for the last several years due to lesser rains and
-high temperatures due to global warming which resulted in hampering of wheat production both in irrigated and rainfed areas. In order to minimize the negative effects of climate change and accompanied global
-warming, drought and heat tolerant varieties need to be evolved in addition to the judicial use of available irrigation water. Researches should also keep focus on to update sowing dates due to late arrival of winter
-season and winter rainfall in most of the agricultural plains of Pakistan. Keeping in mind the available water resources, it is also indeed necessary to decide suitable crops to be cultivated in a particular region.
-5 – Farmers may be advised to be in contact with local and Federal Agricultural Departments and Pakistan
-Meteorological Department throughout crop’s life, especially at the time of sowing, adding fertilizers to crop, before irrigation and harvesting. It will help the farmers to get in time weather advices to deal in
+
+4 – The frequency of extreme weather events like heat waves, cold waves, flash flooding, and heavy snowfall has increased globally including Pakistan in the last decade due to climate change. Pakistan has also been facing water shortages and drought conditions for the last several years due to lesser rains and high temperatures due to global warming which resulted in hampering of wheat production both in irrigated and rainfed areas. In order to minimize the negative effects of climate change and accompanied global warming, drought and heat tolerant varieties need to be evolved in addition to the judicial use of available irrigation water. Researches should also keep focus on to update sowing dates due to late arrival of winter season and winter rainfall in most of the agricultural plains of Pakistan. Keeping in mind the available water resources, it is also indeed necessary to decide suitable crops to be cultivated in a particular region.
+
+5 – Farmers may be advised to be in contact with local and Federal Agricultural Departments and Pakistan Meteorological Department throughout crop’s life, especially at the time of sowing, adding fertilizers to crop, before irrigation and harvesting. It will help the farmers to get in time weather advices to deal in
 
 better way with any present or coming water stress condition and to get best results of fertilizer and irrigated water used.
-6 – Weeds being the main robbers of plant food from soil; space and even light required for wheat plants,
-be controlled by cultural practices and in case of heavy infestation, may be eliminated by application of recommended herbicides and weedicides. This technique will definitely increase the yield.
-7 – Seed of high yielding wheat varieties resistant to rusts, smuts, etc. approved by Agricultural Department
-for a particular region in a particular amount must be used. Seed should be treated with a suitable insecticide carefully before sowing.
+
+6 – Weeds being the main robbers of plant food from soil; space and even light required for wheat plants, be controlled by cultural practices and in case of heavy infestation, may be eliminated by application of recommended herbicides and weedicides. This technique will definitely increase the yield.
+
+7 – Seed of high yielding wheat varieties resistant to rusts, smuts, etc. approved by Agricultural Department for a particular region in a particular amount must be used. Seed should be treated with a suitable insecticide carefully before sowing.
+
 8 – Timely application of nitrogen-phosphoric fertilizers should be done.
-9 – Care must be taken to check the pre and post-harvest losses of wheat. Pre-harvest damage may be
-checked from attack of birds, animals around fields. Post-harvest losses must be checked from the attack of rodents and other insects, pests and fungi. After proper trashing, wheat grains should be placed under
-hygienic conditions in fields and in storage places as well.
+
+9 – Care must be taken to check the pre and post-harvest losses of wheat. Pre-harvest damage may be checked from attack of birds, animals around fields. Post-harvest losses must be checked from the attack of rodents and other insects, pests and fungi. After proper trashing, wheat grains should be placed under hygienic conditions in fields and in storage places as well.
+
 10 – Crop rotation is an important factor that enriches the fertility of the land, which should not be ignored.
+
 Pulses are preferred as they enrich the nitrogen content of soil for the coming wheat crop.
 
 References
-[1]
-Chaudhry, Q. Z. and G. Rasul (2004): Agroclimatic Classification of Pakistan, Science Vision
-Vol.9 No.1-2 (Jul - Dec, 2003) & 3-4 (Jan - Jun, 2004).
-[2]
-Shamshad, K. M. (1988): Meteorology of Pakistan, Royal Book Agency, Karachi, Pakistan.
-[3]
-Monthly Climatic Normals of Pakistan, 1981-2010 (January 2013): Climate Data Processing
-Center, Pakistan meteorological Department, Karachi.
-[4]
-Economic Survey of Pakistan, 2013-14: http://budget.par.com.pk/dll/1189/
-[5]
-Punjab Agriculture Department 2014: http://www.agripunjab.gov.pk
-[6]
-Pakistan
-Agricultural
-Department:
+
+[1] Chaudhry, Q. Z. and G. Rasul (2004): Agroclimatic Classification of Pakistan, Science Vision Vol.9 No.1-2 (Jul - Dec, 2003) & 3-4 (Jan - Jun, 2004).
+
+[2] Shamshad, K. M. (1988): Meteorology of Pakistan, Royal Book Agency, Karachi, Pakistan.
+
+[3] Monthly Climatic Normals of Pakistan, 1981-2010 (January 2013): Climate Data Processing Center, Pakistan meteorological Department, Karachi.
+
+[4] Economic Survey of Pakistan, 2013-14: http://budget.par.com.pk/dll/1189/ [5] Punjab Agriculture Department 2014: http://www.agripunjab.gov.pk [6] Pakistan Agricultural Department:
+
 http://www.defence.pk/forums/national-political- issues/102679-punjab-door-revolution.html#ixzz2PWvbxY6r/
 
-[7]
-USDA Foreign Agriculture Service Report (2014): www.fas.usda.gov
-[8]
-Fowler,
-D.
+[7] USDA Foreign Agriculture Service Report (2014): www.fas.usda.gov [8] Fowler, D.
+
 B.
+
 (2002):
-Growth stages of
-Wheat,
+
+Growth stages of Wheat,
+
 Chapter
+
 10:
-http://www.usask.ca/agriculture/plantsci/winter_cereals/index.php
-[9]
-Imran, A, Q. Zaman and M. Afzal (2013): Temporal Trends in the peak monsoonal precipitation events over Northeast Pakistan, Pakistan Journal of Meteorology. Vol. 10, Issue 19: July 2013.
-[10]
-Sajjad, H and A. Ghaffar (2019): Observed, simulated and projected extreme climate indices over
-Pakistan in changing climate, Theoretical and Applied Climatology (2019) 137:255–281 https://doi.org/10.1007/s00704-018-2573-7
-[11]
-Mavi, H. S. and Graeme J. T. (2005): Agrometeorology; principals and applications of climate studies in agriculture, international book distributing company, Lucknow, India.
-[12]
-FAO Irrigation and Drainage Paper 33.
-[13]
-Crop water needs chapter10. FAO. (http://www.fao.org/docrep/S2022E/s2022e07.htm).
-[14]
-Sajjad, H and K. Ullah (2019): Projected crop water requirement over agro-climatically diversified region of
-Pakistan,
-Agricultural and
-Forest
-Meteorology, www.elsevier.com/locate/agrformet
-[15]
-Naheed, G. Rasul (2009): Water requirement of Wheat crop in Pakistan, an MS dissertation,COMSATS, Islamabad.
+
+http://www.usask.ca/agriculture/plantsci/winter_cereals/index.php [9] Imran, A, Q. Zaman and M. Afzal (2013): Temporal Trends in the peak monsoonal precipitation events over Northeast Pakistan, Pakistan Journal of Meteorology. Vol. 10, Issue 19: July 2013.
+
+[10] Sajjad, H and A. Ghaffar (2019): Observed, simulated and projected extreme climate indices over Pakistan in changing climate, Theoretical and Applied Climatology (2019) 137:255–281 https://doi.org/10.1007/s00704-018-2573-7 [11] Mavi, H. S. and Graeme J. T. (2005): Agrometeorology; principals and applications of climate studies in agriculture, international book distributing company, Lucknow, India.
+
+[12] FAO Irrigation and Drainage Paper 33.
+
+[13] Crop water needs chapter10. FAO. (http://www.fao.org/docrep/S2022E/s2022e07.htm).
+
+[14] Sajjad, H and K. Ullah (2019): Projected crop water requirement over agro-climatically diversified region of Pakistan, Agricultural and Forest Meteorology, www.elsevier.com/locate/agrformet [15] Naheed, G. Rasul (2009): Water requirement of Wheat crop in Pakistan, an MS dissertation,COMSATS, Islamabad.

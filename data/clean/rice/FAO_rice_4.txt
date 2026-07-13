@@ -11,26 +11,6 @@ Subregional Office for the Pacific Islands
 Food and Agriculture Organization of the United Nations
 Apia, 2017
 
-The designations employed and the presentation of material in this information product do not imply the expression of any
-opinion whatsoever on the part of the Food and Agriculture Organization of the United Nations (FAO) concerning the legal or
-development status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or
-boundaries. The mention of specific companies or products of manufacturers, whether or not these have been patented, does
-not imply that these have been endorsed or recommended by FAO in preference to others of a similar nature that are not mentioned.
-
-The views expressed in this information product are those of the author(s) and do not necessarily reflect the views or policies of
-FAO.
-
-© FAO, 2017
-
-FAO encourages the use, reproduction and dissemination of material in this information product. Except where otherwise indicated, material may be copied, downloaded and printed for private study, research and teaching purposes, or for use in
-non-commercial products or services, provided that appropriate acknowledgement of FAO as the source and copyright holder is
-given and that FAO’s endorsement of users’ views, products or services is not implied in any way.
-
-All requests for translation and adaptation rights, and for resale and other commercial use rights should be made via www.fao.org/contact-us/licence-request or addressed to copyright@fao.org.
-
-FAO information products are available on the FAO website (www.fao.org/publications) and can be purchased through publications-sales@fao.org.
-
-iii
 
 Contents
 
@@ -118,7 +98,7 @@ Jan-Feb
 July-Aug
 
 2-2.5 Wetland
- Pre-germinated seed, Broadcast
+Pre-germinated seed, Broadcast
 Lakrdawe
 Jan-Feb 145
 2.5-3 Wetland
@@ -151,7 +131,7 @@ Stored seed sundried for one day and cleaned properly.
 Cleaned and treated seed can prevent seed-borne diseases and ensure healthy seedling and good harvest.
 Seed sorting: can be done in 3 ways
 (1)
- Winnowing: using a Kula or air current/fan
+Winnowing: using a Kula or air current/fan
 (2)
 By hand: if small amount
 (3)
@@ -202,7 +182,7 @@ Clean seed will have bright appearance with no spots & lesions.
 
 Seed sorting: can be done in 3 ways
 (1)
- Winnowing: using a Kula or air current/fan
+Winnowing: using a Kula or air current/fan
 (2)
 By hand: if small amount
 (3)
@@ -250,7 +230,7 @@ Line to line: 15 - 20 cm
  Plant only one seedling in a hill to ensure genetic purity (Seed plot)
  Plant 3-4 seedlings for grain production plot
  Fill the gap within 7 days in case of seedling mortality
- B. NUTRIENT MANAGEMENT
+B. NUTRIENT MANAGEMENT
 B. NUTRIENT MANAGEMENT
 
 Techniques of preserving and increasing of soil fertility:
@@ -388,7 +368,7 @@ Points to considered during weed management
  Rotary weeding followed by a hand weeding for weeds closer to the rice hills.
  Weedicides are very effective in weed control
  Starting from transplanting to harvesting weed should be removed as and when seen in a seed plot.
- D. WATER MANAGEMENT IN RICE SEED PRODUCTION
+D. WATER MANAGEMENT IN RICE SEED PRODUCTION
 D. WATER MANAGEMENT IN RICE SEED PRODUCTION
 Water management techniques
  Water stress from PI-early grain filling stage results under-weight grain
@@ -400,7 +380,7 @@ Water management techniques
 Water should be drained out from seed plot 7 days before harvest
  Harvesting rain water: small pond of 2 m depth can facilitate 2/1 irrigation with stored rain water.
  Levee management: A 15 cm high levee can hold rain water and help to face occasional drought in main season.
- E. INTEGRATED PEST MANAGEMENT (IPM)
+E. INTEGRATED PEST MANAGEMENT (IPM)
 E. INTEGRATED PEST MANAGEMENT (IPM)
 
 A pest management system that uses all suitable techniques and methods in as compatible manner as possible and maintains the pest populations at levels below those causing
@@ -450,17 +430,17 @@ Appropriate cultural practices:
 Host Plant Resistance: The property that enables a plant to avoid, tolerate or recover from injury by the insect population that would cause greater damage to
 other plants of the same species (that doesn’t have the resistant property) under similar environmental condition.
 
- Conserving beneficial animals by
+Conserving beneficial animals by
 
- Cultivating legume crops in levee
+Cultivating legume crops in levee
 
- Placing straw in levee after harvest
+Placing straw in levee after harvest
 
- Giving time to find out shelter by beneficial insects after harvest (not ploughing field immediately after harvest)
+Giving time to find out shelter by beneficial insects after harvest (not ploughing field immediately after harvest)
 
- Perching for insect feeding birds
+Perching for insect feeding birds
 
- Avoid misuse/overuse of pesticide
+Avoid misuse/overuse of pesticide
 
 Assessment of insect injury at economic threshold level:
 Categories
@@ -509,45 +489,45 @@ No Insecticides
 
 Insect pest management: Leaf Roller
 
- Adult moths is light brown
- Wings having dark brown stripes and spots
- Larvae are yellow / yellowish green
- Lay eggs singly on the leaf surface
- The insect occurs in all rice season
+Adult moths is light brown
+Wings having dark brown stripes and spots
+Larvae are yellow / yellowish green
+Lay eggs singly on the leaf surface
+The insect occurs in all rice season
 
 Damage Symptoms
 
- The larva forms a protective feeding chamber by folding a leaf blade together and glues it with silk strands and feed on leaf tissues.
- Longitudinal white and transparent streaks on leaf blades are created
+The larva forms a protective feeding chamber by folding a leaf blade together and glues it with silk strands and feed on leaf tissues.
+Longitudinal white and transparent streaks on leaf blades are created
 
 Management Practices
- Destruction of moths by light trapping
- Perching for predatory birds can reduce the population
- Recommended insecticide should be applied at Economic Threshold Level (ETL):
+Destruction of moths by light trapping
+Perching for predatory birds can reduce the population
+Recommended insecticide should be applied at Economic Threshold Level (ETL):
 
 25% damaged leaves
 
 Insect pest management: Gall midge
 
- An important pest of main season crop
- The adult is about the size of a mosquito
- Females have bright red abdomen males are darker
- Adults lay eggs singly near the base of the plant
+An important pest of main season crop
+The adult is about the size of a mosquito
+Females have bright red abdomen males are darker
+Adults lay eggs singly near the base of the plant
 
 Damage Symptoms
- Larvae feed inside growing point of the plant
+Larvae feed inside growing point of the plant
 
 © IRRI Publication
 © IRRI Publication
 © IRRI Publication
 © IRRI Publication
 
- Feeding stimulates leaf sheath to transform into gall known as onion shoot or silver shoot
- Tillers with gall bear no panicles
+Feeding stimulates leaf sheath to transform into gall known as onion shoot or silver shoot
+Tillers with gall bear no panicles
 
 Management Practices
- Light Trapping
- Recommended insecticide should be applied at ETL:
+Light Trapping
+Recommended insecticide should be applied at ETL:
 5% Onion Shoot
 
 Insect pest management: Rice Armyworm
@@ -642,7 +622,7 @@ Spray leaves with SEVIN 80% a.i 1kg a.i/ha or 17gm formulation/14 liters of wate
 liters of water when using a mist blower.
 CARBACIDE 85 (800g/kg Carbaryl WP) at 27 gms per 14 liters of water when using knapsack sprayer and 18 gms/10 liters water when using
 mist blower. Spray every 2-3 week intervals.
- F. SEED PRODUCTION (ISOLATION + ROGUING)
+F. SEED PRODUCTION (ISOLATION + ROGUING)
 F. SEED PRODUCTION (ISOLATION + ROGUING)
 Isolation distance for seed production
  Isolation distance: keeping seed production plot separate from other nearby varieties to prevent cross- pollination.
@@ -684,7 +664,7 @@ Flowering,
 Post flowering and
 
 Pre-harvest times.
- G. YIELD COMPONENT, AND YIELD CALCULATION
+G. YIELD COMPONENT, AND YIELD CALCULATION
 G. YIELD COMPONENT, AND YIELD CALCULATION
 Yield component
 Rice production means the total rice harvested from a farm an area a country
@@ -720,31 +700,31 @@ Usually calculated with 1000 grain weight
 Depends on varietal characteristics
 Usually variation is minimum within a variety
 Depends on:
- Nutrient management
- Water management
- Insect-pest/disease management
- Abnormal weather
+Nutrient management
+Water management
+Insect-pest/disease management
+Abnormal weather
 
 Calculating rice yield
 
 = x kg
 
- panicle #/m
+panicle #/m
  spikelet # per panicale  1000 grain wt (g)
 Rice yield (m
 ) = -
 
- panicle #/m
+panicle #/m
  spikelet # per panicale  1000 grain wt (kg)
 Rice yield (m
 )= -
 
- 1000 x 1000
- x  10,000
+1000 x 1000
+x  10,000
 Rice yield = -t/ha = x  10 t/ha
- (wet grain)
+(wet grain)
 
- H. HARVESTING, THRESHING, CLEANING, DRYING & STORING
+H. HARVESTING, THRESHING, CLEANING, DRYING & STORING
 H. HARVESTING, THRESHING, CLEANING, DRYING & STORING
 
 Harvesting, threshing, cleaning and drying of rice seed
@@ -765,7 +745,7 @@ Storing rice seed
  After seed filling, extra space of pot should be filled with sand/ash.
  An air-tight cover should be used for stored pot.
 
- I. COST BENEFIT ANALYSIS OF RICE CROP IN FIJI
+I. COST BENEFIT ANALYSIS OF RICE CROP IN FIJI
 I. COST BENEFIT ANALYSIS OF RICE CROP IN FIJI
 
 Classification of Costs:
@@ -790,25 +770,25 @@ Variable Cost (VC): The variable cost is the cost that can vary with the change 
 
 Marginal Cost (MC): Marginal cost is the change in TC resulting from a unit increase in output.
 
- Change in TC
+Change in TC
 MC = - - (2)
- Change in output
- 100 – moisture content of wet grain
+Change in output
+100 – moisture content of wet grain
 Wt of dry yield = -  yield of wet grain
- (at 14% Moisture)
+(at 14% Moisture)
 100 - Moisture of dry grain
 
 Opportunity Cost (OC): The opportunity cost is the cost that sacrifices for other. The opportunity cost of family labor is the cost that can earn by selling out the labor to other’s
 farm/non-farm activities.
 Benefit Cost Ratio (BCR): It is the ratio between gross return (GR) and total cost (TC). A farmer can invest money as long as the BCR is equal to 1.
 
- GR
+GR
 
 BCR = -
 
 - (3)
 
- TC
+TC
 Empirical Results of Costs and Returns Analysis for Rice Production
 Table: Per acre costs and return of Rice cultivation in Fiji
 
@@ -822,19 +802,19 @@ Production cost (Tk/acre)
 
 Human labor
 
- Family labour
+Family labour
 
- Hired labour
+Hired labour
 
 Land preparation (Animal/Power tiller)
 
 Fertilizer:
 
- Urea
+Urea
 
- TSP
+TSP
 
- MP
+MP
 
 Manure
 
@@ -854,9 +834,9 @@ Rice yield (Kg/acre)
 
 Gross Return (Tk/acre)
 
- Grain
+Grain
 
- Straw
+Straw
 
 Net cost of production (Tk/acre)
 

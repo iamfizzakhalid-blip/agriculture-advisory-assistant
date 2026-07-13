@@ -1,9 +1,5 @@
 Field Guide Exercises for
 IPM in COTTON
-Vietnam IPM National Programme
-FAO - IPM Hanoi
-Vietnam Cotton Company
-Plant Protection Department, MARD
 
 The Field Guide is a compilation of the learning activities during TOF and FFS training.
 Based on a field guide originally developed for the Indonesian Rice IPM Programme, additional activities have been incorporated and some adapted for the implementation of IPM
@@ -37,48 +33,36 @@ Research methods
 
  Introduction to research methods
  Variability in the field and layout
-4 – 5
  Sampling and data recording
-6 – 10
  Designing studies for FFS
 
  Simplified statistics
-12 – 14
 
 Economic threshold levels
 
  What is the economic threshold level?
-16 – 17
  Between economic threshold levels and action: risk assessment
-18 – 19
  Variability of economic threshold level
 
-20 – 21
 Ecosystem
 
  What is this? What is that?
-25 – 26
  Ecological function of organisms
-27 – 28
  The cotton ecosystem
 
  Concept of agroecosystem
 
  Agroecosystem analysis
-31 – 32
  Agroecosystem analysis table
 
 Ecosystem analysis questions
 
-37 – 48
 Crop development
 
-51 – 54
 Insect Zoo
 
  Life cycles and biology of pests and natural enemies
 
-59 – 60
  Predation
 
  Pests and predator densities in sprayed and unsprayed cotton
@@ -89,7 +73,6 @@ Insect Zoo
 
  Predation on sucking insects in the laboratory
 
-67 – 68
  Parasitism
 
  Measuring the parasitism level of caterpillars in cotton
@@ -97,7 +80,6 @@ Insect Zoo
  American bollworm
 
  Measuring natural mortality of eggs of American bollworm
-75 – 76
  Field parasitism of eggs of American bollworm
 
  Discovering predators of eggs of American bollworm
@@ -117,7 +99,6 @@ Insect Zoo
 Bacillus thuringiensis
 
  Assessment of viability of Bt
-91 – 92
  Inhibition of larval feeding by Bt
 
  Sensitivity of Bt to sunlight
@@ -131,43 +112,31 @@ Identification of virus-infected insects (classroom exercise)
 Identification of virus-infected insects (field exercise)
 
 Method of production and application of virus in managing insect pests on cotton
-101 – 102
 Spread of virus to surrounding fields
 
  Assessment of viability of NPV
-104 – 105
  Inhibition of larval feeding by NPV
-106 – 107
  Sensitivity of NPV to sunlight
 
 Effect of NPV on predators and parasitoids
 
 Effect of fungicides on the viability of NPV
 
-110 – 111
-
 Understanding farm pesticide labels
-115 – 116
 What is an LD50?
-117 – 118
 Pesticide calculations
-119 – 121
  Spraying
-122 – 124
  Self-survey of pesticide poisoning
-125 – 127
  Yearly pesticide liters of exposure
 
  Household storage and disposal of pesticides
 
  Pesticides and pest resistance
-130 – 133
  Effect of pesticides on predators
 
  Effects of pesticides on natural enemies
 
 Poison sprayer maintenance
-137 – 138
 
  General introduction and effect on diseases
 
@@ -195,18 +164,15 @@ Diseases
  Study of symptom development of leaf spots: field exercise
 
  Study of symptom development of bacterial wilt disease
-156 – 157
 
  Spread
 
  Factors that influence disease development – exercise 1
 
  Factors that influence disease development – exercise 2
-162 – 163
  Demonstration of spread of disease
 
  Virus and vectors
-165 – 166
  Study of spread of fungal leaf spot
 
  Pot experiment to test whether root diseases are soil borne
@@ -218,9 +184,7 @@ Diseases
  Management
 
  Disease management
-173 – 174
  Disease triangle to explain disease management
-175 – 176
  Management of different disease groups
 
 Gender
@@ -240,16 +204,13 @@ Gender
  Gender division of labor
 
  Gender division of labor in agriculture, household, and commune
-192 – 194
  Gender division of labor in cotton growing
-195 – 196
 
  Gender communication, facilitation and sensitivity skills
 
  Preparing for a farmer field school focusing on communicating and negotiating participation of women with village leaders
 
  Facilitating a farmer field school focusing on creating a constructive atmosphere for women to participate actively
-203 – 204
 
  Gender activity plan
 
@@ -295,8 +256,7 @@ should be defined before sampling begins to assure precision and accuracy. The w
 season to reflect the type of data analysis at the end of the season.
 
 Data analysis includes descriptive statistics (mean, standard deviation and variation) and graphing methods (bar charts, x-y graphs and frequency distribution graphs). Next is the process of determining if
-there are significant differences between treatments. There are several tests (t-test, And Wilcoxan/Mann-
-Whitney non-parametric) which will assist in determining if differences in treatment means indicate differences in treatments. An example of the last confusing statement is this: a group of male adults form
+there are significant differences between treatments. There are several tests (t-test, And Wilcoxan/MannWhitney non-parametric) which will assist in determining if differences in treatment means indicate differences in treatments. An example of the last confusing statement is this: a group of male adults form
 Hanoi have a mean weight of 62.4 kg, and a group a male adults from Danang have a mean weight of
 65.8 kg. Does this difference in average weight between the groups indicate that male adults in Hanoi
 weigh less than male adults in Danang? Probably not, because each group also has some variability.
@@ -2629,8 +2589,7 @@ about four plants.
 2. In the evening, just before sunset, spray another row of cotton plants (another 4 plants).
 3. An hour after the last spray, collect leaves from both rows and cut out leaf sections of 1" diameter
 and ensure that these are labeled. Similar sections are prepared from a potted plant free of insecticides.
-4. Each of the leaf section is kept in a plastic cup lined with tissue paper and the cups labeled as "Bt-
-sunlight", "Bt-no sun" and "No Bt".
+4. Each of the leaf section is kept in a plastic cup lined with tissue paper and the cups labeled as "Btsunlight", "Bt-no sun" and "No Bt".
 5. Caterpillars collected from the field (preferably smaller ones as these react faster than older
 caterpillars) were used for the study. Two caterpillars are dropped onto each leaf section and the cups stored in a cool, shade place.
 6. Observe for signs of feeding (size of holes made in the leaf section as well as amount of faecal
@@ -2966,8 +2925,7 @@ cup).
 13. Observe the amount of frass, caterpillar droppings in both treatments.
 14. Repeat the above observations in the late afternoon, and continue up to three days.
 
-1. Were there any differences in feeding/and caterpillar deaths between NPV-treated and water-
-treated leaf sections?
+1. Were there any differences in feeding/and caterpillar deaths between NPV-treated and watertreated leaf sections?
 2. When did these differences occur?
 3. Were there any differences in amount of frass produced?
 4. What do these differences indicate?
@@ -2993,8 +2951,7 @@ Use about four plants.
 3. An hour after the last spray, collect leaves from the canopy of both rows, cut out 4 leaf sections of
 1" diameter, and ensure that these are labelled.
 4. Prepare four similar sections from a potted plant free of insecticides.
-5. Keep each of the leaf sections in a separate plastic cup lined with tissue paper and label as "NPV-
-sunlight", "NPV-no sun" and "No NPV".
+5. Keep each of the leaf sections in a separate plastic cup lined with tissue paper and label as "NPVsunlight", "NPV-no sun" and "No NPV".
 6. Collect caterpillars from the field (preferably smaller ones, as these react faster than older
 caterpillars) for the study.
 7. Using a camel hairbrush, drop two caterpillars (one if using Heliothis) onto each leaf section.
@@ -3153,8 +3110,7 @@ other.
 
 1. How many kinds of information are printed on a pesticide label? What is the information
 about? Which are the most important parts of the label? Why?
-2. What is the trade name? What is the common name? Which one – trade or common name -
-expresses the essence of a pesticide? Why does one common name have many trade names?
+2. What is the trade name? What is the common name? Which one – trade or common name expresses the essence of a pesticide? Why does one common name have many trade names?
 3. Are the colors of the bars at the bottom of pesticide labels similar? What does the color of the
 bar mean? Looking at pesticide labels, how do you know if one pesticide is more hazardous than others? Explain the signs printed on the indicative color bar. Have the farmers ever paid
 attention to these signs? Why? If the indicative color bar of the pesticide label in your hand is red, what do you do with this pesticide?
@@ -3941,8 +3897,7 @@ a. soil temperature b. air temperature above a plant c. air temperature at the b
 4. Make a table of temperatures and soil moisture for the sites.
 5. Can you explain why there are differences in soil moisture at each site? Remember recent rains,
 irrigation, etc. Are these differences important for the growth and development of insects and diseases? Especially in terms of the soil organisms!
-6. What are the differences in temperatures? How do you think these values will change over a one-
-day period? Make a hypothetical graph of these changes. Are these temperature differences important for insect and disease development?
+6. What are the differences in temperatures? How do you think these values will change over a oneday period? Make a hypothetical graph of these changes. Are these temperature differences important for insect and disease development?
 7. Is there an interaction between temperature and moisture for any site? What is the interaction?
 8. Can you give examples from your own experience where disease and insects seem to be more
 dense or less dense because of differences in the micro-climate or micro-habitat? Why do some insects stay at the bottom and some stay at the top of the plant?
@@ -4579,8 +4534,7 @@ Disease angle (Is the disease present?):
 present? -> No? -> How would you apply this method in the field?).
 2. To avoid an insect-transmitted virus disease, one could try to cover a nursery with screen-netting (Is
 the disease present? -> No? -> How would you apply this method in the field?).
-3. A season with paddy rice can be considered as a season of inundation of soil with water. Certain soil-
-borne diseases are killed when soil is flooded for a period of time (Is the disease present? -> No? ->
+3. A season with paddy rice can be considered as a season of inundation of soil with water. Certain soilborne diseases are killed when soil is flooded for a period of time (Is the disease present? -> No? ->
 How would you apply this method in the field?).
 4. By implementing sanitation measures such as removal of infected crop residues or diseased plant
 material in the field, one can test whether removal of sources of infection reduces disease (Is the disease present? -> No? -> How would you apply this method in the field?).
@@ -4951,8 +4905,7 @@ What should we conclude from this exercise with respect to the participation of 
 Is it important for women to participate or not important for them to participate in IPM activities?
 
 Suggestion:
-The table generates general data on the gender division of labour in the village. However, there are differences between families in the villages with regard to their possibilities to work in agriculture-
-household-commune. For instance, there are families where men are employed outside the farm for long periods of time and where women farm without adult men to support them. There are also families
+The table generates general data on the gender division of labour in the village. However, there are differences between families in the villages with regard to their possibilities to work in agriculturehousehold-commune. For instance, there are families where men are employed outside the farm for long periods of time and where women farm without adult men to support them. There are also families
 with a more diversified farming system and where men, for instance work in forestry activities and only marginally support the cotton cultivation which is done almost entirely by the women and their
 children. By adding extra space in the table for 'comments', participants can discuss the differences between families in the village and how these differences determine whether women or men should
 participate in IPM field school or follow-up activity.
