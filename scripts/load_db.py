@@ -254,10 +254,17 @@ def print_retrieval_results(query: str, results: list[dict]) -> None:
 def run_retrieval_tests(collection: Collection, model: SentenceTransformer) -> None:
     """Run sample queries to verify semantic retrieval."""
     test_queries = [
-        "How to manage cotton pests using IPM?",
-        "What are wheat post-harvest best practices?",
-        "When should rice fields be irrigated?",
-    ]
+    "When should wheat be irrigated?",
+    "Best practices for wheat harvesting?",
+    "How often should rice fields be watered?",
+    "Common diseases in rice crops?",
+    "How to manage cotton pests?",
+    "Fertilizers used for cotton?",
+    "When should maize be planted?",
+    "How to improve maize yield?",
+    "Irrigation schedule for sugarcane?",
+    "How to control weeds in sugarcane?"
+]
 
     print("\n====================================")
     print("Semantic Retrieval Test")
