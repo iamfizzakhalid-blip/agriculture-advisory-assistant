@@ -67,4 +67,4 @@ Answer:
 
     print("\n🌾 AI Answer:\n")
     print(response.choices[0].message.content)
-    print("\n----------------------\n")
+    print("\n----------------------\n")      
