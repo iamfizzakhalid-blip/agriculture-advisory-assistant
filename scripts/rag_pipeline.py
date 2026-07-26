@@ -10,6 +10,22 @@ from llm_call import ask_llm
 
 TOP_K = 3
 
+def detect_crop(query: str) -> str:
+    query = query.lower()
+
+    crops = [
+        "wheat",
+        "rice",
+        "cotton",
+        "sugarcane",
+        "maize",
+    ]
+
+    for crop in crops:
+        if crop in query:
+            return crop
+
+    return "Unknown"
 
 def build_context(results):
     return "\n\n".join(result["text"] for result in results)
@@ -24,6 +40,9 @@ def rag_pipeline(question, collection, model):
         top_k=TOP_K,
     )
 
+    metadata = results[0]["metadata"]
+    metadata["crop"] = detect_crop(question)
+
     if not results:
         return None, "No relevant documents found."
 
@@ -33,18 +52,20 @@ def rag_pipeline(question, collection, model):
     return results, answer
 
 
-def print_results(results):
+def print_results(results, query):
 
     print("\n" + "=" * 70)
     print("Retrieved Chunks")
     print("=" * 70)
+
+    query_crop = detect_crop(query)
 
     for i, item in enumerate(results, start=1):
 
         metadata = item["metadata"]
 
         print(f"\n[{i}]")
-        print(f"Crop     : {metadata.get('crop')}")
+        print(f"Crop     : {query_crop}")
         print(f"Source   : {metadata.get('source')}")
         print(f"Filename : {metadata.get('filename')}")
         print(f"Distance : {item['distance']:.4f}")

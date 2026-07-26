@@ -20,7 +20,7 @@ from sentence_transformers import SentenceTransformer
 MODEL_NAME = "all-MiniLM-L6-v2"
 COLLECTION_NAME = "agricultural_knowledge"
 BATCH_SIZE = 100
-TOP_K = 3
+TOP_K = 10
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 EMBEDDINGS_FILE = PROJECT_ROOT / "data" / "embeddings.json"
