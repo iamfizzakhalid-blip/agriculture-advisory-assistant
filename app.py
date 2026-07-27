@@ -2,6 +2,7 @@ import sys
 import os
 sys.path.append(os.path.abspath("."))
 import streamlit as st
+import time
 
 from scripts.load_db import (
     get_chroma_client,
@@ -16,6 +17,43 @@ from scripts.rag_pipeline import rag_pipeline
 # PAGE CONFIG
 # -------------------------------
 st.set_page_config(page_title="Agri Assistant 🌾", layout="wide")
+
+# -------------------------------
+# SIDEBAR
+# -------------------------------
+with st.sidebar:
+    st.title("🌾 Agri Assistant")
+
+    st.markdown("---")
+
+    st.subheader("Supported Crops")
+
+    st.write("🌾 Wheat")
+    st.write("🌽 Maize")
+    st.write("🌾 Rice")
+    st.write("🧵 Cotton")
+    st.write("🎋 Sugarcane")
+
+    st.markdown("---")
+
+    st.subheader("About")
+
+    st.write("""
+This application uses:
+
+- ChromaDB
+- Sentence Transformers
+- Retrieval-Augmented Generation (RAG)
+- Groq LLM
+
+Developed as an AI-powered Agriculture Advisory System.
+""")
+
+    st.markdown("---")
+
+    if st.button("🗑 Clear Chat"):
+        st.session_state.messages = []
+        st.rerun()
 
 st.title("🌾 Agriculture Advisory Assistant")
 st.caption("AI-powered crop advisory system using RAG + LLM 🌱")
@@ -33,6 +71,7 @@ def load_resources():
     collection = get_or_create_collection(client)
     return model, collection
 
+
 model, collection = load_resources()
 
 # -------------------------------
@@ -40,6 +79,11 @@ model, collection = load_resources()
 # -------------------------------
 if "messages" not in st.session_state:
     st.session_state.messages = []
+
+if len(st.session_state.messages) == 0:
+    st.info(
+        "👋 Welcome! Ask me anything about Wheat, Rice, Cotton, Sugarcane or Maize."
+    )
 
 # -------------------------------
 # DISPLAY CHAT HISTORY
@@ -54,7 +98,6 @@ for msg in st.session_state.messages:
 user_input = st.chat_input("Ask about crops (e.g., wheat sowing time)...")
 
 if user_input:
-
     # -------------------------------
     # SHOW USER MESSAGE
     # -------------------------------
@@ -70,12 +113,21 @@ if user_input:
     # GENERATE RESPONSE
     # -------------------------------
     with st.spinner("Thinking... 🌱"):
+        start = time.time()
 
-        results, answer = rag_pipeline(
-            question=user_input,
-            collection=collection,
-            model=model,
-        )
+        try:
+            results, answer = rag_pipeline(
+                question=user_input,
+                collection=collection,
+                model=model,
+            )
+
+        except Exception as e:
+            st.error(f"An error occurred: {e}")
+            st.stop()
+
+        end = time.time()
+        response_time = end - start
 
         if results is None:
             bot_reply = answer
@@ -87,6 +139,7 @@ if user_input:
     # -------------------------------
     with st.chat_message("assistant"):
         st.markdown(bot_reply)
+        st.caption(f"⏱ Response time: {response_time:.2f} seconds")
 
         # 🔍 Retrieved Sources (clean + no duplicates)
         if results:
@@ -94,7 +147,6 @@ if user_input:
 
             with st.expander("🔍 Retrieved Sources"):
                 for item in results:
-
                     filename = item['metadata'].get('filename', '').lower()
 
                     if "wheat" in filename:
@@ -121,3 +173,8 @@ if user_input:
         "role": "assistant",
         "content": bot_reply
     })
+    st.markdown("---")
+
+st.caption(
+    "Made with ❤️ using Streamlit, ChromaDB, Sentence Transformers and Groq"
+)
