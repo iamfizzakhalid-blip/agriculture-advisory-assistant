@@ -1,4 +1,4 @@
-from load_db import (
+from scripts.load_db import (
     get_chroma_client,
     get_or_create_collection,
     load_embedding_model,
@@ -6,7 +6,7 @@ from load_db import (
     CHROMA_DIR,
 )
 
-from llm_call import ask_llm
+from scripts.llm_call import ask_llm
 
 TOP_K = 3
 
@@ -39,13 +39,13 @@ def rag_pipeline(question, collection, model):
         query=question,
         top_k=TOP_K,
     )
+    if not results:
+        return None, "No relevant documents found."
 
     metadata = results[0]["metadata"]
     metadata["crop"] = detect_crop(question)
 
-    if not results:
-        return None, "No relevant documents found."
-
+    
     context = build_context(results)
     answer = ask_llm(question, context)
 
@@ -116,7 +116,7 @@ def main():
                 print(answer)
                 continue
 
-            print_results(results)
+            print_results(results,question)
 
             print("\n" + "=" * 70)
             print("Final Answer")
