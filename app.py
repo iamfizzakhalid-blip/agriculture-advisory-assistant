@@ -1,3 +1,6 @@
+import sys
+import os
+sys.path.append(os.path.abspath("."))
 import streamlit as st
 
 from scripts.load_db import (
