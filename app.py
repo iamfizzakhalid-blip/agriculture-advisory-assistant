@@ -3,7 +3,6 @@ import os
 sys.path.append(os.path.abspath("."))
 import streamlit as st
 import time
-from datetime import datetime
 
 from scripts.load_db import (
     get_chroma_client,
@@ -25,165 +24,240 @@ st.set_page_config(
 )
 
 # -------------------------------
-# GLOBAL STYLES
-# Palette pulled straight from .streamlit/config.toml so custom
-# markup and native Streamlit widgets always match:
-#   background        #fbfbf8
-#   secondaryBg        #f0f3ec
-#   primary (green)    #3f7d3a
-#   text               #26311f
+# CUSTOM CSS
 # -------------------------------
-st.markdown(
-    """
-    <style>
-        :root {
-            --primary: #6fcf6a;
-            --primary-dark: #8fdb8b;
-            --text: #e8ede4;
-            --text-muted: #9fab97;
-            --bg: #0e1210;
-            --bg-secondary: #1a2119;
-            --border: #2e3a2b;
-        }
+st.markdown("""
+<style>
+    /* ---------- Google Font ---------- */
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
-        #MainMenu, footer {visibility: hidden;}
+    /* ---------- Global ---------- */
+    html, body, [class*="css"] {
+        font-family: 'Inter', sans-serif;
+    }
 
-        /* ---- Hero header ---- */
-        .agri-hero {
-            padding: 1.3rem 1.6rem;
-            border-radius: 14px;
-            background: var(--bg-secondary);
-            border: 1px solid var(--border);
-            margin-bottom: 1.2rem;
-        }
-        .agri-hero h1 {
-            margin: 0;
-            font-size: 1.7rem;
-            font-weight: 700;
-            color: var(--primary-dark);
-        }
-        .agri-hero p {
-            margin: 0.35rem 0 0 0;
-            font-size: 0.92rem;
-            color: var(--text-muted);
-        }
+    /* ---------- Main area ---------- */
+    .stApp {
+        background: linear-gradient(135deg, #f5f7f0 0%, #e8f0e0 50%, #f0f4ea 100%);
+    }
 
-        /* ---- Crop chips ---- */
-        .crop-chip {
-            display: inline-block;
-            padding: 4px 12px;
-            margin: 3px 6px 3px 0;
-            border-radius: 999px;
-            background: var(--bg);
-            border: 1px solid var(--border);
-            font-size: 0.83rem;
-            color: var(--primary-dark);
-            font-weight: 600;
-        }
+    /* ---------- Sidebar ---------- */
+    section[data-testid="stSidebar"] {
+        background: linear-gradient(180deg, #1a2e1a 0%, #243524 50%, #1a2e1a 100%);
+    }
+    section[data-testid="stSidebar"] * {
+        color: #d4e6d4 !important;
+    }
+    section[data-testid="stSidebar"] .stMarkdown h1,
+    section[data-testid="stSidebar"] .stMarkdown h2,
+    section[data-testid="stSidebar"] .stMarkdown h3 {
+        color: #a8d5a2 !important;
+    }
+    section[data-testid="stSidebar"] hr {
+        border-color: rgba(168, 213, 162, 0.2) !important;
+    }
 
-        /* ---- Source cards ---- */
-        .source-item {
-            padding: 6px 10px;
-            margin: 4px 0;
-            border-left: 3px solid var(--primary);
-            background: var(--bg-secondary);
-            border-radius: 0 8px 8px 0;
-            font-size: 0.88rem;
-            color: var(--text);
-        }
+    /* ---------- Header ---------- */
+    .main-header {
+        background: linear-gradient(135deg, #2d5a27 0%, #4a8c3f 50%, #6aad5a 100%);
+        padding: 2rem 2.5rem;
+        border-radius: 16px;
+        margin-bottom: 1.5rem;
+        box-shadow: 0 8px 32px rgba(45, 90, 39, 0.2);
+    }
+    .main-header h1 {
+        color: #ffffff;
+        font-size: 2rem;
+        font-weight: 700;
+        margin: 0 0 0.3rem 0;
+    }
+    .main-header p {
+        color: rgba(255, 255, 255, 0.85);
+        font-size: 1rem;
+        margin: 0;
+    }
 
-        /* ---- Response time badge ---- */
-        .resp-badge {
-            display: inline-block;
-            background: var(--bg-secondary);
-            color: var(--primary-dark);
-            border: 1px solid var(--border);
-            border-radius: 999px;
-            padding: 2px 10px;
-            font-size: 0.76rem;
-            font-weight: 600;
-            margin-top: 6px;
-        }
+    /* ---------- Crop chips in sidebar ---------- */
+    .crop-chip {
+        display: inline-block;
+        background: rgba(168, 213, 162, 0.12);
+        border: 1px solid rgba(168, 213, 162, 0.25);
+        border-radius: 20px;
+        padding: 0.35rem 0.85rem;
+        margin: 0.2rem 0.15rem;
+        font-size: 0.85rem;
+        transition: background 0.2s;
+    }
+    .crop-chip:hover {
+        background: rgba(168, 213, 162, 0.25);
+    }
 
-        /* ---- Welcome card ---- */
-        .welcome-card {
-            background: var(--bg-secondary);
-            border: 1px solid var(--border);
-            border-radius: 14px;
-            padding: 1.4rem;
-            text-align: center;
-            color: var(--text);
-        }
-        .welcome-card .emoji-row {
-            font-size: 1.5rem;
-            margin-bottom: 0.4rem;
-        }
-        .welcome-card span.hint {
-            color: var(--text-muted);
-            font-size: 0.88rem;
-        }
-    </style>
-    """,
-    unsafe_allow_html=True,
-)
+    /* ---------- Welcome card ---------- */
+    .welcome-card {
+        background: #ffffff;
+        border: 1px solid rgba(45, 90, 39, 0.1);
+        border-left: 4px solid #4a8c3f;
+        border-radius: 12px;
+        padding: 1.5rem 2rem;
+        margin: 1rem 0;
+        box-shadow: 0 2px 12px rgba(0,0,0,0.04);
+    }
+    .welcome-card h3 {
+        color: #2d5a27;
+        margin: 0 0 0.5rem 0;
+        font-weight: 600;
+    }
+    .welcome-card p {
+        color: #555;
+        margin: 0;
+        line-height: 1.6;
+    }
+    .welcome-card .suggestions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+        margin-top: 1rem;
+    }
+    .welcome-card .suggestion {
+        background: #f0f7ed;
+        border: 1px solid #d4e6d4;
+        border-radius: 8px;
+        padding: 0.4rem 0.9rem;
+        font-size: 0.85rem;
+        color: #2d5a27;
+    }
+
+    /* ---------- Chat bubbles ---------- */
+    .stChatMessage {
+        border-radius: 12px !important;
+        margin-bottom: 0.75rem !important;
+        box-shadow: 0 1px 6px rgba(0,0,0,0.04) !important;
+    }
+
+    /* ---------- Chat input ---------- */
+    .stChatInput > div {
+        border-radius: 12px !important;
+        border: 1px solid rgba(45, 90, 39, 0.2) !important;
+    }
+    .stChatInput > div:focus-within {
+        border-color: #4a8c3f !important;
+        box-shadow: 0 0 0 2px rgba(74, 140, 63, 0.15) !important;
+    }
+
+    /* ---------- Source expander ---------- */
+    .source-item {
+        background: #f8faf6;
+        border-radius: 8px;
+        padding: 0.5rem 0.8rem;
+        margin: 0.3rem 0;
+        border-left: 3px solid #4a8c3f;
+        font-size: 0.88rem;
+        color: #2d5a27;
+    }
+
+    /* ---------- Footer ---------- */
+    .footer {
+        text-align: center;
+        padding: 1.5rem 0 0.5rem 0;
+        color: #888;
+        font-size: 0.82rem;
+    }
+    .footer a {
+        color: #4a8c3f;
+        text-decoration: none;
+    }
+
+    /* ---------- Clear-chat button ---------- */
+    section[data-testid="stSidebar"] .stButton > button {
+        background: rgba(220, 80, 80, 0.15) !important;
+        color: #f0a0a0 !important;
+        border: 1px solid rgba(220, 80, 80, 0.3) !important;
+        border-radius: 8px !important;
+        width: 100%;
+        transition: background 0.2s;
+    }
+    section[data-testid="stSidebar"] .stButton > button:hover {
+        background: rgba(220, 80, 80, 0.3) !important;
+    }
+
+    /* ---------- About tech stack badges ---------- */
+    .tech-badge {
+        display: inline-block;
+        background: rgba(168, 213, 162, 0.1);
+        border: 1px solid rgba(168, 213, 162, 0.2);
+        border-radius: 6px;
+        padding: 0.2rem 0.6rem;
+        margin: 0.15rem 0;
+        font-size: 0.78rem;
+    }
+
+    /* ---------- Response time badge ---------- */
+    .response-time {
+        display: inline-block;
+        background: #f0f7ed;
+        border: 1px solid #d4e6d4;
+        border-radius: 20px;
+        padding: 0.2rem 0.7rem;
+        font-size: 0.78rem;
+        color: #4a8c3f;
+        margin-top: 0.4rem;
+    }
+</style>
+""", unsafe_allow_html=True)
 
 # -------------------------------
 # SIDEBAR
 # -------------------------------
 with st.sidebar:
     st.markdown("## 🌾 Agri Assistant")
-    st.caption("Your AI partner for smarter farming decisions")
+    st.caption("Your AI Crop Advisor")
 
-    st.divider()
-    st.markdown("#### 🌱 Supported Crops")
-    st.markdown(
-        """
-        <div>
-            <span class="crop-chip">🌾 Wheat</span>
-            <span class="crop-chip">🌽 Maize</span>
-            <span class="crop-chip">🌾 Rice</span>
-            <span class="crop-chip">🧵 Cotton</span>
-            <span class="crop-chip">🎋 Sugarcane</span>
-        </div>
-        """,
-        unsafe_allow_html=True,
-    )
+    st.markdown("---")
 
-    st.divider()
-    st.markdown("#### ℹ️ About")
-    st.write(
-        """
-This application uses:
+    st.markdown("#### Supported Crops")
+    st.markdown("""
+    <div style="display: flex; flex-wrap: wrap; gap: 0.3rem;">
+        <span class="crop-chip">🌾 Wheat</span>
+        <span class="crop-chip">🌽 Maize</span>
+        <span class="crop-chip">🌾 Rice</span>
+        <span class="crop-chip">🧵 Cotton</span>
+        <span class="crop-chip">🎋 Sugarcane</span>
+    </div>
+    """, unsafe_allow_html=True)
 
-- 🗂️ ChromaDB for vector search
-- 🧠 Sentence Transformers for embeddings
-- 🔎 Retrieval-Augmented Generation (RAG)
-- ⚡ Groq LLM for fast responses
+    st.markdown("---")
 
-Developed as an AI-powered Agriculture Advisory System.
-"""
-    )
+    st.markdown("#### Tech Stack")
+    st.markdown("""
+    <div>
+        <div class="tech-badge">🗄 ChromaDB</div>
+        <div class="tech-badge">🤖 Sentence Transformers</div>
+        <div class="tech-badge">🔗 RAG Pipeline</div>
+        <div class="tech-badge">⚡ Groq LLM</div>
+    </div>
+    """, unsafe_allow_html=True)
 
-    st.divider()
-    if st.button("🗑️ Clear Chat", use_container_width=True):
+    st.markdown("---")
+
+    if st.button("🗑 Clear Chat", use_container_width=True):
         st.session_state.messages = []
-        st.session_state.last_response_time = None
         st.rerun()
 
-    st.caption(f"🕒 {datetime.now().strftime('%A, %d %b %Y')}")
+    st.markdown("""
+    <div style="text-align:center; margin-top:2rem; font-size:0.75rem; opacity:0.5;">
+        v1.0 • AI-Powered Advisory
+    </div>
+    """, unsafe_allow_html=True)
 
 # -------------------------------
-# HERO / HEADER
+# MAIN HEADER
 # -------------------------------
-st.markdown(
-    """
-    <div class="agri-hero">
-        <h1>🌾 Agriculture Advisory Assistant</h1>
-        <p>AI-powered crop advisory system using RAG + LLM — ask about sowing times, pest control, irrigation, fertilizers and more.</p>
-    </div>
-    """,
-    unsafe_allow_html=True,
-)
+st.markdown("""
+<div class="main-header">
+    <h1>🌾 Agriculture Advisory Assistant</h1>
+    <p>AI-powered crop advisory system using RAG + LLM — ask anything about Wheat, Rice, Cotton, Sugarcane, or Maize.</p>
+</div>
+""", unsafe_allow_html=True)
 
 # -------------------------------
 # LOAD MODEL + DB (ONLY ONCE)
@@ -196,8 +270,7 @@ def load_resources():
     return model, collection
 
 
-with st.spinner("Loading knowledge base... 📚"):
-    model, collection = load_resources()
+model, collection = load_resources()
 
 # -------------------------------
 # SESSION STATE (CHAT HISTORY)
@@ -205,28 +278,25 @@ with st.spinner("Loading knowledge base... 📚"):
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-if "last_response_time" not in st.session_state:
-    st.session_state.last_response_time = None
-
 if len(st.session_state.messages) == 0:
-    st.markdown(
-        """
-        <div class="welcome-card">
-            <div class="emoji-row">🌾 🌽 🌾 🧵 🎋</div>
-            <b>Welcome!</b> Ask me anything about Wheat, Rice, Cotton, Sugarcane or Maize.<br>
-            <span class="hint">Try: "When should I sow wheat in Punjab?" or "How to control pests in cotton?"</span>
+    st.markdown("""
+    <div class="welcome-card">
+        <h3>👋 Welcome!</h3>
+        <p>I'm your Agriculture Advisory Assistant. Ask me anything about crop management, sowing, harvesting, pest control, and more.</p>
+        <div class="suggestions">
+            <span class="suggestion">🌾 When to sow wheat?</span>
+            <span class="suggestion">🌽 Maize fertilizer schedule</span>
+            <span class="suggestion">🧵 Cotton pest control</span>
+            <span class="suggestion">🎋 Sugarcane irrigation</span>
         </div>
-        """,
-        unsafe_allow_html=True,
-    )
-    st.write("")
+    </div>
+    """, unsafe_allow_html=True)
 
 # -------------------------------
 # DISPLAY CHAT HISTORY
 # -------------------------------
 for msg in st.session_state.messages:
-    avatar = "🧑‍🌾" if msg["role"] == "user" else "🌾"
-    with st.chat_message(msg["role"], avatar=avatar):
+    with st.chat_message(msg["role"]):
         st.markdown(msg["content"])
 
 # -------------------------------
@@ -243,72 +313,71 @@ if user_input:
         "content": user_input
     })
 
-    with st.chat_message("user", avatar="🧑‍🌾"):
+    with st.chat_message("user"):
         st.markdown(user_input)
 
     # -------------------------------
     # GENERATE RESPONSE
     # -------------------------------
-    with st.chat_message("assistant", avatar="🌾"):
-        with st.spinner("Thinking... 🌱"):
-            start = time.time()
+    with st.spinner("Thinking... 🌱"):
+        start = time.time()
 
-            try:
-                results, answer = rag_pipeline(
-                    question=user_input,
-                    collection=collection,
-                    model=model,
-                )
-            except Exception as e:
-                st.error(f"An error occurred: {e}")
-                st.stop()
+        try:
+            results, answer = rag_pipeline(
+                question=user_input,
+                collection=collection,
+                model=model,
+            )
 
-            end = time.time()
-            response_time = end - start
-            st.session_state.last_response_time = response_time
+        except Exception as e:
+            st.error(f"An error occurred: {e}")
+            st.stop()
 
+        end = time.time()
+        response_time = end - start
+
+        if results is None:
+            bot_reply = answer
+        else:
             bot_reply = answer
 
-        # -------------------------------
-        # SHOW BOT RESPONSE + SOURCES
-        # -------------------------------
+    # -------------------------------
+    # SHOW BOT RESPONSE + SOURCES
+    # -------------------------------
+    with st.chat_message("assistant"):
         st.markdown(bot_reply)
         st.markdown(
-            f'<span class="resp-badge">⏱ {response_time:.2f}s</span>',
+            f'<span class="response-time">⏱ {response_time:.2f}s</span>',
             unsafe_allow_html=True,
         )
 
         # 🔍 Retrieved Sources (clean + no duplicates)
         if results:
             seen = set()
-            source_lines = []
 
-            for item in results:
-                filename = item['metadata'].get('filename', '').lower()
+            with st.expander("🔍 Retrieved Sources"):
+                for item in results:
+                    filename = item['metadata'].get('filename', '').lower()
 
-                if "wheat" in filename:
-                    source_name = "🌾 Wheat Guide (PMD)"
-                elif "maize" in filename:
-                    source_name = "🌽 Maize Post Harvest Guide"
-                elif "rice" in filename:
-                    source_name = "🌾 Rice Cultivation Guide"
-                elif "cotton" in filename:
-                    source_name = "🧵 Cotton Production Manual"
-                elif "sugarcane" in filename:
-                    source_name = "🎋 Sugarcane Farming Guide"
-                else:
-                    source_name = "📄 Agriculture Source"
+                    if "wheat" in filename:
+                        source_name = "🌾 Wheat Guide (PMD)"
+                    elif "maize" in filename:
+                        source_name = "🌽 Maize Post Harvest Guide"
+                    elif "rice" in filename:
+                        source_name = "🌾 Rice Cultivation Guide"
+                    elif "cotton" in filename:
+                        source_name = "🧵 Cotton Production Manual"
+                    elif "sugarcane" in filename:
+                        source_name = "🎋 Sugarcane Farming Guide"
+                    else:
+                        source_name = "📄 Agriculture Source"
 
-                if source_name not in seen:
-                    source_lines.append(source_name)
-                    seen.add(source_name)
-
-            with st.expander(f"🔍 Retrieved Sources ({len(source_lines)})"):
-                for line in source_lines:
-                    st.markdown(
-                        f'<div class="source-item">{line}</div>',
-                        unsafe_allow_html=True,
-                    )
+                    if source_name not in seen:
+                        st.markdown(
+                            f'<div class="source-item">{source_name}</div>',
+                            unsafe_allow_html=True,
+                        )
+                        seen.add(source_name)
 
     # -------------------------------
     # SAVE BOT RESPONSE
@@ -318,7 +387,11 @@ if user_input:
         "content": bot_reply
     })
 
-st.divider()
-st.caption(
-    "Made with ❤️ using Streamlit, ChromaDB, Sentence Transformers and Groq"
-)
+# -------------------------------
+# FOOTER
+# -------------------------------
+st.markdown("""
+<div class="footer">
+    Made with ❤️ using <strong>Streamlit</strong> · <strong>ChromaDB</strong> · <strong>Sentence Transformers</strong> · <strong>Groq</strong>
+</div>
+""", unsafe_allow_html=True)
