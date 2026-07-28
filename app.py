@@ -4,6 +4,7 @@ sys.path.append(os.path.abspath("."))
 import streamlit as st
 import time
 
+
 from scripts.load_db import (
     get_chroma_client,
     get_or_create_collection,

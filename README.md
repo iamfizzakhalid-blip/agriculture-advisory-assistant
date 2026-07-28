@@ -1,3 +1,5 @@
+https://agriculture-advisory-assistant-igzdsshofrpbadauttdqmt.streamlit.app/
+
 # 🌾 Agriculture Advisory Assistant
 
 A Retrieval-Augmented Generation (RAG) pipeline that provides intelligent agricultural advisory for Pakistani crops — wheat, rice, cotton, maize, and sugarcane.
