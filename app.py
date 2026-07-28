@@ -54,7 +54,7 @@ st.markdown(f"""
         content: '';
         position: fixed;
         inset: 0;
-        background: rgba(15, 22, 10, 0.65);
+        background: rgba(22, 16, 8, 0.68);
         backdrop-filter: blur(2px);
         -webkit-backdrop-filter: blur(2px);
         z-index: 0;
@@ -77,23 +77,23 @@ st.markdown(f"""
         background: transparent !important;
     }}
     *:focus-visible {{
-        outline-color: #4CAF50 !important;
+        outline-color: #D4A017 !important;
     }}
     .stApp a {{
-        color: #A5D6A7 !important;
+        color: #E8B960 !important;
     }}
     .stApp a:hover {{
-        color: #C8E6C9 !important;
+        color: #FFE082 !important;
     }}
 
     /* ============================================= */
     /* 4. SIDEBAR                                     */
     /* ============================================= */
     section[data-testid="stSidebar"] {{
-        background: rgba(18, 30, 15, 0.92) !important;
+        background: rgba(22, 16, 8, 0.93) !important;
         backdrop-filter: blur(20px);
         -webkit-backdrop-filter: blur(20px);
-        border-right: 1px solid rgba(76, 175, 80, 0.12);
+        border-right: 1px solid rgba(212, 160, 23, 0.12);
         overflow-y: auto !important;
     }}
     section[data-testid="stSidebar"] > div {{
@@ -101,26 +101,26 @@ st.markdown(f"""
         max-height: 100vh;
     }}
     section[data-testid="stSidebar"] * {{
-        color: #C8E6C9 !important;
+        color: #F5ECD5 !important;
     }}
     section[data-testid="stSidebar"] .stMarkdown h1,
     section[data-testid="stSidebar"] .stMarkdown h2,
     section[data-testid="stSidebar"] .stMarkdown h3,
     section[data-testid="stSidebar"] .stMarkdown h4 {{
-        color: #E8F5E9 !important;
+        color: #FFE082 !important;
     }}
     section[data-testid="stSidebar"] hr {{
-        border-color: rgba(76, 175, 80, 0.15) !important;
+        border-color: rgba(212, 160, 23, 0.15) !important;
     }}
 
     /* ============================================= */
     /* 5. HERO HEADER                                 */
     /* ============================================= */
     .hero-header {{
-        background: linear-gradient(135deg, rgba(27, 94, 32, 0.8) 0%, rgba(46, 125, 50, 0.65) 100%);
+        background: linear-gradient(135deg, rgba(120, 80, 10, 0.75) 0%, rgba(180, 130, 20, 0.55) 100%);
         backdrop-filter: blur(18px);
         -webkit-backdrop-filter: blur(18px);
-        border: 1px solid rgba(76, 175, 80, 0.2);
+        border: 1px solid rgba(212, 160, 23, 0.25);
         border-radius: 20px;
         padding: 2.5rem 3rem;
         margin-bottom: 1.5rem;
@@ -140,7 +140,7 @@ st.markdown(f"""
         text-shadow: 0 2px 10px rgba(0,0,0,0.4);
     }}
     .hero-header p {{
-        color: rgba(200, 230, 201, 0.85);
+        color: rgba(255, 245, 220, 0.85);
         font-size: 1rem;
         margin: 0;
         font-weight: 300;
@@ -150,8 +150,8 @@ st.markdown(f"""
     /* 6. CROP CARDS (Sidebar)                        */
     /* ============================================= */
     .crop-card {{
-        background: rgba(76, 175, 80, 0.08);
-        border: 1px solid rgba(76, 175, 80, 0.18);
+        background: rgba(212, 160, 23, 0.07);
+        border: 1px solid rgba(212, 160, 23, 0.18);
         border-radius: 12px;
         padding: 0.6rem 0.9rem;
         margin: 0.35rem 0;
@@ -162,9 +162,9 @@ st.markdown(f"""
         cursor: default;
     }}
     .crop-card:hover {{
-        background: rgba(76, 175, 80, 0.2);
+        background: rgba(212, 160, 23, 0.18);
         transform: translateX(4px);
-        border-color: rgba(76, 175, 80, 0.4);
+        border-color: rgba(212, 160, 23, 0.4);
     }}
     .crop-card .crop-icon {{
         font-size: 1.3rem;
@@ -174,33 +174,34 @@ st.markdown(f"""
     .crop-card .crop-name {{
         font-size: 0.88rem;
         font-weight: 500;
-        color: #E8F5E9 !important;
+        color: #FFF8E7 !important;
     }}
 
     /* ============================================= */
     /* 7. WELCOME SECTION                             */
     /* ============================================= */
     .welcome-section {{
-        background: rgba(27, 60, 27, 0.4);
+        background: rgba(40, 30, 15, 0.45);
         backdrop-filter: blur(16px);
         -webkit-backdrop-filter: blur(16px);
-        border: 1px solid rgba(76, 175, 80, 0.15);
+        border: 1px solid rgba(212, 160, 23, 0.15);
         border-radius: 16px;
         padding: 2rem 2.5rem;
         margin: 1rem 0;
         text-align: center;
     }}
     .welcome-section h3 {{
-        color: #E8F5E9;
+        color: #FFF8E7;
         margin: 0 0 0.5rem 0;
         font-weight: 600;
         font-size: 1.3rem;
     }}
     .welcome-section p {{
-        color: #A5D6A7;
+        color: #F5ECD5;
         margin: 0 0 1.2rem 0;
         line-height: 1.6;
         font-size: 0.95rem;
+        opacity: 0.8;
     }}
     .welcome-section .suggestions {{
         display: flex;
@@ -227,16 +228,16 @@ st.markdown(f"""
     /* 8. CHAT MESSAGES                               */
     /* ============================================= */
     .stChatMessage {{
-        background: rgba(24, 40, 22, 0.45) !important;
+        background: rgba(30, 22, 12, 0.5) !important;
         backdrop-filter: blur(12px) !important;
         -webkit-backdrop-filter: blur(12px) !important;
-        border: 1px solid rgba(76, 175, 80, 0.1) !important;
+        border: 1px solid rgba(212, 160, 23, 0.1) !important;
         border-radius: 14px !important;
         margin-bottom: 0.75rem !important;
         padding: 1rem !important;
     }}
     .stChatMessage p, .stChatMessage li, .stChatMessage span {{
-        color: #E8F5E9 !important;
+        color: #FFF8E7 !important;
     }}
 
     /* ============================================= */
@@ -248,46 +249,46 @@ st.markdown(f"""
     .stChatInput [data-testid],
     .stChatInput div[class*="emotion"],
     .stChatInput div[class*="css"] {{
-        background: rgba(18, 30, 15, 0.85) !important;
-        background-color: rgba(18, 30, 15, 0.85) !important;
+        background: rgba(22, 16, 8, 0.9) !important;
+        background-color: rgba(22, 16, 8, 0.9) !important;
     }}
     .stChatInput > div {{
         border-radius: 14px !important;
-        border: 1px solid rgba(76, 175, 80, 0.25) !important;
+        border: 1px solid rgba(212, 160, 23, 0.25) !important;
         backdrop-filter: blur(12px) !important;
         -webkit-backdrop-filter: blur(12px) !important;
     }}
     .stChatInput > div:focus-within {{
-        border-color: #4CAF50 !important;
-        box-shadow: 0 0 0 2px rgba(76, 175, 80, 0.2) !important;
+        border-color: #D4A017 !important;
+        box-shadow: 0 0 0 2px rgba(212, 160, 23, 0.2) !important;
     }}
     .stChatInput textarea,
     .stChatInput input {{
-        color: #E8F5E9 !important;
+        color: #FFF8E7 !important;
         background: transparent !important;
         background-color: transparent !important;
     }}
     .stChatInput textarea::placeholder,
     .stChatInput input::placeholder {{
-        color: #81C784 !important;
-        opacity: 0.6 !important;
+        color: #E8B960 !important;
+        opacity: 0.5 !important;
     }}
     /* Chat send button */
     .stChatInput button {{
-        background: rgba(76, 175, 80, 0.2) !important;
-        color: #A5D6A7 !important;
+        background: rgba(212, 160, 23, 0.2) !important;
+        color: #FFE082 !important;
         border: none !important;
     }}
     .stChatInput button:hover {{
-        background: rgba(76, 175, 80, 0.35) !important;
+        background: rgba(212, 160, 23, 0.35) !important;
     }}
 
     /* ============================================= */
     /* 10. SOURCE CARDS                               */
     /* ============================================= */
     .source-card {{
-        background: rgba(27, 60, 27, 0.3);
-        border: 1px solid rgba(76, 175, 80, 0.15);
+        background: rgba(40, 30, 15, 0.35);
+        border: 1px solid rgba(212, 160, 23, 0.15);
         border-radius: 10px;
         padding: 0.7rem 1rem;
         margin: 0.4rem 0;
@@ -297,9 +298,9 @@ st.markdown(f"""
         transition: all 0.25s ease;
     }}
     .source-card:hover {{
-        background: rgba(76, 175, 80, 0.15);
+        background: rgba(212, 160, 23, 0.12);
         transform: translateX(3px);
-        border-color: rgba(76, 175, 80, 0.3);
+        border-color: rgba(212, 160, 23, 0.3);
     }}
     .source-card .source-icon {{
         font-size: 1.2rem;
@@ -308,7 +309,7 @@ st.markdown(f"""
     }}
     .source-card .source-name {{
         font-size: 0.88rem;
-        color: #C8E6C9;
+        color: #F5ECD5;
         font-weight: 500;
     }}
 
@@ -331,8 +332,8 @@ st.markdown(f"""
     /* ============================================= */
     .tech-badge {{
         display: inline-block;
-        background: rgba(76, 175, 80, 0.08);
-        border: 1px solid rgba(76, 175, 80, 0.18);
+        background: rgba(212, 160, 23, 0.07);
+        border: 1px solid rgba(212, 160, 23, 0.18);
         border-radius: 8px;
         padding: 0.25rem 0.65rem;
         margin: 0.15rem 0;
@@ -340,7 +341,7 @@ st.markdown(f"""
         transition: all 0.2s ease;
     }}
     .tech-badge:hover {{
-        background: rgba(76, 175, 80, 0.2);
+        background: rgba(212, 160, 23, 0.18);
     }}
 
     /* ============================================= */
@@ -364,34 +365,34 @@ st.markdown(f"""
     /* 14. EXPANDER                                   */
     /* ============================================= */
     .streamlit-expanderHeader {{
-        background: rgba(27, 60, 27, 0.3) !important;
+        background: rgba(40, 30, 15, 0.3) !important;
         border-radius: 10px !important;
-        color: #A5D6A7 !important;
+        color: #E8B960 !important;
     }}
     details summary {{
-        color: #A5D6A7 !important;
+        color: #E8B960 !important;
     }}
     details summary:hover {{
-        color: #C8E6C9 !important;
+        color: #FFE082 !important;
     }}
 
     /* ============================================= */
     /* 15. FOOTER                                     */
     /* ============================================= */
     .footer {{
-        background: rgba(18, 30, 15, 0.4);
+        background: rgba(22, 16, 8, 0.4);
         backdrop-filter: blur(8px);
         -webkit-backdrop-filter: blur(8px);
-        border: 1px solid rgba(76, 175, 80, 0.1);
+        border: 1px solid rgba(212, 160, 23, 0.1);
         border-radius: 12px;
         text-align: center;
         padding: 1rem 1.5rem;
         margin-top: 2rem;
-        color: rgba(165, 214, 167, 0.4);
+        color: rgba(245, 236, 213, 0.35);
         font-size: 0.8rem;
     }}
     .footer strong {{
-        color: rgba(165, 214, 167, 0.6);
+        color: rgba(232, 185, 96, 0.5);
     }}
 
     /* ============================================= */
@@ -404,27 +405,27 @@ st.markdown(f"""
         background: rgba(0, 0, 0, 0.1);
     }}
     ::-webkit-scrollbar-thumb {{
-        background: rgba(76, 175, 80, 0.3);
+        background: rgba(212, 160, 23, 0.3);
         border-radius: 3px;
     }}
     ::-webkit-scrollbar-thumb:hover {{
-        background: rgba(76, 175, 80, 0.5);
+        background: rgba(212, 160, 23, 0.5);
     }}
 
     /* ============================================= */
     /* 17. SPINNER                                    */
     /* ============================================= */
     .stSpinner > div {{
-        border-top-color: #4CAF50 !important;
+        border-top-color: #D4A017 !important;
     }}
 
     /* ============================================= */
     /* 18. ALERTS                                     */
     /* ============================================= */
     .stAlert {{
-        background: rgba(24, 40, 22, 0.5) !important;
+        background: rgba(30, 22, 12, 0.5) !important;
         border-radius: 10px !important;
-        color: #E8F5E9 !important;
+        color: #FFF8E7 !important;
     }}
 
     /* ============================================= */
