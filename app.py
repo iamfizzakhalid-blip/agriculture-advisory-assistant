@@ -37,13 +37,13 @@ st.markdown(
     """
     <style>
         :root {
-            --primary: #3f7d3a;
-            --primary-dark: #2f5f2c;
-            --text: #26311f;
-            --text-muted: #6b7566;
-            --bg: #fbfbf8;
-            --bg-secondary: #f0f3ec;
-            --border: #dde6d3;
+            --primary: #6fcf6a;
+            --primary-dark: #8fdb8b;
+            --text: #e8ede4;
+            --text-muted: #9fab97;
+            --bg: #0e1210;
+            --bg-secondary: #1a2119;
+            --border: #2e3a2b;
         }
 
         #MainMenu, footer {visibility: hidden;}
@@ -79,26 +79,6 @@ st.markdown(
             font-size: 0.83rem;
             color: var(--primary-dark);
             font-weight: 600;
-        }
-
-        /* ---- Sidebar stat cards ---- */
-        .sidebar-stat {
-            background: var(--bg);
-            border: 1px solid var(--border);
-            border-radius: 10px;
-            padding: 10px 12px;
-            margin-bottom: 8px;
-        }
-        .sidebar-stat .label {
-            font-size: 0.72rem;
-            color: var(--text-muted);
-            text-transform: uppercase;
-            letter-spacing: 0.03em;
-        }
-        .sidebar-stat .value {
-            font-size: 1.05rem;
-            font-weight: 700;
-            color: var(--primary-dark);
         }
 
         /* ---- Source cards ---- */
@@ -168,32 +148,6 @@ with st.sidebar:
         """,
         unsafe_allow_html=True,
     )
-
-    st.divider()
-    st.markdown("#### 📊 Session Stats")
-
-    questions_asked = sum(
-        1 for m in st.session_state.get("messages", []) if m["role"] == "user"
-    )
-    last_resp_time = st.session_state.get("last_response_time")
-
-    col_a, col_b = st.columns(2)
-    with col_a:
-        st.markdown(
-            f"""<div class="sidebar-stat">
-                    <div class="label">Questions</div>
-                    <div class="value">{questions_asked}</div>
-                </div>""",
-            unsafe_allow_html=True,
-        )
-    with col_b:
-        st.markdown(
-            f"""<div class="sidebar-stat">
-                    <div class="label">Last reply</div>
-                    <div class="value">{f"{last_resp_time:.1f}s" if last_resp_time else "—"}</div>
-                </div>""",
-            unsafe_allow_html=True,
-        )
 
     st.divider()
     st.markdown("#### ℹ️ About")
