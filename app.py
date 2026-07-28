@@ -38,77 +38,78 @@ st.markdown("""
 
     /* ---------- Main area ---------- */
     .stApp {
-        background: linear-gradient(135deg, #faf8f4 0%, #f5f0e8 50%, #faf7f2 100%);
+        background: #0e1117;
     }
 
     /* ---------- Sidebar ---------- */
     section[data-testid="stSidebar"] {
-        background: linear-gradient(180deg, #1e1e2e 0%, #252535 50%, #1e1e2e 100%);
+        background: #0d1321;
+        border-right: 1px solid rgba(96, 165, 250, 0.08);
     }
     section[data-testid="stSidebar"] * {
-        color: #d4cfc6 !important;
+        color: #94a3b8 !important;
     }
     section[data-testid="stSidebar"] .stMarkdown h1,
     section[data-testid="stSidebar"] .stMarkdown h2,
-    section[data-testid="stSidebar"] .stMarkdown h3 {
-        color: #e8c87a !important;
+    section[data-testid="stSidebar"] .stMarkdown h3,
+    section[data-testid="stSidebar"] .stMarkdown h4 {
+        color: #e2e8f0 !important;
     }
     section[data-testid="stSidebar"] hr {
-        border-color: rgba(212, 160, 67, 0.2) !important;
+        border-color: rgba(148, 163, 184, 0.12) !important;
     }
 
     /* ---------- Header ---------- */
     .main-header {
-        background: linear-gradient(135deg, #7a5a2e 0%, #c48a2c 50%, #d4a043 100%);
+        background: linear-gradient(135deg, #1e3a5f 0%, #2563eb 100%);
         padding: 2rem 2.5rem;
-        border-radius: 16px;
+        border-radius: 14px;
         margin-bottom: 1.5rem;
-        box-shadow: 0 8px 32px rgba(140, 100, 30, 0.25);
+        border: 1px solid rgba(96, 165, 250, 0.15);
     }
     .main-header h1 {
         color: #ffffff;
-        font-size: 2rem;
+        font-size: 1.8rem;
         font-weight: 700;
         margin: 0 0 0.3rem 0;
     }
     .main-header p {
-        color: rgba(255, 255, 255, 0.88);
-        font-size: 1rem;
+        color: rgba(226, 232, 240, 0.8);
+        font-size: 0.95rem;
         margin: 0;
     }
 
     /* ---------- Crop chips in sidebar ---------- */
     .crop-chip {
         display: inline-block;
-        background: rgba(212, 160, 67, 0.1);
-        border: 1px solid rgba(212, 160, 67, 0.25);
+        background: rgba(96, 165, 250, 0.08);
+        border: 1px solid rgba(96, 165, 250, 0.18);
         border-radius: 20px;
-        padding: 0.35rem 0.85rem;
+        padding: 0.3rem 0.8rem;
         margin: 0.2rem 0.15rem;
-        font-size: 0.85rem;
+        font-size: 0.84rem;
         transition: background 0.2s;
     }
     .crop-chip:hover {
-        background: rgba(212, 160, 67, 0.22);
+        background: rgba(96, 165, 250, 0.18);
     }
 
     /* ---------- Welcome card ---------- */
     .welcome-card {
-        background: #ffffff;
-        border: 1px solid rgba(196, 138, 44, 0.15);
-        border-left: 4px solid #c48a2c;
+        background: #161b22;
+        border: 1px solid rgba(96, 165, 250, 0.12);
+        border-left: 3px solid #3b82f6;
         border-radius: 12px;
         padding: 1.5rem 2rem;
         margin: 1rem 0;
-        box-shadow: 0 2px 12px rgba(0,0,0,0.04);
     }
     .welcome-card h3 {
-        color: #7a5a2e;
+        color: #e2e8f0;
         margin: 0 0 0.5rem 0;
         font-weight: 600;
     }
     .welcome-card p {
-        color: #555;
+        color: #94a3b8;
         margin: 0;
         line-height: 1.6;
     }
@@ -119,71 +120,71 @@ st.markdown("""
         margin-top: 1rem;
     }
     .welcome-card .suggestion {
-        background: #fdf6eb;
-        border: 1px solid #e8d5b0;
+        background: rgba(96, 165, 250, 0.08);
+        border: 1px solid rgba(96, 165, 250, 0.15);
         border-radius: 8px;
         padding: 0.4rem 0.9rem;
-        font-size: 0.85rem;
-        color: #7a5a2e;
+        font-size: 0.84rem;
+        color: #93c5fd;
     }
 
     /* ---------- Chat bubbles ---------- */
     .stChatMessage {
         border-radius: 12px !important;
-        margin-bottom: 0.75rem !important;
-        box-shadow: 0 1px 6px rgba(0,0,0,0.04) !important;
+        margin-bottom: 0.6rem !important;
     }
 
     /* ---------- Chat input ---------- */
     .stChatInput > div {
         border-radius: 12px !important;
-        border: 1px solid rgba(196, 138, 44, 0.25) !important;
+        border: 1px solid rgba(96, 165, 250, 0.2) !important;
+        background: #161b22 !important;
     }
     .stChatInput > div:focus-within {
-        border-color: #c48a2c !important;
-        box-shadow: 0 0 0 2px rgba(196, 138, 44, 0.15) !important;
+        border-color: #3b82f6 !important;
+        box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.12) !important;
     }
 
     /* ---------- Source expander ---------- */
     .source-item {
-        background: #fdf8f0;
+        background: rgba(96, 165, 250, 0.06);
         border-radius: 8px;
         padding: 0.5rem 0.8rem;
         margin: 0.3rem 0;
-        border-left: 3px solid #c48a2c;
+        border-left: 3px solid #3b82f6;
         font-size: 0.88rem;
-        color: #5c4220;
+        color: #cbd5e1;
     }
 
     /* ---------- Footer ---------- */
     .footer {
         text-align: center;
         padding: 1.5rem 0 0.5rem 0;
-        color: #999;
+        color: #475569;
         font-size: 0.82rem;
     }
     .footer strong {
-        color: #8a6a30;
+        color: #64748b;
     }
 
     /* ---------- Clear-chat button ---------- */
     section[data-testid="stSidebar"] .stButton > button {
-        background: rgba(200, 85, 85, 0.12) !important;
-        color: #e8a0a0 !important;
-        border: 1px solid rgba(200, 85, 85, 0.28) !important;
+        background: rgba(239, 68, 68, 0.08) !important;
+        color: #f87171 !important;
+        border: 1px solid rgba(239, 68, 68, 0.2) !important;
         border-radius: 8px !important;
         width: 100%;
         transition: background 0.2s;
     }
     section[data-testid="stSidebar"] .stButton > button:hover {
-        background: rgba(200, 85, 85, 0.25) !important;
+        background: rgba(239, 68, 68, 0.18) !important;
     }
 
-    /* ---------- About tech stack badges ---------- */
+    /* ---------- Tech stack badges ---------- */
     .tech-badge {
         display: inline-block;
-        background: rgba(212, 160, 67, 0.1);
-        border: 1px solid rgba(212, 160, 67, 0.2);
+        background: rgba(96, 165, 250, 0.08);
+        border: 1px solid rgba(96, 165, 250, 0.15);
         border-radius: 6px;
         padding: 0.2rem 0.6rem;
         margin: 0.15rem 0;
@@ -193,12 +194,12 @@ st.markdown("""
     /* ---------- Response time badge ---------- */
     .response-time {
         display: inline-block;
-        background: #fdf6eb;
-        border: 1px solid #e8d5b0;
+        background: rgba(96, 165, 250, 0.08);
+        border: 1px solid rgba(96, 165, 250, 0.15);
         border-radius: 20px;
         padding: 0.2rem 0.7rem;
         font-size: 0.78rem;
-        color: #8a6a30;
+        color: #60a5fa;
         margin-top: 0.4rem;
     }
 </style>
