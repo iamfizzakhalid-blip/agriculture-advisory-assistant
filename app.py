@@ -36,6 +36,21 @@ st.markdown("""
         font-family: 'Inter', sans-serif;
     }
 
+    /* ---------- Reduce Streamlit default spacing ---------- */
+    .block-container {
+        padding-top: 1.5rem !important;
+        padding-bottom: 0 !important;
+        max-width: 100% !important;
+    }
+    header[data-testid="stHeader"] {
+        height: 0 !important;
+        min-height: 0 !important;
+        padding: 0 !important;
+    }
+    .stMainBlockContainer {
+        padding-top: 1rem !important;
+    }
+
     /* ---------- Main area ---------- */
     .stApp {
         background: #0e1117;
@@ -62,20 +77,20 @@ st.markdown("""
     /* ---------- Header ---------- */
     .main-header {
         background: linear-gradient(135deg, #1e3a5f 0%, #2563eb 100%);
-        padding: 2rem 2.5rem;
-        border-radius: 14px;
-        margin-bottom: 1.5rem;
+        padding: 1.2rem 2rem;
+        border-radius: 12px;
+        margin-bottom: 1rem;
         border: 1px solid rgba(96, 165, 250, 0.15);
     }
     .main-header h1 {
         color: #ffffff;
-        font-size: 1.8rem;
+        font-size: 1.5rem;
         font-weight: 700;
-        margin: 0 0 0.3rem 0;
+        margin: 0 0 0.2rem 0;
     }
     .main-header p {
         color: rgba(226, 232, 240, 0.8);
-        font-size: 0.95rem;
+        font-size: 0.88rem;
         margin: 0;
     }
 
@@ -99,32 +114,34 @@ st.markdown("""
         background: #161b22;
         border: 1px solid rgba(96, 165, 250, 0.12);
         border-left: 3px solid #3b82f6;
-        border-radius: 12px;
-        padding: 1.5rem 2rem;
-        margin: 1rem 0;
+        border-radius: 10px;
+        padding: 1.2rem 1.5rem;
+        margin: 0.5rem 0;
     }
     .welcome-card h3 {
         color: #e2e8f0;
-        margin: 0 0 0.5rem 0;
+        margin: 0 0 0.3rem 0;
+        font-size: 1.05rem;
         font-weight: 600;
     }
     .welcome-card p {
         color: #94a3b8;
         margin: 0;
-        line-height: 1.6;
+        font-size: 0.9rem;
+        line-height: 1.5;
     }
     .welcome-card .suggestions {
         display: flex;
         flex-wrap: wrap;
-        gap: 0.5rem;
-        margin-top: 1rem;
+        gap: 0.4rem;
+        margin-top: 0.8rem;
     }
     .welcome-card .suggestion {
         background: rgba(96, 165, 250, 0.08);
         border: 1px solid rgba(96, 165, 250, 0.15);
         border-radius: 8px;
-        padding: 0.4rem 0.9rem;
-        font-size: 0.84rem;
+        padding: 0.3rem 0.75rem;
+        font-size: 0.82rem;
         color: #93c5fd;
     }
 
@@ -159,9 +176,9 @@ st.markdown("""
     /* ---------- Footer ---------- */
     .footer {
         text-align: center;
-        padding: 1.5rem 0 0.5rem 0;
+        padding: 0.8rem 0 0.3rem 0;
         color: #475569;
-        font-size: 0.82rem;
+        font-size: 0.78rem;
     }
     .footer strong {
         color: #64748b;
@@ -388,10 +405,11 @@ if user_input:
     })
 
 # -------------------------------
-# FOOTER
+# FOOTER (only after conversation starts)
 # -------------------------------
-st.markdown("""
-<div class="footer">
-    Made with ❤️ using <strong>Streamlit</strong> · <strong>ChromaDB</strong> · <strong>Sentence Transformers</strong> · <strong>Groq</strong>
-</div>
-""", unsafe_allow_html=True)
+if len(st.session_state.messages) > 0:
+    st.markdown("""
+    <div class="footer">
+        Made with ❤️ using <strong>Streamlit</strong> · <strong>ChromaDB</strong> · <strong>Sentence Transformers</strong> · <strong>Groq</strong>
+    </div>
+    """, unsafe_allow_html=True)
