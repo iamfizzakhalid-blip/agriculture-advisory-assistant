@@ -38,32 +38,32 @@ st.markdown("""
 
     /* ---------- Main area ---------- */
     .stApp {
-        background: linear-gradient(135deg, #f5f7f0 0%, #e8f0e0 50%, #f0f4ea 100%);
+        background: linear-gradient(135deg, #faf8f4 0%, #f5f0e8 50%, #faf7f2 100%);
     }
 
     /* ---------- Sidebar ---------- */
     section[data-testid="stSidebar"] {
-        background: linear-gradient(180deg, #1a2e1a 0%, #243524 50%, #1a2e1a 100%);
+        background: linear-gradient(180deg, #1e1e2e 0%, #252535 50%, #1e1e2e 100%);
     }
     section[data-testid="stSidebar"] * {
-        color: #d4e6d4 !important;
+        color: #d4cfc6 !important;
     }
     section[data-testid="stSidebar"] .stMarkdown h1,
     section[data-testid="stSidebar"] .stMarkdown h2,
     section[data-testid="stSidebar"] .stMarkdown h3 {
-        color: #a8d5a2 !important;
+        color: #e8c87a !important;
     }
     section[data-testid="stSidebar"] hr {
-        border-color: rgba(168, 213, 162, 0.2) !important;
+        border-color: rgba(212, 160, 67, 0.2) !important;
     }
 
     /* ---------- Header ---------- */
     .main-header {
-        background: linear-gradient(135deg, #2d5a27 0%, #4a8c3f 50%, #6aad5a 100%);
+        background: linear-gradient(135deg, #7a5a2e 0%, #c48a2c 50%, #d4a043 100%);
         padding: 2rem 2.5rem;
         border-radius: 16px;
         margin-bottom: 1.5rem;
-        box-shadow: 0 8px 32px rgba(45, 90, 39, 0.2);
+        box-shadow: 0 8px 32px rgba(140, 100, 30, 0.25);
     }
     .main-header h1 {
         color: #ffffff;
@@ -72,7 +72,7 @@ st.markdown("""
         margin: 0 0 0.3rem 0;
     }
     .main-header p {
-        color: rgba(255, 255, 255, 0.85);
+        color: rgba(255, 255, 255, 0.88);
         font-size: 1rem;
         margin: 0;
     }
@@ -80,8 +80,8 @@ st.markdown("""
     /* ---------- Crop chips in sidebar ---------- */
     .crop-chip {
         display: inline-block;
-        background: rgba(168, 213, 162, 0.12);
-        border: 1px solid rgba(168, 213, 162, 0.25);
+        background: rgba(212, 160, 67, 0.1);
+        border: 1px solid rgba(212, 160, 67, 0.25);
         border-radius: 20px;
         padding: 0.35rem 0.85rem;
         margin: 0.2rem 0.15rem;
@@ -89,21 +89,21 @@ st.markdown("""
         transition: background 0.2s;
     }
     .crop-chip:hover {
-        background: rgba(168, 213, 162, 0.25);
+        background: rgba(212, 160, 67, 0.22);
     }
 
     /* ---------- Welcome card ---------- */
     .welcome-card {
         background: #ffffff;
-        border: 1px solid rgba(45, 90, 39, 0.1);
-        border-left: 4px solid #4a8c3f;
+        border: 1px solid rgba(196, 138, 44, 0.15);
+        border-left: 4px solid #c48a2c;
         border-radius: 12px;
         padding: 1.5rem 2rem;
         margin: 1rem 0;
         box-shadow: 0 2px 12px rgba(0,0,0,0.04);
     }
     .welcome-card h3 {
-        color: #2d5a27;
+        color: #7a5a2e;
         margin: 0 0 0.5rem 0;
         font-weight: 600;
     }
@@ -119,12 +119,12 @@ st.markdown("""
         margin-top: 1rem;
     }
     .welcome-card .suggestion {
-        background: #f0f7ed;
-        border: 1px solid #d4e6d4;
+        background: #fdf6eb;
+        border: 1px solid #e8d5b0;
         border-radius: 8px;
         padding: 0.4rem 0.9rem;
         font-size: 0.85rem;
-        color: #2d5a27;
+        color: #7a5a2e;
     }
 
     /* ---------- Chat bubbles ---------- */
@@ -137,54 +137,53 @@ st.markdown("""
     /* ---------- Chat input ---------- */
     .stChatInput > div {
         border-radius: 12px !important;
-        border: 1px solid rgba(45, 90, 39, 0.2) !important;
+        border: 1px solid rgba(196, 138, 44, 0.25) !important;
     }
     .stChatInput > div:focus-within {
-        border-color: #4a8c3f !important;
-        box-shadow: 0 0 0 2px rgba(74, 140, 63, 0.15) !important;
+        border-color: #c48a2c !important;
+        box-shadow: 0 0 0 2px rgba(196, 138, 44, 0.15) !important;
     }
 
     /* ---------- Source expander ---------- */
     .source-item {
-        background: #f8faf6;
+        background: #fdf8f0;
         border-radius: 8px;
         padding: 0.5rem 0.8rem;
         margin: 0.3rem 0;
-        border-left: 3px solid #4a8c3f;
+        border-left: 3px solid #c48a2c;
         font-size: 0.88rem;
-        color: #2d5a27;
+        color: #5c4220;
     }
 
     /* ---------- Footer ---------- */
     .footer {
         text-align: center;
         padding: 1.5rem 0 0.5rem 0;
-        color: #888;
+        color: #999;
         font-size: 0.82rem;
     }
-    .footer a {
-        color: #4a8c3f;
-        text-decoration: none;
+    .footer strong {
+        color: #8a6a30;
     }
 
     /* ---------- Clear-chat button ---------- */
     section[data-testid="stSidebar"] .stButton > button {
-        background: rgba(220, 80, 80, 0.15) !important;
-        color: #f0a0a0 !important;
-        border: 1px solid rgba(220, 80, 80, 0.3) !important;
+        background: rgba(200, 85, 85, 0.12) !important;
+        color: #e8a0a0 !important;
+        border: 1px solid rgba(200, 85, 85, 0.28) !important;
         border-radius: 8px !important;
         width: 100%;
         transition: background 0.2s;
     }
     section[data-testid="stSidebar"] .stButton > button:hover {
-        background: rgba(220, 80, 80, 0.3) !important;
+        background: rgba(200, 85, 85, 0.25) !important;
     }
 
     /* ---------- About tech stack badges ---------- */
     .tech-badge {
         display: inline-block;
-        background: rgba(168, 213, 162, 0.1);
-        border: 1px solid rgba(168, 213, 162, 0.2);
+        background: rgba(212, 160, 67, 0.1);
+        border: 1px solid rgba(212, 160, 67, 0.2);
         border-radius: 6px;
         padding: 0.2rem 0.6rem;
         margin: 0.15rem 0;
@@ -194,12 +193,12 @@ st.markdown("""
     /* ---------- Response time badge ---------- */
     .response-time {
         display: inline-block;
-        background: #f0f7ed;
-        border: 1px solid #d4e6d4;
+        background: #fdf6eb;
+        border: 1px solid #e8d5b0;
         border-radius: 20px;
         padding: 0.2rem 0.7rem;
         font-size: 0.78rem;
-        color: #4a8c3f;
+        color: #8a6a30;
         margin-top: 0.4rem;
     }
 </style>
