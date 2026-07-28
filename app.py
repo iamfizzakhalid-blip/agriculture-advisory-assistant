@@ -251,9 +251,13 @@ st.markdown(f"""
     .stChatInput div[class*="css"] {{
         background: rgba(22, 16, 8, 0.9) !important;
         background-color: rgba(22, 16, 8, 0.9) !important;
+        border-radius: 24px !important;
+    }}
+    .stChatInput * {{
+        border-radius: 24px !important;
     }}
     .stChatInput > div {{
-        border-radius: 14px !important;
+        border-radius: 24px !important;
         border: 1px solid rgba(212, 160, 23, 0.25) !important;
         backdrop-filter: blur(12px) !important;
         -webkit-backdrop-filter: blur(12px) !important;
