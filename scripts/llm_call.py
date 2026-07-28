@@ -15,7 +15,7 @@ if api_key is None:
 if api_key is None:
     raise ValueError("GROQ_API_KEY not found.")
 
-client = Groq(api_key=api_key)
+client = Groq(api_key=api_key) # Creates a connection object
 
 
 def load_prompt_template():
@@ -54,10 +54,10 @@ def ask_llm(question, context):
     try:
         start_time = time.time()
 
-        response = client.chat.completions.create(
+        response = client.chat.completions.create( # actual API call.
             model="llama-3.3-70b-versatile",
-            temperature=0.2,
-            max_tokens=300,
+            temperature=0.2, # Controls randomness
+            max_tokens=300, # word count of the reply
             messages=[
                 {
                     "role": "user",

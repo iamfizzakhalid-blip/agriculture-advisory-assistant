@@ -8,7 +8,7 @@ from scripts.load_db import (
 
 from scripts.llm_call import ask_llm
 
-TOP_K = 3
+TOP_K = 10
 
 def detect_crop(query: str) -> str:
     query = query.lower()
@@ -44,7 +44,6 @@ def rag_pipeline(question, collection, model):
 
     metadata = results[0]["metadata"]
     metadata["crop"] = detect_crop(question)
-
     
     context = build_context(results)
     answer = ask_llm(question, context)
