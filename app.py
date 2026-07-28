@@ -45,8 +45,7 @@ st.markdown(f"""
     }}
 
     /* ============================================= */
-    /* 2. FULL-SCREEN BACKGROUND                      */
-    /*    Reduced overlay opacity so wheat is visible  */
+    /* 2. FULL-SCREEN WHEAT BACKGROUND                */
     /* ============================================= */
     .stApp {{
         background: url('{BG_IMAGE_URL}') center/cover no-repeat fixed;
@@ -55,7 +54,7 @@ st.markdown(f"""
         content: '';
         position: fixed;
         inset: 0;
-        background: rgba(20, 18, 10, 0.6);
+        background: rgba(15, 22, 10, 0.65);
         backdrop-filter: blur(2px);
         -webkit-backdrop-filter: blur(2px);
         z-index: 0;
@@ -66,31 +65,35 @@ st.markdown(f"""
     }}
 
     /* ============================================= */
-    /* 3. REMOVE DEFAULT STREAMLIT BLUE ACCENTS        */
+    /* 3. KILL ALL DEFAULT STREAMLIT BLUE              */
     /* ============================================= */
-    .stApp a {{
-        color: #D4A017 !important;
-    }}
-    .stApp a:hover {{
-        color: #ffe082 !important;
-    }}
-    /* Override any default Streamlit header bar */
     header[data-testid="stHeader"] {{
         background: transparent !important;
     }}
-    /* Override default blue focus outlines */
+    .stDeployButton {{
+        display: none !important;
+    }}
+    .st-emotion-cache-1avcm0n {{
+        background: transparent !important;
+    }}
     *:focus-visible {{
-        outline-color: #81C784 !important;
+        outline-color: #4CAF50 !important;
+    }}
+    .stApp a {{
+        color: #A5D6A7 !important;
+    }}
+    .stApp a:hover {{
+        color: #C8E6C9 !important;
     }}
 
     /* ============================================= */
-    /* 4. SIDEBAR — Earth Brown tones + scrollable     */
+    /* 4. SIDEBAR                                     */
     /* ============================================= */
     section[data-testid="stSidebar"] {{
-        background: rgba(45, 32, 22, 0.92) !important;
+        background: rgba(18, 30, 15, 0.92) !important;
         backdrop-filter: blur(20px);
         -webkit-backdrop-filter: blur(20px);
-        border-right: 1px solid rgba(109, 76, 65, 0.3);
+        border-right: 1px solid rgba(76, 175, 80, 0.12);
         overflow-y: auto !important;
     }}
     section[data-testid="stSidebar"] > div {{
@@ -98,31 +101,31 @@ st.markdown(f"""
         max-height: 100vh;
     }}
     section[data-testid="stSidebar"] * {{
-        color: #e0d5c8 !important;
+        color: #C8E6C9 !important;
     }}
     section[data-testid="stSidebar"] .stMarkdown h1,
     section[data-testid="stSidebar"] .stMarkdown h2,
     section[data-testid="stSidebar"] .stMarkdown h3,
     section[data-testid="stSidebar"] .stMarkdown h4 {{
-        color: #D4A017 !important;
+        color: #E8F5E9 !important;
     }}
     section[data-testid="stSidebar"] hr {{
-        border-color: rgba(109, 76, 65, 0.35) !important;
+        border-color: rgba(76, 175, 80, 0.15) !important;
     }}
 
     /* ============================================= */
-    /* 5. HERO HEADER — Forest Green + Gold accent     */
+    /* 5. HERO HEADER                                 */
     /* ============================================= */
     .hero-header {{
-        background: linear-gradient(135deg, rgba(27, 94, 32, 0.75) 0%, rgba(46, 125, 50, 0.6) 60%, rgba(212, 160, 23, 0.3) 100%);
+        background: linear-gradient(135deg, rgba(27, 94, 32, 0.8) 0%, rgba(46, 125, 50, 0.65) 100%);
         backdrop-filter: blur(18px);
         -webkit-backdrop-filter: blur(18px);
-        border: 1px solid rgba(212, 160, 23, 0.25);
+        border: 1px solid rgba(76, 175, 80, 0.2);
         border-radius: 20px;
         padding: 2.5rem 3rem;
         margin-bottom: 1.5rem;
         text-align: center;
-        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35);
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
     }}
     .hero-header .hero-emoji {{
         font-size: 3rem;
@@ -137,18 +140,18 @@ st.markdown(f"""
         text-shadow: 0 2px 10px rgba(0,0,0,0.4);
     }}
     .hero-header p {{
-        color: rgba(255, 245, 220, 0.85);
+        color: rgba(200, 230, 201, 0.85);
         font-size: 1rem;
         margin: 0;
         font-weight: 300;
     }}
 
     /* ============================================= */
-    /* 6. CROP CARDS — Warm brown tint (Sidebar)       */
+    /* 6. CROP CARDS (Sidebar)                        */
     /* ============================================= */
     .crop-card {{
-        background: rgba(212, 160, 23, 0.08);
-        border: 1px solid rgba(212, 160, 23, 0.2);
+        background: rgba(76, 175, 80, 0.08);
+        border: 1px solid rgba(76, 175, 80, 0.18);
         border-radius: 12px;
         padding: 0.6rem 0.9rem;
         margin: 0.35rem 0;
@@ -159,9 +162,9 @@ st.markdown(f"""
         cursor: default;
     }}
     .crop-card:hover {{
-        background: rgba(129, 199, 132, 0.15);
+        background: rgba(76, 175, 80, 0.2);
         transform: translateX(4px);
-        border-color: rgba(129, 199, 132, 0.35);
+        border-color: rgba(76, 175, 80, 0.4);
     }}
     .crop-card .crop-icon {{
         font-size: 1.3rem;
@@ -171,30 +174,30 @@ st.markdown(f"""
     .crop-card .crop-name {{
         font-size: 0.88rem;
         font-weight: 500;
-        color: #f5f0e0 !important;
+        color: #E8F5E9 !important;
     }}
 
     /* ============================================= */
-    /* 7. WELCOME SECTION — Cream tinted glass         */
+    /* 7. WELCOME SECTION                             */
     /* ============================================= */
     .welcome-section {{
-        background: rgba(248, 245, 233, 0.1);
+        background: rgba(27, 60, 27, 0.4);
         backdrop-filter: blur(16px);
         -webkit-backdrop-filter: blur(16px);
-        border: 1px solid rgba(248, 245, 233, 0.2);
+        border: 1px solid rgba(76, 175, 80, 0.15);
         border-radius: 16px;
         padding: 2rem 2.5rem;
         margin: 1rem 0;
         text-align: center;
     }}
     .welcome-section h3 {{
-        color: #ffffff;
+        color: #E8F5E9;
         margin: 0 0 0.5rem 0;
         font-weight: 600;
         font-size: 1.3rem;
     }}
     .welcome-section p {{
-        color: rgba(248, 245, 233, 0.8);
+        color: #A5D6A7;
         margin: 0 0 1.2rem 0;
         line-height: 1.6;
         font-size: 0.95rem;
@@ -206,79 +209,85 @@ st.markdown(f"""
         justify-content: center;
     }}
     .welcome-section .suggestion {{
-        background: rgba(212, 160, 23, 0.15);
-        border: 1px solid rgba(212, 160, 23, 0.35);
+        background: rgba(212, 160, 23, 0.12);
+        border: 1px solid rgba(212, 160, 23, 0.3);
         border-radius: 25px;
         padding: 0.5rem 1.1rem;
         font-size: 0.85rem;
-        color: #ffe082;
+        color: #FFE082;
         transition: all 0.25s ease;
         cursor: default;
     }}
     .welcome-section .suggestion:hover {{
-        background: rgba(212, 160, 23, 0.3);
+        background: rgba(212, 160, 23, 0.25);
         transform: translateY(-2px);
-        box-shadow: 0 4px 12px rgba(212, 160, 23, 0.15);
     }}
 
     /* ============================================= */
-    /* 8. CHAT MESSAGES — Differentiated user/assistant*/
+    /* 8. CHAT MESSAGES                               */
     /* ============================================= */
     .stChatMessage {{
+        background: rgba(24, 40, 22, 0.45) !important;
         backdrop-filter: blur(12px) !important;
         -webkit-backdrop-filter: blur(12px) !important;
+        border: 1px solid rgba(76, 175, 80, 0.1) !important;
         border-radius: 14px !important;
         margin-bottom: 0.75rem !important;
         padding: 1rem !important;
     }}
-    /* User messages — earthy warm tint */
-    .stChatMessage[data-testid="stChatMessage"]:has([data-testid="chatAvatarIcon-user"]) {{
-        background: rgba(109, 76, 65, 0.25) !important;
-        border: 1px solid rgba(109, 76, 65, 0.3) !important;
-    }}
-    /* Assistant messages — cream tint */
-    .stChatMessage[data-testid="stChatMessage"]:has([data-testid="chatAvatarIcon-assistant"]) {{
-        background: rgba(248, 245, 233, 0.08) !important;
-        border: 1px solid rgba(248, 245, 233, 0.15) !important;
-    }}
-    /* Fallback for all chat messages */
-    .stChatMessage {{
-        background: rgba(40, 35, 25, 0.35) !important;
-        border: 1px solid rgba(212, 160, 23, 0.12) !important;
-    }}
-    /* Chat text readability */
     .stChatMessage p, .stChatMessage li, .stChatMessage span {{
-        color: #f5f0e0 !important;
+        color: #E8F5E9 !important;
     }}
 
     /* ============================================= */
-    /* 9. CHAT INPUT — Dark with gold focus ring       */
+    /* 9. CHAT INPUT — Force override Streamlit blue  */
     /* ============================================= */
+    .stChatInput,
+    .stChatInput > div,
+    .stChatInput > div > div,
+    .stChatInput [data-testid],
+    .stChatInput div[class*="emotion"],
+    .stChatInput div[class*="css"] {{
+        background: rgba(18, 30, 15, 0.85) !important;
+        background-color: rgba(18, 30, 15, 0.85) !important;
+    }}
     .stChatInput > div {{
         border-radius: 14px !important;
-        border: 1px solid rgba(212, 160, 23, 0.25) !important;
-        background: rgba(30, 25, 18, 0.7) !important;
+        border: 1px solid rgba(76, 175, 80, 0.25) !important;
         backdrop-filter: blur(12px) !important;
         -webkit-backdrop-filter: blur(12px) !important;
     }}
     .stChatInput > div:focus-within {{
-        border-color: #D4A017 !important;
-        box-shadow: 0 0 0 2px rgba(212, 160, 23, 0.2) !important;
+        border-color: #4CAF50 !important;
+        box-shadow: 0 0 0 2px rgba(76, 175, 80, 0.2) !important;
     }}
-    .stChatInput textarea {{
-        color: #f5f0e0 !important;
+    .stChatInput textarea,
+    .stChatInput input {{
+        color: #E8F5E9 !important;
+        background: transparent !important;
+        background-color: transparent !important;
     }}
-    .stChatInput textarea::placeholder {{
-        color: #D4A017 !important;
-        opacity: 0.5 !important;
+    .stChatInput textarea::placeholder,
+    .stChatInput input::placeholder {{
+        color: #81C784 !important;
+        opacity: 0.6 !important;
+    }}
+    /* Chat send button */
+    .stChatInput button {{
+        background: rgba(76, 175, 80, 0.2) !important;
+        color: #A5D6A7 !important;
+        border: none !important;
+    }}
+    .stChatInput button:hover {{
+        background: rgba(76, 175, 80, 0.35) !important;
     }}
 
     /* ============================================= */
-    /* 10. SOURCE CARDS — Gold accent                  */
+    /* 10. SOURCE CARDS                               */
     /* ============================================= */
     .source-card {{
-        background: rgba(212, 160, 23, 0.08);
-        border: 1px solid rgba(212, 160, 23, 0.22);
+        background: rgba(27, 60, 27, 0.3);
+        border: 1px solid rgba(76, 175, 80, 0.15);
         border-radius: 10px;
         padding: 0.7rem 1rem;
         margin: 0.4rem 0;
@@ -288,9 +297,9 @@ st.markdown(f"""
         transition: all 0.25s ease;
     }}
     .source-card:hover {{
-        background: rgba(212, 160, 23, 0.18);
+        background: rgba(76, 175, 80, 0.15);
         transform: translateX(3px);
-        border-color: rgba(212, 160, 23, 0.4);
+        border-color: rgba(76, 175, 80, 0.3);
     }}
     .source-card .source-icon {{
         font-size: 1.2rem;
@@ -299,31 +308,31 @@ st.markdown(f"""
     }}
     .source-card .source-name {{
         font-size: 0.88rem;
-        color: #f5f0e0;
+        color: #C8E6C9;
         font-weight: 500;
     }}
 
     /* ============================================= */
-    /* 11. RESPONSE TIME BADGE — Gold pill             */
+    /* 11. RESPONSE TIME BADGE                        */
     /* ============================================= */
     .response-time {{
         display: inline-block;
         background: rgba(212, 160, 23, 0.15);
-        border: 1px solid rgba(212, 160, 23, 0.35);
+        border: 1px solid rgba(212, 160, 23, 0.3);
         border-radius: 20px;
         padding: 0.2rem 0.75rem;
         font-size: 0.75rem;
-        color: #ffe082;
+        color: #FFE082;
         margin-top: 0.5rem;
     }}
 
     /* ============================================= */
-    /* 12. TECH BADGES — Brown tinted (Sidebar)        */
+    /* 12. TECH BADGES (Sidebar)                      */
     /* ============================================= */
     .tech-badge {{
         display: inline-block;
-        background: rgba(109, 76, 65, 0.15);
-        border: 1px solid rgba(109, 76, 65, 0.3);
+        background: rgba(76, 175, 80, 0.08);
+        border: 1px solid rgba(76, 175, 80, 0.18);
         border-radius: 8px;
         padding: 0.25rem 0.65rem;
         margin: 0.15rem 0;
@@ -331,8 +340,7 @@ st.markdown(f"""
         transition: all 0.2s ease;
     }}
     .tech-badge:hover {{
-        background: rgba(129, 199, 132, 0.15);
-        border-color: rgba(129, 199, 132, 0.3);
+        background: rgba(76, 175, 80, 0.2);
     }}
 
     /* ============================================= */
@@ -340,7 +348,7 @@ st.markdown(f"""
     /* ============================================= */
     section[data-testid="stSidebar"] .stButton > button {{
         background: rgba(198, 40, 40, 0.12) !important;
-        color: #ef9a9a !important;
+        color: #EF9A9A !important;
         border: 1px solid rgba(198, 40, 40, 0.25) !important;
         border-radius: 10px !important;
         width: 100%;
@@ -353,41 +361,41 @@ st.markdown(f"""
     }}
 
     /* ============================================= */
-    /* 14. EXPANDER STYLING — Earth brown              */
+    /* 14. EXPANDER                                   */
     /* ============================================= */
     .streamlit-expanderHeader {{
-        background: rgba(109, 76, 65, 0.15) !important;
+        background: rgba(27, 60, 27, 0.3) !important;
         border-radius: 10px !important;
-        color: #D4A017 !important;
+        color: #A5D6A7 !important;
     }}
     details summary {{
-        color: #D4A017 !important;
+        color: #A5D6A7 !important;
     }}
     details summary:hover {{
-        color: #ffe082 !important;
+        color: #C8E6C9 !important;
     }}
 
     /* ============================================= */
-    /* 15. FOOTER — Earth brown glass                  */
+    /* 15. FOOTER                                     */
     /* ============================================= */
     .footer {{
-        background: rgba(45, 32, 22, 0.3);
+        background: rgba(18, 30, 15, 0.4);
         backdrop-filter: blur(8px);
         -webkit-backdrop-filter: blur(8px);
-        border: 1px solid rgba(109, 76, 65, 0.2);
+        border: 1px solid rgba(76, 175, 80, 0.1);
         border-radius: 12px;
         text-align: center;
         padding: 1rem 1.5rem;
         margin-top: 2rem;
-        color: rgba(224, 213, 200, 0.5);
+        color: rgba(165, 214, 167, 0.4);
         font-size: 0.8rem;
     }}
     .footer strong {{
-        color: rgba(212, 160, 23, 0.6);
+        color: rgba(165, 214, 167, 0.6);
     }}
 
     /* ============================================= */
-    /* 16. SCROLLBAR — Warm gold                      */
+    /* 16. SCROLLBAR                                  */
     /* ============================================= */
     ::-webkit-scrollbar {{
         width: 6px;
@@ -396,27 +404,27 @@ st.markdown(f"""
         background: rgba(0, 0, 0, 0.1);
     }}
     ::-webkit-scrollbar-thumb {{
-        background: rgba(212, 160, 23, 0.3);
+        background: rgba(76, 175, 80, 0.3);
         border-radius: 3px;
     }}
     ::-webkit-scrollbar-thumb:hover {{
-        background: rgba(212, 160, 23, 0.5);
+        background: rgba(76, 175, 80, 0.5);
     }}
 
     /* ============================================= */
     /* 17. SPINNER                                    */
     /* ============================================= */
     .stSpinner > div {{
-        border-top-color: #D4A017 !important;
+        border-top-color: #4CAF50 !important;
     }}
 
     /* ============================================= */
-    /* 18. ERROR / WARNING / INFO BOXES               */
+    /* 18. ALERTS                                     */
     /* ============================================= */
     .stAlert {{
-        background: rgba(40, 35, 25, 0.5) !important;
+        background: rgba(24, 40, 22, 0.5) !important;
         border-radius: 10px !important;
-        color: #f5f0e0 !important;
+        color: #E8F5E9 !important;
     }}
 
     /* ============================================= */
@@ -427,22 +435,11 @@ st.markdown(f"""
     }}
 
     /* ============================================= */
-    /* 20. OVERRIDE ANY REMAINING STREAMLIT BLUE      */
+    /* 20. BOTTOM BAR / STATUS BAR                    */
     /* ============================================= */
-    .st-emotion-cache-1avcm0n {{
+    .stBottom, footer, .stBottom > div {{
         background: transparent !important;
-    }}
-    .stDeployButton {{
-        display: none !important;
-    }}
-    /* Default Streamlit link/button blue overrides */
-    .stApp [data-testid] a,
-    .stApp .stMarkdown a {{
-        color: #D4A017 !important;
-    }}
-    .stApp [data-testid] a:hover,
-    .stApp .stMarkdown a:hover {{
-        color: #ffe082 !important;
+        background-color: transparent !important;
     }}
 </style>
 """, unsafe_allow_html=True)
