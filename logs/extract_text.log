@@ -1,0 +1,52 @@
+2026-07-12 00:31:34,869  INFO      === Crop: cotton ===
+2026-07-12 00:31:34,872  INFO      Processing cotton/FAO_cotton.pdf
+2026-07-12 00:31:35,607  INFO      Saved data\clean\cotton\FAO_cotton.txt  (355040 -> 319714 chars, 9.9% reduction)
+2026-07-12 00:31:35,608  INFO      Processing cotton/PAD_cotton.pdf
+2026-07-12 00:31:35,813  INFO      Saved data\clean\cotton\PAD_cotton.txt  (66546 -> 62063 chars, 6.7% reduction)
+2026-07-12 00:31:35,813  INFO      Processing cotton/PARC_cooton_02.pdf
+2026-07-12 00:31:35,941  INFO      Saved data\clean\cotton\PARC_cooton_02.txt  (50776 -> 48393 chars, 4.7% reduction)
+2026-07-12 00:31:35,941  INFO      Processing cotton/PARC_cotton.pdf
+2026-07-12 00:31:36,058  INFO      Saved data\clean\cotton\PARC_cotton.txt  (44583 -> 41556 chars, 6.8% reduction)
+2026-07-12 00:31:36,058  INFO      Processing cotton/PARC_cotton_03.pdf
+2026-07-12 00:31:36,170  INFO      Saved data\clean\cotton\PARC_cotton_03.txt  (45300 -> 41288 chars, 8.9% reduction)
+2026-07-12 00:31:36,170  INFO      === Crop: maize ===
+2026-07-12 00:31:36,171  INFO      Processing maize/FAO_maize.pdf
+2026-07-12 00:31:36,298  INFO      Saved data\clean\maize\FAO_maize.txt  (53668 -> 47676 chars, 11.2% reduction)
+2026-07-12 00:31:36,298  INFO      Processing maize/maize.pdf
+2026-07-12 00:31:36,369  INFO      Saved data\clean\maize\maize.txt  (2196 -> 2055 chars, 6.4% reduction)
+2026-07-12 00:31:36,370  INFO      Processing maize/maize_post_harvest.pdf
+2026-07-12 00:31:36,808  INFO      Saved data\clean\maize\maize_post_harvest.txt  (225675 -> 207374 chars, 8.1% reduction)
+2026-07-12 00:31:36,809  INFO      Processing maize/PARC_maize.pdf
+2026-07-12 00:31:36,885  INFO      Saved data\clean\maize\PARC_maize.txt  (28244 -> 26932 chars, 4.6% reduction)
+2026-07-12 00:31:36,885  INFO      === Crop: rice ===
+2026-07-12 00:31:36,886  INFO      Processing rice/FAO_rice-2.pdf
+2026-07-12 00:31:37,132  INFO      Saved data\clean\rice\FAO_rice-2.txt  (100210 -> 97907 chars, 2.3% reduction)
+2026-07-12 00:31:37,133  INFO      Processing rice/FAO_rice_01.pdf
+2026-07-12 00:31:37,185  INFO      Saved data\clean\rice\FAO_rice_01.txt  (9326 -> 9130 chars, 2.1% reduction)
+2026-07-12 00:31:37,185  INFO      Processing rice/FAO_rice_3.pdf
+2026-07-12 00:31:37,239  INFO      Saved data\clean\rice\FAO_rice_3.txt  (7604 -> 7181 chars, 5.6% reduction)
+2026-07-12 00:31:37,239  INFO      Processing rice/FAO_rice_4.pdf
+2026-07-12 00:31:37,375  INFO      Saved data\clean\rice\FAO_rice_4.txt  (33112 -> 28283 chars, 14.6% reduction)
+2026-07-12 00:31:37,376  INFO      Processing rice/UAF_rice.pdf
+2026-07-12 00:31:37,470  INFO      Saved data\clean\rice\UAF_rice.txt  (5637 -> 5454 chars, 3.2% reduction)
+2026-07-12 00:31:37,470  INFO      === Crop: sugarcane ===
+2026-07-12 00:31:37,472  INFO      Processing sugarcane/FAO_sugarcane.pdf
+2026-07-12 00:31:37,608  INFO      Saved data\clean\sugarcane\FAO_sugarcane.txt  (59203 -> 55016 chars, 7.1% reduction)
+2026-07-12 00:31:37,609  INFO      Processing sugarcane/PARC_sugarcane.pdf
+2026-07-12 00:31:37,670  INFO      Saved data\clean\sugarcane\PARC_sugarcane.txt  (20528 -> 18895 chars, 8.0% reduction)
+2026-07-12 00:31:37,671  INFO      Processing sugarcane/PARC_sugarcane_02.pdf
+2026-07-12 00:31:37,749  INFO      Saved data\clean\sugarcane\PARC_sugarcane_02.txt  (33991 -> 32585 chars, 4.1% reduction)
+2026-07-12 00:31:37,749  INFO      Processing sugarcane/sugarcane.pdf
+2026-07-12 00:31:38,024  INFO      Saved data\clean\sugarcane\sugarcane.txt  (117306 -> 108114 chars, 7.8% reduction)
+2026-07-12 00:31:38,025  INFO      Processing sugarcane/UAF_sugarcane.pdf
+2026-07-12 00:31:38,148  INFO      Saved data\clean\sugarcane\UAF_sugarcane.txt  (36932 -> 31343 chars, 15.1% reduction)
+2026-07-12 00:31:38,148  INFO      === Crop: wheat ===
+2026-07-12 00:31:38,149  INFO      Processing wheat/FAO_wheat.pdf
+2026-07-12 00:31:38,455  INFO      Saved data\clean\wheat\FAO_wheat.txt  (133811 -> 125873 chars, 5.9% reduction)
+2026-07-12 00:31:38,456  INFO      Processing wheat/FAO_wheat_03.pdf
+2026-07-12 00:31:38,692  INFO      Saved data\clean\wheat\FAO_wheat_03.txt  (86279 -> 80448 chars, 6.8% reduction)
+2026-07-12 00:31:38,693  INFO      Processing wheat/FAO_wheat_post_harvestation.pdf
+2026-07-12 00:31:38,818  INFO      Saved data\clean\wheat\FAO_wheat_post_harvestation.txt  (64975 -> 59992 chars, 7.7% reduction)
+2026-07-12 00:31:38,819  INFO      Processing wheat/PMD_wheat.pdf
+2026-07-12 00:31:38,996  INFO      Saved data\clean\wheat\PMD_wheat.txt  (52907 -> 48068 chars, 9.1% reduction)
+2026-07-12 00:31:38,996  INFO      Done - 23 files processed successfully, 0 failed.

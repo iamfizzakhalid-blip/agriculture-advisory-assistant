@@ -1,15 +1,33 @@
 """
-Load pre-generated embeddings into a persistent ChromaDB vector store.
-
-Reads chunk embeddings from data/embeddings.json, stores them in a local
-ChromaDB collection with metadata, and exposes semantic retrieval helpers.
+embeddings.json
+      │
+      ▼
+Load embeddings
+      │
+      ▼
+Prepare metadata
+      │
+      ▼
+Insert into ChromaDB
+      │
+      ▼
+User asks question
+      │
+      ▼
+Convert question → embedding
+      │
+      ▼
+Compare against all stored embeddings
+      │
+      ▼
+Return Top-K similar chunks
 """
 
 from __future__ import annotations
 
 import json
-import re
-from pathlib import Path
+import re # Used to remove '_chunk_001, _chunk_023,etc.' from filenames.
+from pathlib import Path # Creates platform-independent paths.
 
 import chromadb
 from chromadb.api.models.Collection import Collection
@@ -199,7 +217,7 @@ def retrieve_similar_chunks(
         raise ValueError("Query must not be empty.")
 
     query_embedding = model.encode(query.strip()).tolist()
-    results = collection.query(
+    results = collection.query( # chroma compares question embeddings with stored embeddings
         query_embeddings=[query_embedding],
         n_results=top_k,
         include=["documents", "metadatas", "distances"],
