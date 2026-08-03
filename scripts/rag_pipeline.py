@@ -7,6 +7,7 @@ from scripts.load_db import (
 )
 
 from scripts.llm_call import ask_llm
+from scripts.lang_utils import normalize_query
 
 TOP_K = 10
 
@@ -33,10 +34,13 @@ def build_context(results):
 
 def rag_pipeline(question, collection, model):
 
+    normalized_query = normalize_query(question)
+    retrieval_query = normalized_query.get("english_query", question)
+
     results = retrieve_similar_chunks(
         collection=collection,
         model=model,
-        query=question,
+        query=retrieval_query,
         top_k=TOP_K,
     )
     if not results:
