@@ -150,3 +150,43 @@ def normalize_query(user_query: str) -> dict:
 
     except Exception:
         return _fallback_result(user_query)
+    
+
+def translate_to_original_language(text: str, target_language: str) -> str:
+    """
+    Translates English response back to user's original language.
+    """
+
+    # If already English → return as it is
+    if target_language == "en":
+        return text
+
+    client = _get_groq_client()
+    if client is None:
+        return text
+
+    system_prompt = (
+        "You are a translator. Convert the given English text into the target language.\n"
+        "Target language can be:\n"
+        "- ur (Urdu script)\n"
+        "- roman_ur (Roman Urdu)\n"
+        "Return ONLY translated text. No explanations."
+    )
+
+    user_prompt = f"Target language: {target_language}\nText: {text}"
+
+    try:
+        response = client.chat.completions.create(
+            model="llama-3.3-70b-versatile",
+            temperature=0,
+            max_tokens=300,
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt},
+            ],
+        )
+
+        return response.choices[0].message.content.strip()
+
+    except Exception:
+        return text

@@ -7,7 +7,7 @@ from scripts.load_db import (
 )
 
 from scripts.llm_call import ask_llm
-from scripts.lang_utils import normalize_query
+from scripts.lang_utils import normalize_query, translate_to_original_language
 
 TOP_K = 10
 
@@ -34,27 +34,39 @@ def build_context(results):
 
 def rag_pipeline(question, collection, model):
 
+    # Step 1: Normalize query
     normalized_query = normalize_query(question)
     print(f"Detected language: {normalized_query.get('detected_language')}")
-    print(f"English query: {normalized_query.get("english_query", question)}")
+    print(f"English query: {normalized_query.get('english_query', question)}")
+
     retrieval_query = normalized_query.get("english_query", question)
 
+    # Step 2: Retrieve chunks
     results = retrieve_similar_chunks(
         collection=collection,
         model=model,
         query=retrieval_query,
         top_k=TOP_K,
     )
+
     if not results:
         return None, "No relevant documents found."
 
     metadata = results[0]["metadata"]
     metadata["crop"] = detect_crop(question)
-    
-    context = build_context(results)
-    answer = ask_llm(question, context)
 
-    return results, answer
+    # Step 3: Build context
+    context = build_context(results)
+
+    # Step 4: Get answer from LLM (IN ENGLISH)
+    answer = ask_llm(retrieval_query, context)
+
+    # Step 5: Translate back to original language
+    detected_lang = normalized_query.get("detected_language", "en")
+
+    final_answer = translate_to_original_language(answer, detected_lang)
+
+    return results, final_answer
 
 
 def print_results(results, query):
