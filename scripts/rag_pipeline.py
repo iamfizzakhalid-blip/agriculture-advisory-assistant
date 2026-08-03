@@ -35,6 +35,8 @@ def build_context(results):
 def rag_pipeline(question, collection, model):
 
     normalized_query = normalize_query(question)
+    print(f"Detected language: {normalized_query.get('detected_language')}")
+    print(f"English query: {normalized_query.get("english_query", question)}")
     retrieval_query = normalized_query.get("english_query", question)
 
     results = retrieve_similar_chunks(
