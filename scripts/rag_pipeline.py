@@ -11,6 +11,7 @@ from scripts.lang_utils import normalize_query, translate_to_original_language
 
 TOP_K = 10
 
+
 def detect_crop(query: str) -> str:
     query = query.lower()
 
@@ -28,20 +29,47 @@ def detect_crop(query: str) -> str:
 
     return "Unknown"
 
+
 def build_context(results):
     return "\n\n".join(result["text"] for result in results)
 
 
+# 🔥 NEW: Roman Urdu detection helper
+def detect_script_type(text: str) -> str:
+    """
+    Detect if input is:
+    - Urdu script (Arabic)
+    - Roman Urdu (Latin)
+    - English
+    """
+
+    has_urdu = any('\u0600' <= c <= '\u06FF' for c in text)
+    has_latin = any(c.isalpha() and c.lower() in "abcdefghijklmnopqrstuvwxyz" for c in text)
+
+    if has_urdu:
+        return "ur"
+    elif has_latin:
+        return "roman_ur"
+    else:
+        return "en"
+
+
 def rag_pipeline(question, collection, model):
 
-    # Step 1: Normalize query
+    # 🔹 Step 1: Normalize query (LLM-based)
     normalized_query = normalize_query(question)
-    print(f"Detected language: {normalized_query.get('detected_language')}")
+
+    print(f"Detected language (LLM): {normalized_query.get('detected_language')}")
     print(f"English query: {normalized_query.get('english_query', question)}")
 
     retrieval_query = normalized_query.get("english_query", question)
 
-    # Step 2: Retrieve chunks
+    # 🔥 Step 2: OVERRIDE language detection (fix Roman Urdu issue)
+    script_detected_lang = detect_script_type(question)
+
+    print(f"Detected language (script-based): {script_detected_lang}")
+
+    # 🔹 Step 3: Retrieve chunks
     results = retrieve_similar_chunks(
         collection=collection,
         model=model,
@@ -55,16 +83,25 @@ def rag_pipeline(question, collection, model):
     metadata = results[0]["metadata"]
     metadata["crop"] = detect_crop(question)
 
-    # Step 3: Build context
+    # 🔹 Step 4: Build context
     context = build_context(results)
 
-    # Step 4: Get answer from LLM (IN ENGLISH)
+    # 🔹 Step 5: Get answer from LLM (IN ENGLISH)
     answer = ask_llm(retrieval_query, context)
 
-    # Step 5: Translate back to original language
-    detected_lang = normalized_query.get("detected_language", "en")
+    # 🔥 Step 6: Decide final language (priority: script detection)
+    if script_detected_lang in ["ur", "roman_ur"]:
+        final_lang = script_detected_lang
+    else:
+        final_lang = normalized_query.get("detected_language", "en")
 
-    final_answer = translate_to_original_language(answer, detected_lang)
+    print(f"Final language used: {final_lang}")
+
+    # 🔹 Step 7: Translate back
+    if final_lang == "en":
+        final_answer = answer
+    else:
+        final_answer = translate_to_original_language(answer, final_lang)
 
     return results, final_answer
 
@@ -122,7 +159,6 @@ def main():
             continue
 
         try:
-
             results, answer = rag_pipeline(
                 question=question,
                 collection=collection,
@@ -133,7 +169,7 @@ def main():
                 print(answer)
                 continue
 
-            print_results(results,question)
+            print_results(results, question)
 
             print("\n" + "=" * 70)
             print("Final Answer")
