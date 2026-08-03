@@ -1,7 +1,16 @@
 import os
 import time
 from dotenv import load_dotenv
-from groq import Groq
+
+try:
+    from groq import Groq
+except Exception:
+    Groq = None
+
+try:
+    import streamlit as st
+except Exception:
+    st = None
 
 # Load environment variables
 load_dotenv()
@@ -9,13 +18,10 @@ load_dotenv()
 api_key = os.getenv("GROQ_API_KEY")
 
 # If running on Streamlit Cloud, read from Secrets
-if api_key is None:
+if api_key is None and st is not None:
     api_key = st.secrets.get("GROQ_API_KEY")
 
-if api_key is None:
-    raise ValueError("GROQ_API_KEY not found.")
-
-client = Groq(api_key=api_key) # Creates a connection object
+client = Groq(api_key=api_key) if (Groq is not None and api_key) else None # Creates a connection object
 
 
 def load_prompt_template():
@@ -35,6 +41,9 @@ def ask_llm(question, context):
     """
     Sends the user question and retrieved context to the Groq LLM.
     """
+
+    if client is None:
+        return "Error communicating with Groq API: GROQ_API_KEY not found."
 
     # Validate inputs
     if not question.strip():
