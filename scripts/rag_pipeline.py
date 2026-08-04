@@ -56,6 +56,37 @@ def detect_script_type(text: str) -> str:
 
 def rag_pipeline(question, collection, model):
 
+    def _is_conversational_or_identity(q: str) -> bool:
+        """Return True for short conversational or identity questions we should not answer from LLM knowledge."""
+        if not q:
+            return False
+        ql = q.lower().strip()
+        # common conversational starters and identity questions
+        conversational_tokens = [
+            "hello",
+            "hi",
+            "hey",
+            "who am i",
+            "who are you",
+            "what is my name",
+            "what's my name",
+            "where am i",
+            "how are you",
+            "introduce yourself",
+        ]
+        # exact-match short phrases or presence
+        for t in conversational_tokens:
+            if t in ql:
+                return True
+
+        # also treat very short non-specific queries as conversational
+        tokens = ql.split()
+        if len(tokens) <= 3 and any(w.endswith('?') or w in {"hello","hi","hey"} for w in tokens):
+            return True
+
+        return False
+
+
     # 🔹 Step 1: Normalize query (LLM-based)
     normalized_query = normalize_query(question)
 
@@ -87,15 +118,35 @@ def rag_pipeline(question, collection, model):
     context = build_context(results)
 
     # 🔹 Step 5: Get answer from LLM (IN ENGLISH)
-    answer = ask_llm(retrieval_query, context)
-
-    # 🔥 Step 6: Decide final language (priority: script detection)
-    if script_detected_lang in ["ur", "roman_ur"]:
-        final_lang = script_detected_lang
+    # If the user asked a conversational/identity question, do not let the LLM
+    # hallucinate an identity or greeting — instead return the standard
+    # fallback message per the prompt template.
+    if _is_conversational_or_identity(question):
+        answer = "I do not have enough information to answer this question."
     else:
-        final_lang = normalized_query.get("detected_language", "en")
+        answer = ask_llm(retrieval_query, context)
 
-    print(f"Final language used: {final_lang}")
+    # 🔥 Step 6: Decide final language
+    # Prefer the LLM-based detection (`normalized_query`) for Roman Urdu vs English
+    # because simple script checks (presence of Latin letters) can misclassify
+    # English as Roman Urdu. However, if Arabic-script Urdu characters are
+    # present, force 'ur' since that's unambiguous.
+    final_lang = normalized_query.get("detected_language", "en")
+    if script_detected_lang == "ur":
+        # Arabic-script Urdu detected — force Urdu output
+        final_lang = "ur"
+
+    # Conservative heuristic fallback: if LLM returned 'en' but the script
+    # detector saw Latin letters and the original query contains common
+    # Roman-Urdu tokens, treat it as Roman Urdu. This helps when the LLM
+    # detection or Groq client is unavailable.
+    if final_lang == "en" and script_detected_lang == "roman_ur":
+        tokens = set(q.lower().strip("?!.;,()") for q in question.split())
+        roman_indicators = {"ka", "ke", "ki", "hai", "hain", "nahi", "kab", "kya", "kyun", "kaise", "jais", "mera", "meri", "tum", "ap"}
+        if tokens & roman_indicators:
+            final_lang = "roman_ur"
+
+    print(f"Final language used: {final_lang} (LLM-detected: {normalized_query.get('detected_language')}, script-detected: {script_detected_lang})")
 
     # 🔹 Step 7: Translate back
     if final_lang == "en":

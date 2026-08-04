@@ -3,9 +3,6 @@ import os
 sys.path.append(os.path.abspath("."))
 import streamlit as st
 import time
-import json
-import uuid
-from datetime import datetime
 
 from scripts.load_db import (
     get_chroma_client,
@@ -15,6 +12,13 @@ from scripts.load_db import (
 )
 
 from scripts.rag_pipeline import rag_pipeline
+from scripts.chat_db import (
+    create_chat as db_create_chat,
+    save_chat as db_save_chat,
+    load_chat as db_load_chat,
+    delete_chat as db_delete_chat,
+    list_chats as db_list_chats,
+)
 
 # =============================================
 # PAGE CONFIG
@@ -26,70 +30,39 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-# =============================================
-# CHAT SESSION STORAGE (persisted to disk as JSON)
-# =============================================
-CHATS_DIR = "chat_sessions"
-os.makedirs(CHATS_DIR, exist_ok=True)
-
-
-def _chat_path(chat_id: str) -> str:
-    return os.path.join(CHATS_DIR, f"{chat_id}.json")
+# SQLite-backed chat storage wrappers
 
 
 def save_chat(chat_id: str, title: str, messages: list):
-    """Persist a chat session to disk."""
-    data = {
-        "id": chat_id,
-        "title": title,
-        "updated_at": datetime.now().isoformat(),
-        "messages": messages,
-    }
     try:
-        with open(_chat_path(chat_id), "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
+        db_save_chat(chat_id, title, messages)
     except Exception:
         pass
 
 
 def load_chat(chat_id: str):
-    path = _chat_path(chat_id)
-    if not os.path.exists(path):
-        return None
     try:
-        with open(path, "r", encoding="utf-8") as f:
-            return json.load(f)
+        return db_load_chat(chat_id)
     except Exception:
         return None
 
 
 def delete_chat(chat_id: str):
-    path = _chat_path(chat_id)
-    if os.path.exists(path):
-        try:
-            os.remove(path)
-        except Exception:
-            pass
+    try:
+        db_delete_chat(chat_id)
+    except Exception:
+        pass
 
 
 def list_chats():
-    """Return all saved chats, most recently updated first."""
-    chats = []
-    for fname in os.listdir(CHATS_DIR):
-        if fname.endswith(".json"):
-            try:
-                with open(os.path.join(CHATS_DIR, fname), "r", encoding="utf-8") as f:
-                    chats.append(json.load(f))
-            except Exception:
-                continue
-    chats.sort(key=lambda c: c.get("updated_at", ""), reverse=True)
-    return chats
+    try:
+        return db_list_chats()
+    except Exception:
+        return []
 
 
 def create_new_chat() -> str:
-    chat_id = str(uuid.uuid4())
-    save_chat(chat_id, "New Chat", [])
-    return chat_id
+    return db_create_chat()
 
 
 def make_title(messages: list) -> str:
@@ -118,6 +91,42 @@ BG_IMAGE_URL = "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=1
 # CUSTOM CSS — Agriculture Glassmorphism Theme
 # =============================================
 st.markdown(f"""
+<style>
+    /* Responsive adjustments: tablet and mobile */
+    @media (max-width: 900px) {{
+      .hero-header {{ padding: 1.2rem 1.4rem; }}
+      .hero-header h1 {{ font-size: 1.6rem; }}
+      .hero-header .hero-emoji {{ font-size: 2rem; }}
+      .hero-header p {{ font-size: 0.95rem; }}
+      .welcome-section {{ padding: 1rem 1.2rem; }}
+      .welcome-section .suggestion {{ padding: 0.4rem 0.8rem; font-size: 0.82rem; }}
+      section[data-testid="stSidebar"] .stButton > button {{ font-size: 0.9rem; padding: 6px 8px !important; }}
+      .crop-card .crop-name {{ font-size: 0.82rem; }}
+      .source-card .source-name {{ font-size: 0.85rem; }}
+      .stChatMessage {{ padding: 0.75rem !important; }}
+      .response-time {{ font-size: 0.7rem; }}
+    }}
+
+    @media (max-width: 600px) {{
+      .hero-header {{ padding: 0.8rem 1rem; border-radius: 12px; }}
+      .hero-header h1 {{ font-size: 1.2rem; }}
+      .hero-header .hero-emoji {{ font-size: 1.6rem; }}
+      .hero-header p {{ font-size: 0.88rem; }}
+      .welcome-section {{ padding: 0.8rem 1rem; margin: 0.6rem 0; }}
+      .welcome-section .suggestion {{ padding: 0.35rem 0.6rem; font-size: 0.78rem; }}
+      .crop-card {{ padding: 0.4rem 0.6rem; }}
+      .crop-card .crop-name {{ font-size: 0.78rem; }}
+      section[data-testid="stSidebar"] {{ padding: 8px !important; }}
+      .stChatMessage {{ font-size: 0.95rem !important; padding: 0.6rem !important; margin-bottom: 0.5rem !important; }}
+      .stChatInput textarea, .stChatInput input {{ font-size: 0.95rem !important; }}
+      .stChatInput button {{ padding: 6px 8px !important; }}
+      .source-card {{ padding: 0.5rem 0.8rem; }}
+      .footer {{ display: none !important; }}
+      div[style*="max-height:48vh"] {{ max-height: 60vh !important; }}
+      .chat-list-row {{ margin-bottom: 3px !important; }}
+      section[data-testid="stSidebar"] .stButton > button {{ min-height: 34px !important; }}
+    }}
+</style>
 <style>
     /* ============================================= */
     /* 1. FONTS                                       */
@@ -574,9 +583,30 @@ st.markdown(f"""
     /* ============================================= */
     /* 21. CONVERSATION LIST LAYOUT                   */
     /* ============================================= */
+</style>
+<style>
     .chat-list-row div[data-testid="column"] {{
         padding: 0 2px !important;
     }}
+    /* Reduce vertical padding and min-height to tighten chat rows */
+    section[data-testid="stSidebar"] .stButton > button {{
+        padding: 2px 6px !important;
+        min-height: 28px !important;
+        line-height: 1 !important;
+        border: none !important;
+        background: rgba(212,160,23,0.04) !important;
+        box-shadow: none !important;
+    }}
+    div[class*="st-key-del_"] > button {{
+        padding: 2px 6px !important;
+        min-height: 28px !important;
+    }}
+    .chat-list-row {{
+        margin-bottom: 4px !important;
+        padding: 0 !important;
+        border-bottom: none !important;
+    }}
+    
 </style>
 """, unsafe_allow_html=True)
 
@@ -610,26 +640,16 @@ with st.sidebar:
         ("🧵", "Cotton"),
         ("🎋", "Sugarcane"),
     ]
-    crop_html = ""
+    # Compact, inline crop badges so conversation list is visible
+    crop_html = '<div style="display:flex; gap:6px; flex-wrap:wrap; align-items:center">'
     for icon, name in crops:
-        crop_html += f"""
-        <div class="crop-card">
-            <span class="crop-icon">{icon}</span>
-            <span class="crop-name">{name}</span>
-        </div>"""
+        crop_html += (
+            f'<div style="padding:6px 10px; border-radius:12px; '
+            f'background:rgba(212,160,23,0.04); border:1px solid rgba(212,160,23,0.12); '
+            f'font-size:0.9rem;">{icon} {name}</div>'
+        )
+    crop_html += "</div>"
     st.markdown(crop_html, unsafe_allow_html=True)
-
-    st.markdown("---")
-
-    st.markdown("#### ⚙️ Tech Stack")
-    st.markdown("""
-    <div>
-        <div class="tech-badge">🗄 ChromaDB</div>
-        <div class="tech-badge">🤖 Sentence Transformers</div>
-        <div class="tech-badge">🔗 RAG Pipeline</div>
-        <div class="tech-badge">⚡ Groq LLM</div>
-    </div>
-    """, unsafe_allow_html=True)
 
     st.markdown("---")
 
@@ -637,6 +657,9 @@ with st.sidebar:
     # CONVERSATIONS — new chat / switch / delete
     # =========================================
     st.markdown("#### 💬 Conversations")
+
+    # Make the conversations area scrollable if it grows too large
+    st.markdown('<div style="max-height:48vh; overflow-y:auto; padding-right:6px;">', unsafe_allow_html=True)
 
     if st.button("➕ New Chat", use_container_width=True, key="new_chat_btn"):
         current = load_chat(st.session_state.current_chat_id)
@@ -676,7 +699,8 @@ with st.sidebar:
                     st.rerun()
             st.markdown('</div>', unsafe_allow_html=True)
 
-    st.markdown("---")
+        # close scrollable conversations container (only once)
+        st.markdown('</div>', unsafe_allow_html=True)
 
     if st.button("🗑 Clear Current Chat", use_container_width=True, key="clear_current_chat"):
         st.session_state.messages = []
