@@ -3,7 +3,9 @@ import os
 sys.path.append(os.path.abspath("."))
 import streamlit as st
 import time
-
+import json
+import uuid
+from datetime import datetime
 
 from scripts.load_db import (
     get_chroma_client,
@@ -23,6 +25,87 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
 )
+
+# =============================================
+# CHAT SESSION STORAGE (persisted to disk as JSON)
+# =============================================
+CHATS_DIR = "chat_sessions"
+os.makedirs(CHATS_DIR, exist_ok=True)
+
+
+def _chat_path(chat_id: str) -> str:
+    return os.path.join(CHATS_DIR, f"{chat_id}.json")
+
+
+def save_chat(chat_id: str, title: str, messages: list):
+    """Persist a chat session to disk."""
+    data = {
+        "id": chat_id,
+        "title": title,
+        "updated_at": datetime.now().isoformat(),
+        "messages": messages,
+    }
+    try:
+        with open(_chat_path(chat_id), "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+    except Exception:
+        pass
+
+
+def load_chat(chat_id: str):
+    path = _chat_path(chat_id)
+    if not os.path.exists(path):
+        return None
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return None
+
+
+def delete_chat(chat_id: str):
+    path = _chat_path(chat_id)
+    if os.path.exists(path):
+        try:
+            os.remove(path)
+        except Exception:
+            pass
+
+
+def list_chats():
+    """Return all saved chats, most recently updated first."""
+    chats = []
+    for fname in os.listdir(CHATS_DIR):
+        if fname.endswith(".json"):
+            try:
+                with open(os.path.join(CHATS_DIR, fname), "r", encoding="utf-8") as f:
+                    chats.append(json.load(f))
+            except Exception:
+                continue
+    chats.sort(key=lambda c: c.get("updated_at", ""), reverse=True)
+    return chats
+
+
+def create_new_chat() -> str:
+    chat_id = str(uuid.uuid4())
+    save_chat(chat_id, "New Chat", [])
+    return chat_id
+
+
+def make_title(messages: list) -> str:
+    """Derive a short chat title from the first user message."""
+    for m in messages:
+        if m["role"] == "user":
+            text = m["content"].strip().replace("\n", " ")
+            return text[:40] + ("…" if len(text) > 40 else "")
+    return "New Chat"
+
+
+def switch_to_chat(chat_id: str):
+    data = load_chat(chat_id)
+    st.session_state.current_chat_id = chat_id
+    st.session_state.messages = data["messages"] if data else []
+
 
 # =============================================
 # BACKGROUND IMAGE CONFIG
@@ -350,18 +433,58 @@ st.markdown(f"""
     }}
 
     /* ============================================= */
-    /* 13. CLEAR CHAT BUTTON                          */
+    /* 13. SIDEBAR BUTTONS                            */
+    /* Default = neutral gold "list item" style.      */
+    /* Destructive (delete / clear) = red style.       */
+    /* Active chat / New Chat = solid gold style.      */
+    /* Targeting relies on Streamlit's "st-key-*"      */
+    /* wrapper class that is added when a `key=` is    */
+    /* passed to a widget (Streamlit >= 1.35).         */
     /* ============================================= */
     section[data-testid="stSidebar"] .stButton > button {{
+        background: rgba(212, 160, 23, 0.07) !important;
+        color: #FFF8E7 !important;
+        border: 1px solid rgba(212, 160, 23, 0.18) !important;
+        border-radius: 10px !important;
+        width: 100%;
+        text-align: left;
+        font-weight: 500;
+        transition: all 0.25s ease;
+    }}
+    section[data-testid="stSidebar"] .stButton > button:hover {{
+        background: rgba(212, 160, 23, 0.18) !important;
+        border-color: rgba(212, 160, 23, 0.4) !important;
+        transform: translateX(2px);
+    }}
+
+    /* New Chat button — solid gold accent */
+    div[class*="st-key-new_chat_btn"] button {{
+        background: rgba(212, 160, 23, 0.28) !important;
+        border: 1px solid rgba(212, 160, 23, 0.55) !important;
+        color: #FFE082 !important;
+        font-weight: 600 !important;
+    }}
+    div[class*="st-key-new_chat_btn"] button:hover {{
+        background: rgba(212, 160, 23, 0.4) !important;
+    }}
+
+    /* Active chat in the conversation list */
+    div[class*="st-key-active_chat_"] button {{
+        background: rgba(212, 160, 23, 0.22) !important;
+        border-color: rgba(212, 160, 23, 0.5) !important;
+        color: #FFE082 !important;
+        font-weight: 600 !important;
+    }}
+
+    /* Delete + Clear buttons — red destructive style */
+    div[class*="st-key-del_"] button,
+    div[class*="st-key-clear_current_chat"] button {{
         background: rgba(198, 40, 40, 0.12) !important;
         color: #EF9A9A !important;
         border: 1px solid rgba(198, 40, 40, 0.25) !important;
-        border-radius: 10px !important;
-        width: 100%;
-        transition: all 0.25s ease;
-        font-weight: 500;
     }}
-    section[data-testid="stSidebar"] .stButton > button:hover {{
+    div[class*="st-key-del_"] button:hover,
+    div[class*="st-key-clear_current_chat"] button:hover {{
         background: rgba(198, 40, 40, 0.25) !important;
         transform: translateY(-1px);
     }}
@@ -447,8 +570,28 @@ st.markdown(f"""
         background: transparent !important;
         background-color: transparent !important;
     }}
+
+    /* ============================================= */
+    /* 21. CONVERSATION LIST LAYOUT                   */
+    /* ============================================= */
+    .chat-list-row div[data-testid="column"] {{
+        padding: 0 2px !important;
+    }}
 </style>
 """, unsafe_allow_html=True)
+
+# =============================================
+# SESSION STATE (CHAT HISTORY) — must run before sidebar UI
+# =============================================
+if "current_chat_id" not in st.session_state:
+    existing = list_chats()
+    if existing:
+        st.session_state.current_chat_id = existing[0]["id"]
+        st.session_state.messages = existing[0]["messages"]
+    else:
+        new_id = create_new_chat()
+        st.session_state.current_chat_id = new_id
+        st.session_state.messages = []
 
 # =============================================
 # SIDEBAR
@@ -490,13 +633,59 @@ with st.sidebar:
 
     st.markdown("---")
 
-    if st.button("🗑 Clear Chat", use_container_width=True):
+    # =========================================
+    # CONVERSATIONS — new chat / switch / delete
+    # =========================================
+    st.markdown("#### 💬 Conversations")
+
+    if st.button("➕ New Chat", use_container_width=True, key="new_chat_btn"):
+        current = load_chat(st.session_state.current_chat_id)
+        is_current_empty = current is not None and len(current.get("messages", [])) == 0
+        if not is_current_empty:
+            new_id = create_new_chat()
+            switch_to_chat(new_id)
+            st.rerun()
+        # if the current chat is already a fresh empty one, do nothing
+
+    chats = list_chats()
+
+    if not chats:
+        st.caption("No conversations yet.")
+    else:
+        for chat in chats:
+            is_active = chat["id"] == st.session_state.current_chat_id
+            title = chat.get("title") or "New Chat"
+            label = f"{'💬 ' if is_active else '🕘 '}{title}"
+            btn_key = f"active_chat_{chat['id']}" if is_active else f"switch_{chat['id']}"
+
+            st.markdown('<div class="chat-list-row">', unsafe_allow_html=True)
+            col1, col2 = st.columns([5, 1])
+            with col1:
+                if st.button(label, key=btn_key, use_container_width=True, disabled=is_active):
+                    switch_to_chat(chat["id"])
+                    st.rerun()
+            with col2:
+                if st.button("🗑", key=f"del_{chat['id']}"):
+                    delete_chat(chat["id"])
+                    if chat["id"] == st.session_state.current_chat_id:
+                        remaining = list_chats()
+                        if remaining:
+                            switch_to_chat(remaining[0]["id"])
+                        else:
+                            switch_to_chat(create_new_chat())
+                    st.rerun()
+            st.markdown('</div>', unsafe_allow_html=True)
+
+    st.markdown("---")
+
+    if st.button("🗑 Clear Current Chat", use_container_width=True, key="clear_current_chat"):
         st.session_state.messages = []
+        save_chat(st.session_state.current_chat_id, "New Chat", [])
         st.rerun()
 
     st.markdown("""
     <div style="text-align:center; margin-top:2rem; font-size:0.72rem; opacity:0.4;">
-        v1.0 • AI-Powered Advisory
+        v1.1 • AI-Powered Advisory
     </div>
     """, unsafe_allow_html=True)
 
@@ -525,11 +714,8 @@ def load_resources():
 model, collection = load_resources()
 
 # =============================================
-# SESSION STATE (CHAT HISTORY)
+# WELCOME SECTION (only for an empty conversation)
 # =============================================
-if "messages" not in st.session_state:
-    st.session_state.messages = []
-
 if len(st.session_state.messages) == 0:
     st.markdown("""
     <div class="welcome-section">
@@ -568,6 +754,13 @@ if user_input:
 
     with st.chat_message("user"):
         st.markdown(user_input)
+
+    # Persist immediately so the chat title/list update even if generation fails
+    save_chat(
+        st.session_state.current_chat_id,
+        make_title(st.session_state.messages),
+        st.session_state.messages,
+    )
 
     # =============================================
     # GENERATE RESPONSE
@@ -648,6 +841,12 @@ if user_input:
         "role": "assistant",
         "content": bot_reply
     })
+
+    save_chat(
+        st.session_state.current_chat_id,
+        make_title(st.session_state.messages),
+        st.session_state.messages,
+    )
 
 # =============================================
 # FOOTER

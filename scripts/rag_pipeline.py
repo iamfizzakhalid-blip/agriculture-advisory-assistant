@@ -177,7 +177,13 @@ def main():
             print(answer)
 
         except Exception as e:
-            print(f"\nError: {e}")
+
+            error_message = str(e)
+
+            if "429" in error_message:
+                print("\n⚠️ API limit reached. Please wait a few minutes and try again.")
+            else:
+                print(f"\nError: {e}")
 
 
 if __name__ == "__main__":

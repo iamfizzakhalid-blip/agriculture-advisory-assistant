@@ -14,9 +14,5 @@ __pycache__/
 .env
 
 # Data artifacts (large / generated)
-data/chroma_db/
 data/embeddings/
 logs/
-
-# Legacy
-chroma_db/
