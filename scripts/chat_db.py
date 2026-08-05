@@ -2,8 +2,6 @@ from __future__ import annotations
 
 import sqlite3
 import uuid
-import json
-import os
 from datetime import datetime
 from pathlib import Path
 from typing import List, Dict, Optional
@@ -144,57 +142,3 @@ def list_chats() -> List[Dict]:
 
 # Ensure DB exists on import
 init_db()
-
-
-def migrate_from_json(json_dir: Optional[Path] = None) -> None:
-    """If the DB has no chats yet, import existing JSON chat files from `json_dir`.
-
-    This runs silently and will not delete the original JSON files.
-    """
-    if json_dir is None:
-        json_dir = PROJECT_ROOT / "chat_sessions"
-
-    if not json_dir.exists() or not json_dir.is_dir():
-        return
-
-    conn = get_conn()
-    cur = conn.cursor()
-    cur.execute("SELECT COUNT(1) as c FROM chats")
-    row = cur.fetchone()
-    if row and row[0] > 0:
-        conn.close()
-        return
-
-    for fname in os.listdir(json_dir):
-        if not fname.endswith(".json"):
-            continue
-        path = json_dir / fname
-        try:
-            with path.open("r", encoding="utf-8") as fh:
-                data = json.load(fh)
-        except Exception:
-            continue
-
-        cid = data.get("id") or str(uuid.uuid4())
-        title = data.get("title") or "New Chat"
-        updated_at = data.get("updated_at") or datetime.now().isoformat()
-        messages = data.get("messages") or []
-
-        cur.execute(
-            "INSERT OR REPLACE INTO chats (id, title, updated_at) VALUES (?, ?, ?)",
-            (cid, title, updated_at),
-        )
-
-        for m in messages:
-            timestamp = m.get("timestamp") or updated_at
-            cur.execute(
-                "INSERT INTO messages (chat_id, role, content, timestamp) VALUES (?, ?, ?, ?)",
-                (cid, m.get("role"), m.get("content"), timestamp),
-            )
-
-    conn.commit()
-    conn.close()
-
-
-# Attempt to migrate existing JSON sessions into SQLite if DB is empty
-migrate_from_json()

@@ -34,7 +34,7 @@ def build_context(results):
     return "\n\n".join(result["text"] for result in results)
 
 
-# 🔥 NEW: Roman Urdu detection helper
+# Roman Urdu detection helper
 def detect_script_type(text: str) -> str:
     """Simple script detector.
 
@@ -89,7 +89,7 @@ def rag_pipeline(question, collection, model):
         return False
 
 
-    # 🔹 Step 1: Normalize query (LLM-based)
+    # Normalize query (LLM-based)
     normalized_query = normalize_query(question)
 
     print(f"Detected language (LLM): {normalized_query.get('detected_language')}")
@@ -97,12 +97,12 @@ def rag_pipeline(question, collection, model):
 
     retrieval_query = normalized_query.get("english_query", question)
 
-    # 🔥 Step 2: OVERRIDE language detection (fix Roman Urdu issue)
+    # OVERRIDE language detection
     script_detected_lang = detect_script_type(question)
 
     print(f"Detected language (script-based): {script_detected_lang}")
 
-    # 🔹 Step 3: Retrieve chunks
+    # Retrieve chunks
     results = retrieve_similar_chunks(
         collection=collection,
         model=model,
@@ -116,10 +116,10 @@ def rag_pipeline(question, collection, model):
     metadata = results[0]["metadata"]
     metadata["crop"] = detect_crop(question)
 
-    # 🔹 Step 4: Build context
+    # Build context
     context = build_context(results)
 
-    # 🔹 Step 5: Get answer from LLM (IN ENGLISH)
+    # Get answer from LLM (IN ENGLISH)
     # If the user asked a conversational/identity question, do not let the LLM
     # hallucinate an identity or greeting — instead return the standard
     # fallback message per the prompt template.
@@ -128,7 +128,7 @@ def rag_pipeline(question, collection, model):
     else:
         answer = ask_llm(retrieval_query, context)
 
-    # 🔥 Step 6: Decide final language
+    # Decide final language
     # Prefer the LLM-based detection (`normalized_query`) for Roman Urdu vs English
     # because simple script checks (presence of Latin letters) can misclassify
     # English as Roman Urdu. However, if Arabic-script Urdu characters are
@@ -151,7 +151,7 @@ def rag_pipeline(question, collection, model):
 
     print(f"Final language used: {final_lang} (LLM-detected: {normalized_query.get('detected_language')}, script-detected: {script_detected_lang})")
 
-    # 🔹 Step 7: Translate back
+    # Translate back
     if final_lang == "en":
         final_answer = answer
     else:
