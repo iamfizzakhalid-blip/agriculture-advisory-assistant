@@ -15,4 +15,26 @@ __pycache__/
 
 # Data artifacts (large / generated)
 data/embeddings/
+data/embedding_log.txt
 logs/
+# Chroma DB (persisted vector DB - usually large)
+data/chroma_db/
+scripts/chroma_db/
+
+# Generated embeddings and chunk outputs
+data/embeddings.json
+data/chunks/
+
+# Checkpoint artifacts
+checkpoints/
+
+# Local chat sessions DB (do not version unless intentional)
+data/chat_sessions.sqlite3
+
+# Model caches and downloads
+*.ckpt
+*.pt
+*.model
+
+# Streamlit local state
+.streamlit/

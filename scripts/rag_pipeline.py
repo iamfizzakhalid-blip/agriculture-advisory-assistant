@@ -36,11 +36,12 @@ def build_context(results):
 
 # 🔥 NEW: Roman Urdu detection helper
 def detect_script_type(text: str) -> str:
-    """
-    Detect if input is:
-    - Urdu script (Arabic)
-    - Roman Urdu (Latin)
-    - English
+    """Simple script detector.
+
+    Returns:
+    - 'ur' for Arabic-script (Urdu) characters
+    - 'latin' for Latin alphabet characters
+    - 'other' for none of the above
     """
 
     has_urdu = any('\u0600' <= c <= '\u06FF' for c in text)
@@ -49,9 +50,9 @@ def detect_script_type(text: str) -> str:
     if has_urdu:
         return "ur"
     elif has_latin:
-        return "roman_ur"
+        return "latin"
     else:
-        return "en"
+        return "other"
 
 
 def rag_pipeline(question, collection, model):
@@ -68,6 +69,7 @@ def rag_pipeline(question, collection, model):
             "hey",
             "who am i",
             "who are you",
+            "who are",
             "what is my name",
             "what's my name",
             "where am i",
@@ -140,8 +142,9 @@ def rag_pipeline(question, collection, model):
     # detector saw Latin letters and the original query contains common
     # Roman-Urdu tokens, treat it as Roman Urdu. This helps when the LLM
     # detection or Groq client is unavailable.
-    if final_lang == "en" and script_detected_lang == "roman_ur":
-        tokens = set(q.lower().strip("?!.;,()") for q in question.split())
+    # Only consider Roman-Urdu if the script is Latin and roman-indicator tokens appear
+    if final_lang == "en" and script_detected_lang == "latin":
+        tokens = set(t.strip("?!.;,()").lower() for t in question.split())
         roman_indicators = {"ka", "ke", "ki", "hai", "hain", "nahi", "kab", "kya", "kyun", "kaise", "jais", "mera", "meri", "tum", "ap"}
         if tokens & roman_indicators:
             final_lang = "roman_ur"
