@@ -8,6 +8,7 @@ from scripts.load_db import (
 
 from scripts.llm_call import ask_llm
 from scripts.lang_utils import normalize_query, translate_to_original_language
+from scripts.validation import validate_query_pre_rag, validate_answer_post_rag
 
 TOP_K = 10
 
@@ -97,6 +98,20 @@ def rag_pipeline(question, collection, model):
 
     retrieval_query = normalized_query.get("english_query", question)
 
+    # ----------------------------------------------------------
+    # PRE-RAG VALIDATION (Second Groq Model)
+    # ----------------------------------------------------------
+    pre_validation = validate_query_pre_rag(question, retrieval_query)
+    print(f"Pre-RAG validation: {pre_validation}")
+
+    # If the translation is invalid or intent is misaligned, use the
+    # corrected query from the validation model instead.
+    if not pre_validation.get("is_translation_valid", True) or not pre_validation.get("intent_aligned", True):
+        corrected_query = pre_validation.get("query_for_rag", retrieval_query)
+        if corrected_query and corrected_query.strip():
+            print(f"Validation override: using corrected query -> {corrected_query}")
+            retrieval_query = corrected_query
+
     # OVERRIDE language detection
     script_detected_lang = detect_script_type(question)
 
@@ -156,6 +171,22 @@ def rag_pipeline(question, collection, model):
         final_answer = answer
     else:
         final_answer = translate_to_original_language(answer, final_lang)
+
+    # ----------------------------------------------------------
+    # POST-RAG VALIDATION (Second Groq Model)
+    # ----------------------------------------------------------
+    post_validation = validate_answer_post_rag(
+        user_query=question,
+        detected_language=final_lang,
+        context=context,
+        generated_answer=final_answer,
+    )
+    print(f"Post-RAG validation: {post_validation}")
+
+    # Use the validated/corrected answer
+    validated_answer = post_validation.get("final_answer", final_answer)
+    if validated_answer and validated_answer.strip():
+        final_answer = validated_answer
 
     return results, final_answer
 
