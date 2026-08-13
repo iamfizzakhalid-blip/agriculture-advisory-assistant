@@ -61,12 +61,16 @@ def list_chats():
         return []
 
 
-def create_new_chat() -> str:
-    return db_create_chat()
+def create_new_chat(title: str = "New Chat") -> str:
+    return db_create_chat(title=title)
 
 
-def make_title(messages: list) -> str:
-    """Derive a short chat title from the first user message."""
+def make_title(messages: list, chat_id: str = "") -> str:
+    """Derive a short chat title from the user-provided topic or the first user message."""
+    # If a topic was stored for this chat, always use it
+    stored_topics = st.session_state.get("chat_topics", {})
+    if chat_id and chat_id in stored_topics:
+        return stored_topics[chat_id]
     for m in messages:
         if m["role"] == "user":
             text = m["content"].strip().replace("\n", " ")
@@ -606,6 +610,52 @@ st.markdown(f"""
         padding: 0 !important;
         border-bottom: none !important;
     }}
+
+    /* ============================================= */
+    /* 22. NEW TOPIC CARD                            */
+    /* ============================================= */
+    .new-topic-card {{
+        background: rgba(40, 30, 15, 0.55);
+        backdrop-filter: blur(14px);
+        -webkit-backdrop-filter: blur(14px);
+        border: 1px solid rgba(212, 160, 23, 0.3);
+        border-radius: 14px;
+        padding: 0.9rem 1rem;
+        margin: 0.5rem 0 0.8rem 0;
+        animation: topicCardFadeIn 0.25s ease;
+    }}
+    @keyframes topicCardFadeIn {{
+        from {{ opacity: 0; transform: translateY(-6px); }}
+        to   {{ opacity: 1; transform: translateY(0); }}
+    }}
+    .new-topic-card .topic-label {{
+        color: #FFE082;
+        font-size: 0.82rem;
+        font-weight: 600;
+        margin-bottom: 0.45rem;
+        display: block;
+    }}
+    /* Confirm button — solid gold accent */
+    div[class*="st-key-confirm_topic"] button {{
+        background: rgba(212, 160, 23, 0.28) !important;
+        border: 1px solid rgba(212, 160, 23, 0.55) !important;
+        color: #FFE082 !important;
+        font-weight: 600 !important;
+    }}
+    div[class*="st-key-confirm_topic"] button:hover {{
+        background: rgba(212, 160, 23, 0.4) !important;
+    }}
+    /* Cancel button — subtle style */
+    div[class*="st-key-cancel_topic"] button {{
+        background: rgba(255, 255, 255, 0.04) !important;
+        border: 1px solid rgba(255, 255, 255, 0.1) !important;
+        color: rgba(245, 236, 213, 0.6) !important;
+        font-weight: 400 !important;
+    }}
+    div[class*="st-key-cancel_topic"] button:hover {{
+        background: rgba(255, 255, 255, 0.1) !important;
+        color: #F5ECD5 !important;
+    }}
     
 </style>
 """, unsafe_allow_html=True)
@@ -622,6 +672,12 @@ if "current_chat_id" not in st.session_state:
         new_id = create_new_chat()
         st.session_state.current_chat_id = new_id
         st.session_state.messages = []
+
+if "show_new_topic_card" not in st.session_state:
+    st.session_state.show_new_topic_card = False
+
+if "chat_topics" not in st.session_state:
+    st.session_state.chat_topics = {}
 
 # =============================================
 # SIDEBAR
@@ -661,14 +717,49 @@ with st.sidebar:
     # Make the conversations area scrollable if it grows too large
     st.markdown('<div style="max-height:48vh; overflow-y:auto; padding-right:6px;">', unsafe_allow_html=True)
 
-    if st.button("➕ New Chat", use_container_width=True, key="new_chat_btn"):
-        current = load_chat(st.session_state.current_chat_id)
-        is_current_empty = current is not None and len(current.get("messages", [])) == 0
-        if not is_current_empty:
-            new_id = create_new_chat()
-            switch_to_chat(new_id)
+    if st.button("➕ New Topic", use_container_width=True, key="new_chat_btn"):
+        st.session_state.show_new_topic_card = not st.session_state.show_new_topic_card
+
+    # ----- New Topic Card -----
+    if st.session_state.show_new_topic_card:
+        st.markdown('<div class="new-topic-card">', unsafe_allow_html=True)
+        st.markdown('<span class="topic-label">📝 Enter a topic name</span>', unsafe_allow_html=True)
+        topic_name = st.text_input(
+            "Topic",
+            value="",
+            placeholder="e.g. Wheat sowing schedule",
+            label_visibility="collapsed",
+            key="new_topic_input",
+        )
+        btn_col1, btn_col2 = st.columns(2)
+        with btn_col1:
+            confirm_clicked = st.button("✅ Create", use_container_width=True, key="confirm_topic")
+        with btn_col2:
+            cancel_clicked = st.button("✖ Cancel", use_container_width=True, key="cancel_topic")
+        st.markdown('</div>', unsafe_allow_html=True)
+
+        if confirm_clicked:
+            # Only create if the current chat isn't already a fresh empty one
+            current = load_chat(st.session_state.current_chat_id)
+            is_current_empty = current is not None and len(current.get("messages", [])) == 0
+            title = topic_name.strip() if topic_name else "New Chat"
+            if not is_current_empty:
+                new_id = create_new_chat(title=title)
+                # Store the user-provided topic so make_title preserves it
+                if topic_name.strip():
+                    st.session_state.chat_topics[new_id] = title
+                switch_to_chat(new_id)
+            else:
+                # Rename the existing empty chat with the topic
+                if topic_name.strip():
+                    st.session_state.chat_topics[st.session_state.current_chat_id] = title
+                    save_chat(st.session_state.current_chat_id, title, [])
+            st.session_state.show_new_topic_card = False
             st.rerun()
-        # if the current chat is already a fresh empty one, do nothing
+
+        if cancel_clicked:
+            st.session_state.show_new_topic_card = False
+            st.rerun()
 
     chats = list_chats()
 
@@ -782,7 +873,7 @@ if user_input:
     # Persist immediately so the chat title/list update even if generation fails
     save_chat(
         st.session_state.current_chat_id,
-        make_title(st.session_state.messages),
+        make_title(st.session_state.messages, chat_id=st.session_state.current_chat_id),
         st.session_state.messages,
     )
 
@@ -868,7 +959,7 @@ if user_input:
 
     save_chat(
         st.session_state.current_chat_id,
-        make_title(st.session_state.messages),
+        make_title(st.session_state.messages, chat_id=st.session_state.current_chat_id),
         st.session_state.messages,
     )
 
