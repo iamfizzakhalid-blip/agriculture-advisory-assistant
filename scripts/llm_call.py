@@ -40,6 +40,7 @@ def load_prompt_template():
 def ask_llm(question, context):
     """
     Sends the user question and retrieved context to the Groq LLM.
+    Uses system/user message separation for better instruction adherence.
     """
 
     if client is None:
@@ -54,23 +55,47 @@ def ask_llm(question, context):
 
     prompt_template = load_prompt_template()
 
-    # Fill placeholders
+    # Split the template into system instructions and user content.
+    # The template contains instructions followed by context/question placeholders.
+    # We separate them so the LLM treats instructions as authoritative system rules.
     final_prompt = prompt_template.format(
         context=context,
         question=question
     )
 
+    # Find where the Retrieved Context section starts — everything before it
+    # is system-level instructions, everything from it onward is user content.
+    context_marker = "Retrieved Context:"
+    marker_pos = final_prompt.find(context_marker)
+
+    if marker_pos > 0:
+        system_instructions = final_prompt[:marker_pos].strip()
+        user_content = final_prompt[marker_pos:].strip()
+    else:
+        # Fallback: treat entire prompt as user message
+        system_instructions = (
+            "You are an Agriculture Advisory Assistant for Pakistani farmers. "
+            "Answer ONLY from the provided context. Never use your own knowledge. "
+            "If the context does not contain the answer, say: "
+            "'I do not have enough information to answer this question.'"
+        )
+        user_content = final_prompt
+
     try:
         start_time = time.time()
 
-        response = client.chat.completions.create( # actual API call.
+        response = client.chat.completions.create(  # actual API call.
             model="llama-3.3-70b-versatile",
-            temperature=0.2, # Controls randomness
-            max_tokens=300, # word count of the reply
+            temperature=0.1,  # Low temperature for grounded, deterministic answers
+            max_tokens=500,   # Allow sufficient space for detailed answers
             messages=[
                 {
+                    "role": "system",
+                    "content": system_instructions
+                },
+                {
                     "role": "user",
-                    "content": final_prompt
+                    "content": user_content
                 }
             ]
         )

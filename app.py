@@ -606,55 +606,85 @@ st.markdown(f"""
         min-height: 28px !important;
     }}
     .chat-list-row {{
-        margin-bottom: 4px !important;
+        margin-bottom: 0px !important;
         padding: 0 !important;
         border-bottom: none !important;
     }}
+    /* Collapse Streamlit's default vertical gaps between chat rows in sidebar */
+    section[data-testid="stSidebar"] .stVerticalBlock {{
+        gap: 0.5rem !important;
+    }}
+    section[data-testid="stSidebar"] div[data-testid="stVerticalBlockBorderWrapper"] {{
+        margin: 0 !important;
+        padding: 0 !important;
+    }}
+    section[data-testid="stSidebar"] div[data-testid="stHorizontalBlock"] {{
+        gap: 0.5rem !important;
+    }}
 
     /* ============================================= */
-    /* 22. NEW TOPIC CARD                            */
+    /* 22. NEW TOPIC DIALOG                          */
     /* ============================================= */
-    .new-topic-card {{
-        background: rgba(40, 30, 15, 0.55);
-        backdrop-filter: blur(14px);
-        -webkit-backdrop-filter: blur(14px);
-        border: 1px solid rgba(212, 160, 23, 0.3);
-        border-radius: 14px;
-        padding: 0.9rem 1rem;
-        margin: 0.5rem 0 0.8rem 0;
-        animation: topicCardFadeIn 0.25s ease;
+    /* Dialog backdrop — blur effect */
+    div[data-testid="stDialog"] > div:first-child {{
+        backdrop-filter: blur(12px) !important;
+        -webkit-backdrop-filter: blur(12px) !important;
+        background: rgba(0, 0, 0, 0.55) !important;
     }}
-    @keyframes topicCardFadeIn {{
-        from {{ opacity: 0; transform: translateY(-6px); }}
-        to   {{ opacity: 1; transform: translateY(0); }}
+    /* Dialog card itself */
+    div[role="dialog"] {{
+        background: rgba(30, 22, 12, 0.95) !important;
+        border: 1px solid rgba(212, 160, 23, 0.35) !important;
+        border-radius: 20px !important;
+        box-shadow: 0 16px 64px rgba(0, 0, 0, 0.6), 0 0 0 1px rgba(212, 160, 23, 0.1) !important;
     }}
-    .new-topic-card .topic-label {{
-        color: #FFE082;
-        font-size: 0.82rem;
-        font-weight: 600;
-        margin-bottom: 0.45rem;
-        display: block;
+    div[role="dialog"] * {{
+        color: #FFF8E7 !important;
     }}
-    /* Confirm button — solid gold accent */
-    div[class*="st-key-confirm_topic"] button {{
-        background: rgba(212, 160, 23, 0.28) !important;
-        border: 1px solid rgba(212, 160, 23, 0.55) !important;
+    div[role="dialog"] h2 {{
         color: #FFE082 !important;
         font-weight: 600 !important;
     }}
-    div[class*="st-key-confirm_topic"] button:hover {{
-        background: rgba(212, 160, 23, 0.4) !important;
+    /* Dialog text input */
+    div[role="dialog"] input {{
+        background: rgba(212, 160, 23, 0.08) !important;
+        border: 1px solid rgba(212, 160, 23, 0.25) !important;
+        border-radius: 12px !important;
+        color: #FFF8E7 !important;
+        padding: 0.6rem 0.9rem !important;
     }}
-    /* Cancel button — subtle style */
-    div[class*="st-key-cancel_topic"] button {{
-        background: rgba(255, 255, 255, 0.04) !important;
-        border: 1px solid rgba(255, 255, 255, 0.1) !important;
-        color: rgba(245, 236, 213, 0.6) !important;
-        font-weight: 400 !important;
+    div[role="dialog"] input:focus {{
+        border-color: #D4A017 !important;
+        box-shadow: 0 0 0 2px rgba(212, 160, 23, 0.2) !important;
     }}
-    div[class*="st-key-cancel_topic"] button:hover {{
-        background: rgba(255, 255, 255, 0.1) !important;
-        color: #F5ECD5 !important;
+    div[role="dialog"] input::placeholder {{
+        color: #E8B960 !important;
+        opacity: 0.45 !important;
+    }}
+    /* Dialog confirm button */
+    div[role="dialog"] .stButton > button {{
+        background: linear-gradient(135deg, rgba(212, 160, 23, 0.35), rgba(180, 130, 20, 0.45)) !important;
+        border: 1px solid rgba(212, 160, 23, 0.55) !important;
+        border-radius: 12px !important;
+        color: #FFE082 !important;
+        font-weight: 600 !important;
+        padding: 0.5rem 1.5rem !important;
+        min-height: 42px !important;
+        transition: all 0.25s ease !important;
+    }}
+    div[role="dialog"] .stButton > button:hover {{
+        background: linear-gradient(135deg, rgba(212, 160, 23, 0.5), rgba(180, 130, 20, 0.6)) !important;
+        transform: translateY(-1px) !important;
+        box-shadow: 0 4px 16px rgba(212, 160, 23, 0.25) !important;
+    }}
+    /* Dialog close (X) button */
+    div[role="dialog"] button[aria-label="Close"] {{
+        color: rgba(245, 236, 213, 0.5) !important;
+        background: transparent !important;
+        border: none !important;
+    }}
+    div[role="dialog"] button[aria-label="Close"]:hover {{
+        color: #FFE082 !important;
     }}
     
 </style>
@@ -673,11 +703,43 @@ if "current_chat_id" not in st.session_state:
         st.session_state.current_chat_id = new_id
         st.session_state.messages = []
 
-if "show_new_topic_card" not in st.session_state:
-    st.session_state.show_new_topic_card = False
-
 if "chat_topics" not in st.session_state:
     st.session_state.chat_topics = {}
+
+
+# =============================================
+# NEW TOPIC DIALOG (centered modal with blur)
+# =============================================
+@st.dialog("📝 New Topic")
+def show_new_topic_dialog():
+    """Centered modal dialog for creating a new conversation topic."""
+    st.markdown(
+        '<p style="color:rgba(245,236,213,0.7); font-size:0.92rem; margin-bottom:0.8rem;">'
+        'Give your conversation a topic name, or leave blank to auto-name from your first message.</p>',
+        unsafe_allow_html=True,
+    )
+    topic_name = st.text_input(
+        "Topic",
+        value="",
+        placeholder="e.g. Wheat sowing schedule",
+        label_visibility="collapsed",
+        key="dialog_topic_input",
+    )
+    if st.button("✅ Confirm", use_container_width=True, key="dialog_confirm_topic"):
+        current = load_chat(st.session_state.current_chat_id)
+        is_current_empty = current is not None and len(current.get("messages", [])) == 0
+        title = topic_name.strip() if topic_name and topic_name.strip() else "New Chat"
+        if not is_current_empty:
+            new_id = create_new_chat(title=title)
+            if topic_name and topic_name.strip():
+                st.session_state.chat_topics[new_id] = title
+            switch_to_chat(new_id)
+        else:
+            # Rename the existing empty chat with the topic
+            if topic_name and topic_name.strip():
+                st.session_state.chat_topics[st.session_state.current_chat_id] = title
+                save_chat(st.session_state.current_chat_id, title, [])
+        st.rerun()
 
 # =============================================
 # SIDEBAR
@@ -718,55 +780,23 @@ with st.sidebar:
     st.markdown('<div style="max-height:48vh; overflow-y:auto; padding-right:6px;">', unsafe_allow_html=True)
 
     if st.button("➕ New Topic", use_container_width=True, key="new_chat_btn"):
-        st.session_state.show_new_topic_card = not st.session_state.show_new_topic_card
-
-    # ----- New Topic Card -----
-    if st.session_state.show_new_topic_card:
-        st.markdown('<div class="new-topic-card">', unsafe_allow_html=True)
-        st.markdown('<span class="topic-label">📝 Enter a topic name</span>', unsafe_allow_html=True)
-        topic_name = st.text_input(
-            "Topic",
-            value="",
-            placeholder="e.g. Wheat sowing schedule",
-            label_visibility="collapsed",
-            key="new_topic_input",
-        )
-        btn_col1, btn_col2 = st.columns(2)
-        with btn_col1:
-            confirm_clicked = st.button("✅ Create", use_container_width=True, key="confirm_topic")
-        with btn_col2:
-            cancel_clicked = st.button("✖ Cancel", use_container_width=True, key="cancel_topic")
-        st.markdown('</div>', unsafe_allow_html=True)
-
-        if confirm_clicked:
-            # Only create if the current chat isn't already a fresh empty one
-            current = load_chat(st.session_state.current_chat_id)
-            is_current_empty = current is not None and len(current.get("messages", [])) == 0
-            title = topic_name.strip() if topic_name else "New Chat"
-            if not is_current_empty:
-                new_id = create_new_chat(title=title)
-                # Store the user-provided topic so make_title preserves it
-                if topic_name.strip():
-                    st.session_state.chat_topics[new_id] = title
-                switch_to_chat(new_id)
-            else:
-                # Rename the existing empty chat with the topic
-                if topic_name.strip():
-                    st.session_state.chat_topics[st.session_state.current_chat_id] = title
-                    save_chat(st.session_state.current_chat_id, title, [])
-            st.session_state.show_new_topic_card = False
-            st.rerun()
-
-        if cancel_clicked:
-            st.session_state.show_new_topic_card = False
-            st.rerun()
+        show_new_topic_dialog()
 
     chats = list_chats()
 
-    if not chats:
-        st.caption("No conversations yet.")
+    # Filter out empty chats with default "New Chat" title (nothing to show)
+    visible_chats = [
+        c for c in chats
+        if len(c.get("messages", [])) > 0 or c.get("title", "New Chat") != "New Chat"
+    ]
+
+    if not visible_chats:
+        st.markdown(
+            '<p style="text-align:center; color:rgba(245,236,213,0.45); font-size:0.85rem; margin-top:0.8rem;">No conversations yet.</p>',
+            unsafe_allow_html=True,
+        )
     else:
-        for chat in chats:
+        for chat in visible_chats:
             is_active = chat["id"] == st.session_state.current_chat_id
             title = chat.get("title") or "New Chat"
             label = f"{'💬 ' if is_active else '🕘 '}{title}"
@@ -793,10 +823,7 @@ with st.sidebar:
         # close scrollable conversations container (only once)
         st.markdown('</div>', unsafe_allow_html=True)
 
-    if st.button("🗑 Clear Current Chat", use_container_width=True, key="clear_current_chat"):
-        st.session_state.messages = []
-        save_chat(st.session_state.current_chat_id, "New Chat", [])
-        st.rerun()
+
 
     st.markdown("""
     <div style="text-align:center; margin-top:2rem; font-size:0.72rem; opacity:0.4;">
