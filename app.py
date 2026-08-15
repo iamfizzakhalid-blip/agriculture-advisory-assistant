@@ -64,12 +64,7 @@ def list_chats():
 
 
 def create_new_chat(title: str = "New Chat") -> str:
-    chat_id = db_create_chat(title=title)
-    try:
-        ensure_chat_log_file(chat_id, title)
-    except Exception:
-        pass
-    return chat_id
+    return db_create_chat(title=title)
 
 
 def make_title(messages: list, chat_id: str = "") -> str:
@@ -89,11 +84,6 @@ def switch_to_chat(chat_id: str):
     data = load_chat(chat_id)
     st.session_state.current_chat_id = chat_id
     st.session_state.messages = data["messages"] if data else []
-    try:
-        if data:
-            ensure_chat_log_file(chat_id, data.get("title") or "New Chat")
-    except Exception:
-        pass
 
 
 # =============================================
@@ -1001,16 +991,17 @@ if user_input:
     )
 
     try:
-        key = (st.session_state.current_chat_id, user_input.strip(), bot_reply.strip())
-        logged = st.session_state.setdefault("logged_chat_exchanges", set())
-        if key not in logged:
+        chat_logs = st.session_state.setdefault("chat_log_keys", {})
+        chat_set = chat_logs.setdefault(st.session_state.current_chat_id, set())
+        key = (user_input.strip(), bot_reply.strip())
+        if key not in chat_set:
             append_chat_exchange(
                 st.session_state.current_chat_id,
                 chat_title,
                 user_input,
                 bot_reply,
             )
-            logged.add(key)
+            chat_set.add(key)
     except Exception:
         pass
 

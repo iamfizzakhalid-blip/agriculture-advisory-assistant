@@ -1,3 +1,5 @@
+import re
+
 from scripts.load_db import (
     get_chroma_client,
     get_or_create_collection,
@@ -41,6 +43,14 @@ def build_context(results):
     return "\n\n".join(result["text"] for result in results)
 
 
+def _match_phrase(text: str, phrase: str) -> bool:
+    normalized = re.sub(r"[^a-z0-9\s]", " ", text.lower())
+    normalized = re.sub(r"\s+", " ", normalized).strip()
+    if not normalized:
+        return False
+    return re.search(rf"\b{re.escape(phrase.lower())}\b", normalized) is not None
+
+
 def classify_user_intent(question: str) -> dict:
     q = (question or "").strip()
     if not q:
@@ -52,26 +62,26 @@ def classify_user_intent(question: str) -> dict:
         "hello", "hi", "hey", "assalam", "assalam o alaikum", "assalamualaikum",
         "salam", "good morning", "good evening", "good night"
     ]
-    if any(g in text for g in greetings):
+    if any(_match_phrase(text, g) for g in greetings):
         return {"category": "conversation", "response": "Hello! I’m your Agriculture Assistant. How can I help with your crops today?"}
 
     thanks = ["thank you", "thanks", "many thanks", "shukriya", "shukria"]
-    if any(t in text for t in thanks):
+    if any(_match_phrase(text, t) for t in thanks):
         return {"category": "conversation", "response": "You’re welcome! I’m here to help with crop, soil, irrigation, pest, and farm-management questions."}
 
-    if any(p in text for p in ["goodbye", "bye", "see you", "take care"]):
+    if any(_match_phrase(text, p) for p in ["goodbye", "bye", "see you", "take care"]):
         return {"category": "conversation", "response": "Goodbye! Feel free to ask me about your crops or farm management anytime."}
 
-    if "how are you" in text:
+    if _match_phrase(text, "how are you"):
         return {"category": "conversation", "response": "I’m doing well — I’m here to help with agriculture and farm questions."}
 
-    if any(p in text for p in ["who are you", "what are you", "what do you do", "what are you doing"]):
+    if any(_match_phrase(text, p) for p in ["who are you", "what are you", "what do you do", "what are you doing"]):
         return {"category": "conversation", "response": "I’m your Agriculture Assistant. I help with crop advice, irrigation, fertilizer, pest control, sowing decisions, and farm management."}
 
-    if any(p in text for p in ["who am i", "what is my name", "who is this", "who am i in this chat"]):
+    if any(_match_phrase(text, p) for p in ["who am i", "what is my name", "who is this", "who am i in this chat"]):
         return {"category": "conversation", "response": "I don’t know your personal identity unless you share it in this chat. I only know what is explicitly written here."}
 
-    if "what can you help me with" in text or "what can you help with" in text:
+    if _match_phrase(text, "what can you help me with") or _match_phrase(text, "what can you help with"):
         return {"category": "conversation", "response": "I can help with crop planning, sowing time, fertilizer, irrigation, pest and disease management, soil health, and general farm advice."}
 
     out_of_scope_terms = [
@@ -85,19 +95,26 @@ def classify_user_intent(question: str) -> dict:
     if _looks_agriculture_related(text):
         return {"category": "agriculture", "response": None}
 
-    return {"category": "out_of_scope", "response": "I’m designed for agriculture-related assistance. Please ask about crops, irrigation, pests, fertilizer, soil, or farm management."}
+    # Default to agriculture for ambiguous or partially agricultural questions.
+    # This prevents valid farm questions from being rejected as out-of-scope
+    # when the retrieval later determines there is not enough information.
+    return {"category": "agriculture", "response": None}
 
 
 def _looks_agriculture_related(text: str) -> bool:
     if not text:
         return False
 
-    q = text.lower()
+    q = re.sub(r"[^a-z0-9\s]", " ", text.lower())
+    q = re.sub(r"\s+", " ", q).strip()
     agriculture_keywords = [
         "wheat", "rice", "maize", "cotton", "sugarcane", "crop", "farming",
         "fertilizer", "irrigation", "pest", "disease", "seed", "harvest",
         "sowing", "planting", "soil", "field", "farmer", "agriculture",
-        "pani", "beej", "fasal", "kheti", "zaroori", "soil", "khaad"
+        "pani", "beej", "fasal", "kheti", "zaroori", "khaad", "kheti", "naukar", "kisan",
+        "khaad", "watering", "drip", "mulch", "yield", "weeds", "fungicide",
+        "insecticide", "pesticide", "land", "farm", "tractor", "cropping", "crops",
+        "kya", "ke", "liye", "fertilizer", "cotton", "cash crop", "sowing time"
     ]
     return any(keyword in q for keyword in agriculture_keywords)
 

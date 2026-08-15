@@ -66,19 +66,11 @@ def _safe_log_title(title: str) -> str:
 def ensure_chat_log_file(chat_id: str, title: str = "New Chat") -> Path:
     LOGS_DIR.mkdir(parents=True, exist_ok=True)
     safe_title = _safe_log_title(title)
-    base_name = f"{safe_title}.txt"
-    candidate = LOGS_DIR / base_name
+    suffix = str(chat_id)[:8]
+    candidate = LOGS_DIR / f"{safe_title}_{suffix}.txt"
     if not candidate.exists():
         candidate.touch(exist_ok=True)
-        return candidate
-
-    # Avoid overwriting another chat with the same title.
-    suffix = str(chat_id)[:8]
-    unique_name = f"{safe_title}_{suffix}.txt"
-    unique_path = LOGS_DIR / unique_name
-    if not unique_path.exists():
-        unique_path.touch(exist_ok=True)
-    return unique_path
+    return candidate
 
 
 def append_chat_exchange(chat_id: str, title: str, user_query: str, assistant_response: str) -> Optional[Path]:
