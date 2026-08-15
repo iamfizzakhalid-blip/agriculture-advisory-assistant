@@ -1,12 +1,18 @@
 import os
 import json
+from pathlib import Path
 from sentence_transformers import SentenceTransformer
 
 # =========================
 # CONFIG
 # =========================
-CHUNKS_DIR = "../data/chunks"
-OUTPUT_FILE = "../data/embeddings.json"
+# Paths are resolved relative to this script's location, NOT the current
+# working directory - so this works whether you run it as
+# "python scripts/embed.py" from the project root or "python embed.py"
+# from inside scripts/.
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+CHUNKS_DIR = PROJECT_ROOT / "data" / "chunks"
+OUTPUT_FILE = PROJECT_ROOT / "data" / "embeddings.json"
 
 # =========================
 # LOAD EXISTING EMBEDDINGS  (so reruns only embed NEW chunks)
