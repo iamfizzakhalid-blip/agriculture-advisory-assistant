@@ -911,11 +911,20 @@ if user_input:
         start = time.time()
 
         try:
-            results, answer = rag_pipeline(
+            rag_result = rag_pipeline(
                 question=user_input,
                 collection=collection,
                 model=model,
             )
+            if isinstance(rag_result, dict):
+                answer = rag_result.get("answer", "")
+                status = rag_result.get("status", "answered")
+                sources = rag_result.get("sources", [])
+                results = rag_result.get("results", [])
+            else:
+                results, answer = rag_result
+                status = "answered" if results else "insufficient_info"
+                sources = []
 
         except Exception as e:
             st.error(f"An error occurred: {e}")
@@ -923,11 +932,7 @@ if user_input:
 
         end = time.time()
         response_time = end - start
-
-        if results is None:
-            bot_reply = answer
-        else:
-            bot_reply = answer
+        bot_reply = answer
 
     # =============================================
     # SHOW BOT RESPONSE + SOURCES
@@ -939,42 +944,31 @@ if user_input:
             unsafe_allow_html=True,
         )
 
-        # 🔍 Retrieved Sources (clean + no duplicates)
-        if results:
-            seen = set()
-
+        # 🔍 Retrieved Sources (only for genuinely relevant, validated answers)
+        if status == "answered" and sources:
             with st.expander("🔍 Retrieved Sources"):
-                for item in results:
-                    filename = item['metadata'].get('filename', '').lower()
-
-                    if "wheat" in filename:
+                for source_name in sources:
+                    source_key = source_name.lower()
+                    if "wheat" in source_key:
                         source_icon = "🌾"
-                        source_name = "Wheat Guide (PMD)"
-                    elif "maize" in filename:
+                    elif "maize" in source_key:
                         source_icon = "🌽"
-                        source_name = "Maize Post Harvest Guide"
-                    elif "rice" in filename:
+                    elif "rice" in source_key:
                         source_icon = "🌾"
-                        source_name = "Rice Cultivation Guide"
-                    elif "cotton" in filename:
+                    elif "cotton" in source_key:
                         source_icon = "🧵"
-                        source_name = "Cotton Production Manual"
-                    elif "sugarcane" in filename:
+                    elif "sugarcane" in source_key:
                         source_icon = "🎋"
-                        source_name = "Sugarcane Farming Guide"
                     else:
                         source_icon = "📄"
-                        source_name = "Agriculture Source"
 
-                    if source_name not in seen:
-                        st.markdown(
-                            f'<div class="source-card">'
-                            f'<span class="source-icon">{source_icon}</span>'
-                            f'<span class="source-name">{source_name}</span>'
-                            f'</div>',
-                            unsafe_allow_html=True,
-                        )
-                        seen.add(source_name)
+                    st.markdown(
+                        f'<div class="source-card">'
+                        f'<span class="source-icon">{source_icon}</span>'
+                        f'<span class="source-name">{source_name}</span>'
+                        f'</div>',
+                        unsafe_allow_html=True,
+                    )
 
     # =============================================
     # SAVE BOT RESPONSE

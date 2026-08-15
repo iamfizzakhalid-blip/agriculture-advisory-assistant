@@ -13,6 +13,12 @@ from scripts.validation import validate_query_pre_rag, validate_answer_post_rag
 TOP_K = 10
 
 
+class RagResult(dict):
+    def __iter__(self):
+        yield self.get("results", [])
+        yield self.get("answer", "")
+
+
 def detect_crop(query: str) -> str:
     query = query.lower()
 
@@ -33,6 +39,126 @@ def detect_crop(query: str) -> str:
 
 def build_context(results):
     return "\n\n".join(result["text"] for result in results)
+
+
+def classify_user_intent(question: str) -> dict:
+    q = (question or "").strip()
+    if not q:
+        return {"category": "conversation", "response": "Hello! I’m your Agriculture Assistant. How can I help with your crops today?"}
+
+    text = q.lower()
+
+    greetings = [
+        "hello", "hi", "hey", "assalam", "assalam o alaikum", "assalamualaikum",
+        "salam", "good morning", "good evening", "good night"
+    ]
+    if any(g in text for g in greetings):
+        return {"category": "conversation", "response": "Hello! I’m your Agriculture Assistant. How can I help with your crops today?"}
+
+    thanks = ["thank you", "thanks", "many thanks", "shukriya", "shukria"]
+    if any(t in text for t in thanks):
+        return {"category": "conversation", "response": "You’re welcome! I’m here to help with crop, soil, irrigation, pest, and farm-management questions."}
+
+    if any(p in text for p in ["goodbye", "bye", "see you", "take care"]):
+        return {"category": "conversation", "response": "Goodbye! Feel free to ask me about your crops or farm management anytime."}
+
+    if "how are you" in text:
+        return {"category": "conversation", "response": "I’m doing well — I’m here to help with agriculture and farm questions."}
+
+    if any(p in text for p in ["who are you", "what are you", "what do you do", "what are you doing"]):
+        return {"category": "conversation", "response": "I’m your Agriculture Assistant. I help with crop advice, irrigation, fertilizer, pest control, sowing decisions, and farm management."}
+
+    if any(p in text for p in ["who am i", "what is my name", "who is this", "who am i in this chat"]):
+        return {"category": "conversation", "response": "I don’t know your personal identity unless you share it in this chat. I only know what is explicitly written here."}
+
+    if "what can you help me with" in text or "what can you help with" in text:
+        return {"category": "conversation", "response": "I can help with crop planning, sowing time, fertilizer, irrigation, pest and disease management, soil health, and general farm advice."}
+
+    out_of_scope_terms = [
+        "weather", "temperature", "today's temperature", "today temperature", "bitcoin",
+        "cricket", "football", "news", "politics", "election", "movie", "entertainment",
+        "stock market", "currency", "gold price", "latest news", "who won"
+    ]
+    if any(term in text for term in out_of_scope_terms):
+        return {"category": "out_of_scope", "response": "I’m designed for agriculture-related assistance. Please ask about crops, irrigation, pests, fertilizer, soil, or farm management."}
+
+    if _looks_agriculture_related(text):
+        return {"category": "agriculture", "response": None}
+
+    return {"category": "out_of_scope", "response": "I’m designed for agriculture-related assistance. Please ask about crops, irrigation, pests, fertilizer, soil, or farm management."}
+
+
+def _looks_agriculture_related(text: str) -> bool:
+    if not text:
+        return False
+
+    q = text.lower()
+    agriculture_keywords = [
+        "wheat", "rice", "maize", "cotton", "sugarcane", "crop", "farming",
+        "fertilizer", "irrigation", "pest", "disease", "seed", "harvest",
+        "sowing", "planting", "soil", "field", "farmer", "agriculture",
+        "pani", "beej", "fasal", "kheti", "zaroori", "soil", "khaad"
+    ]
+    return any(keyword in q for keyword in agriculture_keywords)
+
+
+def _is_insufficient_response(text: str) -> bool:
+    if not text:
+        return False
+    lower = text.lower().strip()
+    insufficient_markers = [
+        "i do not have enough information to answer this question",
+        "i don't have enough information to answer this question",
+        "not enough information",
+        "no relevant documents found",
+        "unrelated question",
+        "not related to the question",
+        "unable to answer this question",
+    ]
+    return any(marker in lower for marker in insufficient_markers)
+
+
+def _clean_source_name(item: dict) -> str:
+    metadata = item.get("metadata") or {}
+    filename = metadata.get("filename") or metadata.get("source") or "Agriculture Source"
+    name = filename.split("/")[-1]
+    if name.lower().endswith(".txt"):
+        name = name[:-4]
+    name = name.replace("_", " ").strip()
+    return name or "Agriculture Source"
+
+
+def _build_source_list(results):
+    seen = set()
+    sources = []
+    for item in results:
+        source_name = _clean_source_name(item)
+        if source_name not in seen:
+            seen.add(source_name)
+            sources.append(source_name)
+    return sources
+
+
+def _classify_response(question: str, answer: str, validation: dict | None) -> str:
+    if not answer:
+        return "insufficient_info"
+
+    ql = (question or "").lower().strip()
+    al = answer.lower().strip()
+
+    if validation:
+        if validation.get("is_relevant") is False:
+            return "unrelated" if not _looks_agriculture_related(ql) else "insufficient_info"
+        if validation.get("is_supported") is False:
+            return "insufficient_info"
+
+    if _is_insufficient_response(al):
+        return "insufficient_info"
+    if "unrelated" in al or "not related" in al:
+        return "unrelated"
+    if not _looks_agriculture_related(ql):
+        return "unrelated"
+    return "answered"
 
 
 # Roman Urdu detection helper
@@ -57,6 +183,15 @@ def detect_script_type(text: str) -> str:
 
 
 def rag_pipeline(question, collection, model):
+
+    intent = classify_user_intent(question)
+    if intent["category"] in {"conversation", "out_of_scope"}:
+        return RagResult({
+            "answer": intent["response"],
+            "status": "answered" if intent["category"] == "conversation" else "unrelated",
+            "sources": [],
+            "results": [],
+        })
 
     def _is_conversational_or_identity(q: str) -> bool:
         """Return True for short conversational or identity questions we should not answer from LLM knowledge."""
@@ -126,7 +261,12 @@ def rag_pipeline(question, collection, model):
     )
 
     if not results:
-        return None, "No relevant documents found."
+        return RagResult({
+            "answer": "I do not have enough information to answer this question.",
+            "status": "insufficient_info",
+            "sources": [],
+            "results": [],
+        })
 
     metadata = results[0]["metadata"]
     metadata["crop"] = detect_crop(question)
@@ -188,7 +328,15 @@ def rag_pipeline(question, collection, model):
     if validated_answer and validated_answer.strip():
         final_answer = validated_answer
 
-    return results, final_answer
+    status = _classify_response(question, final_answer, post_validation)
+    source_list = _build_source_list(results) if status == "answered" else []
+
+    return RagResult({
+        "answer": final_answer,
+        "status": status,
+        "sources": source_list,
+        "results": results,
+    })
 
 
 def print_results(results, query):
