@@ -14,8 +14,3 @@ __pycache__/
 .env
 
 # Data artifacts (large / generated - rebuild locally via the pipeline)
-data/embeddings.json
-data/chroma_db/
-data/clean/
-data/chunks/
-logs/

@@ -1,0 +1,27 @@
+Delinting of Cottonseed — Notes
+Seed Cotton vs. Cottonseed
+Cottonseed treatment involves two main processes: chemical treatment and soaking.
+Delinting Machine
+A delinting machine is used to remove the lint from cottonseed before further processing.
+Dilute Acid Delinting
+Dilute acid delinting is the most efficient and environmentally friendly delinting method. In this process, a precisely controlled amount of specially formulated sulfuric acid, about 100 mL, is applied to 1 kg of
+fuzzy seed inside a stainless steel reactor. The seed is exposed to the acid for 5–10 minutes with continuous stirring.
+After treatment, the seed is washed with distilled or tap water. By limiting the amount of acid applied, less fuel is required during the drying phase, since the seed is dried to a moisture content of 9–10%.
+This method keeps noxious residue to a minimum and enhances the production of black seed.
+HCl Gas Delinting
+HCl gas delinting is a more primitive method. It is carried out in much the same way as sulfuric acid delinting, with the main difference being in how the acid is applied. Fuzzy cottonseed is first dried and
+warmed in a continuous drier, then measured into a seed charger. The seed charger conveys the seed into a pre-heated, rotating delinting drum, where vaporized and pressurized HCl gas is injected.
+The HCl gas reacts with the lint and weakens the fiber. Once exposed to the gas, the seed is transferred to a set of buffing drums, which tumble the seed as the reaction takes place. The lint is
+removed in these buffers through a mechanical scrubbing action that separates the weakened fibers from the hard seed coat. Some of the separated lint is pulled from the buffing screens pneumatically
+and transferred to cyclones or a filter bag house.
+The remainder of the lint collects in a hopper below the buffering reels, from where it is collected and transferred to a trash bin using screw conveyors or an air system. The delinted seed from the buffers is
+then neutralized with ammonia before being passed on to the conditioning and treating equipment.
+Mechanical Brush Delinting
+Mechanical brush delinting is performed using equipment such as the patented KINCO Brush Delinter, manufactured by the L. T. Kincer Co. Since production rates with this method are significantly lower, the
+residual lint is not destroyed during the process. Delinting occurs as the fuzzy seed is scrubbed through the interior of a perforated screen cylinder.
+The scrubbing action of the interior brushes rubs the seed across the perforations, allowing airflow to remove the lint from the machine. Mechanical brush delinting requires more energy than acid delinting
+and is not as complete a process, as each seed will show some lint remnants at each end of its oval
+
+shape.
+Because of the abrasive action of the brushes, care must be taken to prevent overheating the seed or damaging the seed coat. Unlike acid-based methods, mechanical brush delinting does not use any
+chemicals and can produce a small quantity of usable, low-grade lint as a by-product.

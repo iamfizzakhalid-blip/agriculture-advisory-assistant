@@ -1,0 +1,39 @@
+FAO GIEWS — Pakistan Maize
+Compiled from the FAO/GIEWS Country Brief (current issue and archive), the Agricultural Stress
+Index dataset, and related FAO/GIEWS tools
+Current Situation (Reference Date: 6 February 2026)
+Maize crop production in 2025 is estimated at a slightly below-average level of 9.5 million tonnes. Low farm-gate prices of maize grain prompted some farmers to shift to more profitable vegetables and cash
+crops, including mustard and pulses, which contributed to this below-average output.
+Exports of maize in the 2025/26 marketing year (April to March) are forecast at an average level of
+500,000 tonnes.
+Recent Production History
+Pakistan's maize production has grown substantially over the past two decades, driven by strong and sustained demand from the poultry and livestock feed industry, increasing adoption of hybrid seed
+varieties, and improved management practices. According to industry sources, maize production increased from about 1.66 million tonnes in 2001 to over 9.6 million tonnes in 2025. Punjab is the leading
+producing province, accounting for around 90 percent of total production, followed by Khyber
+Pakhtunkhwa.
+Selected officially estimated or forecast production figures reported over recent years include: about 4.5 to 4.8 million tonnes in 2014 (combining the spring and Kharif seasons); 4.6 million tonnes in 2015;
+around 4.9 to 5.2 million tonnes in 2016; 5.8 million tonnes in 2017 (above the previous year's high level, supported by increased plantings due to sustained feed industry demand); 7 million tonnes in 2020 (a
+record level at the time, reflecting a high level of plantings and increased productivity, with high-yielding seed varieties covering nearly 70 percent of the planted area); a preliminary forecast of 9.4 million tonnes
+for 2022 that required downward revision after flooding damaged standing Kharif crops; 10.3 to 11 million tonnes in 2023 (well above average, reflecting large sowings and high yields); 9.5 million tonnes in 2024
+(an average level, as bumper yields offset a contraction in sowings caused by low farm-gate prices); and
+9.5 million tonnes again in 2025 (a slightly below-average level, as low farm-gate prices again prompted
+some farmers to shift to vegetables and cash crops). Corn (maize) production for 2026/27 has been forecast at about 9.6 million tonnes, supported by better availability of irrigation water and continued
+momentum in planted area and yields, with modest losses expected from autumn-season monsoon flooding offset by promising prospects for the spring crop.
+Trade History
+Maize exports from Pakistan have generally remained modest compared with rice, though they rose sharply in years of exceptionally large harvests. Reported export figures include a well-above-average
+level of 1.4 million tonnes in the 2023/24 marketing year, attributed to the above-average 2023 harvest and lower domestic poultry feed demand resulting in high exportable surpluses. In most other recent
+marketing years, including 2024/25 and 2025/26, maize exports have been forecast at an average level of about 500,000 tonnes.
+
+Agricultural Stress and Vegetation Conditions
+FAO's Agricultural Stress Index (ASI) tracks the percentage of cropland affected by drought conditions across Pakistan each year, based on the Vegetation Health Index (VHI). This is a national and provincial
+indicator covering all cropland, not specific to maize alone, but it offers useful background on seasonal growing conditions during the maize planting and growing periods. At the national level, cropland stress
+was estimated at about 1 percent in 2024, 8.6 percent in 2023, 4.2 percent in 2022, 17.8 percent in 2021, and 6.2 percent in 2025. Provincial data shows that Punjab, the leading maize-producing province, has
+generally experienced comparatively lower average stress levels than Balochistan and the northwestern regions, though flooding has periodically caused localized losses to standing maize crops, notably in
+2022 and 2025.
+Other FAO/GIEWS Data Sources Referenced
+Additional detail on maize supply, utilization, and trade balances for Pakistan is available through the
+FAO/GIEWS Country Cereal Balance Sheet (CCBS). Price time series are available through the
+FAO/GIEWS Food Price Monitoring and Analysis (FPMA) Tool. Seasonal, vegetation, and precipitation maps, along with downloadable time-series data on the Agricultural Stress Index, NDVI, Vegetation
+Health Index, and precipitation, are available through FAO/GIEWS Earth Observation for Crop
+Monitoring. Food security phase classifications are available through the Integrated Food Security Phase
+Classification (IPC) initiative. Broader long-run statistics on Pakistan's maize area, production, and yield are available through FAOSTAT and the FAO Country Profiles page for Pakistan.

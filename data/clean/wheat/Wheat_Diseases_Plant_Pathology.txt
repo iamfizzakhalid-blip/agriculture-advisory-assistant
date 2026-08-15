@@ -1,0 +1,438 @@
+Diseases of Wheat
+Source: Plant Pathology (Pathogen and Plant Disease) by Dr. B. P. Pandey, S. Chand Publishing —
+Chapter 14, Diseases of Cereals
+Rusts of Wheat — Overview
+Rusts of wheat, namely black, brown, and yellow rust, are the most important and destructive of all plant diseases, being potential causes of enormous economic losses in all wheat-growing regions of the world.
+They are a great enemy of cultivators and often ravage their crops. They are among the earliest known diseases of crop plants; early Romans and Greeks knew about the rusts of wheat and barley.
+Three different forms of rust attack wheat in India: black or stem rust, caused by Puccinia graminis tritici
+(Pers.) Erikss. and Henn.; leaf, brown, or orange rust, caused by Puccinia recondita Roxb. ex Desm.; and yellow or stripe rust, caused by Puccinia striiformis West. Black and orange rusts are practically found all
+over the world; yellow rust is more restricted, being absent, for instance, from South Africa and Australia.
+Black or Stem Rust of Wheat
+The pathogen is Puccinia graminis tritici (Pers.) Erikss. and Henn., class Basidiomycetes, order Uredinales, family Pucciniaceae.
+Puccinia graminis tritici usually does not appear on the wheat crop until late in the season; it is often not seen until March in Northern India, a time when the wheat is in ear. The onset of black rust is first marked
+by an eruption of elongated, brown pustules on the stalk, leaf sheaths, and leaves, with the stalk being often most attacked. These pustules (uredosori or uredia) may be a quarter of an inch or more in length and
+frequently run into one another. They very soon burst, exposing a brown powder consisting of thousands of uredospores. The prominent white epidermal fringes appear on the margins of the pustules. Later on,
+teleutosori or telia develop, produced in the same sorus as the uredospores, but darker in colour than the latter; as they darken, the pustules gradually change from brown to black as the season advances. The
+position of the teleutosori (telia) is similar to that of uredosori (uredia), and they burst through the epidermis in the same manner, exposing a black bed of teleutospores.
+Black or stem rust of wheat is caused by Puccinia graminis tritici. Each uredosorus is formed on a limited mycelium. The hyphae of mycelium are about 3.5 microns in diameter and extend between the cells of the
+plant, sending small, round or branched haustoria into the epidermis and, if early in the season, develops into a uredosorus (uredium). A mass of hyphae collects under the epidermis and, from the base of the
+sorus, numerous short, erect stalks arise, and a uredospore develops at the end of each. The growth in size of these spores makes the epidermis rupture and the uredospores are liberated out into the air. Each
+uredospore is an oval, brown body, measuring 25 to 30 by 17 to 20 microns, and consists of a single cell with a thick wall, provided with minute echines for anchoring the spore on the surface on which it falls. Each
+uredospore possesses germ pores on it arranged in an equatorial band. The germ tubes emerge through germ pores during spore germination.
+On getting suitable conditions of moisture and temperature, the uredospores germinate producing germ tubes. The uredospores germinate on the epidermis of the host, developing into a new parasitic mycelium
+within the plant. A second germ tube is often formed directly, but soon ceases growth, but the tip swells up
+
+into an elongated appressorium, measuring about 27 by 29 microns. From the appressorium, a narrow branch passes into the stoma and immediately swells up to form a sub-stomatal vesicle, all the contents of
+the germ tube collect under this vesicle, and soon after a hypha arises from one end and grows towards a neighbouring cell, into which it sends a haustorium. Infection is now complete and the mycelium grows
+continuously within the plant. From this mycelium, new pustules are formed within the plant. From this mycelium, new pustules are formed within 10 to 15 days from infection, and thousands of uredospores are
+formed and liberated out into the air. A single pustule contains hundreds of spores. Each spore is capable of causing a new infection and new pustules; it becomes quite clear how the fungus can multiply and spread
+through a field, until every plant is infected.
+The teleuto-sori (telia) develop on the same mycelium, in the last part of the season. The teleutospores differ from the uredospores in being firmly fixed on their stalks, and composed of two cells with a thick
+smooth wall. They are chestnut brown in colour and measure 40 to 60 by 15 to 20 microns. The apex of teleutospore is rounded or pointed. Each cell has a germ-pore, that of the upper being at the apex and that
+of the lower at the side just below the septum. Unlike the uredospores, the teleutospores do not germinate immediately after their formation. Prior to germination, they undergo a period of rest of several months. The
+teleutospores require freezing temperature for a long period of time before germination; hence, the teleutospores are resting spores to carry the parasite over to the following season. They get favourable
+conditions for germination in other countries (e.g., U. S. A., Canada) but they seem to have lost their power of germination in the plains of India.
+On the approach of favourable conditions, the dormant protoplasm of the resting teleutospores becomes activated and the tubular promycelia or basidia come out of the germpores of each cell of the teleutospore.
+The diploid (2n) nucleus is being transferred in the basidium where it divides twice giving rise to four haploid
+(n) nuclei; this division is reductional (meiotic). Each basidium becomes segmented forming four
+uninucleate cells. A sterigma comes out from each of the four cells; in the lower three cells the sterigmata arise just beneath the septa and in the upper cell at the apex. On the terminal end of each sterigma, a small,
+rounded sporidium or basidiospore develops; a single basidiospore (sporidium) develops on each sterigma and thus four basidiospores (sporidia) are produced on the basidium; 2 of + strain and 2 of - strain. The
+cells of basidium become depleted after the formation of basidiospores. Usually the opposite strained
+(compatible) nuclei of the basidium are arranged alternately in the segments. The sporidia fall off easily and are blown about. If they fall in a moist place, they germinate. The germ tube which comes out from a
+sporidium is unable to infect the wheat plant but can enter the leaf of the barberry (Berberis spp.), a common shrub in the Himalayas and other Indian hills, viz. the Nilgiri and Palini hills of South India. Here
+the barberry bush acts as an alternate host. Entry of the germ tube of the sporidium takes place directly through the epidermis and not into a stoma. Inside the barberry leaf, a mycelium is developed which causes
+a small yellowish patch on which two types of fructifications are produced: spermagonia (pycnia) on the upper surface followed by aecidia on the lower surface. If the suitable alternate host is not available, the
+sporidia (basidiospores) are perished. About four days later, after the germination of the basidiospore on the upper surface of barberry leaf, the pycniospores are produced on the monocaryotic mycelium.
+The monocaryotic mycelium accumulates beneath the upper epidermis of the barberry leaf and develops into a flask-shaped pycnium (spermagonium). A hymenial layer of vertical hyphae develops at the base of
+the pycnium; each vertical hypha of this hymenial layer is known as pycniosporophore. From the terminal ends of the pycniosporophores round or oval haploid and uninucleate pycniospores (spermatia) develop in
+basigenous chains. The pycniospores detach from the pycniosporophores and accumulate in the middle of the pycnium. The pycnia open outside the epidermis through small openings known as ostioles. Some of
+the sterile hyphae called paraphyses are found to be situated in the neck region of the pycnium. Some vertical fertile hyphae also come out through the ostiole; they are of the same strain as that of the mycelium
+
+on which they are developed. Only one strained (+ or -) pycniospores and flexuous hyphae are produced in one pycnium. On the maturation of the pycnium, the nectar oozes out through the ostiole and hundreds of
+pycniospores (spermatia) are released out along with the nectar. The pycniospores are responsible for the conversion of monocaryotic phase into dicaryotic one by the process of dicaryotization. The pycniospores
+are transferred to flexuous hyphae projecting out from pycnia through ostioles. The pycniospores and flexuous hyphae fuse, leading to dicaryotization followed by the formation of aecial primordia on the
+underside of the leaf. The cup-like aecia (aecidia) arise from the dicaryotic aecial primordia.
+The aecia (aecidia) are yellow, cup-shaped receptacles, formed beneath the epidermis. Each aecium is composed of a sterile membranous wall known as peridium, which encloses chains of yellow aeciospores
+(aecidiospores) that arise from the base of the aecial cup. With their growth the epidermis ruptures and the membranous envelope protrudes. The peridium of the cup bursts at the apex and is turned back, the torned
+edge forms a serrated rim of the cup. The spores set free are disseminated by wind. The spores are roundish or hexagonal, yellow, measuring 14 to 26 microns in diameter, and possess a spiny thick wall with
+about six germ pores. They are capable of immediate germination but their germ tubes cannot infect the plant (barberry bush) on which they were borne. They can infect only the wheat plant. Their function is to
+carry the fungus back to wheat, which they can penetrate through the stomata to form a parasitic dicaryotic mycelium and ultimately uredia and telia.
+Puccinia graminis tritici is a heteroecious fungus, requiring two host plants: barberry and wheat. The pycnial
+(0) and aecidial (1) stages are found on the alternate host, the barberry, whereas the uredial (2) and telial
+(3) stages develop on the wheat. The sporidia or basidiospores (4) develop in the soil.
+Life-cycle of Pathogen and Rust Recurrence in India
+The life-cycle of the pathogen causing rusts of wheat is interesting and complicated. They usually pass their life-cycle on two different hosts, wheat and barberry (black rust) or Thalictrum (brown rust). The barberry is
+abundantly found in hilly regions but in India this course is not followed in the plains. This knowledge regarding the rust cycle in India owes solely to the researches carried out by K. C. Mehta. He showed that
+barberry shrubs play insignificant role in causing initial outbreaks of black rust in the plains. The summer heat in the plains that follows the wheat harvest kills all the uredospores of the rusts in the next season.
+Consequently there is no local source of infection when the crop is sown in the plain in the next season. On the other hand, in the hills, all the three rusts have been found abundantly on stubbles, self-sown wheat and
+out of season crops at different altitudes ranging from 4,000 to 8,000 feet above sea-level. Crops in the hills get infected early in the neighbourhood of these of self-sown volunteer wheat plants and the spores are
+then disseminated and carried down by the air currents to the foot hills where they cause infection to the crop present there, and from this crops in the plains get infected. In general, rusts appear in places at the
+foot hills than those situated farther away in the plains. Spores of all these three rusts have been caught on aeroscope slides at a larger number of stations in the plains before the appearance of the rusts showing
+clearly that the spores of rusts are introduced in the plains by wind coming either from the hills or passed over areas where rust had appeared earlier.
+In addition to over summering in the hills on self-sown wheat plants, two important foci exist according to
+Mehta where due to early crop there is plenty of rust every year at the time wheat is sown in the neighbouring plains. These are Central Nepal in the North and the Nilgiri and Palini hills in the South. The
+infection focus in Nepal is important for Uttar Pradesh as it is the source of disease in the crops of the plains along the Nepal border.
+In 1974, L. M. Joshi and his associates reported that black rust develops at an early date in South India which then serves as inoculum reservoir in the form of uredospores for the rest of the country.
+
+Brown rust of wheat has two foci of infection, the Himalayas in the North, and Nilgiri and Palini hills in the
+South. It is the most widely prevalent rust. The uredospores are transported by upper winds from Nilgiris and Palini hills, and then are washed down over Central India (Madhya Pradesh) by rains. The northern
+infection moves slowly southwards until the two populations merge.
+The air-borne inoculum of brown rust as of well as black rust and its deposition into southern hills (Nilgiri and Palini hills) has been traced by wind trajectories and weather satellite cloud images. From
+investigations of Nagarajan and Singh (1975), it appears that the tropical cyclones have a great bearing on the deposition of spores in Central India (Madhya Pradesh) within a time span of about 70 hours. The
+cyclonic disturbances occurring in the Bay of Bengal/Arabian Sea in late October or early November set a pattern of favourable winds which carry the inoculum (uredospores) of black and brown rusts from Southern
+foci to the target area in Madhya Pradesh along with rain clouds. It has been found that the invisible spore cloud movement can be successfully tagged with the visible cloud movements seen in satellite television
+cloud photographs. It has been shown that the uredospores are transported from Nilgiris by upper air/wind and are deposited over Central India (Madhya Pradesh) along with rain. From these secondary foci, it
+spreads to other foci making a nation-wide appearance.
+Yellow rust is restricted in its distribution and appearance in epidemic form only to north-western regions.
+Normally, the rust appears in the foot-hills and plains in December or first fortnight of January, when conditions in plains are favourable and rapid multiplication of inoculum (uredospores) takes place.
+Spread of Disease
+The initial infection of few odd plants in any field in the plains is sufficient to spread the disease. The disease soon spreads from one field to another by the dissemination of spores by air currents. Every rust
+pustule contains 30,000 to 80,000 spores and each such spore (uredospore) is capable of causing infection. They are easily carried away by wind and lodged on leaf and other green surface of the plant. In
+presence of moisture, the spores germinate and cause infection. The new pustules are developed within 10 to 14 days of infection. Four or five short cycles are repeated during the season. The greater the number of
+these short cycles, the greater would be the damage to the crop.
+The multiplication and spread of the rusts in the plains depend on the weather conditions specially the rain or heavy dew on the leaves of the wheat plants. Heavy dew for a long period or rain, moderately high
+temperatures and strong wind for dissemination of spores on the susceptible varieties are the important factors for rust epidemics.
+Yellow or Stripe Rust of Wheat
+The pathogen is Puccinia striiformis West.
+The yellow rust is limited to Northern and Eastern India, and rarely occurs in Peninsular and Eastern India; it appears earlier. The disease is seen in the middle of January and if there are heavy rains it does much
+damage to the crop.
+The uredia are chiefly formed on the leaf blades, but when the attack is severe, they also appear on the leaf sheaths, stalks and glumes as well. Sometimes, the rust pustules are also seen on the pericarp and
+kernels. The green colour of the leaves fades in long streaks, on which rows of small uredo-pustules appear. Each row consists of a series of oval, lemon-yellow pustules arranged end to end and each pustule
+
+remains distinct from the above and below. The uredospores eventually break through the epidermis and yellow uredospores are shed.
+The telia appear later as dull black patches in long narrow lines resembling the uredia. The telia are sub-epidermal and remain as flat black crusts.
+Uredospores: the uredospores are nearly round and not oval or elliptic as in black rust; they measure 23 to
+35 by 20 to 30 microns, and possess a hyaline wall provided with fine spines and with 6 to 10 scattered
+germ pores.
+On germination, a small, fragile appressorium is formed over a stoma. The entry tube swells up to a large, thick-walled, cylindrical, sub-stomatal vesicle, upto 19 microns broad and placed just below the stomatal
+opening. From this an infection hypha arises.
+Teliospores: the telio- or teleutospores are dark brown, two-celled, often flattened or oblique at the top, and measure 35 to 63 by 12 to 20 microns. The teliospores may occupy the complete telium or may be broken
+into groups by rows of brown paraphyses.
+The disease is air-borne. The inoculum (uredospores) causing the annual recurrence is brought from the hills to the plains every year. The uredospores of Puccinia striiformis over-summer on the hills at 7,000 feet
+and above. The yellow rust is heteroecious, but the alternate host is still unknown, and therefore the pycnial and aecial stages have not been observed.
+Brown, Orange or Leaf Rust of Wheat
+The pathogen is Puccinia recondita Roxb. ex Desm., synonym Puccinia triticina Pers., P. rubigo-vera var.
+tritici.
+This rust is found throughout the world. Though this rust is found throughout India, yet it is most common in the northern and eastern regions. In the Punjab, Bihar, and Uttar Pradesh, this disease causes more
+damage than stem rust. In northern regions, this disease appears earlier than the other two (black and yellow) rusts. In some districts of the plains of Uttar Pradesh, the incidence of this rust takes place in the
+end of December or beginning of January along with yellow rust and both the diseases take a heavy toll.
+The disease prevails both in the hills and in the plains, in South India.
+The uredo-sori (uredia) appear as a rule on the leaves, being scarce on the stalks and leaf sheaths. The uredia are always scattered on the leaf surface, they are never in rows or stripes. The uredia burst out on
+the upper surface as points of a bright orange colour. The uredia are sometimes grouped in small clusters or irregularly scattered. The scattered uredia and their orange colour form the most characteristic
+distinguishing features of the brown rust.
+Telia are rarely formed, some years they may not be present. In 1904, however, telia were quite common and have appeared on several other occasions (Butler, 1918). If telia are present they are small, oval to
+linear, black and sub-epidermal.
+Uredospores: the uredospores are brown, spherical, minutely echinulate, measuring 20 to 35 microns in diameter and bearing 7 to 10 germ pores. On germination, the germ tubes emerge through the germ-pores,
+which infect the wheat leaf through stomata.
+
+Teliospores
+The telia are divided up into several compartments by partitions of paraphyses. The teleutospores are two-celled, smooth, oblong, thick-walled and brown with a rounded apex. The teliospores are slightly
+constricted at the septum. Each teliospore measures 35 to 56 by 12 to 23 microns.
+The brown rust is heteroecious. The aecial and pycnial stages of the fungus appear on species of
+Thalictrum. In India, the role of alternate host has not been precisely determined.
+The disease is air-borne. Like other rusts of wheat, the inoculum (uredospores) survives on the tillers and self sown plants in the hills. The inoculum survives at 5,000 feet and above. Every year the uredospores are
+carried by wind from the hills to the plains, where they cause infection.
+Loss Due to Rusts
+Rust pustules cover a greater part of the photosynthetic area and thus hinder the plant in its food manufacturing process. When pustules burst through the epidermis, the water is lost by transpiration
+resulting in partial sterility, poorly filled ears and shrivelled grains. If rust becomes severe before the milk stage of the crop, the losses are always great even resulting in crop failures.
+Physiologic Races of Wheat Rusts
+Stakman (1926) and his co-workers have defined physiologic specialization as the presence of entities within morphologic species, not readily distinguishable by structure, but differing from each other
+physiologically. These entities have been designated variously such as physiologic races, biologic species, biologic forms, specialized races, racial strains, physiologic forms, etc. Each physiologic race is denoted by
+a specific number such as Puccinia graminis tritici 15. Eriksson (1894) termed these races as 'formae speciales'. Specialization of parasitism of an extreme type is known as a biotype and is denoted by an
+epithet such as 42 A, 42 B, etc.
+Since 1930, twenty physiologic races and eight biotypes of black rust (Puccinia graminis tritici—11, 14, 15,
+17, 21, 24, 34, 40, 42, 72, 75, 117, 122, 184, 194, 196, 222, 295, X and Y; 15-C, 21-A, 21-A-1, 21-A-2,
+34-A, 42-A, 42-B, 117-A), seventeen physiologic races and three biotypes of brown rust (Puccinia recondita—10, 11, 12, 16, 17, 20, 26, 61, 63, 70, 77, 106, 107, 108, 131, 162 and race D; 162-A, 162-B and
+107-A), and fourteen physiologic races of yellow rust (Puccinia striiformis—13, 14, 19, 20, 24, 31, 38, 57, A,
+D, E, F, G and H) have been identified. In recent years several new races have been identified. New races are known to arise through hybridization, mutation and introduction from neighbouring countries.
+However, the barberries do not play any part in the annual recurrence of the rust in India, but they may be instrumental in creating new races by hybridization. Then it becomes necessary to eradicate the barberry
+bushes from pockets of infection in the hills.
+Comparison of the Symptoms of the Three Wheat Rusts
+Black rust (Puccinia graminis tritici) attacks the stem most severely, then the leaf sheaths, leaf lamina and ear. Its uredosori are large, elongated, running together and bursting early, forming large fragments of the
+epidermis in doing so; colour dark brown, becoming darker gradually as teleutospores are formed in the same sori (pustules), found on all green parts of the plant. Its telia or teleutosori are much elongated and
+black in colour, bursting rather early, found on all green parts of the plant, but least on the leaf blades.
+Yellow rust (P. striiformis) attacks the leaf lamina most severely, than the leaf sheaths, stem and ear. Its uredosori (uredospores/uredosorus) are small, oval, usually run together, burst late and with little fringes of
+
+the epidermis. Their colour is almost lemon-yellow, always arranged in long stripes, found on all green parts of the plant. Its telia or teleutosori (teleutopustules) are like uredosori but flattened dull black, and often run
+together. They do not burst through the epidermis (subepidermal). Arranged in rows, chiefly on under surface of leaves but also on all the green parts of the plant.
+Brown rust (P. recondita) attacks the leaf lamina almost exclusively, rarely the leaf sheaths and very rarely the stems. Its uredosori are small but larger than in yellow rust, oval or round, do not usually run together,
+burst early with a fringe of broken epidermis around them, always scattered on the surfaces of leaf lamina.
+Colour bright orange when fresh, found chiefly on the upper surface of leaves. Its teliosori (teleutopustules) often absent, when present resemble uredosori (uredopustules) but more flattened and dull. Do not burst
+through the epidermis (sub-epidermal), found chiefly on under surface of leaves; very rare elsewhere.
+Control Measures (Disease Management) for Wheat Rusts
+On the basis of the study of the life cycle of the rusts (black, brown, and yellow) and their annual recurrence in the Indian plains, a few important methods have been suggested. They are: clean-up campaign; cultural
+practices; chemical treatment; and resistant varieties.
+Clean-up campaign: in India, K. C. Mehta, as a result of his extensive study of wheat rusts (black, brown and yellow), recommended the vigorous destruction of self-sown plants and tillers which carry over the rust in
+uredo-stage and which are responsible for infection of the crop in the plains. He had also recommended the suspension of the first crop (sown during April-June) in Nilgiris and Palini hills and postponement of sowing
+in Central Nepal to the normal period that is October.
+A great doubt has been expressed on the above measures for their practicability and economic soundness.
+There are certain out of season and self-sown grasses (collateral hosts) which occur on the hills and are affected by the same rust as wheat and barley, and they may serve as centres of foci of infection. There are
+places in the hills which are unapproachable where complete eradication of rusted plants is difficult. There is another factor that seems to mitigate against the eradication of the next which is a monsoon period
+(July-September) during which it may not be possible to carry the eradication campaign effectively.
+Cultural practices: certain modification in cultural practices, viz., cultivation of early maturing varieties, early sowing, judicious manuring and irrigation help in minimising the incidence of rusts.
+Cultivation of early maturing varieties: varieties of wheat which mature early should be sown so as to avoid the critical period, that is, the milk stage of the crop from the attack of the rusts, the black rust assumes
+serious intensity during the month of February and if the crop has passed its milk stage at this time it will suffer negligible losses. There are certain varieties of wheat in Uttar Pradesh which come into full flowering
+as early as middle of January and thus are able to escape the attack of rust at their critical stage.
+Early sowing: sowing of wheat varieties a bit earlier than normal is another good method to escape the severe rust incidence at the milk stage of the crop. The early sown wheat flowers early and also matures
+early with grown weathered flowers early and thus would escape the severity of the rust at the critical stage.
+The best time of wheat sowing in Uttar Pradesh is the later half of October. The wheat can, however, be grown profitably if sown a bit earlier. Early sowing can easily be accomplished where irrigation facilities are
+available. Late sowings in November and December are never recommended and often result in huge losses in yield due to the severity of rust attacks. The practice of early sowing should, therefore, be adopted
+to save enormous losses of the valuable national food.
+Proper manuring: manuring is an important factor governing the incidence of rusts. Nitrogenous manures, in general, are known to increase the susceptibility of the crop towards diseases by delaying maturity. The
+nitrogen requirement for wheat in Uttar Pradesh is not only uneconomical but also induce the crop being
+
+affected by rusts. Over dosages of nitrogenous manures are therefore not only uneconomical but induce the crop being affected by rusts. The rust resistance is increased by the application of potassic manures to the
+crop. Phosphatic manures, e.g. bone meal, superphosphate, etc., are also good as a top dressing to the wheat crop.
+Proper irrigation: high humidity favours the rusts and, therefore, irrigation is an important factor which governs the rust appearance only which favours the speedy development and spread of the rust. Irrigation,
+therefore, should be given timely and properly. Light irrigation during January and February help in keeping the rusts under control.
+Chemical treatment: the control of rusts by chemicals is not a new idea and dates back to atleast 1900.
+Since then the efficacy of sulphur was proved in the field in Canada and it was recommended that 3 to 5 applications at the rate of 30 lbs per acre application would control stem rust and increase the yield from 25
+to 100 per cent depending on the severity of the rust. Trials conducted at Kanpur have shown that increase in yield of wheat can be obtained by four dustings of finely powdered sulphur (400 meshes per square inch)
+at the rate of 30 lbs per acre at the interval of 10 days. Similar results were also obtained in Madhya
+Pradesh. The cost involved was, however, prohibitive and was not commensurate with the gain. The use of sulphur in the control of rusts on a wide scale, therefore, has never been recommended.
+Search for chemicals that would be effective in small quantities has led to the formulation of such fungicides as dithane, zineb and actidione. Extensive tests in different countries indicate that rust can now be
+controlled economically with the help of these compounds provided that weather conditions do not become very adverse during these operations. Dithane has been used successfully and economically in the control
+of rusts in Japan. Four to five applications of nabam and zinc sulphate gave effective control of wheat rusts in Canada and the cost of the chemicals was about one-third of sulphur. Actidione is a promising antibiotic
+in the control of rusts as a systemic fungicide. It has been demonstrated that certain sulpha compounds including sodium salts of sulphadiazine, sulphapyrazine, sulphapyridine and gantrisin are effective against
+black rust even as post-infection sprays.
+Certain naphthoquinones and phenols also exert a fungicidal action at low concentrations on cereal stem rust. Parzate liquid with zinc sulphate has been found to be effective in reducing rust infection appreciably
+under artifical conditions at I. A. R. I., New Delhi.
+Resistant varieties: the best control of wheat rust lies in evolving resistant varieties. In India, systematic work on the breeding of rust resistant wheats was started in 1935 in collaboration with K. C. Mehta and
+several rust tolerant varieties have by now been released for general cultivation. These varieties have done very well in different states and given much higher yield than the local varieties even under epidemic
+conditions.
+The breeding for resistance and chemical protection must parallel contribution in order to get the best out of improved varieties. It is much more economical and effective to use the fungicide on resistant varieties than
+on local varieties. Since the annual rust recurrence in India takes place through the agency of uredospores in the hills, K. C. Mehta had emphasized the importance and urgency of breeding rust resistant varieties and
+gave priority to the hills which act as foci of infection.
+Varieties like HD 2009, HD 2204, HD 2135, HD 2278, HD 2281, Sonalika, WH 147, S227, S307, S308,
+S331, Lerma Rojo, Sonora 63, Sonora 64, HW 741, WL 614, WL 359, C 306, etc., are resistant to wheat rusts.
+Loose Smut of Wheat
+
+The pathogen is Ustilago nuda (Jens.) Rostrup., class Basidiomycetes, order Ustilaginales, family
+Ustilaginaceae.
+It is fairly common disease in most of the wheat growing tracts of India, without often becoming epidemic or doing much damage. Sometimes the disease causes severe damage, destroying about 30 per cent ears of
+some infected fields. Its distribution is throughout the world. This disease is of common occurrence in western districts of Uttar Pradesh.
+The symptoms of the disease may be seen only on the emergence of the ears. The black powder can be seen only in the ear instead of flowers. All the parts of the spikelet are being converted into smut spores
+except awns. In the beginning, the smut sori remain covered with thin silvery membrane, but soon after this membrane disintegrates and the smut spores are liberated in the atmosphere. These spores are blown off
+by wind and other agencies and the rachis remains barren.
+The loose smut of wheat is caused by Ustilago nuda (Jens.) Rostrup. The innumerable smut spores develop on the mycelium found in the intercellular spaces of the host. The smut spores are very minute,
+pale olive-brown, lighter on one side and occasionally oval, and measure 5 to 9 microns in diameter. The outer wall of it called exospore is thick and echinulate, whereas the inner wall called endospore, is thin and
+smooth. On maturity, the two opposite-strained (+ and -) nuclei of each smut spore are fused together and a diploid (2n) nucleus is formed. The smut spores are carried by wind, insects and other agencies to the
+stigmas of the flowers where they germinate producing basidia or promycelia. The exosporium ruptures and the tubular basidium comes out. The diploid nucleus of smut spore divides reductionally forming 4 haploid
+nuclei. The basidium becomes segmented and the four uninucleate cells are produced two of + and two of - strains. From each segment single infection thread develops. The two opposite-strained infection threads
+unite and a dikaryotic cell is produced. The dikaryotic hypha develops from the dikaryotic cell. This process is called dikaryotization. The dikaryotic hypha enters the style and reaches the embryo where it develops
+into thick irregular and branched mycelium.
+The mycelium remains dormant in the embryo. The seeds with dormant mycelia in their embryos look quite healthy in outer appearance.
+The dormant mycelium established in the embryo of the seed becomes active at the time of germination of the infected seed and grows along with the apex of coleoptile. The optimum temperature for the growth of
+the mycelium ranges from 20°C-25°C. The fungus is systemic and the mycelium travels throughout in the stem. On the emergence of the ears, the mycelium reaches in the floral parts and becomes activated. The
+thousands of smut spores are produced in smut sori on the floral axis. All the floral parts become infected except awns. The haustoria are not formed. The food is absorbed by diffusion method.
+The disease is seed-borne (internally seed-borne). The dormant mycelia perennate inside the embryos of infected seeds and whenever such seeds are sown the seedlings become infected from the very beginning.
+The disease happens to be internally seed borne and systemic.
+Resistant varieties: this is the simplest and most important method of control. Every year many resistant varieties are evolved at research centres and distributed to the farmers for sowing. The important resistant
+
+varieties are: NP 710, NP 718, NP 761, NP 770, Bansipali 808, Bansi 224, NP 791, NP 729, NP 823, NP
+817, NP 865, NP 871, NP 886, NP 888, MP 108, MP 144, MP 158, MP 160, MP 168, MP 169, etc. These resistant varieties are recommended for cultivation in Uttar Pradesh, Bihar, Punjab and Rajasthan.
+Roguing: the infected ears should be burnt outside the fields, so that the smut spores may be destroyed.
+This method can easily be practiced, because of the earlier emergence of the infected ears from the boot leaves.
+Seed selection: since the disease is seed-borne, the seeds should be selected from healthy crops.
+Hot water treatment: to activate the dormant mycelia the seeds are soaked for four or five hours in the water at normal temperature ranging from 26° to 30°C. Thereafter the seeds are being transferred in hot water at
+54°C for ten minutes. The activated mycelium dies at this temperature. These grains may be used as seeds. The temperature of water should not exceed in any way because the embryo of the seed dies at
+56°C. This process seems to be risky and not practical.
+Solar treatment: this is the modification of hot water treatment. Luthra and Sattar (1934) proposed this treatment for the Punjab, Sind (now in Pakistan), and Uttar Pradesh. The seeds were soaked in water for
+four hours, and then the seeds were dried up on the floor in very thin layers from 12.00 noon to 4 P. M. in the months of May and June. The dormant mycelium becomes activated on soaking the seeds in the water for 4
+hours, and dies when the seeds are spread in thin layers in the hot sun and the seeds become free of pathogen.
+Chemical treatment: it has been suggested that after soaking the seeds in water for six hours, they should be kept for 40-50 hours in 2 per cent spergon or chlorose at 50°F to 72° F. By this method the pathogen is
+destroyed and the seed becomes fit for sowing.
+Flag Smut of Wheat
+The pathogen is Urocystis tritici Koerne., class Basidiomycetes, order Ustilaginales, family Ustilaginaceae.
+This disease is confined to the Punjab in India, while outside India it is known in Japan, Australia, China, and in some parts of Europe and U. S. A. The disease seems of much more restricted distribution than the
+other smuts of wheat.
+As the name indicates, the disease is usually found on the leaf blades. It is also common on the sheaths and occurs sometimes on the stem and very rarely on the ears. Every shoot of the plant may become
+infected; their leaves become twisted up, droop and ultimately withered. The complete plant dies up. The infection is more towards the upper portions of the leaf blade than at the base. Very frequently, the ears are
+replaced by a twisted mass of leaves. The ears do not bear any grains. Whenever the grain is formed, it is always much shrivelled and useless. On the infected leaf blade long, grey, slightly swollen bands appear
+parallel to the veins of the leaf. Ultimately, these elongated sori rupture and expose a black, powdery mass of spores.
+The disease is caused by Urocystis tritici Koerne. The spores are formed in tiny balls consisting of 1 to 4 fertile brown spores. These spores remain surrounded by a layer of light-coloured sterile cells. The spore
+balls are usually of oval, 9-16 microns in diameter. The sterile cells are small and elliptic. The spores
+
+germinate by producing a promycelium (basidium) or 1-3-celled germ-tube, which bears a cluster of 2 to 6 sporidia at the apex. The sporidia (basidiospores) measure 12-15 by 3 to 2 microns and germinate without
+falling off by a slender germ-tube.
+The disease is both seed-borne and soil-borne. Infection occurs below ground. The spore balls are adapted to retain their power of germination for a long time. On germination they infect the primary shoot and later
+produce the characteristic spore bearing sori.
+Resistant varieties: the sowing of resistant varieties is most effective method of control. Some resistant varieties are: NP 165, WG 189, VL 426, HD 2117, HW 161, HB 121, HB 113, etc.; recommended for
+cultivation in Punjab.
+Seed treatment: the seeds should be treated with sulphur or organo-mercurials before sowing. They reduce the primary infection.
+Crop rotation: this practice has also been effective in controlling this disease.
+Smooth-spored Bunt of Wheat
+The pathogen is Tilletia foetida (Wallr.) Liro., class Basidiomycetes, order Ustilaginales, family Tilletiaceae.
+In India, this disease is commonly found in the hilly regions at elevations of 6,000 feet and above.
+The plants affected by this disease ripen a little earlier than the healthy plants. The affected ears become dark green in colour and are more open than those of the ears of healthy plants. The affected ears become
+narrower and longer than the healthy ones. On the maturity of the ears the glumes are pushed apart. The affected grains become shorter than the healthy ones. As a rule, all the ears in an affected plant become
+infected. All the grains of an ear are being converted into spore balls. The inside of the grain is filled with a greasy spore-mass smelling strongly of rotten fish. The spore-masses or bunt balls leave the grain contents
+while leaving the grain coats intact. The spores are liberated from the bunted grains with difficulty. The spore mass ruptures during threshing and the spores adhere to the surface of the healthy grains.
+Smooth-spored bunt of wheat is caused by Tilletia foetida (Wallr.) Liro. The spores possess the smooth wall and measure 6-25 microns in diameter.
+Spores germinate readily in water or moist air. On germination, the spore produces a promycelium
+(basidium). At the tip of promycelium, a cluster of 8-15 long, narrow, curved sporidia (basidiospores) is formed. The sporidia usually become united in pairs by lateral branches forming H-shaped structures. On
+germination, these structures give rise to secondary sickle-shaped sporidia. The infection can take place only when the germ tube of a primary or secondary sporidium comes in contact with a young seedling.
+The disease is externally seed-borne, and therefore systemic. The infection takes place through seed-borne spores. After infection, the fungal hyphae grow along the tip of the shoot, and at the time of development of
+the ear, concentrate in the inflorescence and the grains are being converted into smutted tissues, enclosing
+
+masses of bunt spores. The spore-mass can survive long under dry conditions.
+Resistant varieties: for effective and economical control, the resistant varieties should be grown. In India, resistant varieties of wheat have been developed. They are: IWP 129, IWP 127, IWP 72, PV 18, HD 2012,
+H 4513, HD 4519, Kalyan Sona, UP 2002, HB 383, WL 410, WL 885, WL 1581, etc.
+Seed treatment: the disease has been effectively controlled by seed treatments. Prior to sowing the seeds are treated with specific chemicals such as copper carbonate, ceresan, agrosan GN and other such
+chemicals.
+Rough-spored Bunt or Stinking Smut of Wheat
+The pathogen is Tilletia caries (DC.) Tul., class Basidiomycetes, order Ustilaginales, family Tilletiaceae.
+In India, this bunt occurs only in regions with a low temperature and a cool climate and at 6,000 feet elevation above sea level. Sometime ago the disease has also been reported from Haryana state. The
+disease is commonly found in Kashmir, the Western Himalayas and Himachal Pradesh. This is much more serious disease of wheat in the countries in which it occurs, than the loose smut.
+The symptoms are seen only on the ears. Affected plants ripen usually more rapidly than healthy plants and the ears become of a dark, green colour and more open. The fully mature grain becomes dark and the dark
+colour can be seen between the glumes, which are more spread out than usual. Instead of bending over like the healthy ears, they remain erect and rigid, instead of bending over like the healthy ears. The interior of
+the grain is filled with a greasy spore-mass, smelling strongly of rotten fish. The spore-masses entirely replace the grain contents while leaving the grain coats intact. The spores are hard and it ruptures at some
+time during threshing, and then the spores adhere to the healthy grains.
+Rough-spored bunt or stinking smut of wheat is caused by Tilletia caries (DC.) Tul. The spores possess rough and reticulate wall, measuring 15-20 microns in diameter.
+On germination, the spore produces a stout promycelium (basidium). At the tip of promycelium, a cluster of
+4 to 12 long, narrow, curved sporidia is formed. The sporidia usually become united in pairs by lateral
+branches forming H-shaped structures. Secondary sickle-shaped sporidia are produced on the germination of H-shaped structure. The infection can take place only when the germ tube of a primary or secondary
+sporidium comes in contact with a young seedling.
+The disease is seed-borne, and the infection takes place through seed-borne spores. After infection (by means of sporidia) the fungus grows along the tip of the shoot, and at the time of flowering, the fungal
+hyphae concentrate in the floral parts, transforming the grain into smutted tissues, enclosing masses of bunt spores. The spore-mass can survive for more than 25 years under dry conditions.
+Resistant varieties: for effective and economical control the resistant varieties should be grown. Some resistant varieties are: PV 18, S227, HD 2012, HD 4513, HD 4519, HB 383, WL 410, WL 885, WL 1581,
+
+IWP 72, IWP 87, IWP, 127, IWP 129, etc.
+Seed treatment: since the disease is externally seed-borne, the seeds should be treated with specific chemicals such as sulphur, copper carbonate and organo-mercurials before sowing. Seed treatment to
+check seedling infection has been recommended. Copper sulphate solution (2%), formalin (500 g/litre of water) and copper carbonate dust (2-3 oz/30 kg seed) have been recommended. Organo-mercurials, such
+as agrosan GN, NI ceresan and ceresan M have also been recommended for seed treatment. Seed treatment with benlate (0.3%) and vitavax (0.2%) is also recommended. Triazole and bitertanol @ of 19
+µm/kg seed are found very effective for seed treatment.
+Karnal Bunt of Wheat
+The pathogen is Tilletia barclayana Sacc. and Sydow., class Basidiomycetes, order Ustilaginales, family
+Tilletiaceae.
+In India, for the first time this disease was reported from Karnal (then in the Punjab, now in Haryana), and since then this has been named as 'Karnal bunt of wheat'. In Uttar Pradesh, this disease was first reported
+in 1942, and since then it has been reported from several districts of Western Uttar Pradesh. Elsewhere in the country this disease is unknown. Though the disease is of less importance, yet in certain years it caused
+heavy damage.
+This disease can be observed in the fields only when the ears have emerged out, and grains are formed. In an affected plant, not all the ears are infected. On the other hand, in an infected ear, only a few grains not
+more than five or six, are being infected and changed into sori. The sori are always irregularly distributed on the infected ear. On the maturity of the grains, the outer glumes are changed into sori. The bunt-balls
+(spore-mass) remain covered by the pericarp in the beginning, but later on they burst and the spore-mass is exposed. The spore-mass smells strongly of rotten fish like other two bunts.
+The Karnal bunt of wheat is caused by Tilletia barclayana Sacc. and Sydow., synonym Neovossia indica
+(Mitra) Mundk. The spores are spherical, smooth-walled and measuring 22-49 microns in diameter.
+Prior to germination, the spores require a long resting period. On germination, the spore produces a short, stout basidium. The sporidia are produced in large numbers (60-120) at the apex of the basidium. The
+primary sporidia are needle-shaped and flexible. The secondary sporidia, if produced, are sickle-shaped.
+The disease is soil-borne as well as air-borne. The spores found in the soil germinate, forming a large number of needle-shaped sporidia (basidiospores), and sickle-shaped secondary sporidia. The sporidia are
+being carried to the inflorescence through the air currents, where they infect the ovaries and the developing kernels. Infection takes place only when the flowering occurs.
+Crop rotation: this method of control may be helpful to some extent.
+Resistant varieties: for effective and economical control, the resistant varieties should be grown. Some important resistant varieties are: Kalyan Sona, S 227, PV 18, HD 2012, 4513, 4519, IWP 72, 87, 127, 129,
+WL 885, 1581, HB 383, UP 2002, etc.
+
+Powdery Mildew of Wheat
+The pathogen is Erysiphe graminis DC. var tritici, class Ascomycetes, order Erysiphales, family
+Erysiphaceae.
+The powdery mildew of wheat is commonly found in those regions where there is enough of moisture during sowing time. This disease has no or little importance in the plains of India. This disease is commonly found
+in the lower hilly tracts of Northern India. This is a common disease of wheat in the Terai regions of Uttar
+Pradesh and Bihar. The disease has been frequently observed in Dehradun district of Uttarakhand.
+The pathogen is an obligate parasite, and usually found on leaves, young shoots, inflorescences and other young tissues of the host plant. In the beginning it appears as a superficial floccluent growth on the upper
+surface of the leaves, which later on spreads to sheath and floral bracts. The fungus may appear in an isolated white patch, in the beginning, which coalesce with other patches and form big ones on the leaves.
+Sometimes, whole leaf is found to be affected. The mycelium on the host is entirely superficial, forming a floccluent matted growth, at first white when the conidia are being formed, thereafter changing into a grey or
+reddish-brown colour when the cleistothecia are developed. In severe cases, the leaves become crinkled, twisted or variously deformed. Later on, the top of the shoot droops down and withers and ear development
+is checked to some extent. Later on, usually at earing time, small, dot-like, dark, spherical cleistothecia are formed in the superficial mycelial weft.
+From much discolouration and coverage of the host epidermis by the fungus, photosynthesis is less and there is much chlorosis, which makes the plant weak. The development of the infected ears is arrested and
+the ears wither. If the disease incidence takes place at the milk stage, the grains are dried and shrivelled.
+The disease is caused by Erysiphe graminis DC. var tritici. This is an obligate parasite. The mycelium is ectophytic (superficial) and consists of sparingly branched, thick-walled, hyaline hyphae, 4 to 5 microns
+wide, which are interlaced into a web, covering a greater or less extent of the leaf and stem. It forms a white, web-like coating over the host and sends haustoria into the epidermal cells of the host. Usually the
+haustorium is branched, forming finger-like processes, and frequently provided with an external disc or appressorium, from which the haustorium proper arises and pushes into the epidermal cell. As a rule, the
+fungus does not penetrate into the tissue.
+Conidiophores arise at right angles from the leaf surface. The conidiophore is swollen in a characteristic manner at the base, above which arises a long cylindrical outgrowth. The basal swelling develops as an
+outgrowth from a hypha by a transverse septum. It elongates and divides into two cells. The upper cell acts as the mother cell of conidia, above a nucleus. The mother cell cuts off conidia in acropetal succession from
+its distal end giving rise to basipetal chain of conidia. Each conidial chain contains about 10 to 12 conidia.
+The conidia are oval or barrel-like, hyaline, single-celled, uninucleate, and are capable of germinate within a short time and fall off readily when disturbed. The conidia are disseminated by outer agencies such as wind,
+water, insects, etc. On the approach of suitable moisture and temperature they germinate by producing one or more tubes.
+The distal end of the germ tube of conidium appresses the surface of the leaf and develops into a flat appressorium. A peg-like structure is given out from the appressorium and penetrates the epidermal cells of
+the host. The distal end of this peg-like structure swells up into vesicle which gives rise to finger-like
+
+branches called haustoria.
+The cleistothecia generally appear at about the same time when ears are developed. Each cleistothecium arises as the result of a sexual act consisting in the fusion of parts of the contents of two specialized cells —
+the antheridium (male) and ascogonium (female). The cleistothecia are round or sub-globose, bright reddish-brown, about 200 microns in diameter, mostly and partly immersed in the mycelium. During
+development, the wall of the ascocarp (cleistothecium) is differentiated into inner and outer layers. The inner layer consists of thin-walled hyaline cells rich in cytoplasm; it supplies the food material to the
+developing asci. The function of the outer layer is protective.
+Each cleistothecium contains 20-30 asci. The asci are cylindrical or ovate, 70-108 by 25-40 microns, and each ascus contains 8 (rarely 4) elliptical, single-celled, hyaline ascospores, measuring 20-23 by 10-13
+microns. The ascospores are released with jerk from asci.
+The ascospores germinate readily in moist air, giving rise to one or more germ tubes. Each end of the germ tube forms an appressorium which firmly attached to the surface and gives out a peg-like structure which
+penetrates the host plant. Once inside, the tube swells up and gives rise to a large, branched haustorium in the cavity of the cell.
+Two physiologic races of the fungus causing powdery mildew of wheat have been reported from India and four from U. S. A.
+The recurrence of the disease takes place through the cleistothecia (the perennating bodies). The cleistothecia perennate on the straw and plant debris after harvest, and provide the necessary inoculum
+(ascospores) for the next season. The primary infection is brought by ascospores, and the secondary infection is from the air-borne conidia.
+Resistant varieties: the best method of control is to sow the resistant varieties. In countries, like U. S. A. and
+Canada, much work has been done to evolve the resistant varieties. In India too, there is some progress in this direction. Varieties NP 710, NP 718, HW 741, C 591, C 750 are moderately resistant; Sharbati Sonara,
+Sonora 64, Chhoti Lerma are recommended for cool climatic regions (Uttarakhand and H. P.) of Northern
+India; HD-1980 and HD 2204 are also resistant. Recently developed varieties, such as HB 208, CPAN
+1676, VL 401 and HD 2074 are found resistant against all races of E. graminis tritici.
+Chemical control: sulphur dusting has been proved to be fruitful in the control of this disease. But the cost of treatment is prohibitive and the control is not practical. Fungicidal sprays proved effective in control of this
+disease: spray with systemic fungicide, benlate (0.1%) gave good results. Spray of calixin is equally effective. Karathane (0.1%) is also effective. Control to some extent can also be achieved with ethirimol and
+dimethirimol, used on soil drench. Seed treatment with bayleton (0.1-0.2%) or its spray on leaves (100-500 µg/ml) gave good results.
+Leaf Blight of Wheat
+The pathogen is Alternaria triticina Prasada and Prabhu., class Deuteromycetes, order Moniliales, family
+Dematiaceae.
+
+This disease causes much loss in various parts of India. This disease was first observed in 1924, and since then the plant pathologists are busy in various investigations. Several rust-resistant varieties have been
+proved quite susceptible for this disease. The symptoms of the disease are not visible on the seedlings, and they appear only when the plants become 7-8 week old. Durum wheat has been found to be most
+susceptible for this disease (Prasada and Prabhu, 1962). The disease has not been reported from other countries so far.
+In early stages, small, oval or elliptical, irregular, hyaline lesions are found to be scattered on the leaves. On maturity, these lesions become quite irregular and brown or grey-coloured. The lesions remain surrounded
+by a bright yellow zone. Several lesions coalesce and cover most of the surface of the leaf, ultimately causing its death. Sometimes the leaves begin to dry up from their apices. In moist conditions, the lesions
+are covered with black powdery conidia of the fungus. The lowermost leaves of the plants which are nearer to the irrigation channels get infected first. The symptoms of the disease appear on leaf sheath, leaf blade,
+ears, awns and glumes.
+This disease is caused by Alternaria triticina Prasada and Prabhu. The mycelium of this fungus is hyaline in early stage but later on, it becomes olive buff in appearance. The conidiophores are branched, septate, and
+2-7 microns broad. The conidiophores are usually unbranched, rarely branched, erect, single or in groups emerging out through the stomata, the conidiophores measure 17-28 by 3-6 microns. The conidia may
+develop on the conidiophores either singly or in the chains of 2-4. The conidia are smooth, irregularly oval, elliptical or ellipsoid and beaked. The beaks are elongated and pointed towards their ends. The beak is of
+the same colour of which the main body of the conidium. The conidium is light brown or dark olive-brown in colour. Each conidium measures 15-89 by 7-30 microns. Each conidium possesses 1-10 transverse septa
+and 0-5 longitudinal septa.
+The conidia germinate between 5°C to 35°C. The optimum temperature for germination varies from
+15°C-27°C. Maximum germination needs 100 per cent relative humidity. Maximum incidence of disease requires 25°C temperature.
+This is a seed- as well as soil-borne disease. The intensity of the disease varies on different varieties and on an average it is 12.2 per cent. The inoculum is found to be deep seated in the seed. Seven to fifteen
+days old seedlings are not susceptible. As the plants become older, they become more susceptible to this disease. If suitable conditions of moisture and temperature prevail, the ten week old plants are heavily
+infected by the disease.
+Predisposing Factors
+100 per cent relative humidity and the temperature around 25°C favour the incidence of disease to the
+maximum.
+Hot water treatment: after soaking the seeds for four hours in water at ordinary temperature, they are again soaked in water at 52°C for fifteen minutes. By doing so the seeds become inoculum free and remain viable
+for sowing purpose.
+Sanitation: since the disease is soil-borne too, after the harvest, plant debris should be collected and destroyed by burning it.
+
+Resistant varieties: the most economical and suitable method of control is to sow the resistant varieties.
+They are: NP 4, NP 52, NP 200, NP 809, NP 824, etc.
+Yellowing Rot or Tundu Disease of Wheat
+This disease is incited by bacteria and nematodes. The pathogen is Corynebacterium rathayi (Smith)
+Dowson, and a nematode Anguina tritici (Steinbach) Filipjev, class Schizomycetes; and Nematoda.
+The yellowing rot or tundu disease of wheat has been recorded from the Punjab, Haryana, Western Uttar
+Pradesh and Rajasthan. This disease was first reported from the Punjab by Hutchinson in 1908. The disease has also been recorded from Australia, China and Egypt.
+At first, a wrinkling of the lower and twisting of the central leaves is seen. Simultaneously, a bright yellow slime exudates on the affected leaves. Later on, the yellow slime appears on the stem and inflorescence. In
+humid atmosphere, the yellow slime can be seen trickling down, but when it dries up, it becomes sticky and afterwards hard and dry. Ultimately the spikes become curled and twisted. The bacterium cannot cause the
+disease, and it is always associated with the nematode, Anguina tritici. In association with the nematode, the kernels are replaced by nematode galls and yellow rot sets in.
+The yellowing rot or tundu disease of wheat is caused by the bacterium Corynebacterium rathayi (Smith)
+Dowson, synonym Corynebacterium tritici and the nematode, Anguina tritici (Steinbach) Filipjev. The bacterium is a motile rod with one polar flagellum. It measures 2-3 by 1 µ. In most of the infected grains the
+kernels are replaced by nematode galls and these galls carry the causal bacterium.
+This is a seed-borne disease. If the infected seeds are sown, the galls absorb moisture from the soil, and the larvae of the nematodes are released out from the ecto-parasites on the growing apex of the seedlings.
+At the time of flowering, the ovaries of the flowers are being infected by the nematodes already present on the growing apex. Once again the galls are formed. In the mean time, the bacterial infection also takes
+place and the yellow ear rot sets in.
+Control Measures (Diseases Management)
+Proper drainage: it has been suggested that if the fields are well-drained, there are less chances of epidemic. Sanitation: as soon as the symptoms appear, the plants should be uprooted and destroyed by
+burning them, out of the field. Sowing of clean seeds: the gall-free seeds should be sown. The seeds can be freed from galls by soaking in strong solution of common salt at the rate of 40 lbs per twenty-five gallons of
+water. By doing so the galls float on the surface of solution. Crop rotation: crop rotation with barley and oats for 2-3 years is quite effective. During rotations, seasonal wetting of galls ensures release of larger which
+die in the absence of host (wheat). Resistant varieties: same varieties are resistant against this disease.
+They are: Sonora 63, Lerma Roja, NP 908 and S 227.
+Ear Cockle Disease of Wheat (A Nematode Disease)
+The pathogen is Anguina tritici.
+
+The base of wheat seedling or stem gets enlarged. Leaves of the affected seedling get twisted and crinkled.
+The affected ears are shorter and broader with very short or no awns on the glumes. The affected ears are greener than the healthy ones.
+Description of the Disease
+The disease is caused by the nematode, Anguina tritici. In a diseased head, grains are replaced by nematode galls (cockles). Each gall may contain 10,000 to 30,000 or more larvae. Adult females are about
+3-4 mm long and 120 µ in diameter. They lay eggs and produce all the juvenile stages and adults in seed galls. The larvae can survive up to 28 years under dry conditions. The juveniles swim upward on the leaves
+through film of water and feed ecto-parasitically on leaves. As the inflorescences forms the juveniles enter the floral parts and produce third and fourth stage juveniles.
+Use only gall-free seed from a healthy crop. Remove the galls from seeds by winnowing or using a sieve of proper size. Galls can also be removed by soaking the seed in 2 per cent to 5 per cent common salt. When
+salt water is used, make sure that the treated seed is washed by plain water 2 to 3 times and then dried before sowing.
+Molya Disease of Wheat and Barley (A Nematode Disease)
+The pathogen causing molya disease is Heterodera avenae, the cereal cyst nematode, or cereal root eelworm, known to occur in most wheat, barley, and oat growing areas of the world. In India, the disease
+was first reported in 1957 from Punjab, and thereafter has been recorded from Rajasthan, Haryana and
+Western Uttar Pradesh.
+Occurrence of small patches of stunted, pale and greenish-yellow plants indicate the presence of the disease. The infected plants remain stunted in growth and do not grow beyond 30 cm to 40 cm from the
+ground level. Ears, if formed, have few or no grains. Main roots of the plants get elongated and contain few rootlets at the end. As many as 15 to 20 white or dark brown cysts may be present on a single plant root.
+Crop rotation with a non-cereal crop can prevent the disease. Since the disease is more prevalent in light soils with poor water holding capacity, it is suggested that the maintenance of good soil structure or fertility
+will be helpful in reducing damage by this disease. Two or three deep ploughing of the infested fields during summer and soil fumigation with D. D. at the rate of 400 litre per hectare or D. B. C. P. at the rate of 30 litres
+per hectare will help control molya nematode.

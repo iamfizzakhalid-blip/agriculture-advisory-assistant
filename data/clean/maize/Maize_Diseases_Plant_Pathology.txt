@@ -1,0 +1,77 @@
+Diseases of Maize
+Source: Plant Pathology (Pathogen and Plant Disease) by Dr. B. P. Pandey, S. Chand Publishing —
+Chapter 14, Diseases of Cereals
+Note: the source pages provided cover leaf blight, head smut, rust, and brown spot of maize. Other maize diseases listed in the book's contents (e.g. smut of maize) were not included in the pages supplied and are therefore not
+covered here.
+Leaf Blight of Maize
+The pathogen is Helminthosporium turcicum Pass., class Deuteromycetes, order Moniliales, family
+Dematiaceae.
+This disease is quite common in many parts of India. It was first described in Italy in 1876, and since then has been recorded from the United States, South Africa, Japan, and most maize-growing countries.
+The symptoms appear as small, yellowish, round or oval spots on the leaves. These extend along the leaf and coalesce into longitudinal bands, which may cover a great part of the leaf. The affected tissues
+gradually become dark in colour, and are covered, in moist weather, with velvety dark-green patches due to fructifications of the fungus. Ultimately, the leaves dry up and have a blighted appearance. The plants
+remain stunted and the ears developed are poorly formed.
+The leaf blight of maize is caused by Helminthosporium turcicum Pass. The fungus grows both intra- and inter-cellularly within the mesophyll of the diseased spots. The conidiophores come out in groups from the
+stomata on the surface of the diseased spots. They are long, narrow, unbranched, slightly bent or curved above, septate, yellowish-brown, 150 microns long and 6 microns broad. The conidia are borne single at
+the tips and fall off readily. Conidia are olivaceous-brown, slightly curved, tapering towards the rounded ends, and vary in size and septation; usually they are 3 to 7 times transversely septate. Each conidium
+measures 80 to 120 microns by 20 to 24 microns in diameter.
+Crop rotation of susceptible grain crops with legumes or other nonsusceptible hosts reduces the overwintering inoculum.
+Head Smut of Maize
+The pathogen is Sphacelotheca reiliana (Kuhn) Clinton, synonym Ustilago reiliana Kuhn, class
+Basidiomycetes, order Ustilaginales, family Ustilaginaceae.
+In India, this disease occurs chiefly in Kashmir, Punjab, and Maharashtra. It has been known from India under the name Ustilago pulveracea Cke. It is known in the United States, Southern Europe, Africa,
+Australia, and Japan.
+
+Head smut of maize is usually first noticed on the tassel, sometimes converting the whole upper part to a mass of smut, sometimes affecting single flowers or a portion of the inflorescence only. Sometimes, sori are
+formed in individual flowers; in such cases, the flowers are much enlarged and deformed. Usually, when the tassel shows the smut, all the cobs below are destroyed or partially attacked; contrary to it, the tassel may
+escape where the cobs are all involved. In the cob, the sorus usually takes the form of a single large smut-mass enclosed when young with a smooth or lobed membrane, which encloses the whole part that
+should have borne grain.
+The smutted plants are often stunted in growth, brittle and remain green longer than the rest of the crop.
+The head smut of maize is caused by Sphacelotheca reiliana (Kuhn) Clinton. The smut spores are globose or somewhat angular, brown coloured, and measure 10 to 16 microns in diameter, having numerous minute
+echines on their surface. Mingled with these smut spores are groups of hyaline, sterile cells, sub-spherical in shape and 7 to 15 microns in diameter. The enclosing membrane is formed of such cells. When young,
+the spores are aggregated in masses but at maturity, they are separated from each other.
+The smut spores germinate and produce 4-celled basidia. Sporidia are borne terminally and near the septa.
+The spores are shed from diseased plants on the soil around them and remain alive till the following season. The main infection comes from the soil and takes place usually during the early stage of seedling
+growth.
+Roguing: smutted plants should be removed as soon as they are detected. Crop rotation: rotation of the crops should be after two or three years. Resistant varieties: resistant varieties should be evolved.
+Rust of Maize
+The pathogen is Puccinia sorghi Schw., synonym P. maydis Bereng., class Basidiomycetes, order
+Uredinales, family Pucciniaceae.
+This rust is fairly common in South India. It is found abundantly under continuous relatively high temperature, as in South Europe, the warmer parts of the United States of America, Africa, and Australia. In
+recent times, it has been reported from many parts of India, especially infecting hybrid maize varieties. The rust does much harm, especially in thickly planted maize during periods of high humidity.
+The leaves become covered with numerous uredosori, lose their green colour, dry up, and in severe cases the plant does not form cobs.
+The uredosori remain scattered or in groups on both surfaces of the leaves, and at first are like small yellow points, which elongate and sometimes coalesce, turn reddish-brown, and are first pustular. The pustules
+burst soon, dislodging the reddish-brown powdery spore-mass. The teleutosori appear later, as larger black patches, upto 2 mm long. They remain covered by the host epidermis but burst eventually.
+The rust of maize is caused by Puccinia sorghi Schw. The uredospores are elliptic or ovoid, light brown, finely spiny and measure 24 to 32 microns by 20 to 28 microns in diameter. Each uredospore possesses
+four germ pores. Two or more infection hyphae arise from the basal angles. The ordinary hyphae send
+
+haustoria into the host cells. The teleutospores are oblong, two-celled, thick-walled, slightly constricted at the septum, rounded or flattened at the apex and bright chestnut-brown in colour. They measure 28 to 48
+microns by 13 to 25 microns and are borne on long, persistent, brownish stalks.
+The rust is a heteroecious one. The aecidial stage is being formed on species of Oxalis. The aeciospores are globose, pale yellow and finely verrucose.
+Rust Recurrence
+The inoculum survives in the form of uredospores on maize plants, which are generally grown round the year in different regions. By means of uredospores the disease cycle is repeated several times in the same
+season.
+Resistant varieties should be grown.
+Brown Spot of Maize
+The pathogen is Physoderma zeae-maydis Shaw, class Chytridiomycetes, order Chytridiales, family
+Cladochytriaceae.
+This disease is commonly found in all the maize-growing areas of the world. It occurs throughout the south-eastern quarter of the United States. This was found in India in 1910 and in Illinois in 1911. However,
+in India this disease is not widely spread and is of minor importance.
+The symptoms of the disease occur on leaf blades, sheaths, culms, and rarely on the husks of the ears. The lower portion of the plant is usually more severely affected. The early symptom is the appearance of slightly
+bleached or yellowish spots which turn reddish-brown and finally brown. Such spots seldom exceed 1 mm in diameter and the blade and 5 mm on the midrib or sheath. The affected plant parts become rusty in
+appearance. Spots on the infected leaf blades die prematurely. The sheath becomes reddened and severely affected leaf blades are nearly rusty in appearance. Spots on the infected culms are generally
+situated near the nodes, and thus the tissues are weakened and the stem lodging occurs, causing heavy damage.
+The brown spot of maize is caused by Physoderma zeae-maydis Shaw. The brown spots on diseased plants contain smooth, brown, thick-walled resting sporangia measuring 18 to 24 microns by 20 to 30
+microns. They are flattened at one side where a definite lid or cap is seen. On germination the lid of sporangium opens, and a thin vesicle comes out through the opening. The vesicle ruptures at the apical end
+liberating uniflagellated zoospores measuring 300 zoospores, which are smaller than the zoospores produced in resting sporangia. When these zoospores come in contact with a moist leaf, they move about
+for sometime with the help of their flagella and then come to rest. They germinate and infect the host cell.
+Sometimes they give rise to irregular structures which remain anchored to the host tissue by means of branched rhizoidal mycelium. These structures are thin-walled sporangia. Each such sporangium
+discharges at maturity, through an apical papilla, about 300 zoospores, which are smaller than the zoospores produced in resting sporangia. It is thought that they act as gametes.
+
+The mycelium in the host cell consists of fine fibrous coenocytic hyphae which connect large vegetative cells known as sammelzellen. These structures may eventually develop into resting sporangia and send out
+fibrous hyphae which produce terminal sporangia.
+The fungus is intracellular in the host tissue, and the fibrous hyphae grow from cell to cell.
+Nature and Recurrence of Disease (Disease Cycle)
+The fungus is an obligate parasite. The disease is soil-borne. The resting sporangia formed in the plant tissue remain viable in soil and in leaf sheath at least for 3 years. On maturity of the lesions they are
+released from the host tissue and are disseminated by wind. The resting sporangia require relatively high temperature (23°C to 30°C) for germination.
+Sanitation: the practices of field sanitation have been proved effective in this disease. Crop rotation: since the pathogen survives in the soil, crop rotation should be practiced. Resistant varieties: the resistant
+varieties should be grown.
