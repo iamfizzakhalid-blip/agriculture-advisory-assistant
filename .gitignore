@@ -12,5 +12,3 @@ __pycache__/
 
 # Environment
 .env
-
-# Data artifacts (large / generated - rebuild locally via the pipeline)
