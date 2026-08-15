@@ -18,6 +18,8 @@ from scripts.chat_db import (
     load_chat as db_load_chat,
     delete_chat as db_delete_chat,
     list_chats as db_list_chats,
+    ensure_chat_log_file,
+    append_chat_exchange,
 )
 
 # =============================================
@@ -61,12 +63,21 @@ def list_chats():
         return []
 
 
-def create_new_chat() -> str:
-    return db_create_chat()
+def create_new_chat(title: str = "New Chat") -> str:
+    chat_id = db_create_chat(title=title)
+    try:
+        ensure_chat_log_file(chat_id, title)
+    except Exception:
+        pass
+    return chat_id
 
 
-def make_title(messages: list) -> str:
-    """Derive a short chat title from the first user message."""
+def make_title(messages: list, chat_id: str = "") -> str:
+    """Derive a short chat title from the user-provided topic or the first user message."""
+    # If a topic was stored for this chat, always use it
+    stored_topics = st.session_state.get("chat_topics", {})
+    if chat_id and chat_id in stored_topics:
+        return stored_topics[chat_id]
     for m in messages:
         if m["role"] == "user":
             text = m["content"].strip().replace("\n", " ")
@@ -78,6 +89,11 @@ def switch_to_chat(chat_id: str):
     data = load_chat(chat_id)
     st.session_state.current_chat_id = chat_id
     st.session_state.messages = data["messages"] if data else []
+    try:
+        if data:
+            ensure_chat_log_file(chat_id, data.get("title") or "New Chat")
+    except Exception:
+        pass
 
 
 # =============================================
@@ -602,9 +618,85 @@ st.markdown(f"""
         min-height: 28px !important;
     }}
     .chat-list-row {{
-        margin-bottom: 4px !important;
+        margin-bottom: 0px !important;
         padding: 0 !important;
         border-bottom: none !important;
+    }}
+    /* Collapse Streamlit's default vertical gaps between chat rows in sidebar */
+    section[data-testid="stSidebar"] .stVerticalBlock {{
+        gap: 0.5rem !important;
+    }}
+    section[data-testid="stSidebar"] div[data-testid="stVerticalBlockBorderWrapper"] {{
+        margin: 0 !important;
+        padding: 0 !important;
+    }}
+    section[data-testid="stSidebar"] div[data-testid="stHorizontalBlock"] {{
+        gap: 0.5rem !important;
+    }}
+
+    /* ============================================= */
+    /* 22. NEW TOPIC DIALOG                          */
+    /* ============================================= */
+    /* Dialog backdrop — blur effect */
+    div[data-testid="stDialog"] > div:first-child {{
+        backdrop-filter: blur(12px) !important;
+        -webkit-backdrop-filter: blur(12px) !important;
+        background: rgba(0, 0, 0, 0.55) !important;
+    }}
+    /* Dialog card itself */
+    div[role="dialog"] {{
+        background: rgba(30, 22, 12, 0.95) !important;
+        border: 1px solid rgba(212, 160, 23, 0.35) !important;
+        border-radius: 20px !important;
+        box-shadow: 0 16px 64px rgba(0, 0, 0, 0.6), 0 0 0 1px rgba(212, 160, 23, 0.1) !important;
+    }}
+    div[role="dialog"] * {{
+        color: #FFF8E7 !important;
+    }}
+    div[role="dialog"] h2 {{
+        color: #FFE082 !important;
+        font-weight: 600 !important;
+    }}
+    /* Dialog text input */
+    div[role="dialog"] input {{
+        background: rgba(212, 160, 23, 0.08) !important;
+        border: 1px solid rgba(212, 160, 23, 0.25) !important;
+        border-radius: 12px !important;
+        color: #FFF8E7 !important;
+        padding: 0.6rem 0.9rem !important;
+    }}
+    div[role="dialog"] input:focus {{
+        border-color: #D4A017 !important;
+        box-shadow: 0 0 0 2px rgba(212, 160, 23, 0.2) !important;
+    }}
+    div[role="dialog"] input::placeholder {{
+        color: #E8B960 !important;
+        opacity: 0.45 !important;
+    }}
+    /* Dialog confirm button */
+    div[role="dialog"] .stButton > button {{
+        background: linear-gradient(135deg, rgba(212, 160, 23, 0.35), rgba(180, 130, 20, 0.45)) !important;
+        border: 1px solid rgba(212, 160, 23, 0.55) !important;
+        border-radius: 12px !important;
+        color: #FFE082 !important;
+        font-weight: 600 !important;
+        padding: 0.5rem 1.5rem !important;
+        min-height: 42px !important;
+        transition: all 0.25s ease !important;
+    }}
+    div[role="dialog"] .stButton > button:hover {{
+        background: linear-gradient(135deg, rgba(212, 160, 23, 0.5), rgba(180, 130, 20, 0.6)) !important;
+        transform: translateY(-1px) !important;
+        box-shadow: 0 4px 16px rgba(212, 160, 23, 0.25) !important;
+    }}
+    /* Dialog close (X) button */
+    div[role="dialog"] button[aria-label="Close"] {{
+        color: rgba(245, 236, 213, 0.5) !important;
+        background: transparent !important;
+        border: none !important;
+    }}
+    div[role="dialog"] button[aria-label="Close"]:hover {{
+        color: #FFE082 !important;
     }}
     
 </style>
@@ -622,6 +714,44 @@ if "current_chat_id" not in st.session_state:
         new_id = create_new_chat()
         st.session_state.current_chat_id = new_id
         st.session_state.messages = []
+
+if "chat_topics" not in st.session_state:
+    st.session_state.chat_topics = {}
+
+
+# =============================================
+# NEW TOPIC DIALOG (centered modal with blur)
+# =============================================
+@st.dialog("📝 New Topic")
+def show_new_topic_dialog():
+    """Centered modal dialog for creating a new conversation topic."""
+    st.markdown(
+        '<p style="color:rgba(245,236,213,0.7); font-size:0.92rem; margin-bottom:0.8rem;">'
+        'Give your conversation a topic name, or leave blank to auto-name from your first message.</p>',
+        unsafe_allow_html=True,
+    )
+    topic_name = st.text_input(
+        "Topic",
+        value="",
+        placeholder="e.g. Wheat sowing schedule",
+        label_visibility="collapsed",
+        key="dialog_topic_input",
+    )
+    if st.button("✅ Confirm", use_container_width=True, key="dialog_confirm_topic"):
+        current = load_chat(st.session_state.current_chat_id)
+        is_current_empty = current is not None and len(current.get("messages", [])) == 0
+        title = topic_name.strip() if topic_name and topic_name.strip() else "New Chat"
+        if not is_current_empty:
+            new_id = create_new_chat(title=title)
+            if topic_name and topic_name.strip():
+                st.session_state.chat_topics[new_id] = title
+            switch_to_chat(new_id)
+        else:
+            # Rename the existing empty chat with the topic
+            if topic_name and topic_name.strip():
+                st.session_state.chat_topics[st.session_state.current_chat_id] = title
+                save_chat(st.session_state.current_chat_id, title, [])
+        st.rerun()
 
 # =============================================
 # SIDEBAR
@@ -661,21 +791,24 @@ with st.sidebar:
     # Make the conversations area scrollable if it grows too large
     st.markdown('<div style="max-height:48vh; overflow-y:auto; padding-right:6px;">', unsafe_allow_html=True)
 
-    if st.button("➕ New Chat", use_container_width=True, key="new_chat_btn"):
-        current = load_chat(st.session_state.current_chat_id)
-        is_current_empty = current is not None and len(current.get("messages", [])) == 0
-        if not is_current_empty:
-            new_id = create_new_chat()
-            switch_to_chat(new_id)
-            st.rerun()
-        # if the current chat is already a fresh empty one, do nothing
+    if st.button("➕ New Topic", use_container_width=True, key="new_chat_btn"):
+        show_new_topic_dialog()
 
     chats = list_chats()
 
-    if not chats:
-        st.caption("No conversations yet.")
+    # Filter out empty chats with default "New Chat" title (nothing to show)
+    visible_chats = [
+        c for c in chats
+        if len(c.get("messages", [])) > 0 or c.get("title", "New Chat") != "New Chat"
+    ]
+
+    if not visible_chats:
+        st.markdown(
+            '<p style="text-align:center; color:rgba(245,236,213,0.45); font-size:0.85rem; margin-top:0.8rem;">No conversations yet.</p>',
+            unsafe_allow_html=True,
+        )
     else:
-        for chat in chats:
+        for chat in visible_chats:
             is_active = chat["id"] == st.session_state.current_chat_id
             title = chat.get("title") or "New Chat"
             label = f"{'💬 ' if is_active else '🕘 '}{title}"
@@ -702,10 +835,7 @@ with st.sidebar:
         # close scrollable conversations container (only once)
         st.markdown('</div>', unsafe_allow_html=True)
 
-    if st.button("🗑 Clear Current Chat", use_container_width=True, key="clear_current_chat"):
-        st.session_state.messages = []
-        save_chat(st.session_state.current_chat_id, "New Chat", [])
-        st.rerun()
+
 
     st.markdown("""
     <div style="text-align:center; margin-top:2rem; font-size:0.72rem; opacity:0.4;">
@@ -782,7 +912,7 @@ if user_input:
     # Persist immediately so the chat title/list update even if generation fails
     save_chat(
         st.session_state.current_chat_id,
-        make_title(st.session_state.messages),
+        make_title(st.session_state.messages, chat_id=st.session_state.current_chat_id),
         st.session_state.messages,
     )
 
@@ -793,23 +923,31 @@ if user_input:
         start = time.time()
 
         try:
-            results, answer = rag_pipeline(
+            rag_result = rag_pipeline(
                 question=user_input,
                 collection=collection,
                 model=model,
             )
+            if isinstance(rag_result, dict):
+                answer = rag_result.get("answer", "")
+                status = rag_result.get("status", "answered")
+                sources = rag_result.get("sources", [])
+                results = rag_result.get("results", [])
+            else:
+                results, answer = rag_result
+                status = "answered" if results else "insufficient_info"
+                sources = []
 
         except Exception as e:
-            st.error(f"An error occurred: {e}")
-            st.stop()
+            answer = "I’m sorry, I couldn’t generate a response right now."
+            status = "insufficient_info"
+            sources = []
+            results = []
+            st.warning(str(e))
 
         end = time.time()
         response_time = end - start
-
-        if results is None:
-            bot_reply = answer
-        else:
-            bot_reply = answer
+        bot_reply = answer
 
     # =============================================
     # SHOW BOT RESPONSE + SOURCES
@@ -821,42 +959,31 @@ if user_input:
             unsafe_allow_html=True,
         )
 
-        # 🔍 Retrieved Sources (clean + no duplicates)
-        if results:
-            seen = set()
-
+        # 🔍 Retrieved Sources (only for genuinely relevant, validated answers)
+        if status == "answered" and sources:
             with st.expander("🔍 Retrieved Sources"):
-                for item in results:
-                    filename = item['metadata'].get('filename', '').lower()
-
-                    if "wheat" in filename:
+                for source_name in sources:
+                    source_key = source_name.lower()
+                    if "wheat" in source_key:
                         source_icon = "🌾"
-                        source_name = "Wheat Guide (PMD)"
-                    elif "maize" in filename:
+                    elif "maize" in source_key:
                         source_icon = "🌽"
-                        source_name = "Maize Post Harvest Guide"
-                    elif "rice" in filename:
+                    elif "rice" in source_key:
                         source_icon = "🌾"
-                        source_name = "Rice Cultivation Guide"
-                    elif "cotton" in filename:
+                    elif "cotton" in source_key:
                         source_icon = "🧵"
-                        source_name = "Cotton Production Manual"
-                    elif "sugarcane" in filename:
+                    elif "sugarcane" in source_key:
                         source_icon = "🎋"
-                        source_name = "Sugarcane Farming Guide"
                     else:
                         source_icon = "📄"
-                        source_name = "Agriculture Source"
 
-                    if source_name not in seen:
-                        st.markdown(
-                            f'<div class="source-card">'
-                            f'<span class="source-icon">{source_icon}</span>'
-                            f'<span class="source-name">{source_name}</span>'
-                            f'</div>',
-                            unsafe_allow_html=True,
-                        )
-                        seen.add(source_name)
+                    st.markdown(
+                        f'<div class="source-card">'
+                        f'<span class="source-icon">{source_icon}</span>'
+                        f'<span class="source-name">{source_name}</span>'
+                        f'</div>',
+                        unsafe_allow_html=True,
+                    )
 
     # =============================================
     # SAVE BOT RESPONSE
@@ -866,11 +993,26 @@ if user_input:
         "content": bot_reply
     })
 
+    chat_title = make_title(st.session_state.messages, chat_id=st.session_state.current_chat_id)
     save_chat(
         st.session_state.current_chat_id,
-        make_title(st.session_state.messages),
+        chat_title,
         st.session_state.messages,
     )
+
+    try:
+        key = (st.session_state.current_chat_id, user_input.strip(), bot_reply.strip())
+        logged = st.session_state.setdefault("logged_chat_exchanges", set())
+        if key not in logged:
+            append_chat_exchange(
+                st.session_state.current_chat_id,
+                chat_title,
+                user_input,
+                bot_reply,
+            )
+            logged.add(key)
+    except Exception:
+        pass
 
 # =============================================
 # FOOTER
