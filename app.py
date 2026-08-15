@@ -18,6 +18,8 @@ from scripts.chat_db import (
     load_chat as db_load_chat,
     delete_chat as db_delete_chat,
     list_chats as db_list_chats,
+    ensure_chat_log_file,
+    append_chat_exchange,
 )
 
 # =============================================
@@ -62,7 +64,12 @@ def list_chats():
 
 
 def create_new_chat(title: str = "New Chat") -> str:
-    return db_create_chat(title=title)
+    chat_id = db_create_chat(title=title)
+    try:
+        ensure_chat_log_file(chat_id, title)
+    except Exception:
+        pass
+    return chat_id
 
 
 def make_title(messages: list, chat_id: str = "") -> str:
@@ -82,6 +89,11 @@ def switch_to_chat(chat_id: str):
     data = load_chat(chat_id)
     st.session_state.current_chat_id = chat_id
     st.session_state.messages = data["messages"] if data else []
+    try:
+        if data:
+            ensure_chat_log_file(chat_id, data.get("title") or "New Chat")
+    except Exception:
+        pass
 
 
 # =============================================
@@ -927,8 +939,11 @@ if user_input:
                 sources = []
 
         except Exception as e:
-            st.error(f"An error occurred: {e}")
-            st.stop()
+            answer = "I’m sorry, I couldn’t generate a response right now."
+            status = "insufficient_info"
+            sources = []
+            results = []
+            st.warning(str(e))
 
         end = time.time()
         response_time = end - start
@@ -978,11 +993,26 @@ if user_input:
         "content": bot_reply
     })
 
+    chat_title = make_title(st.session_state.messages, chat_id=st.session_state.current_chat_id)
     save_chat(
         st.session_state.current_chat_id,
-        make_title(st.session_state.messages, chat_id=st.session_state.current_chat_id),
+        chat_title,
         st.session_state.messages,
     )
+
+    try:
+        key = (st.session_state.current_chat_id, user_input.strip(), bot_reply.strip())
+        logged = st.session_state.setdefault("logged_chat_exchanges", set())
+        if key not in logged:
+            append_chat_exchange(
+                st.session_state.current_chat_id,
+                chat_title,
+                user_input,
+                bot_reply,
+            )
+            logged.add(key)
+    except Exception:
+        pass
 
 # =============================================
 # FOOTER
