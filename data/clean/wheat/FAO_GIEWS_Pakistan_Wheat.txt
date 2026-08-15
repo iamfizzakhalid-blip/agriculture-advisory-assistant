@@ -1,0 +1,60 @@
+FAO GIEWS — Pakistan Wheat
+Compiled from the FAO/GIEWS Country Brief (current issue and archive), the Agricultural Stress
+Index dataset, and related FAO/GIEWS tools
+Current Situation (Reference Date: 6 February 2026)
+The area planted with the 2026 wheat crop in Pakistan is estimated to be above the five-year average.
+Planting of the mostly irrigated 2026 wheat crop was finalized in December 2025, and harvesting is expected to start in mid-March 2026. The larger planted area was supported by near-record domestic
+prices of wheat flour and adequate soil moisture conditions at planting time.
+Farmers were encouraged to plant wheat by government support measures, including the distribution of high-yielding seed varieties and an announcement in October 2025 that government procurement of
+wheat would resume for the 2026 crop after a two-year suspension, with planned purchases of about 2.5 to 3 million tonnes of wheat grain at the minimum support price.
+Despite below-average precipitation between October and mid-December 2025, vegetation conditions were average to above average in the main wheat cropping areas due to a sufficient supply of irrigation
+water. Dry weather caused some crop losses in Barani (rainfed) areas, located mostly in the northern parts of Punjab province, which account for about 20 percent of total wheat plantings. Precipitation in
+these areas returned close to average during the third dekad of December and the third dekad of
+January, helping replenish soil moisture and support crop growth. As of late January 2026, remote sensing data indicated satisfactory vegetation conditions in most parts of the country. Overall, 2026 wheat
+production will depend on the performance of the rainy season through April 2026, since abundant rainfall is needed both to support crop development and to replenish the main reservoirs used for irrigating the
+2026 main-season crops from May onward.
+Recent Production History
+Pakistan's wheat production has fluctuated year to year depending on planted area, weather, irrigation water availability, fertilizer supply, and government pricing policy. Selected officially estimated or forecast
+production figures reported over recent years include: about 25 million tonnes in 2014; 25.5 million tonnes in 2015 (2 percent below the 2014 level but 4 percent above the five-year average); around 25.5 to 25.9
+million tonnes in 2016; 25.8 million tonnes in 2017 (marginally above the 2016 level); 25.4 million tonnes in 2018 (about 4 percent below the previous year's bumper crop); 25.25 million tonnes in 2020 (a
+below-average outcome reflecting reduced yields due to heavy rains and hail in Punjab, as well as locust infestation); 27 million tonnes in 2021 (a near-record level); 26.1 million tonnes in 2022 (a near-average
+level, with yields affected by heatwaves and shortages of urea fertilizer and irrigation water); 28.1 million tonnes in 2023 (above average); 31.4 million tonnes in 2024 (a record level, reflecting large sowings and
+excellent yields); and 29 million tonnes in 2025, which was slightly above the average level but 8 percent lower year-on-year than 2024, mainly reflecting a contraction in area planted due to low domestic prices
+at planting time and the removal of the minimum support price.
+Wheat area planted has also varied: it stood at about 8 million hectares for the 2018/19 season (9 percent below the prior year due to low irrigation water availability); around 9.2 million hectares for the 2020/21
+and 2021 seasons; 9.5 million hectares for the 2023/24 season; large sowings supporting the record 2024 output; and a decline of 6.5 percent year-on-year for the 2025 season following the removal of the
+
+minimum support price, before area planted returned to an above-average level again for the 2026 season.
+Trade History
+Pakistan is traditionally a wheat exporter, but it has imported significant quantities of wheat in years of tight domestic supply. Reported import figures include: about 900,000 tonnes in the 2013/14 marketing
+year; roughly 500,000 to 800,000 tonnes in 2014/15; a forecast decline to 250,000 tonnes for 2015/16;
+approximately 1.7 million tonnes in 2020/21, the largest volume in 12 years at that time; 1.8 million tonnes in 2021/22; 2.3 million tonnes in 2022/23; 1.8 million tonnes in 2023/24; a forecast of negligible imports for
+2024/25 following the record 2024 harvest, with actual imports around 100,000 tonnes; and a forecast of about 1.1 million tonnes for 2025/26, significantly below the five-year average, though an import ban
+introduced in July 2024 and still in effect as of January 2026 may keep actual imports even lower than this forecast.
+Wheat exports have also varied by season: reported figures include around 700,000 to 850,000 tonnes across several seasons between 2016/17 and 2018/19, and a sharp drop to about 200,000 tonnes in
+2019/20 following a government export ban introduced in September 2019 to protect domestic availability.
+In July 2025, the government imposed a further ban on exports of wheat flour, wheat products, refined flour, and semolina, which remained in place as of January 2026.
+Price History
+Domestic prices of wheat flour, Pakistan's main staple food, have shown a pattern of sharp fluctuations tied to harvest outcomes, import and export policy, currency depreciation, and production costs. Notable
+price episodes include a sharp increase between 2019 and early 2020 to near-record levels, driven by tight supply following below-average harvests in 2018 and 2019; a further surge to record or near-record
+levels by August 2022, up about 30 percent year-on-year, linked to low stocks, high input costs, and currency depreciation; continued near-record levels through October 2023, up about 85 percent
+year-on-year, and January 2024, up about 65 percent year-on-year, driven by tight market supply, high production and transport costs, and a sharp increase in the minimum support price in early 2023; a sharp
+decline between March and June 2024 due to abundant market supply from the record 2024 harvest and the decision to stop government procurement at a minimum support price, with prices 30 to 40 percent
+lower year-on-year by February 2025 and continuing at low levels through July 2025, about 50 percent below year-earlier levels; and a renewed surge between July 2025 and January 2026 of about 50 to 90
+percent in most markets, reaching near-record levels again, driven by seasonal pressure, stock losses, and market disruptions from floods and landslides in August and September 2025, combined with the
+year-on-year decline in 2025 production and strong domestic demand.
+Agricultural Stress and Vegetation Conditions
+FAO's Agricultural Stress Index (ASI) tracks the percentage of cropland affected by drought conditions across Pakistan each year, based on the Vegetation Health Index (VHI). At the national level, this
+indicator has varied widely from year to year, ranging from below 1 percent of cropland affected in some years, such as 1994 and 2000, to over 30 percent in drought-affected years such as 1989, 1991, and
+2001. In the most recent years for which data is available, national cropland stress was estimated at
+about 1 percent in 2024, 8.6 percent in 2023, 4.2 percent in 2022, 17.8 percent in 2021, and 6.2 percent
+
+in 2025. Provincial breakdowns are also available, generally showing higher and more variable stress levels in Balochistan and the northwestern regions compared with Punjab and Sindh, which host the bulk
+of wheat production.
+Other FAO/GIEWS Data Sources Referenced
+Additional detail on wheat supply, utilization, and trade balances for Pakistan is available through the
+FAO/GIEWS Country Cereal Balance Sheet (CCBS). Price time series are available through the
+FAO/GIEWS Food Price Monitoring and Analysis (FPMA) Tool. Seasonal, vegetation, and precipitation maps, along with downloadable time-series data on the Agricultural Stress Index, NDVI, Vegetation
+Health Index, and precipitation, are available through FAO/GIEWS Earth Observation for Crop
+Monitoring. Food security phase classifications are available through the Integrated Food Security Phase
+Classification (IPC) initiative. Broader long-run statistics on Pakistan's wheat area, production, and yield are available through FAOSTAT and the FAO Country Profiles page for Pakistan.

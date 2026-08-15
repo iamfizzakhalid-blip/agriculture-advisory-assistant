@@ -1,0 +1,343 @@
+Specific Diseases
+Chapter 13: Diseases of Cereals
+Rice (Oryza sativa Linn.)
+Blast Disease of Rice
+The blast disease of rice is caused by the pathogen Pyricularia oryzae Cav. In the systematic position of the pathogen, it belongs to Class Deuteromycetes, Order Moniliales, and Family Moniliaceae.
+This disease of rice has been reported from all the rice growing countries of the world and is considered the most important disease affecting the crop. In India, this disease is more commonly
+found in the southern rice growing areas, where it causes heavy losses in Tamil Nadu, Andhra
+Pradesh, and Orissa. The disease has also been reported from other states such as Maharashtra,
+Gujarat, the Punjab, Kashmir, Bihar, West Bengal, Uttar Pradesh, and Assam.
+The blast disease affects the crop at all stages, and all the aerial parts of the plant are infected.
+Symptoms are found on the leaf blades, leaf sheaths, rachis, the joints of the culms, and sometimes even on the glumes. Characteristic isolated, bluish-green, necrotic lesions with a water-soaked
+appearance are formed on the leaf blades. These lesions are broad in the centre and possess narrow elongations at their top and bottom. Under favourable atmospheric conditions, the lesions increase in
+number and ultimately coalesce to form quite a large area. This lesion formation leads to the ultimate drying of the leaves, and the seedlings wither and die. In certain cases, lesions develop on the culm
+and cause the collapse of the seedlings.
+After transplantation, symptoms appear as necrotic lesions on both the leaf lamina and the leaf sheath. When the disease is severe, the number of necrotic lesions increases greatly and they
+eventually coalesce. The necrotic lesion is spindle-shaped and grey in the centre, and it remains surrounded by brown and yellowish zones, while the outer rim of the lesion changes to a dark brown
+colour. In older lesions, the centre becomes grey or straw-coloured. Because of the formation of several lesions, the leaf dries up, and a severely infected field takes on a blasted appearance.
+The pathogen also invades the nodal tissue of the culms, and one or more nodes of a tiller may be infected. The tissues of the affected nodes become shrunken and dark grey or almost black in colour,
+the culms break at the nodes, and the blackening of the nodes may extend both ways up to about 1 to
+2 cm.
+The neck of the panicle becomes infected when the ear emerges. Bluish lesions appear on the neck of the culm and on the branches near the base of the panicle, and this phase is known as black neck
+or neck blast. The neck region becomes black and shrivelled. If this occurs soon after the ears emerge, the grains remain chaffy. The panicle breaks at the neck and the ear droops down due to
+weakening of the neck tissues, and the maximum damage is caused by necrosis in the neck region.
+
+Individual spikelets are also infected, and small, circular brown lesions are formed on the glume, lemma, and palea. Grain set in infected ears is completely to partially inhibited.
+Figures illustrating this disease show the blast of paddy with symptoms on the ear, collar, and leaf, as well as a portion of an infected leaf showing characteristic spindle-like lesions, an infected leaf and
+culm, pyriform conidia, conidiophores, and an infected grain.
+The blast disease of rice is caused by an imperfect fungus, Pyricularia oryzae Cav.; the perfect stage of the fungus is not known as yet. The fungus, when young, possesses hyaline and septate
+mycelium. On maturity, the colour of the mycelium changes to olive-brown. The mycelium may be inter- or intra-cellular within the host tissues. The conidiophores are given out through the stomata or
+through the epidermal cells, singly or in small clusters. The conidiophores are septate, possessing two to four septa, greyish in colour and slender. Conidia are produced terminally, and seven to nine
+conidia are produced on each conidiophore. The zig-zag look of the terminal portion of the conidiophore is characteristic and denotes sympodial growth. Each conidium is obpyriform or
+obclavate, hyaline, septate, and has a small basal appendage. The size of the conidium ranges from
+14 to 40 microns in length and 6 to 15 microns in width.
+Physiologic Races
+Several physiologic races of Pyricularia oryzae have been recognized based on the infection types developing on different hosts upon artificial inoculation. About 28 races have been recognized so far.
+Nature of Disease
+Blast disease of rice is thought to be seed-borne in nature. Kuribayashi (1928) found that if seeds having conidia on their surface were sown, the seedlings were infected. In certain cases, conidia
+were found to be present between the husk and the caryopsis. Seedlings raised from such infected seeds were infected and soon died. In India, when seeds from areas where the disease was
+prevalent were used for sowing, new outbreaks of the disease were reported from new localities. This supports the view that the infection may be seed-borne. The disease is also carried over on collateral
+hosts, such as Panicum repens and Digitaria marginata, which grow in the rice fields and are heavily infected by P. oryzae, and may serve as sources of infection.
+The intensity of infection is greatly influenced by environmental factors, which play a significant role in the development of epidemics. Seedlings which grow in water-covered seed beds show less infection
+than those which grow in dry seed beds. Nurseries which do not have an adequate water supply show severe infection when they are flooded with water. Low soil temperature, in the range of 15 to
+20 degrees Celsius, is responsible to a great extent for the incidence of the blast disease. The
+occurrence of frequent rains, a continuous spell of cloudy weather, and high humidity at the critical period of tillering and heading favour higher incidence of the disease. The germination of spores is
+stimulated especially at temperatures of 24 to 26 degrees Celsius, which is optimum for infection. A high relative humidity of 92 per cent and free water are required for conidial germination and infection.
+When the night temperature is about 20 degrees Celsius and it is alternated with a day temperature of
+
+about 30 degrees Celsius for about 14 hours, and darkness for about 10 hours, the crop favours disease incidence.
+The use of nitrogenous fertilizers increases the susceptibility of the crop to the disease. It has been recorded at Coimbatore that application of over 40 lb of nitrogen per acre increased the intensity of
+infection in susceptible varieties.
+The age of the plant also influences the intensity of infection. The fungus can infect the leaves of seedlings up to 25 days old, but not those of seedlings three months old. Upper younger leaves are
+found to be more susceptible than the middle or lower older leaves. With increase in age, resistance to infection also increases till the ear emerges, when the plants become susceptible once again to
+neck and nodal infections.
+Cultivation of resistant, high-yielding varieties is considered the most economic method of control, and breeding for blast resistance has been carried out in India for the last three or four decades.
+Seed treatment by immersion of the seeds in a 0.2 per cent solution of Kalimat B for 24 hours has been found to control the disease and promote the growth of seedlings. Seed protectants such as
+agrosan GN, cerasan, phygon, and spergon have been proved effective for controlling the disease.
+Seed treatment with organomercurial compounds, as recommended by Padwick in 1950, is effective when the seeds have been taken from a diseased crop. Hot water treatment for the seeds has also
+been suggested. In Taiwan, seed disinfection by a five minute dip in a 0.1 per cent solution of uspulum, followed by covering the seeds with mats moistened with the same solution for six hours,
+gave effective control.
+Spraying of Bordeaux mixture has been proved quite effective against neck and node infection.
+Padmanabhan et al. (1956) recorded that the disease can be controlled effectively by four Bordeaux mixture sprayings, two before and two after the flowering of the crop. Spraying of other copper
+fungicides, such as perenox, coppesan, and cupravit, has also proved effective against blast disease of rice. Dusting of organomercurials has also been suggested for controlling blast.
+Sanitation measures require that plant debris be collected and destroyed. Collateral hosts such as
+Panicum repens, Digitaria marginata, and Setaria intermedia should also be collected from the paddy fields and destroyed, since the plant debris and collateral hosts are thought to be carriers of the
+fungus in the form of mycelium and conidia.
+Proper manuring is important, as there should not be excess nitrogenous fertilizers because it predisposes the plant to infection; manuring should be balanced by the application of potassic and
+phosphatic manures.
+Brown Spot Disease of Rice
+The pathogen causing this disease is Helminthosporium oryzae Breda de Haan, with the synonym
+Bipolaris oryzae (Breda de Haan) Shoemaker. The systematic position of the pathogen places it in
+Class Deuteromycetes, Order Moniliales, and Family Dematiaceae.
+
+Brown spot disease, also known as Sesame leaf spot or Helminthosporiose, is an important disease of rice that has been reported from all rice-growing countries of the world. In India, this disease was
+known as one of the principal causes of the famous Bengal famine of 1942-43. The disease was first reported by Sundararaman from Madras in 1919, and since then it has been prevalent in all the
+rice-growing states of India. It causes serious losses in the states of West Bengal, Assam, Andhra
+Pradesh, Karnataka, Kerala, Tamil Nadu, Orissa, and Uttar Pradesh.
+All parts of the plant are infected except the roots. Sometimes necrotic lesions are found to be present even on the first emerging leaves, and in severe cases the seedlings become blighted and
+die. The most characteristic symptom of the disease is the development of dark brown spots on the upper surface of the leaf lamina, and generally the leaf spot phase begins after transplanting. The
+spots develop on the leaf lamina and leaf sheath, and are of various shapes and sizes; they are isolated, dark brown, ellipsoidal or oval, and scattered throughout the lamina and sheath. A fully
+developed spot possesses a deep, purplish-brown to greyish-brown central region surrounded by a margin, and the smaller spots are of uniform purplish-brown colour. In the early stages of
+development, a yellowish halo usually surrounds the spots. The spots vary in size, ranging from 1 to
+14 mm in length and 0.5 to 5 mm in width. In severe cases, the spots coalesce and the leaves
+become dried and wilted. The spots also develop on the leaf sheath and the culm below the ear, and the base of the panicle becomes shrunk and discoloured.
+The inflorescence and individual spikelets also become infected. If the inflorescence is attacked at an early stage, it fails to develop. Grains formed inside the affected spikelets become discoloured and
+shrivelled, and sometimes the fungus infects the healthy grains in the interior region. There is always a low percentage of germination when the infected grains are sown, and post-emergence seedling
+blight is often observed.
+The brown spot disease of rice is caused by Helminthosporium oryzae Breda de Haan, synonym
+Bipolaris oryzae (Breda de Haan) Shoemaker. The perfect stage of the fungus is Cochliobolus miyabeanus (Ito and Kuribayashi) Dreschler ex Dastur, of Class Ascomycetes. The mycelium of the
+fungus is both inter- and intra-cellular within the mesophyll tissue of the leaves. The conidiophores are given out as lateral branches from hyphae and usually come out in tufts through stomata. Each
+conidiophore is 44 to 600 microns long and 3 to 9 microns wide, septate, dark brown at the base, and possesses characteristic knee-bends. The conidiophores bear conidia singly and successively
+terminally in a sympodial manner, and the points of attachment of successive conidia are denoted by scars at regular intervals on the conidiophores. Conidia are septate, olive-brown in colour, slightly
+curved, and tapering towards the rounded ends; they are generally 5 to 10 septate, about 14 to 160 microns long and 10 to 26 microns broad. The conidia germinate by producing germ tubes mostly
+from the end cells. The temperature at which the conidia are formed has a considerable effect on their shape and colour; conidia formed at lower temperatures are darker and straighter.
+
+Environmental factors are thought to be responsible to a great extent for the incidence and intensity of infection. Rapid spread and development of the disease is favoured by continuous rains with
+cloudy weather and higher day temperatures, that is 28 to 30 degrees Celsius, generally in the later part of the growing season, September to October. However, seedling infection occurred when
+infected seeds were sown and low temperature, 18 to 22 degrees Celsius, prevailed. The optimum temperature for leaf infection ranges from 22 to 30 degrees Celsius. A relative humidity of over 92 per
+cent favours the disease incidence, and the spores do not germinate readily below 89 per cent relative humidity. Excess and deficiency of nitrogenous fertilization also favour disease incidence and
+its development. Susceptibility of leaves to infection has been found to increase with the age of the plants.
+The disease is primarily seed-borne. The fungus is found as dormant mycelium in the husk and on the kernel, and often it infects the germinating grain. Secondary infection is caused by air-borne
+conidia, and generally such conidia are produced either from primary infected plants or from other sources. Sometimes the conidia also survive on the straw and stubbles left in the field after harvest.
+Collateral hosts provide air-borne conidia for secondary infection; the pathogen infects collateral hosts such as Setaria italica, Pennisetum typhoides, Saccharum officinarum (sugarcane), Triticum
+aestivum (wheat), Zea mays (maize), and Eleusine coracana.
+Cultivation of resistant varieties offers a cheap, reliable, and easy method of control. The suggested resistant varieties are Patnai 549-33, Nagra 41-14, Dakar Nagra 273-32, and Kalma 219 for West
+Bengal.
+Since the disease is seed-borne, seed treatment has been recommended for eradication of the primary infection. It has been found (Cralley and French, 1950) that the best control has been
+achieved by seed treatment with ceresan and the treatment before sowing. Since the pathogen survives inside the husk, chemical treatments may not be very effective, though seed treatment with
+agrosan GN has given satisfactory results after the seeds are stored for four weeks after treatment.
+Hot water treatment has been found to be quite effective, since the thermal death point of the conidia ranges from 50 to 52 degrees Celsius for 10 minutes. Pre-soaking of grains has been recommended
+for 24 hours in water at ordinary temperature and then steeping them in hot water at 54 degrees
+Celsius for five minutes.
+Protective spraying and dusting of the crop has been recommended. Spraying of Bordeaux mixture
+(3:3:50), perenox, or organic sulphur compounds like Dithane Z.78 has been found effective to some extent. Dusting organomercurials such as ceresan diluted with lime has been proved effective in
+reducing infection.
+Since the excess or deficiency of nitrogen increases the susceptibility of the plants, the levels of nitrogen and phosphorus should be well balanced through proper manuring.
+Stem Rot of Rice
+
+The pathogen causing stem rot of rice is Sclerotium oryzae Catt., also known as Helminthosporium sigmoideum Cav. in its conidial stage, with the perfect stage named Leptosphaeria salvinii Catt. In its
+systematic position, the sclerotial stage belongs to Class Deuteromycetes, Order Mycelia Sterilia; the conidial stage, Helminthosporium sigmoideum Cav., belongs to Class Deuteromycetes, Order
+Moniliales, Family Dematiaceae; and the perfect stage, Leptosphaeria salvinii Catt., belongs to Class
+Ascomycetes, Order Pseudosphaerialas, Family Pleosporaceae.
+The sclerotial stage of stem rot of rice was first described by Cattaneo from Italy in 1876. In India, the disease was first reported by Shaw from Bengal in 1911, and later it was confirmed that the disease
+has been reported from all rice-growing countries of the world, such as Japan, China, the Philippines,
+Sri Lanka, Italy, Brazil, and the United States of America. In the Punjab, in years of heavy infection, the loss in yield goes up to 75 per cent. In Tamil Nadu State, the crop is sometimes subjected to
+heavy infestation in the month of August-September, and the loss in yield can reach 75 to 100 per cent of the crop.
+The disease is commonly found in the transplanted crop in the months of July to September. First, small dark lesions are developed on the outer leaf sheaths at the water line. Later on, these lesions
+gradually make their appearance on the inner leaf sheaths and the culm. The affected tissues become rotten, and numerous small dark brown sclerotia are formed in the tissues of the leaf sheath.
+In later stages, the mycelial mats and the sclerotia are copiously formed inside the culm also. Rotting remains restricted to a few lower internodes. As the plants mature, the intensity of infection is
+increased, and the culms collapse and the plants lodge heavily. Because of the stimulation caused by the fungus, tillering is increased and the formation of grains is increased, and the plants remain green
+until the infection takes place later in the growing season, when the grains become much shrivelled.
+When one plant in a clump shows the characteristic late shoots at the base, all the other plants in that clump are similarly attacked, and every ear has a considerable number, often 50 per cent, of light
+grains.
+The causal organism has three states in its life history, namely the sclerotial, conidial, and ascigerous states. These states were given separate names. Tullis (1933) showed that Sclerotium oryzae
+(sclerotial state), Helminthosporium sigmoideum (conidial state), and Leptosphaeria salvinii
+(ascigerous state) were different states of the same fungus.
+The hyphae of Sclerotium oryzae penetrate the cells and large air spaces among the main vascular bundles of the culm and leaf sheath. The mycelium is greyish white to pale-olive in colour and forms
+numerous small irregular appresoria. The hyphae also enter the hollow of the stem and the space between culm and sheaths, forming a grey, pale olive, woolly growth. Sclerotia are developed on the
+free mycelium lining the inner surface, and also in the air spaces; the sclerotia are nearly spherical, smooth, black, shiny, and measure 200 to 350 microns in diameter, visible to the naked eye as black
+dots. The sclerotial stage of the fungus is commonly found on paddy and some other wild grasses.
+
+In the conidial stage, Helminthosporium sigmoideum, the conidiophores are dark, erect, nodular, 8 to
+10 septate, branched, about 100 to 150 microns in length and about 3 microns in width. The conidia
+are falcate, sigmoid, 3 septate, pale olivaceous, and borne singly at the tip of the conidiophore, measuring 55 to 65 by 11 to 14 microns. The mycelium is branched, septate, and inter- and
+intra-cellular within host tissue; it may or may not be present.
+The perfect stage, Leptosphaeria salvinii, may or may not be present in the parenchyma of the leaf sheath. The perithecia are globose, black, clustered, measuring 350 to 400 microns in diameter, and
+contain 8 ascospores in each ascus. Each ascus is about 120 microns long and contains 8 ascospores; the asci are clavate and fusiform, 3 septate, slightly curved, and 60 to 90 microns long.
+This perfect stage is less common and doubtfully occurs in India.
+The disease is soil-borne. Pathogenically the sclerotial stage is most important. The sclerotia of the fungus survive in the soil for several months and carry over the disease from year to year. Sometimes
+the sclerotia remain viable in the stubbles for two years. The sclerotia float on water and are responsible for spread from field to field or plant to plant. The sclerotia are responsible for primary
+infection, whereas when the conidia are produced, they are also spread through the irrigation water and secondary infection may be caused and intensified.
+Excessive flooding favours the disease, and the intensity of the disease is increased in swampy places. In South India, waterlogging leads to increased infection. Early-sown crops and
+early-maturing varieties are infected to a larger extent. Excess of nitrogenous fertilizers also increases the disease infestation. The effects of phosphorus also increase the intensity of infection.
+However, potash application along with phosphatic and nitrogenous fertilizers increases the resistance of the crop against the disease.
+The best method of disease control is the use of resistant varieties. Clean cultivation is recommended since the inoculum survives on the stubbles; burning of the stubbles of the affected crop has been
+suggested, and it has also been suggested that the flow of irrigation water should be avoided from affected fields to healthy ones. Crop rotation has been proved beneficial to some extent, and it may
+be practiced in regions where other crops like sugarcane or bananas take part in the rotation. Proper manuring, through addition of adequate quantities of potassic fertilizers, has been proved quite useful
+in increasing yields and reducing the severity of the disease.
+Foot Rot of Rice
+The pathogen causing foot rot of rice is Fusarium moniliforme Sheld. In its systematic position, the pathogen belongs to Class Deuteromycetes, Order Moniliales, Family Tuberculariaceae.
+The foot rot of rice caused by Fusarium moniliforme was first reported from Italy in 1877. From Japan, the disease was first described in 1898 and was known as bakanae disease. The foot-rot disease of
+
+rice seedlings has been recorded from South India. The pathogen is world-wide in distribution and also parasitizes other graminaceous hosts such as sorghum, maize, and sugarcane.
+The disease affects the host mainly in the seedling stage, and the symptoms are clearly seen in the nursery. Sometimes the grains fail to germinate, or the seedlings fail to emerge above the soil. The
+most conspicuous and detectable symptoms of the disease appear in the seedlings, which become thin, pale, and tall. Such symptoms appear from the sixth day after sowing in wet nurseries and
+continue up to the sixth week. As soon as the symptoms appear, the seedlings wilt and die within 3 to
+6 days. Mainly this is a nursery disease, but casualties may occur throughout the life of the crop. In
+the seventh or eighth week, it is noted that the older diseased plants have produced fewer tillers than the healthy plants. In severe infection, either the panicle does not develop or a whitish sterile ear is
+developed. The infected plants may be seen conspicuously above the general level of the crop.
+Another conspicuous symptom is the development of adventitious roots from the lower nodes of the culm, above the ground level. Such adventitious roots may be partially or completely enclosed by the
+leaf sheath. When we split the infected culms, the brown discolouration of the nodal tissues is seen;
+the mycelial mats and spores fill up the hollow internodes of infected plants. In later stages, the mycelium appears outside in the basal nodal zones, resulting in the formation of a pinkish bloom on
+the surface. Ultimately, the nodes become rotten, and the culm breaks at this point when pulled. The most peculiar symptom of this disease is the elongation of the plants, which is followed by the death
+of the plants.
+The fungus causing the disease is Fusarium moniliforme Sheld., with Gibberella fujikuroi (Saw.)
+Wollenweber as its perfect stage, an ascomycetous fungus. The fungus Fusarium moniliforme may grow readily on a number of media, producing luxuriant mycelium. The hyphae are slender, 3 to 5
+microns broad, closely septate, and much branched. Microconidia are formed in chains, are 1 to 2 celled, elliptic to ovate or oval in shape, and measure 5 to 12 by 2 to 4 microns. The macroconidia are
+falcate, narrow at both ends, 2 to 5 celled, and measure 30 to 50 by 3.0 microns; they are formed singly or more often in clusters. Chlamydospores are produced rarely.
+In the perfect stage, Gibberella fujikuroi, the perithecia have been observed in Japan on the culms of dead plants; however, the perithecia have not been recorded from India. They are superficial,
+globose, dark brown, and measure 270 to 350 by 240 to 300 microns. The clavate asci are formed in the perithecia and measure 75 to 130 by 9 to 16 microns. The ascospores are long ellipsoid,
+one-septate, and measure 10 to 24 by 4 to 9 microns; each ascus contains 4 or 6 ascospores.
+Active substances such as gibberellins have been isolated from the fungus, and the gibberellin was found mixed with fusaric acid; gibberellins are used as growth regulators or growth-promoting
+substances. Collateral hosts also exist for this pathogen; Fusarium moniliforme var. majus, which causes top rot of sugarcane, can also cause foot rot of rice.
+
+Generally the disease is externally seed-borne. There is evidence to show that the disease may sometimes be soil-borne. Infested stubbles and plant debris left in the field after harvest cause
+infection through the soil.
+Soil temperature and soil moisture influence the intensity of the disease. The optimum temperature for survival of the pathogen lies between 25 and 30 degrees Celsius. Excess of nitrogenous manures
+increases the intensity of the disease.
+Since the disease is seed-borne, various methods of seed treatment have been suggested for control. When the grains are steeped in 1 per cent formalin for 15 minutes, infection is sufficiently
+reduced. Organomercury compounds such as harvesan, at the rate of 2 grams per kilogram of seed, have been proved very effective. Seed dressing with ceresan or agrosan GN has been adopted quite
+successfully in South India. Successful control has also been achieved by hot-water treatment of the grains at 55 degrees Celsius for half an hour. The most economic method of control is the cultivation
+of resistant, high-yielding varieties.
+Bunt of Rice
+The pathogen causing bunt of rice is Tilletia horrida Tak. In its systematic position, it belongs to Class
+Basidiomycetes, Order Ustilaginales, Family Tilletiaceae.
+The disease was first described by Takahashi from Japan in 1896, and has since been found to be widely distributed in south and east Asia, including India, Burma, Thailand, Indochina, Indonesia, the
+Philippines, and China. In India, the disease has been reported from various states such as Assam,
+Bihar, Orissa, the Punjab, Andhra Pradesh, Tamil Nadu, and Kerala.
+The disease is confined to the grains, and spore sori are produced in a few individual grains in the panicle, often one to nine grains on an ear in India. Frequently it is difficult to detect the diseased
+grains without breaking them, since the sorus is almost hidden by the enclosing unaffected glumes. In other cases, the glumes are forced a little apart and a black mass of spores is extruded. Sometimes
+minute black streaks are visible, bursting between the lemma and palea. In certain cases the kernel is destroyed while in other cases only the kernel is partially affected. Partially infected kernels become
+twisted, and the entire kernel is destroyed and projects outside the husk. The spores are sticky and adhere to the surface of the healthy grains in contact with the affected ones. At the time of maturity of
+the sori, the glumes and even the leaves adjacent to the infected ears become dusted with the black spores. It has also been recorded that affected plants become stunted and produce fewer tillers than
+the healthy ones.
+The bunt of rice is caused by Tilletia horrida Tak. Padwick and Khan (1944) revised the name of the pathogen into Neovossia horrida (Tak.) Pad. and Khan. However, Tullis and Johnson (1952)
+
+preferred the name N. barclayana. Once again the name of the pathogen has been revised as Tilletia horrida. Some graminaceous collateral hosts have also been reported.
+The mycelium may be seen between the cells of the vertical sub-epidermal row of parenchyma of affected plants, running under the stomata. The spores are formed in the ears, beginning as
+thin-walled terminal swellings on short branches. The spores are globose or rarely elliptical, light to dark brown when mature, and measure usually 20 to 24 microns in diameter. The structure of the
+spore wall is peculiar, giving the impression of a dark band furnished with projecting curved spines;
+the spores are somewhat gelatinous when moist, and the adhesive properties of the spores are due to it. Mixed with the hyaline or sub-hyaline cells, which represent immature spores, numerous large,
+yellowish fragments of septate hyphae may also be seen in between the spores.
+The spores germinate after a period of dormancy of about 3 days. When put in water, at its end a cluster of several needle-shaped sporidia, 38 to 53 microns in length and divided into 3 to 4 cells, is
+given out from a promycelium, septate at the tip, after falling from the promycelium. Sporidia do not fuse or form H-shaped structures.
+This disease is air-borne. The infection takes place when the ears have just emerged out of the leaf sheaths. The sporidia are carried by convection currents to the flowers from germinating spores. The
+sporidia send out germ tubes into the young ovaries of the flowers, where the fungus finally settles down outside the aleurone layer, or under the thin membrane which forms the skin of the grain and
+consists of the wall of the ovary and outer layers of the true seed. Gradually an extensive cavity is formed between the seed covering and the endosperm, and the spore mass may entirely replace the
+starch cells of the seed or may form only a layer in the endosperm.
+It has been reported that high and frequent rains, when the plants flower, favour the disease incidence. In deep water, the spores have less chance of germination and causing infection. Excess
+of nitrogenous fertilizers also favours disease incidence (Lu and Li, 1955).
+Since only a few grains in an ear are infected, the disease has attracted little attention. It has been recommended that the seed material should be steeped in water and all the light and floating grains
+should be removed. In India, no systematic work has been done for evolving resistant varieties.
+False Smut or Green Smut of Rice
+The pathogen causing false smut of rice is Ustilaginoidea virens (Cke.) Tak. In its systematic position, it belongs to Class Deuteromycetes, Order Moniliales, Family Dematiaceae.
+The disease was first recorded from South India in 1878. Since then it has been recorded from all the rice-growing countries of the world except Egypt and Italy. The disease has been reported from all the
+rice-growing states of India, and it causes much loss in Andhra Pradesh.
+
+This disease infects the spikelets alone and may be seen only in the ears, where it develops its fructification in the ovary of individual grains, which are being transformed into large, velvety, green
+masses. The grains are more than twice the diameter of the normal grain, and on the two sides are the lemma and palea. Embedded in this mass, it is orange yellow in colour in the initial stages of
+development, and soon turns dark green or almost black. The glumes are unaltered and are found closely applied to the centre of the green mass, which bursts out above and laterally from between
+them. Only a few grains in each panicle are usually affected, and they may occupy any part of the ear.
+The parasite was first described as a true smut under the name Ustilago virens by Cooke. On the basis of his studies, Takahashi renamed the fungus as Ustilaginoidea virens (Cke.) Tak. in 1951.
+The young ovary is infected by the parasite at an early stage in its development, and fine, colourless hyphae transform it into a hard mass of closely-united, closely-pressed pseudoparenchyma, which
+develops literally between the glumes. This sclerotium-like body grows and bursts out, and here its outer layers develop spores of a brownish-green colour when ripe but orange in the immature mass.
+The centre of the sclerotium consists of the closely-pressed pseudoparenchyma which have entirely replaced the tissues of the grain. Towards the surface, the hyphae are arranged radially, branched
+and septate, while the exterior consists of a mass of loosely adhering radial hyphae. The spores are formed laterally and rarely terminally on the radial hyphae. The youngest spores are almost
+colourless and are found bounding the white centre of the sclerotium. The mature spores are greenish-brown and the outermost layer consists of the sporiferous hyphae. The mature spores have
+a rough, olive-green, granular coating, soluble in alkali, alcohol, and mineral acids. The spores are developed on minute projections from the sides of the radial hyphae. The spores are usually globose
+and measure 4 to 6 microns in diameter, occasionally elongated and 8 by 4 microns (Butler, 1918).
+The spores germinate in water and nutrient solutions. On germination they form slender, septate hyphae which later form clusters of minute, pear-shaped, colourless conidia at and near their tips. In
+water, the germ tube may bear only a single conidium at its tip, but in nutrient solutions small heads of conidia are formed. The germ tube may branch also, and the conidia also germinate in nutrient
+solutions with a short germ tube, on which still smaller conidia develop.
+Infection and Control
+It is believed that the primary infection takes place by means of ascospores. It is also thought that the spores may not be the cause of primary infection in nature because of their short viability. Since the
+disease is not severe in any part of India, little attention has been paid to it. The sowing of resistant varieties is recommended as a control measure.
+Stackburn Disease of Rice
+The pathogen causing stackburn disease of rice is Trichoconis padwickii Ganguly. In its systematic position, it belongs to Class Deuteromycetes, Order Moniliales, Family Moniliaceae.
+
+This disease was first reported from the U. S. A. by Godfrey in 1916. However, Ganguly (1947) described this disease from India, and in India the disease has been recorded from Orissa, West
+Bengal, Uttar Pradesh, and Tamil Nadu.
+The symptoms of this disease are commonly seen on the seedlings, the leaves of older plants, and the ripening grains. In the seedling stage, the roots and coleoptiles are infected, and in severe cases
+the seedlings are withered. Dark-brown lesions appear on the affected portions, which also bear black round sclerotia. Round or elliptic brown spots also appear on the leaves of older plants; the
+centre of the brown spot remains light brown or white and bears several round black sclerotia in it. On incubation, the surface of the brown spots becomes covered with white, cottony mycelium. The brown
+spots also appear on the lemma and palea of the grains. Black dot-like sclerotia are also seen on the grain in the infected part. The kernels become discoloured, shrivelled, and brittle; sclerotia also
+appear on the kernel.
+The disease is caused by Trichoconis padwickii. The mycelium is hyaline when young, but becomes creamy-yellow when mature. The sclerotia are round, black, and 52 to 195 microns in diameter. The
+conidiophores are slender, erect, and measure 103 to 175 microns in length and 3.4 to 5.7 microns in breadth. A single conidium develops at the apical end of the conidiophore. Each conidium is
+long-fusiform with a whip-like apical appendage, is 3 to 5 septate, and measures 100 to 173 by 8 to
+19 microns.
+Nature, Predisposing Factors, and Control
+The disease is believed to be seed-borne, and in the beginning the seedlings become infected. The disease is of common occurrence in very humid areas, and it causes much damage when the ears
+are cut while still green or stacked after harvest while still damp, or exposed to frequent rains for a few days before drying. Since the disease is seed-borne, hot water treatment has been
+recommended for control. For this purpose the seeds are presoaked in tap water for 16 hours, followed by soaking in warm water at 54 degrees Celsius for 15 minutes. This practice has given
+good results.
+Bacterial Leaf Blight of Rice
+The pathogen causing bacterial leaf blight of rice is Xanthomonas oryzae (Uyeda and Ishiyama)
+Dowson. In its systematic position, it belongs to Class Schizomycetes, Order Pseudomonadales,
+Family Pseudomonadaceae.
+This disease has been recorded from Japan, the Philippines, China, and Mexico. In India, this disease was observed in South India by Srinivasan et al. in 1959. Later, in 1962, the disease broke
+out in the form of epidemics in Bihar and other parts of North India, and it is now found to be prevalent in all parts of the country.
+
+The disease appears early in August and becomes quite distinct when the ears are developed. Small water-soaked spots, 5 to 10 mm in length, are formed along the margin of the leaf blade or along the
+prominent veins. Gradually several lesions coalesce to form whitish or yellowish blotches or stripes.
+The infection takes place in wounds caused by wind damage, along the margins and prominent veins.
+In the seedling stage, the tips of the leaves are affected. Small droplets of bacterial exudate are found on the lesions. These droplets harden into yellowish or amber-coloured resinous granules. Ultimately
+the leaves dry up and the plants die. The vascular bundles remain filled with bacteria. In severe infections, the pathogen has been found in the glumes and even in the endosperm of the grains.
+The disease is caused by Xanthomonas oryzae (Uyeda and Ishiyama) Dowson. The bacterium is rod-shaped, measuring 0.5 to 0.8 by 1 to 2 microns. The bacteria occur singly or in pairs, are
+Gram-negative, aerobic, and non-sporing, and do not form chains; they possess a single polar flagellum. The colonies found on nutrient agar are waxy-yellow, round, smooth, and glistening.
+Infection and Predisposing Factors
+Infection takes place through wounds. Nitrogenous fertilization of the crop increases the incidence of the disease. If seedlings are infected, the disease intensifies after transplanting. Rainy weather, dull
+windy days, and a suitable temperature of 22 to 26 degrees Celsius favour the incidence of the disease.
+The most economic and easy method of control is to sow resistant varieties; the Kidama variety is highly resistant to this disease. Use of fungicides, spraying of copper fungicides alternately with
+Streptocycline at 250 ppm, has been proved to be useful to some extent. Soaking of seed for eight hours in Ceresan (0.1 per cent) and Streptocycline has also been recommended. Thirty-three
+varieties showed highly resistant reaction during 1987, 1988, and 1989, such as IET 9190, IET
+4141/CR 98-7216, RP 2151-64-3-11, RP 2151-165-3-1, RP 2151-173-1-8, CR 316-636, and IR
+226082-91-1-2-2-2.
+Tungro Disease of Rice (A Virus Disease)
+The causal agent of tungro disease of rice is the Rice Tungro Virus, also known as Rice leaf-yellowing virus.
+The tungro disease of rice, a viral disease, has been reported from the Philippines, Thailand, Western
+Java, Southern Sumatra, and West Bengal in India.
+Generally the symptoms appear on leaves. The symptoms appear first on the emerging leaf as a mild interveinal chlorosis, followed later by mild mottling and then yellowing. Later on, stunting occurs and
+symptoms become apparent on the lower leaves, which become yellow or yellow-orange, mottled,
+
+bent downwards from the collar region, and possess dark brown spots.
+Transmission of Virus
+The virus is transmitted by a leaf hopper, Nephotettix impicticeps. The leaf hopper retains infectivity for a short period only, and transmits the virus immediately after feeding on an infected plant. The
+virus particle is isometric and measures 30 to 3 microns in diameter.
+Ufra Disease of Rice (A Nematode Disease)
+The causal organism of ufra disease of rice is Ditylenchus angustus (Butler) Filipjev. In its systematic position, it belongs to Class Secernentea, Order Tylenchida.
+The disease was first reported by Butler in 1908. The disease is commonly found in eastern Bihar and
+West Bengal, and has also been recorded from Myanmar and Indonesia.
+In the initial stage, chlorosis of the leaves appears, which is soon followed by withering and death of seedlings. In the later stage the chlorosis becomes more peculiar. At the time of development of the
+ear, brown stains appear on the leaf blade, leaf sheath, and also on the upper internodes of the culm.
+Symptoms become quite prominent when the ears come out of the leaves. There are two types of symptoms of ufra disease: thor, or swollen ufra, and pucca, or the ripe ufra. In the case of thor, the
+ear remains enclosed within the leaf sheath and forms a spindle-like sheath, whereas in the latter case, that is pucca or ripe ufra, the ear comes out of the leaf sheath. In swollen ufra there is no grain
+formation, whereas in ripe ufra the grains are formed at the tip of the peduncle, and other flowers remain unfertilized.
+Nematodes and Their Behaviour
+The nematodes appear in abundance as cottony masses in different parts of the plants. The nematodes perennate in the soil from November to June, until the appearance of the new crop. When
+humid conditions prevail, the nematodes climb up the stem and infect the growing parts of the plants.
+Reproduction takes place on the rice plants. The eggs measure 60 to 80 by 16 to 20 microns. The larvae are produced from the eggs, and ultimately fully grown nematodes develop. The nematodes
+are supposed to be obligate parasites.
+Sanitation, in the form of destroying crop residues by burning, lowers the nematode population in the soil. Proper drainage should be maintained, and waterlogging should be avoided. As a seed
+treatment, the seeds should be treated with a suitable nematocide before sowing.
+Striga on Rice
+The parasite causing this condition is Striga lutea Lour. In its systematic position, it belongs to
+Division Phanerogams, Class Dicotyledons, Sub-class Gamopetalae, Order Personales, Family
+Scrophulariaceae.
+
+Striga lutea is prevalent on rice in Kerala State. Severe damage is caused in Kerala by Striga only in rice cultivated on 'modan' lands, under rain-fed conditions.
+The parasites begin to appear from the middle of June. They dry up before heading. Patches of varying dimensions may be seen in the fields; in later stages, with few or no surviving plants. Under
+heavy infestation, the affected plants become stunted with poorly developed ears. The leaves dry up, and the infected patches present a blighted appearance. Sometimes the yield is sufficiently reduced.
+Numerous shoots of the parasite are seen at the base of affected plants.
+The Parasite
+Striga lutea is a herbaceous plant. It remains attached to the roots of the host plant by means of suckers or haustoria. Above the soil, one or more shoots appear, which remain attached to a
+well-developed underground stem. Generally it extends beneath the soil surface about two inches in depth. The aerial shoots are 6 to 15 inches in height. The stem is quadrangular and bears sessile
+opposite narrow leaves. Whitish yellow flowers develop in the axils of the leaves. In later stages, capsules develop, which contain numerous minute seeds.
+The haustorium of the parasite remains firmly attached to the root of the host plant. The haustoria penetrate into the tissues and pierce the xylem. Thus the parasite absorbs nutrients from the host
+plant. The parasite also produces some toxins which cause wilting of rice.
+Recurrence of Disease and Control
+The seeds of the parasite are very minute and may easily be dispersed by wind. Some seeds get mixed with the rice seed. The seeds of the parasite remain viable for some years. The seeds found in
+the upper layer of the soil germinate under favourable conditions and infect the roots of the host. The parasite may be controlled by thorough weeding, and it may also be controlled by spraying or dusting
+of selective weedicides like 2,4-D formulations.
+The infestation of Striga has also been recorded on sorghum and certain other graminaceous crops.
+Khaira Disease of Rice (Zinc Deficiency Disease)
+This is classified as a non-pathogenic disease of rice. It is commonly found in the Terai regions of
+Uttar Pradesh, and is caused by deficiency of zinc in the soil. When there is non-availability of zinc in the otherwise normal soil, the symptoms of this disease appear. Generally the symptoms appear a
+fortnight after transplanting, which is the time when there is a peak period of decomposition of the previous year's plant debris in the water-flooded fields.
+Chlorosis appears at the base of affected leaves, and later on numerous brown or bronze coloured lesions are developed on the leaf blades. These lesions coalesce with each other, forming large,
+elongated lesions, and ultimately the complete affected leaf becomes bronze-coloured and dried. The normal growth of the plants is checked, and the plants remain stunted and dwarf in size. The growth
+
+of the roots also becomes limited, and the main roots become brown in colour, while the finer roots are destroyed. In the severe stage the normal growth of the plant is arrested, and ears are developed
+on it, but sometimes there is natural recovery of the plants, and some of them may produce ears with few grains.
+The disease may be controlled by two sprayings of a mixture of one kilogram of slaked lime in 400 litres of water; this mixture is sufficient for spraying one acre. As soon as symptoms appear, the
+spraying should be done, and the second spraying should be done after ten days of the first.

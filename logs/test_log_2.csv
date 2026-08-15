@@ -1,0 +1,66 @@
+Question,Crop,Source,Filename,Distance,Answer,Response Time
+What is the best time to sow wheat?,wheat,PMD_wheat,PMD_wheat_chunk_024.txt,0.8627,"The best time to sow wheat is when adequate rain is received. The exact date of sowing will depend on the actual date when appropriate rain is received. In general, wheat is cultivated from the start of November to the mid of December.",1.19
+How much irrigation does wheat require?,wheat,maize_post_harvest,maize_post_harvest_chunk_058.txt,0.7175,"Wheat requires irrigation, especially during flowering and grain formation stages. The exact amount of irrigation water needed is not specified, but it is recommended to provide water during these stages to achieve maximum crop yield. Additionally, the crop water requirement can be calculated using the crop coefficient (Kc) and reference crop evapotranspiration (ETo).",0.43
+Which fertilizer should be used for wheat?,wheat,PMD_wheat,PMD_wheat_chunk_028.txt,0.7978,Nitrogen-phosphoric fertilizers should be used for wheat.,0.34
+How can weeds in wheat be controlled?,wheat,PMD_wheat,PMD_wheat_chunk_028.txt,0.7342,"Weeds in wheat can be controlled by cultural practices. In case of heavy infestation, recommended herbicides and weedicides may be applied. Additionally, techniques such as stubble cleaning, use of weed-free seed, and keeping levees and irrigation canals free of weeds can help control weeds.",0.46
+What are the common diseases affecting wheat?,wheat,FAO_cotton,FAO_cotton_chunk_162.txt,0.8483,"Common diseases affecting wheat include:
+
+* Leaf spot disease caused by a fungus
+* Root diseases such as:
+  * Take-all root disease (G. graminis var. tritici)
+  * Fusarium root disease (Fusarium culmorum)
+  * Common root rot
+* Leaf blight 
+
+Note: The provided information also mentions other diseases, but the above list includes the specific diseases mentioned as affecting wheat.",0.5
+What is the recommended seed rate for wheat?,wheat,UAF_rice,UAF_rice_chunk_002.txt,0.6962,"The recommended seed rate is not explicitly mentioned for wheat in the provided information. However, seed rates are mentioned for fine grain rice varieties (16-18 kg per acre) and coarse varieties (14-16 kg per acre), and for a specific wheat crop, 50 Kg of seed per acre was used.",0.53
+When should rice be transplanted?,rice,FAO_rice_4,FAO_rice_4_chunk_002.txt,0.8,Rice can be transplanted in January-February or July-August.,8.52
+Which fertilizer is recommended for rice?,rice,FAO_rice-2,FAO_rice-2_chunk_030.txt,0.771,"A generalized recommendation of fertilizer use consists of:
+- 2.5 bags urea
+- 2 bags DAP
+- 1 bag potassium sulphate 
+All P and K, and 1/3 of N should be applied along with the seed. The remaining N can be applied in two splits.",8.64
+How often should rice be irrigated?,rice,FAO_rice_01,FAO_rice_01_chunk_001.txt,0.8567,There is no specific information on how often rice should be irrigated.,9.0
+What are the common pests of rice?,rice,FAO_wheat,FAO_wheat_chunk_066.txt,0.8728,"The common pests of rice include:
+* Leaf Roller
+* Gall midge
+* Rice Armyworm
+* Brown Plant Hopper (BPH)",11.79
+How can rice diseases be prevented?,rice,FAO_rice_3,FAO_rice_3_chunk_005.txt,0.6928,"To prevent rice diseases, follow these steps:
+* Practice balanced fertilizer management and avoid excessive use of urea fertilizers.
+* Avoid dense planting and make way for ventilation and sunlight.
+* Monitor and scout the farm regularly for signs of disease.
+* Drain out the rice field immediately if disease symptoms are seen.
+* Uproot and destroy infected plants.
+* Use good quality seeds that are true to type, germinate well, and are free from pests and diseases.
+* Practice good land preparation, land levelling, and water management.",4.53
+What is the recommended seed rate for rice?,rice,UAF_rice,UAF_rice_chunk_002.txt,0.6349,"For fine grain rice varieties, the seed rate is 16-18 kg per acre. For coarse varieties, it is 14-16 kg per acre.",8.31
+What is the recommended sowing time for cotton?,cotton,FAO_cotton,FAO_cotton_chunk_052.txt,0.8875,I do not have enough information to answer this question.,8.68
+How can cotton pests be controlled?,cotton,FAO_cotton,FAO_cotton_chunk_109.txt,0.6844,"Cotton pests can be controlled through proper pest monitoring and prediction, which allows for timely management. Additionally, using NPV (Nuclear Polyhedrosis Virus) can be an effective method, as it targets specific pests while minimizing harm to beneficial insects like parasitoids and predators.",11.25
+Which fertilizer should be applied to cotton?,cotton,PARC_cotton_03,PARC_cotton_03_chunk_011.txt,0.8098,"N & P fertilizers should be applied to cotton, as only 16% of farmers had the use of K fertilizer, indicating a need for balanced fertilizer use.",9.12
+How often should cotton be irrigated?,cotton,PARC_cotton_03,PARC_cotton_03_chunk_012.txt,0.8302,Cotton requires balanced irrigation to mature. Moderate level of water is adequate for cotton. Excessive or inadequate irrigation can lower production. The frequency of irrigation significantly influences growth and yield components of cotton. Adequate application of irrigation ensures enhanced boll formation and development.,9.5
+What are the common diseases affecting cotton?,cotton,FAO_cotton,FAO_cotton_chunk_164.txt,0.71,"Fusarium wilt, boll rot, bacterial blight, leaf curl disease, and Alternaria leaf spot are common diseases contributing to crop failure in cotton.",7.6
+How can weeds in cotton fields be managed?,cotton,PARC_cotton,PARC_cotton_chunk_021.txt,0.791,"Weeds in cotton fields can be managed through:
+* Using herbicides, with the option of applying more than one type to control a broad spectrum of weeds
+* Adopting DSR (Direct Sown Rice) technology, which requires a strong understanding of agronomic practices
+* Using post-emergence herbicides when pre-emergence herbicides are not feasible due to narrow application duration or soil moisture requirements.",6.7
+When should sugarcane be planted?,sugarcane,FAO_sugarcane,FAO_sugarcane_chunk_020.txt,0.6745,I do not have enough information to answer this question.,11.59
+What fertilizer should be used for sugarcane?,sugarcane,sugarcane,sugarcane_chunk_055.txt,0.6303,"Nitrogenous fertilizers are commonly applied to sugarcane. However, it is recommended to use a combination of practices to reduce fertilizer use, such as:
+* Site-specific assessment of fertilizer requirements
+* Cultivation of leguminous green manure crops
+* Use of biofertilisers
+* Green cane harvesting and press mud, a sugar cane mill by-product that is rich in phosphorus. 
+A recommended dosage is 230:115:125 kg ha-1 of N: P2O5: K2O fertilizers, applied in the form of Urea, TSP, and SOP.",8.71
+How often should sugarcane be irrigated?,sugarcane,sugarcane,sugarcane_chunk_060.txt,0.8136,Sugarcane should be irrigated 40 to 50 times a year.,9.47
+What are the common pests of sugarcane?,sugarcane,PARC_sugarcane,PARC_sugarcane_chunk_001.txt,0.8186,"Rodents, specifically the short-tailed mole rat, Nesokia indica, are a common pest of sugarcane.",10.45
+How can sugarcane diseases be controlled?,sugarcane,sugarcane,sugarcane_chunk_040.txt,0.7617,"There is no specific information provided on how to control sugarcane diseases. However, it is mentioned that an Integrated Pest Management (IPM) approach is being practiced to manage rodent damage in sugarcane crops. Similarly, mills provide seeds and fungicides to farmers, but only if there is an agreement that the farmer will provide the sugarcane to that mill.",9.6
+What is the recommended spacing for sugarcane?,sugarcane,PARC_sugarcane_02,PARC_sugarcane_02_chunk_007.txt,0.804,The row to row spacing is 4 m.,9.46
+When should maize be planted?,maize,maize_post_harvest,maize_post_harvest_chunk_052.txt,0.734,"The time of planting maize will be determined by the actual date when appropriate rain is received. In some regions, planting should avoid periods of excessive rainfall or drought, especially around flowering. Traditional dates of planting used by farmers, derived from years of trials and errors, should be considered and checked through experimentation. Planting should not be done at the first onset of rainfall if the rain is likely to disappear for more than five days.",8.81
+Which fertilizer is best for maize?,maize,FAO_maize,FAO_maize_chunk_014.txt,0.733,"A combination of chemical and organic fertilizers is recommended for maize. Organic fertilizers can help improve soil physical and biological properties, increase soil microorganisms, and enhance nutrient absorption, which can reduce the nutrient loss of chemical fertilizer application.",8.47
+How can weeds in maize be controlled?,maize,maize_post_harvest,maize_post_harvest_chunk_057.txt,0.7197,"Weeds in maize can be controlled by:
+* Cultural methods, such as crop rotation
+* Mechanical methods, such as hand pulling, hoeing, and machine tillage
+* Chemical methods, such as herbicides.",7.61
+How much irrigation does maize require?,maize,maize_post_harvest,maize_post_harvest_chunk_058.txt,0.5059,"Maize requires 550 to 650 mm of rainfall per unit area for good growth. If the soil is at field capacity at planting time, 350 to 450 mm of well-distributed rain is enough. The coefficient of transpiration for maize is 280 to 350 litres of water per Kg of grain produced. Additionally, about 600 litres of water are needed to produce 1kg of maize grain.",8.58
+What are the common diseases affecting maize?,maize,PARC_maize,PARC_maize_chunk_008.txt,0.8697,I do not have enough information to answer this question.,9.44
+What is the recommended seed rate for maize?,maize,maize_post_harvest,maize_post_harvest_chunk_054.txt,0.78,"The recommended seeding rate for maize is 72,000 seeds/Ha, which is equivalent to 25 Kg of seed per hectare, assuming 1Kg of maize seed variety contains 3,000 kernels and considering a 20 percent loss of plants between planting and harvesting.",8.57

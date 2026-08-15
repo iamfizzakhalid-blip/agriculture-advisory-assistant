@@ -1,0 +1,2855 @@
+FAO Investment Centre
+COUNTRy HIGHLIGHTS
+Review of the wheat sector and grain storage issues
+
+FAO Investment Centre
+
+Review of the wheat sector and grain storage issues
+COUNTRY HIGHLIGHTS
+prepared under the FAO/World Bank
+Cooperative Programme
+Food and Agriculture Organization of the United Nations
+Dmitry Prikhodko
+Economist, Investment Centre Division, FAO
+Oleksandr Zrilyi
+Pest Control and Grain Storage Specialist
+
+The designations employed and the presentation of material in this information product do not imply the expression of any opinion whatsoever on the part of the Food and Agriculture Organization of the United
+Nations (FAO) or the World Bank concerning the legal or development status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. The mention of
+specific companies or products of manufacturers, whether or not these have been patented, does not imply that these have been endorsed or recommended by FAO or the World Bank in preference to others
+of a similar nature that are not mentioned. The views expressed in this information product are those of the author(s) and do not necessarily reflect the views or policies of FAO or the World Bank.
+© FAO 2013
+FAO encourages the use, reproduction and dissemination of material in this information product. Except where otherwise indicated, material may be copied, downloaded and printed for private study, research
+and teaching purposes, or for use in non-commercial products or services, provided that appropriate acknowledgement of FAO as the source and copyright holder is given and that FAO’s endorsement of
+users’ views, products or services is not implied in any way.
+All requests for translation and adaptation rights, and for resale and other commercial use rights should be made via www.fao.org/contact-us/licencerequest or addressed to copyright@fao.org.
+FAO information products are available on the FAO website (www.fao.org/publications) and can be purchased through publications-sales@fao.org.
+For more information on this publication, please contact:
+Director
+Investment Centre Division
+Food and Agriculture Organization of the United Nations (FAO)
+Viale delle Terme di Caracalla, 00153 Rome, Italy
+Cover photo: © FAO/Dmitry Prikhodko
+
+Foreword iv
+Acknowledgements v
+Acronyms and abbreviations vi
+Executive summary vii
+1 Wheat production, consumption and policy issues
+affecting private sector investment
+2 Wheat quality, losses and the feasibility of investment
+in grain elevators
+
+Annexes
+1 Wheat and wheat flour exports and imports,
+2008 and 2009
+
+2 Pest control issues in Pakistan
+
+3 Minimum EU quality requirements for wheat
+
+References
+
+iv
+This report was prepared as a part of the Economic and Sector
+Work under the Cooperative Programme of the World Bank and the
+Food and Agriculture Organization of the United Nations (FAO). Its publication was financed by FAO to facilitate discussion of possible
+investment projects for improving grain storage and providing related technical assistance. The report consists of two chapters.
+Typical questions regarding Pakistan’s wheat sector form the titles of sections in each chapter while the text provides concise answers
+and information on sector development.
+Chapter 1 was prepared by Dmitry Prikhodko, Economist,
+Investment Centre Division, FAO. It provides concise answers to questions on the importance of the wheat sector, wheat production,
+its structure and potential, milling, consumption, trade, policy, prices, procurement financing and opportunities for utilizing post-harvest
+financing instruments. Chapter 2 was prepared by Oleksandr
+Zrilyi, Pest Control and Grain Storage Specialist, and covers issues regarding wheat losses under the existing bag handling system,
+general grain storage, wheat quality control and options for temporary wheat storage. The investment feasibility of improved
+grain storage (grain elevators), and conditions for possible public- private partnerships (PPPs) were prepared by Dmitry Prikhodko,
+who also coordinated the writing of the report and prepared the
+Executive summary.
+Foreword
+
+v
+Mr Bekzod Shamsiev, Senior Economist of the World Bank in the
+South Asia Region, supervised the preparation of this report.
+Mr Vasyl Hovhera, Economist (Consultant) in FAO’s Investment Centre
+Division, conducted research on wheat consumption in Pakistan.
+While working on this report, the authors used information collected from public and private sector representatives in Islamabad, Lahore
+(December 2011) and Karachi (May 2011). Sincere appreciation is extended to the Agricultural and Food Departments of Punjab, the
+Agricultural Department of Sindh, the Pakistan Agricultural Storage and Services Corporation (PASSCO), the State Bank of Pakistan
+(SBP) and private sector wheat millers, local and international grain traders and fumigation companies who shared information and
+views on the development of the wheat sector in Pakistan.
+The authors would also like to acknowledge valuable research on developments and investments in Pakistan’s wheat sector by the
+United Kingdom Department for International Development (DFID), the United States Agency for International Development (USAID),
+the International Finance Corporation (IFC), the United States
+Department of Agriculture (USDA), the International Food Policy
+Research Institute (IFPRI), the World Bank, FAO, other development partners and national researchers.
+Special thanks are extended to Mr Sergiy Zorya, Senior Economist in the Agriculture and Rural Development Department of the World
+Bank; Daud Khan, Principal Officer in the Office of Support to
+Decentralization of FAO; and Ms Eugenia Serova, Principal Adviser in the Investment Centre Division of FAO for the useful review,
+comments and suggestions that facilitated the report’s improvement and finalization. A special thanks to Mr Claudio Gregorio, Service
+Chief, Near East, North Africa, Europe, Central and South Asia Service,
+Investment Centre Division, FAO for his guidance and support.
+The authors would also like to thank Ms Genevieve Joy, Project
+Support Specialist in FAO’s Investment Centre Division, for facilitating report finalization and publication; Ms Jane Shaw
+for editorial support and Ms Adriana Brunetti for design and formatting. Ms Joana Maison Aidoo, Eliane Di Cintio and the entire
+administrative team of FAO’s Investment Centre Division provided much-appreciated administrative support.
+Acknowledgements
+
+vi
+CIF
+Cost, insurance, freight
+DFID
+Department for International Development
+ES
+Economic and Social Development Department (FAO)
+EU
+European Union
+FAO
+Food and Agriculture Organization of the United Nations
+FAQ
+Fair average quality
+FOB
+Free on board
+GDP
+Gross domestic product
+GNI
+Gross national income
+IFC
+International Finance Corporation
+IFPRI
+International Food Policy Research Institute
+IMF
+International Monetary Fund
+IRR
+Internal rate of return
+ISO
+International Organization for Standardization
+MFN
+Most-favoured nation
+MY
+Marketing year
+NGO
+Non-governmental organization
+NPV
+Net present value
+NWFP
+North-West Frontier Province
+PASSCO Pakistan Agricultural Storage and Services Corporation
+PKR
+Pakistan Rupee
+PP
+Polypropylene
+PPP
+Public–private partnership
+PVC
+Polyvinyl Chloride
+OECD
+Organisation for Economic Co-operation and Development
+SBP
+State Bank of Pakistan
+TCP
+Trading Corporation of Pakistan
+UAH
+Ukrainian Hryvnia
+UN
+United Nations
+USAID
+United States Agency for International Development
+USD
+United States Dollar
+USDA
+United States Department of Agriculture
+WRS
+Warehouse receipt system
+WTO
+World Trade Organization
+Acronyms and abbreviations
+
+vii
+Wheat is of paramount importance in Pakistan, with 80 percent of farmers growing it on a total of about 9 million hectares (ha) (close
+to 40 percent of the country’s total cultivated land). This crop alone contributed about 14 percent of value added in agriculture and
+3 percent of the country’s gross domestic product (GDP) in 2009.
+In recent years, Pakistan’s wheat production has been about
+22 to 26 million tonnes per year. The crop is grown by predominantly
+small (0.5 to 5.0 ha) and medium-sized (5 to 10 ha) farmers, whose livelihoods depend on it. Wheat yields in Pakistan remain low,
+lagging behind those in other countries with comparable agro- climatic conditions. The agro-ecological potential for irrigated wheat
+in Punjab, Pakistan’s primary production area, suggests that yields of about 6 tonnes/ha could be attained, compared with current yields
+of 2.5 to 3 tonnes/ha.
+Assuming that this potential wheat yield is realized through sustainably intensified crop production, Pakistan could increase
+annual wheat production to 32.5 to 38 million tonnes from the area currently planted. However, any policies and support programmes
+aimed at increasing wheat productivity must take into account existing constraints in the wheat supply chain, especially the lack of
+storage facilities.
+Wheat currently contributes 37 percent of total food energy intake in Pakistan. As incomes increase and a stronger middle class
+emerges, consumers will likely shift towards more dairy, meat and other higher-value food products in their diet. While per capita
+wheat consumption may decline in the future, reflecting increasing consumer incomes and changing food preferences, overall wheat
+supply will need to increase to about 23 to 24 million tonnes by
+2017 – about 12 percent higher than the 2010/11 level – to meet
+estimated food demand from the country’s growing population.
+Executive summary
+
+viii
+A heavily controlled wheat market
+Although sector policy analysis was not the main focus of this study, it is clear that existing government intervention programmes
+pose significant constraints to private sector-driven development, including to the much-needed investment in grain storage
+infrastructure. Continuing the current costly support policies aimed at supporting farmers, stabilizing consumer prices and subsidizing
+all consumer groups (regardless of income) will pose a significant public expenditure burden, which may not be sustainable in the
+long term. Further research is needed to determine the extent to which farmers rather than other wheat supply chain actors benefit
+from existing support programmes, and to identify possible policy changes based on recent sector developments.
+Government role
+Farmers in Pakistan retain about one-third of their wheat production for seed and household food consumption. The government is the
+main buyer of farmers’ wheat, with actual volumes of government procurement often reaching 25 to 30 percent of total production,
+driven by both food security and market intervention objectives.
+Given the predominantly subsistence nature of wheat farming, government procurement may reach 35 to 50 percent of marketed
+wheat. While food security is an important concern in Pakistan, there is little doubt that high volumes of State wheat procurement
+leave little room for private sector trade and investment in the post- harvest supply chain.
+In 2010/11, estimated monetary losses incurred by government- operated wheat procurement and storage totalled PKR 3 750/tonne
+(approximately USD 44/tonne), or about 13 percent of the total costs.
+Assuming that the government purchases 6 to 7 million tonnes of wheat per year, losses from government procurement operations
+can reach PKR 23 to 26 billion (USD 248 to 289 million) per year.
+The domestic private banking sector provides financing for government wheat procurement, receiving about PKR 3 279
+(USD 36) of loan interest from each tonne of wheat purchased.
+In 2010/11, 11 percent of the total estimated costs of government wheat procurement were paid as interest to commercial banks.
+
+ix
+The private sector
+The private sector dominates wheat production, transportation and milling, but has a somewhat limited role in wheat trade. Pakistan’s
+private sector is interested in investing in grain transportation, storage and marketing, but is unlikely to engage unless the
+government’s role is rationalized and the private sector is left free to make rational investment decisions aimed at improving efficiency of
+the sector.
+Warehouse receipts
+Relatively high domestic wheat procurement prices and secure government cash payments to farmers give farmers little incentive
+to use post-harvest financing instruments such as grain warehouse receipts through which they pledge their crops to obtain financing
+from input suppliers, agricultural traders or banks. Although the use of warehouse receipts can increase liquidity in the wheat trade
+and has the potential to reduce the costs of wheat trade financing from their current 16 to 17 percent to 10 to 14 percent per year
+(depending on funding sources and foreign currency exchange risks), such post-harvest financing instruments are unlikely to
+become operational under existing sector policies.
+The fair average quality standard
+The fair average quality (FAQ) standard used for wheat in Pakistan specifies only basic quality indicators related to moisture content
+and grain impurities, and is of very limited effectiveness for the quality control of bagged wheat at the peak of the procurement
+season. Criteria based on test weight, protein, gluten content, falling number and other parameters are not specified in the FAQ.
+The existing standard creates uncertainties for domestic millers and provides no real incentives for maintaining wheat quality in storage.
+Quality testing and sampling appear arbitrary to many market players in Pakistan. There is need to introduce a systematic third-
+party or government-controlled laboratory testing and certification scheme to verify the quality parameters for wheat’s final uses,
+replacing the current sampling method of piercing bags with a bamboo stick and subjecting their contents to visual inspection.
+
+x
+Economic losses
+Economic losses due to the deterioration of wheat quantity and quality can be estimated at about PKR 3 874/tonne/year, including
+the costs of physical product losses, bags, loading, unloading and other expenses associated with the current bag handling system.
+Despite the official “zero loss tolerance” policy, the government, farmers and consumers are absorbing the costs of grain losses.
+Even assuming that only 30 percent of the government’s annual wheat purchases are subject to this loss rate, Pakistan’s economy
+loses PKR 6 to 7 billion per year (roughly USD 76 to 90 million) because of the lack of adequate wheat storage.
+Investment of about PKR 880 million (about USD 10 million) would be required to construct a 50 000 tonne modern grain elevator.
+Assuming reduced wheat losses, each new elevator could generate
+PKR 555 million of the net present value (NPV) at an internal rate of return (IRR) of 29 percent on the investment, based on a 25-
+year project life and a 16 percent discount rate. It should be noted however that the transition to a bulk grain storage system would
+also require substantial adjustment from farmers, storage facility operators and other supply chain actors, as well as additional
+investment in improved grain transportation. These costs should be estimated separately, and the social issues likely to arise from the
+loss of jobs in grain loading, unloading and stacking operations – which are currently conducted by manual labour.
+Public-private partnerships
+The PPP model of investment in improved wheat storage in Pakistan may be a better option than public investment because the private
+sector already has technical and trade knowledge of handling and storing other bulk agricultural commodities (oilseeds and protein
+meals). Assuming that the government conducts some of its wheat purchases through the new private grain elevators, a mechanism for
+transferring the economic benefits of reduced losses and handling costs in the current government-operated bag handling system
+needs to be established.
+To make the PPP model viable, the Government of Pakistan needs to: (i) guarantee a minimum elevator utilization rate through long-
+
+xi term contracts, preferably of eight years or more; and (ii) agree to pay higher grain storage fees – of an estimated PKR 3 175/tonne/
+year for storage in grain elevators compared with the PKR 825/tonne/ year currently paid for flat-type storage – to ensure sufficient financial
+cash flow to investors. From a public expenditure perspective, the proposed mechanism would still be more beneficial than the current
+loss-making bag storage and handling system.
+Modern temporary storage technologies
+The use of modern temporary storage technologies is limited in Pakistan: until the new permanent grain storage facilities are
+constructed and the entire handling and transportation system is adjusted, silo bags and other temporary solutions for wheat
+storage can be considered alternative solutions, especially at the sites where grain is received from farmers after harvest (the so-
+called “flag stations”). These methods preserve grain in a flexible system and create unfavourable conditions for pests and fungus
+development. However, the potential costs and benefits of using flexible storage rather than the existing storage system or modern
+grain elevators were not evaluated for this report.
+
+How important is wheat to the economy of Pakistan?
+In Pakistan, major crops such as wheat, rice, cotton and sugar cane account for 82 percent of value added in the crop sector, 33 percent
+of value added in overall agriculture and 7 percent of GDP. Wheat alone accounts for 14 percent of value added in agriculture and
+provides 3 percent of the country’s GDP according to the Ministry of Finance (2009). Wheat is the most important agricultural crop;
+it is grown by about 80 percent of farmers on about 9 million ha, which is close to 40 percent of the country’s total cultivated land,
+according to official sources in Pakistan.
+The crop also accounts for an estimated 37 percent of both food energy and protein intakes. It is therefore the single most important
+food crop in Pakistan. These factors demonstrate the role and importance of wheat in Pakistan’s economy and in public support to
+the agriculture sector.
+What are the wheat production, consumption and trade trends?
+Pakistan produces an average of 20 to 24 million tonnes of wheat a year, as shown in Table 1.
+There are two main crop seasons in Pakistan: the Kharif, with a sowing season from April to June and harvest in October to
+December; and the Rabi, which begins in October to December and ends in April to May. Wheat, lentils, tobacco, rapeseed, barley
+and mustard are Rabi crops; rice, sugar cane, cotton and maize are Kharif crops (FAO, 2004). The marketing year (MY) for wheat in
+Pakistan runs from May to the following April – for example,
+MY 2011/12 starts on 1 May 2011 and ends on 30 April 2012. Most wheat is produced on irrigated land, so crop performance is closely
+linked to the supply of irrigation water and farm inputs, such as quality seeds and fertilizers.
+Chapter 1 - Wheat production, consumption and policy issues affecting private sector investment
+
+Table 1: Pakistan wheat supply and demand balance, marketing years1 2007/08 to 2012/13
+2007/08
+2008/09
+2009/10
+2010/11
+2011/12
+Total supply
+25 994.7
+25 680.3
+25 432.9
+25 610.8
+25 482.0
+25 630.2
+Domestic availability
+24 494.7
+22 658.8
+25 232.9
+25 410.8
+25 282.0
+25 430.2
+Opening stocks
+1 200.0
+1 700.0
+1 200.0
+2 100.0
+1 000.0
+1 400.0
+Production
+23 294.7
+20 958.8
+24 032.9
+23 310.8
+24 282.0
+24 030.2
+Imports
+1 500.0
+3 021.5
+200.0
+200.0
+200.0
+200.0
+Commercial imports
+1 497.9
+2 982.8
+115.7
+98.5
+150.0
+150.0
+Food aid
+2.1
+38.7
+84.3
+101.5
+50.0
+50.0
+Total utilization
+25 994.7
+25 680.3
+25 432.9
+25 610.8
+25 482.0
+25 630.2
+Domestic utilization
+22 794.7
+22 780.3
+23 032.9
+23 510.8
+23 482.0
+23 430.2
+Food use
+20 194.7
+20 380.3
+20 632.9
+21 010.8
+21 482.0
+21 828.69
+Feed use
+600.0
+500.0
+500.0
+400.0
+400.0
+400.0
+Other uses
+2 000.0
+1 900.0
+1 900.0
+2 100.0
+1 600.0
+1 201.51
+Exports
+1 500.0
+1 700.0
+300.0
+1 200.0
+600.0
+1 000.0
+Closing stocks
+1 700.0
+1 200.0
+2 100.0
+900.0
+1 400.0
+1 200.0
+of which government
+300.0
+300.0
+300.0
+300.0
+500.0
+500.0 kg/yr
+Per capita food use
+127.7
+126.6
+
+125.9
+126.4
+126.1
+Per capita feed use
+3.8
+2.4
+2.4
+2.3
+Auxiliary data
+Population (‘000 people)
+15 817.0
+160 970
+163 760
+166 839
+169 975
+173 170
+Area (‘000 ha)
+8 578
+8 550
+9 046
+9 132
+9 210
+9 200
+Yield (kg/ha)
+2 716
+2 451
+2 657
+2 553
+2 636
+2 612
+1 The marketing year starts in May and ends in April of the following year.
+Source: FAO/Economic and Social Development Department (ES) Country Cereal
+Balance (February 2013).
+
+Most wheat produced in Pakistan is consumed domestically.
+Depending on domestic production projections, the country may import wheat in a deficit year or export the surplus in a year of
+
+high production. The structure of domestic wheat production, yields, consumption, trade, stocks, government procurement, price
+regulation and related issues are explained later in the report.
+What is Pakistan’s position in global wheat production?
+Pakistan is an important world wheat producer. Table 2 shows it was the world’s eighth largest wheat producer from 2007 to 2009.
+However, despite irrigated production, wheat yields are far lower than those achieved in other countries with predominantly rainfed
+agriculture, such as the United States of America, Canada and Ukraine.
+Table 2: World wheat areas, yields and production,
+2007 to 2009 averages
+No.
+Country
+Harvested area
+Yield
+Production of world million ha tonnes/ha million tonnes
+23.9
+4.7
+
+27.9
+2.8
+12%
+United States of
+America
+21.1
+2.9
+
+Russian Federation
+25.4
+2.3
+France
+5.3
+6.9
+Canada
+9.4
+2.7
+Germany
+7.6
+
+8.7
+2.6
+Ukraine
+6.6
+Australia
+13.2
+1.4
+
+Turkey
+8.1
+2.3
+Kazakhstan
+13.3
+1.2
+United Kingdom
+1.9
+7.8
+Iran (Islamic
+Republic of)
+6.4
+Argentina
+4.8
+2.3
+
+42.5
+130.2
+
+Source: Author’s elaboration based on FAOSTAT.
+
+How do Pakistan wheat yields compare with those of other countries and with its own potential yields?
+Average wheat yields reported by official statistics in Pakistan remain slightly below those in neighbouring countries, which is
+surprising given that about 90 percent of the wheat area in Pakistan is irrigated (Table 3). Compared with the increases in most other
+Asian countries, wheat yields in Pakistan have not increased much in recent years (Figure 1). These relatively low yields are most likely
+a result of inadequate irrigation infrastructure and insufficient access to/use of farm inputs, especially given the substantially higher yields
+that would be attainable in Pakistan’s agro-climatic conditions.
+Figure 1: Wheat yields in selected Asian countries, 2004 to 2011
+2,5
+3,5
+4,5
+5,5
+Wheat yield (MT/HA)
+World
+Asia
+Uzbekistan
+Source: FAOSTAT.
+According to the United States Agency for International
+Development (USAID) (Nathan Associates Inc., 2009), poor- quality water services in Pakistan have negative impacts on the
+performance of farmers who have to rely on inflexible and unreliable canal supplies. The yields of farmers with access to their own
+irrigation from groundwater are reported to be twice as high as those of farmers relying on traditional surface irrigation.
+According to FAO estimates of attainable yields of irrigated wheat in high-input farming systems, which are based on agro-ecological
+
+zones,1 wheat yields in Punjab, the primary production area in Pakistan, could reach 6 tonnes/ha through sustainable crop
+intensification (Figure 2). Annual wheat production in Pakistan could therefore increase to 32.5 to 38 million tonnes/year – about
+30 to 50 percent higher than the 2009 production level – assuming:
+(i) maintenance of the current wheat area harvested of 9 million ha;
+and (ii) realization of 60 to 70 percent of the potential wheat yield attainable in Pakistan’s agro-climatic conditions.
+However, any programme aimed at intensifying wheat production and increasing yields needs to take into account bottlenecks in the
+wheat supply chain, including the lack of proper grain storage and other issues described in this report.
+Figure 2: Agro-climatically attainable yields for high-input irrigated wheat in Pakistan, baseline period 1961 to 1990
+Source: FAO GAEZ http://www.fao.org/nr/gaez/en/.
+FAO’s agro-ecological zoning (AEZ) methodology is the primary tool for assessing land resources. It is based on the FAO Framework for Land Evaluation, which has been
+used since 1978 to assess agricultural production potential and production capacity, actual and potential yields, and yield gaps. Agro-ecological zones are defined as
+homogeneous and contiguous areas with similar soil, land and climate characteristics.
+For more information, please refer to http://www.fao.org/nr/gaez/programme/en/.
+
+What are Pakistan’s wheat production structure and machinery use levels?
+As already mentioned, wheat is by far the most important crop in
+Pakistan. According to the 2010 Agricultural Census of Pakistan2, farms devoted 42 percent of their total crop area to wheat,
+14 percent each to rice and cotton, 9 percent to fodder crops, and
+4 percent each to maize for grain and sugar cane. The remaining
+area was devoted to pulses and other crops. Wheat producing farms in Pakistan can be classified into the following categories: small
+(0.5 to 2.0 ha); medium (2 to 10 ha); and large (more than 10 ha).
+In 2010, there were 8 264 531 private farms with an average of 2.6 ha each. Compared with the previous agricultural census conducted
+in 2000, the total number of farms had increased by 25 percent, while their size had decreased by 16 percent. Wheat is a particularly
+important staple crop for small farmers (0.5 to 5.0 ha), who devote
+44 to 45 percent of their cropland to wheat. Farms of more than 10 ha
+plant 39 to 40 percent of their crop area with wheat (Table 3).
+Table 3: Main characteristics of cropped area under wheat in
+Pakistan, by farm size, 2010
+Farm size
+Total cropped area (ha)
+Wheat (%) of crop area
+Share of
+Rabi crop area
+Share of number of farms
+Share of area under wheat irrigated
+Share of area under wheat fertilized
+Total private farms
+27 481 977
+
+Under 0.5 ha
+888 349
+
+0.5–1.0 ha
+1 847 499
+
+1.0–2.0 ha
+3 851 042
+
+2.0–3.0 ha
+4 062 852
+
+3.0–5.0 ha
+5 241 332
+
+5.0–10.0 ha
+5 215 939
+
+10.0–20.0 ha
+3 304 071
+
+20.0–40.0 ha
+1 764 484
+
+40.0–60.0 ha
+521 552
+
+60.0 ha and
+above
+784 856
+
+Source: Agricultural Census of Pakistan, 2010.
+http://www.pbs.gov.pk/node/484.
+
+Figure 3 shows that the number of farms in the smallest farm size category (below 0.5 ha) increased from 1 099 000 in 2000 to
+2 071 000 in 2010, while the number with more than 5 ha decreased.
+Figure 3: Farm sizes and numbers in Pakistan, 2000 and 2010
+
+1 000 ha
+
+N of farms ('000)
+Total land per category
+(2000, ha)
+Total land per category
+(2010, ha)
+N of farms,
+2010 (right
+axis)
+N of farms,
+2000 (right
+axis)
+Source: Author’s elaboration based on Agricultural Census of Pakistan, 2000 and 2010.
+Analysis of the average farm size indicates that in the smallest farm category (under 0.5 ha), farm size decreased, implying increased
+fragmentation of farmland. A similar tendency was recorded for farms of 1 to 5 ha (Figure 4). There are clear signs of farmland
+consolidation for farms operating on more than 60 ha. The average farm size in this category increased from 120 ha in 2000 to 176 ha in
+2010, while the total area of agricultural land covered by farms in this category increased from 1.68 million to 2.37 million ha.
+
+Figure 4: Average farm sizes in each category in Pakistan, 2010 and changes since 2000
+-6,2%
+0,3% -0,3% -0,6% -0,2% 0,6%
+1,2% -0,3% -0,4%
+47,0%
+0,0
+20,0
+40,0
+60,0
+80,0
+100,0
+120,0
+140,0
+160,0
+180,0
+200,0 ha
+-10,0%
+0,0%
+10,0%
+20,0%
+30,0%
+40,0%
+50,0%
+% change
+Avg farm in each size category in 2010, ha (left axis)
+Change, % 2010 from 2000 (right axis)
+<0.5
+0.5-0.9
+1.0-1.9
+2.0-2.9
+3.0-4.9
+5.0-9.9
+10.0-19.9
+20.0-39.9
+40.0-59.9
+60.0<
+0,3
+0,7
+1,4
+2,3
+3,9
+6,7
+12,9
+25,1
+44,9
+176,0
+Sources: Author’s elaboration based on Agricultural Census of Pakistan, 2000 and 2010.
+Most small and medium farmers use tractors to pull simple soil cultivation equipment, such as tooth harrows. In 2010, about
+9 percent of farms used tractors, while 4 percent of those with less
+than 5 ha used only draught animals.
+Ownership of agricultural equipment varies greatly by type of equipment and farm size. Only 1 percent of farms with less than 0.5 ha own a tractor; larger farms are better equipped, with
+47 percent of those in the 40 to 60 ha category owning a tractor
+and 2.4 percent owning a combine harvester. Farms with more than 10 ha have the resources to use ploughs, seed drills, fertilizer
+spreaders and combine harvesters.
+
+Table 4: Farms’ reported ownership of selected agricultural machinery in Pakistan, by farm size category, 2010
+Farm size
+No. of farms
+Tractor Thresher Sheller
+Combine harvester
+Reaper- harvester Drill
+Spray machine
+Total private farms
+8 264 480
+0.4%
+Under 0.5 ha 1 254 718
+0.1%
+0.5–1.0 ha
+2 342 233
+0.2%
+1.0–2.0 ha
+1 753 995
+0.2%
+19%
+2.0–3.0 ha
+1 131 990
+11%
+0.4%
+3.0–5.0 ha
+917 007
+0.6%
+5.0–10.0 ha
+560 748
+28%
+0.8%
+28%
+10.0–20.0 ha
+210 907
+37%
+1.6%
+20.0–40.0 ha
+66 874
+44%
+29%
+2.1%
+33%
+40.0–60.0 ha
+12 607
+47%
+2.4%
+21%
+32%
+60.0 ha and
+above
+13 438
+34%
+23%
+2.8%
+24%
+Source: Agricultural Census of Pakistan, 2010.
+After manual harvesting, wheat is threshed using tractor-powered threshers, which are still far more common than combine harvesters. Depending on farm size, harvesting is done by the
+farm’s own and contracted labour or by combine harvester.
+Although combine harvesters have not been widely used, they are increasing in popularity, especially in Punjab. Of the 29 344 farms
+that reported owing a combine harvester, 21 369 were in Punjab.
+Tractors and trailers are used to transport bagged wheat to purchase centres located in the major wheat producing areas of Punjab
+and other provinces. Even bulk quantities of grain from combine harvesters are bagged and transported by tractor-trailer to the
+nearest purchase centre, most of which are reportedly located within 10 km of production areas.
+How has wheat consumption changed in Pakistan?
+Wheat consumption has a long history in Pakistan. In the
+1997– 2007 decade, the country’s per capita consumption remained above that in countries with similar income levels (Figure 5).
+
+Figure 5: Worldwide per capita wheat consumption and gross national incomes (GNIs), 1997 to 2007
+
+GNI per capita (PPP USD)
+Wheat per capita consumption (kg/year)
+Sources: FAOSTAT for wheat consumption; World Bank data for per capita GNI.
+Wheat is the single most important source of food calories in
+Pakistan, followed by milk and sugar. It accounts for nearly 843 Kcal/ capita/day of energy (37 percent of daily calories) and 22 g/capita/
+day of protein (37 percent of daily protein consumption) (FAOSTAT).
+Historically, per capita wheat consumption in Pakistan has exceeded that of India or China, despite the higher incomes in these two
+countries. However, it has been below that of the Islamic Republic of Iran (Figure 6). Consumption of bread and other wheat products
+in Pakistan is far lower than that in the United Arab Emirates
+(209 kg/capita/year), most countries of North Africa (Tunisia 200 kg,
+Algeria 188 kg, and Morocco 172 kg) and most in the Caucasus and
+Central Asia (Azerbaijan 218 kg, Turkmenistan 195 kg, Kazakhstan
+174 kg, and Uzbekistan 171 kg).3
+These consumption data are based on FAOSTAT estimates for average wheat supply per person in 2005–2007.
+
+Figure 6: Per capita wheat consumption and GNIs in selected
+Asian countries, 1997 to 2007
+
+GNI per capita (PPP USD)
+Banglades
+Iran
+Wheat per capita consumption (kg/year)
+Sources: FAOSTAT4 for wheat consumption; World Bank for per capita GNI.
+How will wheat consumption change in the mid-term perspective?
+In recent years, per capita wheat consumption in Pakistan has remained fairly stable at about 125 to 128 kg/capita/year, with
+production increases reflecting population growth (Table 1). As consumer incomes increase, some analysts suggest that consumers
+in Pakistan now demand a greater variety of flour-based products.
+Consumer preferences have been shifting from traditional flat bread to Western-style loaf bread, particularly in urban areas (USDA/FAS,
+2011), which may result in higher wheat consumption in the future.
+However, available per capita consumption data suggest that consumers have started to shift towards more dairy, meat and other higher-value food products. For instance, wheat consumption
+was an estimated 2 percent lower in 2009 than in 2004, while consumption of meat and dairy products increased by more than
+20 percent each, reflecting rising consumer incomes (Figure 7)
+Average GNI adjusted for purchasing price parity increased by
+67 percent, from USD 1 500/capita in 1997 to USD 2 513/capita in
+2007, according to World Bank data.
+Slight variations in per capita consumption data between Figure 6 and Table 3 are because data for Figure 6 come from FAOSTAT, which is based on the calendar
+year, while those for Table 3 come from FAO’s Country Cereal Balances, which are based on the marketing year. The latest available income data at the time of report
+preparation were for 2007.
+
+Figure 7: Per capita food consumption of selected agricultural product categories in Pakistan, 2004 to 2009
+0,98
+1,21
+0,90
+0,95
+1,00
+1,05
+1,10
+1,15
+1,20
+1,25
+Vegetables
+Fruits
+Cereals
+Dairy
+Meat
+Source: FAOSTAT.
+National policy-makers should consider these changing food consumption and farm consolidation patterns in the design of support programmes and safety nets that target the poorest
+population groups, including small farmers, who will continue to rely on wheat as the most important source of food energy and protein
+in the foreseeable future.
+International Monetary Fund (IMF) income forecasts suggest that per capita GDP in Pakistan will likely increase to about
+USD 3 400/capita/year by 2017 (at current prices), while the population increases to about 190 million people (Figure 8).
+Considering both population growth and shifting consumer preferences it is likely that average per capita wheat consumption
+may decline slightly, to about 124 kg/capita/year by 2017.
+Nevertheless, it is clear that overall food wheat consumption as a reflection of demand will increase. Demand elasticities vary greatly,
+depending on income level, and are affected by various factors, including changes in tastes and the availability of other products.
+
+Figure 8: Population, per capita GDP and per capita wheat consumption in Pakistan, 1997/98 to 2016/17
+
+1997/98
+2000/01
+2003/04
+2006/07
+2009/10
+2015/16
+Population (Mln people)
+GDP per capita(tens, PPP, Current international dollars)
+Wheat per capita consumption (kg)
+Sources: Author’s calculations based on FAO Economic and Social Development
+Department (ES) Country Cereal Balances for historical per capita wheat consumption and population, and IMF World Economic Outlook data for per capita GDP.
+Even assuming that per capita demand for wheat decreases because of higher incomes and changing consumer preferences, overall wheat food consumption in Pakistan will increase to
+23.5 million tonnes. If per capita wheat consumption remains at
+the current level, the overall wheat demand will increase to about
+24 million tonnes (shown as the dark blue areas in Figure 9).
+Figure 9: Wheat for food consumption in Pakistan, 1997/98 to
+2011/12 and anticipated demand until 2017/18 (thousand tonnes)
+17,25
+17,74
+17,29
+17,62
+17,91
+18,33
+18,66
+18,81
+19,23
+19,69
+20,19
+20,38
+20,63
+21,01
+21,43
+21,83
+22,19
+22,55
+23,03
+23,41
+23,82
+15,00
+16,00
+17,00
+18,00
+19,00
+20,00
+21,00
+22,00
+23,00
+24,00
+25,00
+1997/98
+1999/00
+2001/02
+2003/04
+2005/06
+2007/08
+2009/10
+2011/12
+2013/14
+2015/16
+2017/18
+Sources: FAO Country Cereal Balances 1997 to 2011; author’s calculations for forecasts to 2017.
+
+What are recent wheat import and export trends?
+Pakistan was a net wheat importer until 2000. Since then, the country has either imported or exported wheat, depending on
+domestic production. For instance, even in the aftermath of the
+2010 flood, Pakistan exported up to 2 to 3 million tonnes of wheat
+in MY 2010/11 according to grain traders interviewed in Karachi in
+May 2011 (Figure 10).
+The European Union (EU), the Russian Federation, Canada, the
+United States of America, Ukraine and Kazakhstan are the main suppliers of wheat grain imports into Pakistan. Annex 1 gives a
+detailed breakdown of wheat and wheat flour imports by trading partners in 2008/09.
+Despite being a net wheat exporter since 2010, Pakistan has maintained a fairly restrictive wheat export and import trade regime,
+including application of export restrictions and import tenders by the
+Trading Corporation of Pakistan (TCP), the government’s principal foreign trading arm.5 Wheat flour trade appears to be less subject to
+government control than wheat trade.
+Figure 10: Net wheat trade* in Pakistan, 1960/61 to 2012/13
+(million tonnes)
+-5 000
+-4 000
+-3 000
+-2 000
+-1 000
+1 000
+2 000
+1960/61
+1962/63
+1964/65
+1966/67
+1968/69
+1970/71
+1972/73
+1974/75
+1976/77
+1978/79
+1980/81
+1982/83
+1984/85
+1986/87
+1988/89
+1990/91
+1992/93
+1994/95
+1996/97
+1998/99
+2000/01
+2002/03
+2004/05
+2006/07
+2008/09
+2010/11
+* Net trade = exports minus imports for the MY.
+Source: Based on USDA PSD online.
+Official trade estimates of wheat and wheat flour exports and imports are provided in Figures 11a and 11b.
+ http://www.tcp.gov.pk/Home.aspx.
+
+Figure 11: Wheat and flour trade in Pakistan,
+2005 to 2010 calendar years
+11a: Million United States dollars
+11b: Thousand tonnes
+
+Export, FOB, USD mln
+Import, CIF, USD mln
+
+Export, (grain equivalent) 1000 MT
+Import, (grain equivalent) 1000 MT
+Source: Author’s calculations based on UN comtrade.6
+Given the strict wheat export regulations in Pakistan, the private sector finds it easier to export wheat flour than wheat grain even
+during periods when the country is importing wheat. According to official statistics, wheat flour accounted for 100 percent of wheat
+exports in 2005–2006 and 2010 (Figure 12). Pakistan millers face no specific problems in supplying flour to Afghanistan and other
+nearby countries, while most flour imports are through food aid and humanitarian shipments.
+Figure 12: Shares of wheat grain and wheat flour in total exports and imports in Pakistan, 2005 to 2010 calendar years
+12a: Imports
+12b: Exports
+51%
+99%
+49%
+94%
+75%
+Export Wheat Flour
+Export Wheat
+72%
+87%
+95%
+28%
+Import Wheat Flour
+Import Wheat
+Source: Author’s calculations based on UN comtrade.
+ http://comtrade.un.org/.
+
+Does Pakistan have sufficient wheat stocks?
+Reliable stock estimates are difficult to obtain in Pakistan.
+FAO’s Cereal Balance Sheets estimated ending stocks of wheat at 0.9 million tonnes in MY 2010/11, while the United States
+Department of Agriculture (USDA) assessed them at 3.3 million tonnes. Information obtained during field visits implied substantially
+higher stocks: for instance, according to the State Bank of Pakistan
+(SBP), wheat stocks totalled 7 million tonnes in May 2011 – the beginning of MY 2011/12 (Figure 13).
+Such a large variation in stock estimates can be explained by a combination of factors, including the use of different production
+levels and estimates, and international grain market analysts’ overestimation of consumption and/or wheat stocks held by the government. The government must hold a financial position
+against the stock as its purchases of wheat are financed by private banks (see the section “How does the government pay for wheat
+procurement?”). Unfortunately, the Pakistan Government does not publish official cereal balance sheets for marketing years, which
+would bring clarity.
+Figure 13: Official estimates of wheat stocks made by institutions in Pakistan (million tonnes)
+1,7
+1,5
+0,1
+0,4
+6,2
+3,8
+1,5
+1,3
+0,6
+0,1
+0,0
+1,0
+2,0
+3,0
+4,0
+5,0
+6,0
+7,0
+8,0
+9,0
+10,0
+11,0
+September 2010
+May 2011
+Food Dep. of Sindh
+Food Dep. of Punjab
+Trading Corporation of Pakistan
+Pakistan Ag. Storage & Supplies Corp.
+
+What is the policy towards the wheat sector?
+By applying set prices that guarantee profitability in wheat production, the government’s wheat policy aims to balance support
+to farm incomes with price stability and affordable flour and bread prices for consumers.
+There has been strong government involvement in the wheat sector since the late 1950s, based on the sector’s importance to the economy and food security. In 1959/60, the government
+fixed the domestic prices for wheat and other crops at higher than international prices to promote domestic production. During this
+period, a ban was placed on interprovincial wheat trading by the private sector, to facilitate government procurement of wheat from
+surplus production areas (Islam and Garrett, 1997). Pakistan has maintained a heavily controlled wheat sector since then. Through
+the provincial food departments and the Pakistan Agricultural
+Storage and Services Corporation (PASSCO), the government procures about one-third of domestic wheat production, which – given the significant on-farm consumption – represents most of the
+marketable supply from farmers. All imports are handled by TCP.
+The procurement prices paid to farmers, the wheat sale (release) prices paid by millers and the interprovincial movement of wheat
+are all controlled at the federal, provincial and district levels. The federal government establishes the procurement price at the
+beginning of each marketing year, together with targets for wheat procurement by provincial food departments and federal agencies.
+The government also sets the release price, which can be adjusted later during the marketing year.
+Provincial governments intervene heavily in the market, especially in the main wheat producing province of Punjab. The wheat stocks
+held by PASSCO and provincial governments (in Punjab, Sindh and
+Balochistan) comprise operational reserves, which are sold to millers on an as-needed basis, and strategic holdings, which are managed
+to support prices; however, there is no clear division between these two types of reserve. As only about one-fifth of households produce
+surplus wheat, and many farmers have to buy wheat, maintaining domestic wheat procurement prices at levels that are equivalent to
+or above import parity prices is likely to penalize many households
+(Dorosh and Salam, 2006: 3).
+
+What levels of market price support are applied?
+Market price support7 is an important element of the government’s policy for agriculture, and Pakistan has no specific commitments to
+reduce this support in its World Trade Organization (WTO) schedules.
+In January 2008, Pakistan provided the latest notification concerning its domestic agricultural support, which refers to MYs 2000/01 to
+2006/07 (Government of Pakistan, 2008) and includes market price support through administered prices. In this notification, Pakistan
+stated that agricultural producers received domestic support through the Ministry of Food, Agriculture and Livestock and other
+government agencies. All support was either exempt from reduction commitments or included in de minimis8 levels under the WTO
+Agreement on Agriculture.
+In the wheat sector, Pakistan applied the prices shown in Table 5.
+The government had gradually increased market price support to wheat producers by increasing State procurement prices from
+USD 122/tonne in MY 2001/02 to USD 175/tonne in MY 2006/07.
+This market price support is then compared with the USD 175/tonne external reference price for the 1986–1988 period to arrive at the
+figure in column 8 of Table 5.9
+According to the Organisation for Economic Co-operation and Development
+(OECD), market price support is an indicator of the annual monetary value of gross transfers from consumers and taxpayers to agricultural producers arising from policy
+measures that create a gap between domestic producer prices and the reference prices of specific agricultural commodities measured at the farmgate level.
+Some 34 WTO members (not Pakistan) have commitments to reduce their trade distorting domestic support in the Amber Box (i.e., to reduce their “total aggregate
+measurement of support”). For members without these scheduled reduction commitments, domestic support not covered by any of the exception categories
+must be maintained within the relevant “product-specific” and “non-product- specific” de minimis levels, which are 5 percent of the production value, or
+10 percent in developing countries.
+According to Annex 3 of WTO’s Agreement on Agriculture, the fixed external reference price is based on the years 1986 to 1988 and is generally the average free on board
+(FOB) unit value for the basic agricultural product in a net exporting country and the average cost, insurance, freight (CIF) unit value in a net importing country in the base
+period. The fixed reference price may be adjusted for quality differences as necessary.
+
+Table 5: Wheat market price support in Pakistan, 2001/02 to 2006/07
+Basic product
+Calendar/ marketing year beginning
+Type(s) of measure
+Applied administered price
+External reference price
+Eligible
+Associated fees/levies market price support
+USD/tonne
+USD/tonne
+(1986–1988 average)
+Million
+USD
+8 =
+((4-5*6) - 7)
+July 2006 support
+
+23 295
+July 2005 support
+
+21 277
+-42.5
+July 2004 support
+168.5
+
+21 612
+-140.5
+July 2003 support
+
+19 500
+-448.5
+July 2002 support
+
+19 183
+-901.6
+July 2001 support
+
+18 227
+-966
+Source: Government of Pakistan, 2008.
+As the external price used in the total market price support calculation provided in Table 5 was fixed at USD 175 for the
+1986– 1988 base period, the Government of Pakistan seems to have been moving gradually from negative price support (taxation) of
+wheat farmers in 2001 to positive price support.
+The move towards positive price support was accelerated by the food crisis in 2008 as domestic wheat prices from July 2008 to
+August 2010 remained well above international prices (Figure 14).
+The government maintained the procurement price of wheat at a fairly high level to encourage wheat production by farmers.
+As the government controls domestic wheat prices and effectively controls wheat imports, the domestic wheat market has been
+largely disconnected from the international one, as evidenced by the low correlation coefficient in Figure 14. Domestic wheat prices
+have remained well above international prices, specifically those
+
+in the Black Sea region (Kazakhstan, the Russian Federation and
+Ukraine), the newly emerged wheat supplier to Pakistan in the
+October 2008 to July 2010 period (Figure 14). Government import controls prevented imports of wheat through normal commercial
+channels, despite the relatively low import tariffs (see next section).
+In contrast to the highly distorted wheat market, the Government of
+Pakistan does not intervene heavily in rice procurement and market regulation. Local basmati rice prices are therefore closely correlated
+with international rice prices (Figure 15).
+Figure 14: International and Pakistan wheat prices, year (USD/tonne)
+
+Jan-06
+Jul-06
+Jan-07
+Jul-07
+Jan-08
+Jul-08
+Jan-09
+Jul-09
+Jan-10
+Jul-10
+Jan-11
+Jul-11
+Jan-12
+International Prices -
+Black Sea - Milling wheat
+- Export (USD/T)
+Pakistan - Karachi -
+Wheat - Retail (USD/T)
+Source: FAO GIEWS.
+
+Figure 15: International and Pakistan rice prices, year (USD/tonne)
+
+Jan-06
+Jul-06
+Jan-07
+Jul-07
+Jan-08
+Jul-08
+Jan-09
+Jul-09
+Jan-10
+Jul-10
+Jan-11
+Jul-11
+Jan-12
+International Prices -
+Thailand: Bangkok - Rice
+(Thai 100% B) - Export
+(USD/Kg)
+Pakistan - Karachi - Rice
+(basmati) - Retail
+(USD/Kg)
+Source: FAO GIEWS.
+However, it should be noted that the Government of Pakistan has managed to reduce the volatility of domestic wheat prices through
+its policies. From July 2008 to April 2012, internal wheat prices remained fairly stable compared with volatile international ones.
+What wheat import tariffs are applied?
+According to the WTO Secretariat, Pakistan’s main trade policy instrument remains the tariff, which is an increasingly important
+source of the country’s tax revenue, accounting for about one-fifth of the total. Virtually all tariffs (99.4 percent) are ad valorem, including
+those for the main agricultural products (Table 6).
+Imports of both durum and common wheat (Harmonized System codes 100110 and 100190) are subject to a 10 percent most-favoured
+nation (MFN) tariff.
+
+Table 6: Pakistan import tariffs and imports, by product group,
+2012 (percentages)
+Product group
+MFN applied duties
+Imports
+Average
+Duty-free
+Max.
+Duty-free
+Animal products
+14.6
+20.9
+50.1
+Dairy products
+30.0
+Fruits, vegetables, plants
+18.2
+12.2
+
+1.8
+75.0
+Coffee, tea
+12.8
+0.9
+Cereals and preparations
+18.8
+5.1
+0.7
+33.4
+Source: WTO, 2012.
+However, as evidenced from the price analysis, wheat imports into
+Pakistan are not effectively regulated by an import tariff. Instead, they are regulated by the State through State-owned trading and import
+control. TCP imports essential commodities on a non-profit basis under directives issued by the Economic Coordination Committee of
+the Cabinet, and exports agricultural goods produced by public sector corporations and agencies. TCP reportedly has no import monopoly
+or exclusive trading rights, and pays full taxes and tariffs on imports.
+Its main activity is selling imported urea to fertilizer manufacturers, but it also imports wheat, sugar and, periodically, pulses (lentils for
+daal), when these commodities are in short supply. These imports are then often sold at regulated/subsidized prices to millers or lower-
+income households (WTO, 2008).
+How is wheat procurement organized and what are the main government agencies involved?
+The agencies listed in Table 7 are tasked with the development and implementation of public support programmes within the
+Government of Pakistan.
+
+Table 7: Main government agencies and mechanisms for wheat procurement in Pakistan, 2008
+Government ministry/agency
+Key areas of responsibility
+Ministry of Food, Agriculture and Livestock Agricultural policy, fisheries, forestry, sanitary and phytosanitary regulation, quarantine.
+Agriculture Prices Commission
+Support prices.
+TCP
+Support prices, buffer stocks, State trading.
+PASSCO
+Support prices, buffer stocks.
+Ministry of Commerce
+Import and export policies, WTO coordination, South Asian Association for
+Regional Cooperation and other regional agreements, investment incentives.
+Source: Adapted from WTO, 2008.
+Wheat stocks are procured and maintained by provinces, and by
+PASSCO on behalf of the federal government. The provincial food departments release wheat to the market as needed throughout the
+marketing year. Laws prevent most private enterprises from carrying out large-scale wheat procurement and storage until government
+agencies have completed their purchases; exceptions are made for wheat processors such as flour millers and local Beoparis and
+Arthis,10 who provide farmers with credit and accept wheat in payment of farmers’ outstanding debts.
+The provincial government of Punjab is one of the main government procurement agents. Although wheat production in Punjab varies –
+depending on production and policy targets – there has been a clear upwards trend in procurement since mid-2000 (Figure 16).
+10 Beoparis and Arthis are small-scale traders operating in the private sector in Pakistan.
+
+Figure 16: Wheat production and procurement by the public sector in Punjab, 2001 to 2010
+2,5
+2,5
+3,5
+3,5
+3,5
+2,5
+2,5
+3,0
+6,0
+4,0
+2,5
+2,8
+2,4
+2,5
+2,4
+2,6
+2,6
+2,6
+5,8
+3,7
+19%
+15%
+
+2009 2010 (est)
+15%
+35%
+Production (left axis) mln MT
+Proc. Target (left axis) mln MT
+Procurement (left axis) mln MT
+Procurement (left axis) (right axis),
+% of production
+Wheat purchased by the government is transported by the private sector, with the government providing financing to offset the costs
+of transporting the wheat to deficit areas. As the moisture content of wheat at harvest is usually about 10 percent, procurement and
+transportation can start immediately after harvest, without delays for grain drying.
+Following procurement in April to May, the government stores the wheat in its own or rented private godowns (horizontal or flat-shed
+storage facilities) or in open-air ganjis (under tarpaulin or other covers). The government usually releases the wheat to millers from
+early October until the next harvest in April/May.
+The release price paid by millers is announced in advance of the season, and stood at PKR 1 000 per 40-kg bag – equivalent to
+PKR 25 000/tonne – in 2010. The government may lower the release price during the marketing year, as it did in 2009 when the price was
+cut from PKR 1 000 to PKR 975 per 40-kg bag.
+It is not clear how the release price reflects millers’ margins and flour sale prices. Dorosh and Salam (2006) indicate that major fiscal
+subsidies and economic rents are involved in sales of wheat to flour mills at below-market rates. These rents appear to accrue mainly
+to the millers who receive government wheat, and perhaps also to agents involved in the transfers. Although a sale price for flour
+
+may be stipulated, there is no effective mechanism for enforcing it.
+As the flour produced from government wheat is indistinguishable from that produced from market wheat, the prices of both are
+the same. Sales of flour milled from government wheat therefore generate substantial profits, and many wheat mills operate
+only from November to April, milling only government-supplied wheat. However, the analysis of flour milling margins outlined in
+the following section suggests that wheat milling may not be so profitable when flour prices are effectively regulated (see Dorosh
+and Salam, 2006 for more information).
+What are the costs of and revenue (or loss) from intervention in wheat prices?
+Table 8 provides estimates of government wheat procurement and sale prices and storage costs in 2010. Although government
+intervention in wheat procurement is justified for food security reasons (i.e. it cannot be considered a commercial transaction),
+it very likely results in overall losses to taxpayers as the wheat price charged to millers often does not cover the costs of wheat
+procurement (at the set price) and storage. Government wheat procurement, storage and financing resulted in estimated losses of
+PKR 3 750/tonne (about USD 44/tonne) in 2010/11.
+Table 8: Costs of and revenues from government wheat procurement in Pakistan, 2010/11
+Costs/revenue
+PKR/tonne
+Procurement price from farmers
+23 750
+Storage costs
+
+Bagging, transportation, labour, etc.
+
+Interest on commercial bank financing
+3 279
+Total costs
+28 750
+Release price to millers
+Revenue
+-3 750
+Margin over total costs (%)
+-13%
+* Negative revenue implies a loss.
+Source: Author’s calculations based on interviews in Punjab.
+
+Assuming that the government procures 6 to 7 million tonnes/year, annual losses from government procurement can reach PKR 23 to
+26 billion (USD 248 to 289 million).
+How profitable is milling government wheat?
+A World Bank report examining the Pakistan wheat sector in the immediate aftermath of the 2008 food crisis stressed that the
+government’s wheat policies were of low efficiency, with most of the benefits of wheat procurement and distribution accruing
+to wheat flour millers and traders. The government procurement scheme was also believed to create significant excess capacity
+in the wheat milling industry while crowding out private sector participation in wheat marketing. Some analysts suggest that there
+are about 1 000 flour mills in Pakistan (USDA/FAS, 2011).
+Flour milling also appears to be heavily regulated in Pakistan, including through licensing under the Flour Mills (Control) Order of
+1959, the allocation of domestic flour milling quotas, requirements for procuring wheat from particular sources, and fixed prices for flour
+sales. In particular, the responsible government agent (the controller) may from time to time direct producers and flour mill owners in
+general, or any producer in particular (SMEDA, 2008), to specify:
+• sources or locations for wheat production or purchase;
+• wheat products and quantities to be produced and/or the wheat
+varieties to be used, and the products and varieties to be avoided;
+• quantities, area markets, individuals, groups of individuals and/or
+organizations to be supplied, and the manner in which they are to be supplied;
+• rates to charge for cleaning or milling wheat; and
+• general regulations for the production, sale and delivery of wheat
+products.
+As well as from the government, flour millers also procure wheat from private sector traders, who are paid on delivery of the wheat,
+in contrast to the advance payment required for purchases from the government. Although the price of government wheat may be lower
+than the free market price, wheat purchased from the government may incur extra costs through its uncertain quality, mandatory
+weight discounts imposed by the government, and the obligation to sell whole wheat flour (Atta) at regulated prices. Current
+government policy does not stimulate millers to produce high-quality flour from government wheat.
+
+Government-subsidized wheat sales to private sector millers may have led to excess milling capacity in the industry, although any
+excess capacity should have resulted in increased competition among millers as they seek to maximize capacity utilization. Some
+analysts suggest that existing mills meet the consumption needs of
+40 percent of the population, with the remaining demand being met
+from farms’ own production (USDA/FAS, 2011).
+Gross margins for wheat milling can change significantly throughout the marketing year, moving from a negative value (i.e. when wheat
+milling incurs a loss from the sale of flour and by-products) to a strongly positive margin in a matter of months (FAO, 2009: 27–28).
+The analysis presented in Table 9 examines the profitability of wheat milling based on standard industry flour and bran output rates and
+wheat, wheat flour and bran prices. This analysis does not reveal any abnormal or excessive wheat milling profitability; given the
+regulation of wheat and flour prices, millers in Pakistan operate at relatively small or even negative margins. However, it should be
+stressed that this analysis was conducted for a single point in time and does not consider cost and revenue changes over time.
+Table 9: Estimated profitability of milling wheat procured from the government in Pakistan, 2011
+Cost/revenue
+Output coefficient
+%
+Output kg/tonne of wheat
+PKR/kg of output
+Income
+PKR/tonne of wheat processed
+Costs
+Wheat purchase (government release price)
+Wheat processing– flour milling costs (rough estimate)
+2 250
+Total costs
+27 250
+Revenues
+Flour output
+
+2 825
+21 753
+Bran output
+
+1 413
+2 966
+Admixture/foreign matter
+- including sellable grain admixture
+for feed
+1 130
+
+Total revenue
+24 832
+Margin (revenue minus costs)
+PKR/tonne of wheat processed
+-2 418
+Source: Author’s calculations (April 2011) assuming bran and sellable grain admixture prices of 50 and 40 percent of the wheat price respectively.
+
+What prevents the private sector from investing in improved wheat storage?
+As wheat purchase, transportation and storage are financially supported by the government and taxpayers, there are no incentives
+for grain sector participants (wheat traders, flour millers and others) to invest in improved infrastructure. They can simply maintain
+minimum wheat stocks while the government pays for wheat storage and associated losses.
+The existing system of procuring and selling wheat clearly creates significant market and investment distortions and results in significant
+losses to the economy. As discussed in Chapter 2 of this report, the
+Government of Pakistan carries the significant burden of “double- pricing” when wheat sales prices do not reflect procurement,
+financing and storage costs. The volumes of wheat purchased by government agencies could be rationalized to allow greater private
+sector investment in wheat storage and trade in the future.
+How does the government pay for wheat procurement?
+The Government of Pakistan uses commercial loans to finance the purchase, storage and sale of wheat and other commodities that
+it considers important for food security. Government procurement agencies and provincial food departments use government guarantees to obtain loans from private banks, which they must
+repay themselves. According to SBP, there has been a significant increase in bank credit for commodity operations over recent years,
+from PKR 107.4 billion (USD 1.25 billion) in fiscal year 2000/01 to
+PKR 414.2 billion (USD 4.8 billion) in 2010/11.
+The relatively high ending stocks reported by official sources in
+Pakistan mean that substantial quantities of wheat are stored throughout the marketing year. The cost of financing wheat procurement and storage is therefore significant, as commercial
+banks charge about 16 percent per annum on this type of financing.
+SBP estimates the value of wheat stocks in May 2011 at
+ PKR 159 billion (USD 1.9 billion), all of which had been stored for at least 8 to 12 months of the marketing year. The government has to
+pay all the related storage costs plus interest rates on the financing provided by commercial banks.
+
+Wheat is by far the most significant commodity subject to government intervention. In September 2010, it accounted for
+78 percent of all the outstanding bank credit guaranteed by the
+government, followed by sugar and fertilizers (Figure 17).
+Figure 17: Outstanding credit in Pakistan, by commodity,
+September 2010 (million PKR and percentage of total)
+303,308
+78%
+26,184
+34,887
+22,435
+Sugar
+Fertilizer
+Rice/Paddy
+Figure 18: Outstanding credit for purchases of the five main commodities in Pakistan, 2009 to 2011
+276.782
+267.498
+325.147
+303.308
+214.738
+June
+Sept
+June
+Sept
+No data
+No data
+May
+Rice/Paddy
+Fertilizer
+Sugar
+Prudent management of commodity interventions can reduce the associated public losses, but it cannot eliminate them completely.
+The limited evidence on outstanding credit repayment at the time of finalizing this report made it impossible to determine whether
+the Government of Pakistan closes all of its obligations at the end of each wheat marketing year or systematically carries outstanding
+obligations over from one year to the next (thus resulting in over reporting of commodity stocks). However, data on the credit
+
+disbursed to finance wheat purchases in May 2011 (i.e. just one month into MY 2011/12) show financing of PKR 214.7 billion
+(Figure 18), so it is likely that the government carries over outstanding debt obligations from one marketing year to the next.
+Which banks finance government procurement?
+About 20 banks are engaged in financing Government of Pakistan commodity procurement. United Bank, National Bank, Muslim
+Commercial Bank, Habib Bank and Allien Bank (the top five financiers) decreased their total share of commodity financing from 85 percent
+in June 2009 to 75 percent in September 2011 (Figure 19b).
+Figure 19: Bank involvement in government commodity purchase financing in Pakistan, June 2009 to September 2010
+19a: Million Pakistan rupees
+19b: Percentages
+June 2009 Sept 2009 June 2010 Sept 2010
+Other banks
+United Bank
+National Bank
+MCB
+Habib Bank
+Allied Bank
+18%
+18%
+18%
+15%
+15%
+15%
+18%
+June 2009 Sept 2009June 2010 Sept 2010
+The province of Punjab is the major wheat producer in Pakistan. This explains the leading role of the Food Department of the Government
+of Punjab in borrowing, with 37 to 48 percent of all the credit required for financing commodity purchases. The Government of
+Punjab is followed by PASSCO, TCP and the Food Department of
+Sindh as other leading government borrowers (Figure 20).
+
+Figure 20: Outstanding credit for government commodity purchases by Pakistan institutions, June 2009 to September 2010
+20a: Million Pakistan rupees
+20b: Percentages
+June
+Sept
+June
+Sept
+No data
+No data
+May
+Food Dep.
+of Sindh
+Food Dep.
+of Punjab
+Trading
+Corporation of Pakistan
+Pakistan Ag.
+Storage & Supplies Corp.
+22% 22% 19% 20%
+21%
+25% 26% 23% 20%
+44% 44% 46% 48%
+37%
+8%
+8%
+10% 10%
+11%
+June
+Sept
+June
+Sept
+No data
+No data
+May
+Commercial banks see little risk in providing financing for government commodity purchases, as these loans are backed by government guarantees. It is likely that banks would want to see the
+current system of commodity procurement continue in the future.
+Is the current system of commodity financing sustainable in the long run?
+Considering its particularly high costs, the existing system of government procurement and financing can hardly be sustained
+in the long run. Borrowing from commercial banks to finance loss- making public procurement also increases the exposure of the
+banking system to possible default.
+IMF has already expressed concerns regarding government borrowing from banks for wheat procurement, as it compromises the liquidity
+available for the private sector and may squeeze the credit resources available to other sectors of the economy and to private sector
+agricultural development. IMF has asked the Government of Pakistan to limit spending on wheat procurement as part of the negotiations
+for providing financing to cover the government’s budget deficit.
+High interest rates constitute a significant cost item in government wheat procurement, adding 11 percent (PKR 3 279/tonne) to the
+costs of purchasing wheat. As storage costs cannot be significantly reduced, the government needs either to reduce the procurement
+
+price by about 16 percent or to increase its release price by
+15 percent to reduce its losses to zero.
+Will policies in the wheat sector change?
+It is clear that the current system of wheat procurement and sale creates significant market distortions and results in a significant loss to
+the economy. As discussed in Chapter 2, these losses are compounded by physical grain losses due to inadequate grain storage infrastructure.
+Given the fiscal pressure of government policies in the wheat sector, a change in the policy will be essential. The Trade Policy Reviews of
+Pakistan conducted by the WTO Secretariat in 2008 (WTO, 2008) noted that there has been discussion of a progressive reduction of
+government intervention and the implementation of a more market- based approach to achieve the dual objectives of food security
+(ensuring food availability at affordable prices) and guaranteed minimum prices for producers. It is also essential that the new policy:
+• makes a clear distinction between guaranteed minimum prices
+(fixed and announced prior to the season) and procurement prices (variable depending on market conditions);
+• provides for a strategic reserve (initially of 1 million tonnes) to be
+maintained for price stabilization and emergency purposes, as distinct from the operational stock used for regular releases on to
+the market during the transitional period to the new policy;
+• sets price bands for procurement and marketing within which the
+private sector can operate freely;
+• opens imports and exports to the private sector, subject to
+occasional adjustments for food security reasons; and
+• allows producers to sell to the government or the private sector.
+Can post-harvest finance instruments facilitate improved access to financing?
+Warehouse receipt financing and similar types of collateralized lending are alternatives to the traditional lending requirements of
+banks and other financiers and could provide opportunities to expand lending for agricultural trade. It is generally agreed that innovative
+approaches for collateralized lending mechanisms could help expand post-harvest financing for producers, traders, processors and other
+agribusinesses (Baldwin, Bryla and Langenbucher, 2006). A grain warehouse receipt system (WRS) for post-harvest financing has
+
+also been considered as an alternative for farmers, processors and traders who need access to short-term financing after harvest.11
+Some analysts have suggested establishing a national collateral company to “provide and secure the end-to-end trade flow of the
+physical trade as well as delivery system which will also act as a conduit for canalizing capital flows to Global derivative financial
+markets including Commodity Markets” in Pakistan (Commodities
+Risk Management). However, in post-harvest financing, the interests of wheat supply chain actors and the government are different.
+Given the significant volumes of government wheat procurement in Pakistan, and the higher wheat prices paid to farmers compared
+with prices on the international markets, farmers have few incentives to collateralize their wheat rather than selling it directly to
+the government immediately after harvest.
+For other actors in the wheat supply chain (traders, financing institutions, etc.), a WRS would probably allow higher levels of
+liquidity for “free market wheat” because the pledged commodities always have clear market prices and warehouse receipt owners
+usually have the right to claim the collateral before other creditors.
+For the government, a WRS has the potential to reduce the burden of costly credit from domestic banks by attracting foreign capital.
+With the current cost of credit for wheat purchases at 16 percent per annum and the storage terms of ten months, the government
+spends an estimated USD 250 million in annual interest under the existing wheat procurement programme. Assuming that international financing institutions are available and willing to finance
+local wheat procurement, exchange rate risks and the interest rate could be lowered from their current 16-17 percent to 10-14 percent,
+decreasing the costs of financing to USD 190 million/year.
+However, this option will remain hypothetical until appropriate support policies are in place. It would be against the government’s
+interest to collateralize its wheat, which is needed for physical interventions in the domestic market (e.g. sales to millers) to
+stabilize prices. It is also doubtful that foreign private or institutional investors would be comfortable with this kind of collateral because
+of their limited pledge enforcement rights against the Government of Pakistan in the case of a dispute.
+
+11 A WRS is based on the use of storage facilities, licensed as public warehouses, which
+store grain for third parties and issue warehouse receipts (USAID, 2007; EBRD, 2004).
+
+What is the structure of the wheat market and storage?
+About 65 to 75 percent of the total wheat produced in Pakistan is stored at the farm. Smaller farms generally keep more grain
+for consumption, so the quantity of wheat entering commercial channels from farms of up to 4.5 ha is insignificant. The breakdown
+of stocks held by various public and private sector actors in 2007/08 to 2009/10 is given in Table 10.
+Table 10: Grain storage by the public and private sectors in
+Pakistan, 2007/08 to 2009/10 million tonnes
+% of average wheat
+Government procurement
+5.23
+Retained for seed (farmers, seed companies)
+0.83
+4.75
+Stored at farm for own consumption
+5.08
+29.14
+Stored by flour millers as buffer stocks
+3.31
+19.00
+Stored by large farmers (≥ 20 ha) and private traders
+2.98
+17.10
+17.42
+100.00
+On the farm, major food grains are usually stored inside the house or in the courtyard in specially constructed mud bins, protected by
+covers. Wheat may also be stored in heaps covered by straw, loose in a room, or in bags, metal bins, baskets and pots. These widely
+contrasting storage practices explain the wide range of storage losses across Pakistan.
+There are various types of grain storage facilities in the country.
+Most storage is in sheds called godowns, but binishells, hexagonal bins and silos are also used. Details of storage structures in Pakistan
+are given in Table 11.
+Chapter 2 - Wheat quality, losses and the feasibility of investment in grain elevators
+
+Table 11: Large-scale grain stores used by the public and private sectors in Pakistan
+Store type
+Share of total capacity
+Description
+Conventional warehouse
+(godowns)
+Warehouses of various designs and capacity, from 500 to
+1 600 tonnes, constructed to suit local climate conditions
+and – especially – bag handling requirements.
+Hexagonal bins
+Mostly constructed before 1947. Structures of beehive shape with capacity of 35.7 tonnes per bin and
+500–3 000 tonnes per site. Bins are supported on columns 2.6 m above ground level. Each bin has a conical, reinforced concrete hopper at the bottom to facilitate
+the flow of grains through a 15 cm diameter spout, fitted with a lock. Access to the bins is by a centrally positioned covered opening in the common roof about 9 m above
+floor level. Each site has a 1.2 m-wide staircase for carrying bags of grain to be emptied into the bins.
+Binishells
+Dome-shaped structures made of reinforced concrete, built to increase covered storage capacity in an emergency. The domes are about 10 m high with a floor
+area of about 32 m in diameter. Each binishell has a storage capacity of 1 500 tonnes of bagged grain.
+Bunkers
+Of Australian design and built in the 1990s with World
+Bank funding. Mostly held by PASSCO in Punjab, Sindh and Balochistan. Not utilized as bulk storage owing to a shortage of PVC sheets and other technical reasons.
+Concrete/ steel silos
+Previously the only metal silos had been constructed in the early 1960s to provide 42 000 tonnes of storage in
+Multan. Imported steel silos are now mostly used by the feed industry at various locations. Concrete silos have capacity of about 50 000 tonnes per complex. Each
+complex has a double row of 6 bins and 1 row of 3 bins.
+Each bin has a flat base about 0.6 m above ground level.
+Poor design is reported to prevent the grain at the bottom of the bin from being emptied.
+Temporary open storage
+(ganjis)
+As required
+About 60% of wheat stocks are stored in bags outdoors.
+Stacks of bags are stored on date mats or polyethylene and are covered with polyethylene. There are major concerns about deteriorating grain quality in these stacks.
+Source: FAO.
+The Food Department of Punjab alone has a storage capacity of approximately 2.5 million tonnes, which could be increased to
+2.6–2.7 million tonnes by modifying storage procedures, such as by increasing the stack height and storing in bag/bulk combinations. Data
+on agricultural storage capacity in Pakistan is presented in Table 12.
+
+Table 12: Public sector storage capacities in Pakistan, 2001
+Agency
+Million tonnes
+%
+PASSCO
+1.3
+25.0
+Punjab Food Department
+2.45
+47.1
+Sindh Food Department
+0.71
+13.7
+NWFP Food Department
+0.16
+Balochistan Food Department
+0.58
+11.2
+Public sector total
+5.2
+NWFP = North-West Frontier Province.
+Source: Asian Development Bank, 2001.
+Food departments can also rent storage space from private owners.
+An estimated 2.9 million tonnes of wheat could be stored in open-air ganjis, but storage in ganjis results in substantial losses of wheat
+quantity and quality. It is clear that additional storage space is needed to meet present and future needs in the short and medium
+terms (15 years). The breakdown between open-air and covered storage in Punjab is provided in Table 13.
+Table 13: Covered and open-air stocks held in Punjab, 2000 to 2010
+Year
+Maximum open-air
+(million tonnes)
+Maximum covered
+(million tonnes)
+2.51
+4.10
+
+0.99
+2.89
+
+1.49
+2.72
+
+0.95
+1.66
+1.08
+1.43
+1.32
+1.16
+1.65
+2.28
+1.28
+1.37
+1.00
+1.57
+2.95
+3.05
+2010*
+2.70
+1.02
+* Up to August 2010.
+
+What is the extent of wheat storage losses?
+Quantifying wheat losses in Pakistan is difficult because of the limited information available and the official “zero loss tolerance”
+policy in government procurement. Quantitative losses are physical and can be measured in weight, while qualitative losses can be
+assessed in monetary values based on the extent of a specific parameter’s deterioration during wheat storage (e.g. deterioration
+of wheat gluten quality leading to a lower wheat price). The major biotic factors influencing wheat loss during storage are insects,
+mould, birds and rodents. Temperature, humidity and type of storage also affect storage conditions.
+Losses in different storage types can range from 0.1 to more than
+10 percent. Such wide variation depends on the quantity stored, the
+storage period, the consumption pattern, the condition of the grain at storage, and the pest control methods used.
+Covered storage wheat losses
+Wheat loss estimates suggest that an average of about 2.5 percent of wheat is lost in covered storage in Pakistan every year, as shown
+in Table 14.
+Table 14: Estimated wheat losses during storage in godowns in
+Pakistan, 2010
+Interviewed
+Private godowns
+Government godowns
+Average
+Aarthis, millers and godown supervisors
+3–4%
+Flour millers
+1­–2%
+Stockists
+Average
+3.5%
+2.5%
+Losses due to insect infestation occur in all regions of Pakistan, but are higher in Karachi (Sindh) and Peshawar (NWFP). The higher
+losses in Karachi may be caused by general temperatures that are favourable to insects, and higher relative humidity, which is also
+conducive to insect growth. In Peshawar (NWFP), the average loss due to insect pests in wheat stored for two years is 8.9 percent,
+reaching as high as 15 percent (Highley et al., 1994).
+
+These are probably extreme rather than usual losses, and estimates from the most recent International Finance Corporation
+(IFC) research were used in the analysis for this report. For more information on pest control, please refer to Annex 2.
+Mould damage is not a serious problem in Pakistan, where wheat stored at procurement is usually dry, with not more than 10 percent
+moisture content. During the rainy season the moisture content of stored grain may rise, but the average rarely exceeds 12-13 percent.
+In Pakistan, bagged grain stacked in sheds can be damaged by mould because of rainwater leak. Rain occasionally enters through
+open or broken windows or through doors when they are opened to allow ventilation. Wheat stored in bins can also be susceptible
+to mould damage, particularly the surface layers, as a result of condensation forming on the inner side of the bin cover. Moisture
+migration following the activity of insects is common in bulk-stored grain, but it is also noted in bag stacks.
+Open-air storage wheat losses
+Grain stored under tarpaulin sheets in the open is always at risk, and such stocks suffer heavy losses. As wheat is harvested in April, the
+government normally releases its stocks from October onwards, thus requiring an average of nine months of storage. Based on
+recent studies conducted by IFC technical consultants, the bottom layer of bags stacked in ganjis suffers 50 percent damage after
+three months, and is 100 percent damaged after six months. The corresponding wheat losses for open storage are given in Table 15.
+Table 15: Estimated wheat losses during open storage in Pakistan, 2010
+Particulars
+No. of bags in ganji
+No. of bags lost at
+3–6 months
+No. of bags lost at
+6–12 months
+Inner layer
+2 337
+-
+-
+Outside layer
+1 000
+-
+-
+Bottom layers
+
+Total bags
+3 603
+
+Percentage
+3.7
+7.4
+
+The IFC consultants estimated the annual cumulative economic losses due to wheat quantity and quality deterioration and other
+factors in the current bag handling system at PKR 3 874/tonne.
+What is a “zero loss tolerance” policy?
+Currently the Government of Pakistan does not officially recognize any weight loss of wheat held in storage, irrespective of the length of
+storage or the handling methods. As it is impossible to avoid storage losses in godowns and, especially, ganjis ­– where wheat is exposed
+to the sun, rain and humidity, birds, rodents and other factors – application of a no loss policy is unfair to all market operators. In
+practice, losses are usually covered by a 5 percent weight discount at the time of wheat procurement from farmers. Millers also often have
+to accept a 5 percent reduction from the recorded weight of wheat when they purchase it from the government.
+Whether actual losses are absorbed by the existing government procurement and financing system and/or by farmers or are carried
+on to millers and consumers in the form of weight reductions, they represent a significant overall economic loss for Pakistan. Thus, the
+loss recording system for government wheat storage should recognize allowable losses depending on the type of storage and its length.
+What wheat quality control system is used in Pakistan?
+Quality testing and sampling appear to be arbitrary in Pakistan. The traditional sampling method is to pierce a bag with bamboo, take
+a sample randomly from the bag and subject it to visual inspection by godown staff. There is need to introduce a systematic laboratory
+testing and certification scheme, to protect the interests of farmers and millers. Such a system could be controlled by a third-party
+commercial agent or the government.
+There is no national wheat standard in Pakistan. Wheat quality is verified against the FAQ, which specifies quality parameters such
+as foreign (non-food) matter, and damaged or shrivelled kernels.
+Procurement employees of government food departments have to adhere to FAQ standards (Table 16) when buying wheat. The FAQ
+scheme also provides guidelines for checking weight. The advantage over a typical wheat standard is that variations can be introduced to
+the FAQ scheme every year.
+
+Table 16: Fair average quality standards for wheat in Punjab
+Quality criterion
+Tolerance limit
+Rejection limit
+Moisture
+Over 10%
+Dust, dirt and other non-edible matter
+0.5%
+1.0%
+Other foodgrains
+3.0%
+5.0%
+Shrivelled/damaged grain
+3.0%
+5.0%
+Weevil-/insect-damaged grain
+New crop until August
+Nil
+Nil
+September and October
+0.5%
+1.0%
+November and December
+1.0%
+2.0%
+January onwards
+3.0%
+The FAQ concept reportedly originated in the grain exchanges of
+Lahore, Lyallpur, Okara, Multan and other cities in the 1930s. FAQs were developed for each exchange and adjusted to the quality of
+each harvest.
+The FAQ scheme sets limits for moisture content and shrunken, broken and insect-damaged kernels: all indicators are assessed via
+visual inspection and the scheme is believed to have no legal status for possible litigation. It is not effective for bagged wheat, because
+it is difficult to implement during busy procurement seasons when a few food department employees have to perform all the duties
+related to procurement, including completion of accounting and other paper work. The FAQ system will likely lose credibility as the
+wheat market develops and consumers put more emphasis on the quality of bread and other products. The limitations of the system
+are summarized in Table 17.
+Using FAQ specifications for wheat exports is not possible because importers have their own specifications and minimum parameters of
+quality and safety indicators, including test weights, protein content and falling numbers.
+
+Table 17: Impacts of the FAQ scheme and the zero loss policy on wheat distribution and consumption in Pakistan
+At procurement
+During storage
+At consumption
+No objective test of grain quality.
+Impossible to determine changes in quality during storage.
+Uncertain milling yields and products.
+Purchase of wheat with excessive impurities and moisture.
+Increased risk of grain deterioration.
+Higher processing costs.
+Greater opportunity for irregularities.
+Higher handling and storage costs.
+Higher consumer prices.
+Sellers adulterate grain to offset cost of procurement malpractices.
+Storage managers adjust quality to cover losses.
+Less food for consumers.
+Honest sellers and producers not rewarded monetarily.
+No incentive to purchase good-quality wheat.
+Poor nutritional food value.
+Source: Famine Early Warning Systems Network survey responses 2007.
+EU wheat procurement and Ukraine national wheat standards are provided in Annexes 3 and 4 respectively to demonstrate the
+kinds of quality parameters monitored. A sample wheat import specification from the United Arab Emirates – one of Pakistan’s
+trading partners – is provided in Table 18, along with International
+Organization for Standardization (ISO) and EU standards, to illustrate specific requirements for wheat trade.
+Table 18: Sample import specification requirements for wheat
+Criterion
+United Arab Emirates
+ISO/EU
+Moisture
+Test weight
+Foreign matter (non-edible)
+Foreign matter (edible)
+Shrivelled and broken grain
+Bug- and heat-damaged grain
+Gluten (wet)
+Protein on dry-matter basis (N x 5.7 DMB)
+Hagberg falling number
+W
+Live insects
+Max. 12%
+Min. 76 kg/hl
+Max. 2%
+Max. 3%
+Max. 3%
+Max. 3%
+Min. 26%
+Min. 12.%
+Min. 250 sec
+Nil
+Max. 14%
+Min. 75 kg/hl
+Max. 2%
+Max. 5%
+Max. 4.5%
+Max. 2%
+Min. 21%
+
+Nil
+Sources: Grain trading companies in Pakistan.
+
+Comparisons between import specifications and FAQs show that the FAQ scheme does not reflect important parameters related to
+types of wheat damage, falling number and other quality indicators that interest millers (both international and domestic).
+How does the current system of wheat storage function?
+The wheat procurement system relies heavily on using bags for grain during transportation from the thresher/harvester to the
+collection point/flag station, transportation from the flag station to the receiving station, weighing at the receiving station, and loading
+and unloading at each transfer point and at storage points. A small fraction of government stocks is stored in bulk, but even this grain is
+handled and transported in bags.
+Given Pakistan’s position as an important global wheat producer and occasional exporter, and technological advances in wheat storage,
+there is a clear need for a bulk grain storage system. Officials interviewed during field missions had various views regarding a shift
+to bulk handling. Most supported the idea of bulk storage, but some were opposed, for reasons that included possible resistance by
+farmers and traders and lack of adequate transportation infrastructure.
+Two types of bags are used for wheat storage and transportation in
+Pakistan: jute bags and polypropylene (PP) bags.
+Jute bags are more durable and flexible than PP bags. Durability reduces operating costs and facilitates airflow, which is generally
+desirable for maintaining the quality of stored products and during fumigation. Flexibility allows greater storage capacity for
+warehouses/godowns because stack heights can be increased, especially when storage space is in short supply, as in the
+2009 harvest season. However, jute bags harbour insects and fungal
+infestations more easily than PP bags.
+PP bags have a tendency to tear during handling and transportation, resulting in higher losses than jute bags. Jute bags are more durable
+and can be reused more often than PP bags. The flat plastic fabric of PP bags quickly deteriorates under the sun, becoming brittle.
+One of the main advantages of PP bags is their lower cost, which is reported to be about 60 percent the cost of jute bags. PP bags are
+also more readily available.
+
+Regardless of the type of bag used, the bag system has major deficiencies for fast intake and movement of wheat during the peak
+procurement season. Coupled with deficiencies in the FAQ system, the bag system creates opportunities for intentionally adding foreign
+material into the bags. Maintaining an inventory of bags also puts an additional burden on the procurement system.
+How would a bulk storage system work?
+A bulk grain storage and handling system requires power, facilities, a skilled labour force and adequate supporting infrastructure (roads,
+water supply, electricity, etc.). Bulk storage emerged in the United
+States of America, Canada and Europe in response to demands for higher-quality grain and the faster pace of grain movements both
+domestically and in international markets. It is widely known as the grain elevator or silo system and has become the dominant system
+of grain storage in all major producing countries.
+In the meantime, while food departments in Pakistan move from the bag to the bulk system, and corresponding permanent storage
+capacities are built, the lack of storage facilities can be compensated for by recent developments in grain storage technologies: silo bags
+and flexible containers, which can serve as temporary bulk storage during the transition period from the bag to the bulk system (Table 19).
+Table 19: Permanent and temporary storage options in Pakistan
+Storage system
+Bag system
+Bulk system
+Permanent storage facilities
+Standard warehouses (shed-type godowns)
+Ganjis (outdoor storage with bags stacked on plinths and covered by tarpaulins)
+Concrete silos
+Steel silos
+Bulk warehouses
+Open bulkheads (grain held outdoors between prefabricated steel walls and covered with PVC sheeting)
+Temporary storage facilities
+Flexible containers (cocoons)
+(airtight, unsupported rectangular structures made of lightweight ultraviolet-resistant PVC)
+Silo bags (heavyweight plastic tubes, usually about 8–12 feet
+[2.4–3.6 m] in diameter and of variable length)
+Sources: IFC, 2010; author’s estimates.
+
+Two types of bulk storage can be considered for Pakistan: permanent storage (concrete and steel silos), and temporary storage (silo bags).
+These options would serve the needs of different conditions in
+Pakistan. The main cost elements are provided in Table 20.
+Table 20: Permanent and bulk storage options and considerations for Pakistan
+Concrete silo
+(permanent)
+Silo bag
+(temporary)
+Capacity (tonnes)
+50 000
+50 000
+Cost (USD)
+10 million
+205 800*
+Period of use (years)
+Up to 100
+*Including cost of grain loading/offloading machinery as described in Annexes 5 and 6.
+Sources: IFC, 2010; author’s estimates.
+Temporary storage considerations
+The silo bag is a special kind of hermetic bag that creates unfavourable conditions for insect pests and fungus and reduces
+the activity of the grain inside the bag. The basic principle behind hermetic storage is the elimination of oxygen to a level
+that suppresses or inactivates the reproductive capacity and/or development of insects and fungus. Temporary storage facilities can
+be used for safe and cost-effective on-farm storage in production areas and for temporary storage at the flag centres (where the grain
+is first purchased from farmers). More information on temporary storage facilities is provided in Annexes 5 and 6.
+Permanent storage considerations
+Analysis carried out by an IFC technical team in 2010 suggested that in Punjab, a concrete elevator would cost less than a steel
+elevator. Concrete elevators also protect wheat from radial heat and monsoon rains better than steel ones do. The construction of a steel
+elevator outside Pakistan was estimated to cost about 20 percent less than that of a concrete elevator. However, lower labour and
+cement costs in Pakistan make concrete elevators a better technical option for Pakistan.
+Nonetheless, large and medium feed millers and oilseed traders have invested in steel silos when working in similar climatic
+conditions, as confirmed during face-to-face interviews with leading traders in Karachi. It is therefore highly desirable that private sector
+
+investors be free to select the elevator types that they feel best suite conditions in Pakistan.
+Would the public–private partnership concept help in addressing wheat storage issues?
+PPPs are usually referred to as a “working arrangement based on mutual commitment (over and above that implied in any contract)
+between/among public sector organization/s and any organization/s outside the public sector” (Bovaird, 2004). Such partnerships can be
+sectoral in nature, with public sector agencies partnering with the private sector, civil society and/or non-governmental organizations
+(NGOs); range from loose networks to collaborative, power sharing, consultative or contractual arrangements; be supply side-oriented,
+demand side-oriented or mixed; and be vertical, horizontal or a combination of both. The establishment of PPPs for agricultural
+development is a response to financial constraints in the public sector/State (resulting in a “marriage for money”), the management
+expertise available in the private sector, and other factors (FAO, 2011).
+PPPs are probably the most acceptable intervention for improving the current state of grain handling and storage in Pakistan.
+Involvement of the private sector should allow private operators to make rational decisions regarding grain silo types, locations and
+management methods. In return, the government would obtain reliable and quality storage for its wheat, which would reduce the net
+economic losses of the current bag storage and handling system.
+What economic benefits would improved wheat storage bring to Pakistan?
+It is generally agreed that the initial investment costs of bulk facilities exceed those of a bag system. Decisions regarding
+whether to invest in bulk or bagged wheat storage are therefore based on examining the anticipated NPVs and IRRs of the two
+potential investments. Earlier research by the United Kingdom of
+Great Britain and Northern Ireland’s Department for International
+Development (DFID) (Table 21) suggest that investment in bulk grain storage and handling would be far more profitable than maintaining
+the current bag system in Pakistan.
+
+Table 21: Comparative returns on investment in the bulk and existing systems in Pakistan
+Return
+NPV
+IRR
+Bagged storage (assumes 4% reduction in storage losses) of additional 3 million tonnes of flat storage
+USD 115
+8%
+Bulk storage (assumes 5% reduction of storage losses) of additional 3 million tonnes of elevator storage
+USD 636
+Source: DFID, 2009.
+To assess the potential economic benefits, the analysis used the most recent investment and operating cost estimates for constructing a 50 000 tonne grain elevator (based on IFC, 2010).
+Identifying potential benefits and income
+There would be a substantial reduction in costs associated with moving from the existing bag to the bulk (elevator) handling and
+storage system. The potential economic benefits of this switch can be calculated by:
+(i) treating the reduction from current wheat handling costs and
+losses as the elevator project’s incremental benefit;
+(ii) adding the income that a private elevator owner would generate
+from storage fees charged to third parties; and
+(iii) adding the income that could be generated from physical grain
+trading activities based at the elevator (which is not included in the calculations in Table 22).
+Benefits (i) and (ii) can be quantified as shown in Table 22.
+
+Table 22: Potential benefits of switching to the bulk grain handling system in Pakistan
+Income element
+Costs per tonne
+PKR/year
+Costs per
+50 000-tonne
+elevator million PKR/year
+Bag handling system
+9 359
+
+Bulk handling system (grain elevator)
+4 501
+
+Cost reduction (2 – 1) = cost saving/ potential income from elevator investment project
+4 858
+
+Storage rent fees (current levels), PKR/ tonne
+
+Total incremental income from the project (3 + 4), PKR/tonne
+5 683
+
+Sources: IFC, 2010: 1 and 2, Table 6-6; 3, Table 1-8; author’s calculations.
+Costs
+Construction of a 50 000 tonne elevator in Pakistan is estimated to cost about PKR 880 million, including land acquisition, construction
+of silos and secondary buildings, purchase of machinery, engineering, software, services and contingencies. These investment costs are equivalent to approximately USD 10 million
+at an average of USD 202/tonne of storage capacity. Estimated operating costs would total PKR 23 million/year (recurrent), or
+approximately USD 270 000/year, for maintenance, repairs, electricity, payroll and other expenses, as indicated in Table 23.
+SBP has recently introduced a programme to encourage private businesses to construct grain silos by facilitating commercial bank
+lending at reduced interest rates of 8 to 12 percent per year, but no information on the implementation of this programme or on its
+successes was available when this report was being finalized. The current market (undistorted) interest rate of 16 percent was used to
+derive the discount rate for calculating the economic efficiency of the project.
+
+Table 23: Costs of constructing and operating a 50 000-tonne concrete elevator in Pakistan, 2010
+Cost item million PKR
+I. Capital costs: buildings, land, machinery, engineering, software, contingencies
+
+II. Total operating costs, million PKR/50 000 tonnes/year including:
+Operational, administrative, maintenance and personnel
+5.80
+Electricity
+4.4
+Fumigation/chemicals
+Maintenance/repairs
+4.25
+Insurance
+8.2
+III. Annual discount rate (cost of capital) %
+IV. Project duration, years
+Sources: IFC, 2010 for capital and operating expenses; author’s calculations.
+Based on the information in Table 23, investment in grain elevators has the potential to generate substantial economic benefits
+measured by the NPV and IRR shown in Table 24.
+Table 24: Results of economic analysis of investment in grain elevators in Pakistan, 2010
+Indicator
+Value
+NPV, million PKR
+
+Economic IRR, % per annum
+29%
+Source: Author’s calculations.
+Thus, investment in grain elevators for wheat storage in Pakistan could result in significant economic returns that exceed the
+16 percent discount rate and have significant potential benefits of
+interest to potential PPPs.
+Will investments in elevators be financially sustainable?
+High economic efficiency of investment in grain elevators does not necessarily guarantee financial viability.12 The largest share of
+economic returns (PKR 243 million or 85 percent of total anticipated
+12 More information on the differences between economic and financial analysis is available
+from http://rru.worldbank.org/documents/toolkits/highways/3_public/33/3333.htm.
+
+returns) in the analysis described in the previous section originates from reduced wheat storage losses and handling costs. Most
+of these costs are currently borne by the government’s wheat procurement system, or carried on to farmers and final consumers
+through the supply chain (see the section on zero loss tolerance).
+Only PKR 41 million/year, or about 15 percent of the anticipated cash flow forming the NPV in Table 24, is actual monetary cash income
+from elevator storage, cleaning and other fees.
+In addition, the relatively high discount rate (16 percent) pushes the anticipated investment payback period to beyond the five to seven-
+year period considered acceptable by local commercial banks or international financing institutions working with private sector clients
+in Pakistan. Table 25 shows the results of analysis of the projected cash flow to determine a possible payback period for potential
+investors and their financiers.
+Table 25: Anticipated investment payback period in Pakistan
+(million Pakistan rupees)
+Project year
+Loan and interest balance at year end
+Interest
+(16%)
+Loan and interest due in current year
+Repayment of loan and interest
+Outstanding credit balance at year end
+Y1
+-440
+-70
+-510
+-510
+Y2
+-950
+-152
+-1102
+
+-960
+Y3
+-960
+-154
+-1113
+
+-829
+Y4
+-829
+-133
+-962
+
+-678
+Y5
+-678
+-108
+-786
+
+-502
+Y6
+-502
+-80
+-583
+
+-298
+Y7
+-298
+-48
+-346
+
+-62
+Y8
+-62
+-10
+-72
+
+Source: Author’s calculations based on the following assumptions: (i) Y1 – start of elevator construction, disbursement of 50 percent of PKR 880 million total investment
+costs; (ii) Y2 – completion of elevator construction, disbursement of remaining
+50 percent of investment costs, generation of first income; (iii) income in Y2 equals
+50 percent of that in Y3 and any subsequent year; (iv) no grace period envisaged for
+interest payments, i.e. interest charged from Y1 and carried over to the balance of the loan principal until repayment; (v) elevator owner/borrower uses 100 percent of
+income generated (cost savings and storage fees) each year until full repayment of loan and interest; and (iv) own capital of 25 to 30 percent of total project investment
+costs of PKR 880 million included in the calculations.
+
+Elevator investors can expect a payback period of seven to eight years, which is slightly longer than the five to seven-year capital
+financing terms generally accepted in Pakistan. A long-term lease or minimum throughput contract between the government and
+the elevator operator would therefore be required to reduce the creditor’s risk and guarantee investment financing.
+One of the main risks to the commercial and financial sustainability of this kind of project is that the main economic benefit is not
+transferred directly to the private owner of a grain elevator in monetary (financial) terms. Unless the benefits from reduced wheat
+losses and handling costs are transferred to the elevator owner/ operator, such a project will not be financially viable. Incomplete
+utilization of an elevator’s capacity after construction – because of the transition to bulk handling, changes in local government policy,
+or competition with traditional wheat storage and handling systems
+– poses an additional major risk for investors.
+Sensitivity to risks
+As with any other investment project, the feasibility of grain elevators in Pakistan depends on a number of key variables and risks, such as
+possible increases in investment and operating costs, or a sudden decrease in revenues. Table 26 shows the results of testing the
+investment model’s sensitivity to major risks to determine threshold levels for revenues and costs (i.e. the changes in input variables that
+would be required to bring the project’s NPV to zero).
+Table 26: Investment sensitivity to major risks of bulk storage in
+Risk
+Anticipated level million PKR
+Critical level million PKR
+Critical change %
+Decrease in anticipated revenues due to lower grain loss reduction (i.e. lower cost savings from lower-than-anticipated loss reductions)
+
+-47
+Decrease in wheat storage fees due to incomplete utilization of the silos or competition from traditional storage facilities
+-100
+Increase in investment cost during construction/start-up phase
+
+Increase in elevator operating costs during
+25-year project life
+
+Source: Author’s calculations.
+
+Based on the analysis shown in Table 26, investment in grain elevators for wheat storage can be considered beneficial for the
+economy of Pakistan.
+What kind of public support is required to make PPPs in wheat storage feasible?
+To ensure economic benefits for society from reduced wheat losses, and the project’s commercial and financial sustainability, the
+following arrangements for the public sector can be considered:
+• a guaranteed minimum elevator utilization rate through long-
+term – preferably at least eight-year – contracts at fixed fees (to provide creditors with a comfort zone beyond the usual payback
+period); and
+• transfer of part of the economic gains from reduced wheat
+storage and handling costs to elevator owners/operators through:
+(i) increased storage fees for government-owned wheat, from
+the current PKR 825/tonne/year for storage in godowns
+(baseline storage fee used in the analysis) to
+PKR 3 175/tonne/year for storage in the new elevators
+(to ensure the necessary needed financial cash income;
+this PKR 3 175 storage fee would allow a positive NPV and a 20 percent IRR to make the project attractive to potential investors, and would still be 18 percent lower than the
+estimated current economic losses of PKR 3 874/tonne in the bag handling system, making it acceptable to the public sector); and
+(ii) gradual liberation of the wheat market and setting of
+commercial fees for storage of non-government grain to generate grain throughput/grain turnovers.
+
+Product
+Trade flow
+Partner
+Export
+Afghanistan
+
+Sri Lanka
+Export total
+
+Import
+Argentina
+
+Brazil
+
+Bulgaria
+
+Canada
+
+Cyprus
+France
+Iran (Islamic Republic of)
+
+Italy
+
+Kazakhstan
+
+Mexico
+Netherlands
+
+Romania
+
+Russian Federation
+
+Switzerland
+
+Ukraine
+
+United Kingdom
+
+Uruguay
+
+United States of America
+
+Import total
+3 724
+1 080
+Flour
+Export
+Afghanistan
+Denmark
+South Africa
+Sudan
+United Arab Emirates
+United Kingdom
+Export total
+Import
+Germany
+Italy
+Netherlands
+Thailand
+Ukraine
+United Arab Emirates
+United Kingdom
+United States of America
+Import total
+Wheat flour total trade
+
+Source: UN Comtrade.
+Annex 1 - Wheat and wheat flour exports and imports, 2008 and 2009
+
+Similar insects infest wheat during storage in public sector sheds and at the farm level. However, the population dynamics of different insect
+species vary according to the factors that affect storage.
+Pest species
+The following are major insect species known to infect wheat:
+• Rice weevil (Sitophilus oryzae L.) is the dominant pest of stored
+wheat, causing grain damage of 2 to 5 percent. Most damage is caused during the monsoon and the following couple of months. The rice weevil feeds internally, reducing the weight and
+degrading the quality of the grain, which may become humid, hot and unfit for human consumption.
+• Lesser grain borer (Rhyzopertha dominica) is another destructive
+pest causing damage throughout Pakistan. Adults and larvae feed inside the grain, reducing the weight and degrading the quality.
+The lesser grain borer is most abundant in humid climates and wherever the moisture content of wheat is high.
+• Khapra beetle (Trogoderma granarium) is a widespread but
+sporadic pest. It causes extensive damage in conditions of high humidity and high moisture content.
+• Red flour beetle (Tribolium castaneum) also causes significant
+damage to wheat.
+Other insect species recognized as storage pests that infest stored wheat include the angoumois grain moth (Sitotroga cerealella Oliv.),
+the rice moth (Corcyra cephalonica Straint), the saw-toothed grain beetle (Oryzaephilus surinamensis L.), the long-headed flour beetle
+(Latheticus oryzae Wat.) and the flat grain beetle (Cryptolestes pusillus Schon.).
+Farmers in Pakistan attempt to control insects through sun-drying, insecticides, phosphine producing compounds (e.g. aluminium
+phosphide tablets), elemental mercury and neem – a natural material of plant origin. The use of pesticides is more common in irrigated
+13 Based on FAO, 1999.
+Annex 2 - Pest control issues in Pakistan13
+
+areas, where 13 percent of farmers use insecticides and fumigants and 41 percent treat grain with mercury. Although some degree of
+control seems to have been achieved, most chemical treatments are unsatisfactory and can be dangerous to health. The widespread and
+uncontrolled use of pesticides is a waste of scarce resources when treatments are ineffective. The exposure of insect pests to sub-lethal
+doses may promote resistant strains of pest species.
+Rodent infestations at the village level and in town markets can affect up to 5 percent of grain stocks. The amount of grain lost
+to rodents provides further evidence of the need to control field infestations of rodents.
+Traditional pest control methods
+In Pakistan, the following are the most important pest control methods practised at the farm level during wheat storage:
+Sun-drying
+This is the most popular method of reducing moisture and controlling pests. Luckily, temperatures during and after the wheat harvest kill many insects and reduce moisture in the grain,
+delaying insect infestation and the formation of mould. Sun-drying is equally effective for small and large farmers. Small farmers are
+more efficient in drying their grain in small-scale storage. After two or three months of storage, farmers kill any insects that have
+developed and eliminate any future insect problems by sun-drying in
+August and September.
+Use of neem
+The neem tree (Azadirachta indica) is native to the Indo-Pakistan sub-continent and grows abundantly in the region. A diagnostic
+survey reports that most foodgrain is stored in gunny bags, sometimes mixed with dried neem leaves. Farmers who store their
+wheat in mud bins, rub fresh neem leaves on the inside walls of the bins. In Nawabshah and Khairpur districts of Pakistan, palli (peanut)
+is commonly used for storage, but no evidence is available to prove the efficacy of this method and it is definitely not practical for bulk
+grain handling systems.
+
+Chemical pest control
+Most farmers in Pakistan are subsistence producers who often cannot afford costly modern grain protectants. Fumigation with toxic
+gases is most effective in airtight structures, and is only economical at a commercial scale. This technology is not yet applicable to the
+farm level in Pakistan because storage structures are not airtight and are located inside or near residential areas where fumigation may be
+dangerous.
+Fumigation procedure used by the Punjab Food Department
+Step
+New wheat crop up to August
+From August onwards
+AlP dosage g/m3
+Exposure
+AlP dosage g/m3
+Exposure
+Step 1
+2.25
+72 (3)
+4.50
+72 (3)
+Step 2
+1.125
+24 (1)
+2.25
+24 (1)
+Step 3
+1.125
+360 (15)
+2.25
+360 (15)
+TOTAL:
+4.50
+456 (19)
+9.00
+456 (19)
+AIP = aluminium phosphide.
+Source: Author’s elaboration based on Punjab Food Department interviews.
+The admixture of powdered insecticide with grain can provide protection against insects, but poses a risk of persistent harmful
+residues. The emergence of resistant strains of insects cannot be prevented and the high cost of environmental pollution should
+not be ignored. Moreover, the application of insecticides requires sophisticated techniques and complicated calculations, which
+farmers cannot easily comprehend.
+No traditional methods are used for pest management in public sector sheds. Results from storage loss studies and socio-economic
+surveys provide a justification for implementing a pilot programme to reduce losses. As insects are the main cause of storage losses,
+loss reduction activities have focused on finding ways of fumigating farm grain stores. Alternative methods of insect control, such as the
+admixture of insecticides with grain, cannot be considered because appropriate formulas are not available in Pakistan. The design of
+local metal bins has been modified in consultation with agricultural engineers from the Pakistan Agricultural Research Council, who
+assisted the manufacturers and farmers in producing a far stronger
+
+bin that is more suitable for fumigation. The fumigation of small quantities of grain in bags has also been tested in villages. The
+bags are enclosed in a polyethylene envelope, which is sealed after introducing phosphine producing compounds. When the polyethylene sheet is left in place after treatment, the risk of cross-
+infestation is significantly reduced.
+
+Durum wheat
+Common wheat
+A. Maximum moisture content
+14.5%
+14.5%
+B. Maximum percentage of matter that is not basic cereal of unimpaired quality
+12%
+12%
+1. Broken grains
+2. Grain impurities
+8.5%
+2.1. Impurities other than mottled grains
+(a) shrivelled grains
+X
+X
+(b) other cereals
+X
+(c) grains damaged by pests
+X
+X
+(d) grains with discoloured germ
+X
+X
+(e) grains overheated during drying
+0.50%
+0.50%
+2.2. Mottled grains
+3.5% n.a.
+3. Sprouted grains
+4. Miscellaneous impurities of which:
+4.5% (*)
+(a) extraneous seeds:
+— noxious
+0.10%
+0.10%
+— other
+X
+X
+(b) damaged grains
+— from spontaneous heating or excessive heating during drying
+0.05%
+0.05%
+— affected with fusariosis
+X
+— other
+X
+X
+(c) extraneous matter
+X
+X
+(d) husks (cob fragments in the case of maize)
+X
+X
+(e) ergot
+0.05%
+0.05%
+(f) decayed grains
+X
+X
+(g) impurities of animal origin
+X
+X
+C. Maximum percentage of wholly or partially mitadiné grains
+27% n.a.
+D. Maximum tannin content (**) n.a.
+n.a.
+E. Minimum specific weight (kg/hl)
+
+F. Minimum protein content (**)
+11.5%
+10.5%
+G. Hagberg falling number (seconds)
+
+H. Minimum Zeleny index (ml) n.a.
+X = no specific limit but content to be taken into account for maximum limits set in points 2 and 4.
+n.a. = not applicable/not requiring analysis.
+* = of which a maximum of 3 percent of impurities other than grains affected by
+fusariosis.
+** = As percentage of dry matter.
+Source: European Commission Regulation No. 742/2010 of 17 August 2010.
+Annex 3 - Minimum EU quality requirements for wheat
+
+Common wheat
+Parameter
+Description and limits for common wheat groups and grades
+A
+B
+Natural weight, g/1, not less than
+
+No limit
+Vitreuesness, %, not less than
+No limit
+Moisture content, %, not more than
+14.0
+14.0
+14.0
+14.0 14.0
+14.0
+Grain impurities, %, not more than
+5.0
+8.0
+8.0
+10.0 12.0
+15.0 of which:
+broken grains
+5.0
+5.0
+5.0
+Within limits for grain impurities grains of other cereals
+4.0
+4.0
+4.0
+4.0
+4.0
+Within limits for grain impurities sprouted grains
+4.0
+4.0
+Within limits for grain impurities
+Waste impurities, %, not more than
+1.0
+5.0 of which:
+mineral impurities, of which:
+0.3
+1.0
+- pebble, slag, ore
+0.15
+0.15
+0.15
+Within limits for mineral impurities spoiled grains, of which:
+0.3
+0.3
+0.3
+1.0
+- fusarium-affected grains
+Within limits for spoiled grains harmful impurities, of which:
+- smut and ergot
+0.05
+0.05
+0.05
+0.05 0.05
+- Trichodesma incanum
+Not permitted
+- Corn cockle
+Within limits for harmful impurities
+- each of any other toxic seeds
+0.05
+0.05
+0.05
+0.05 0.05
+Smutty grains, %, not more than
+5.0
+5.0
+8.0
+5.0
+8.0
+10.0
+Protein content (dry-matter basis),
+%, not less than
+14.0
+12.5
+11.0
+12.5 10.5
+No limit
+Wet gluten content, %, not less than
+28.0
+23.0
+18.0
+No limit
+Gluten quality:
+group
+I-II
+I-II
+I-II
+No limit insect-damaged kernels, units
+45–­100 45­–100 20­–100
+Falling number, sec, not less than
+
+No limit
+Source: Ukrainian wheat quality standard DSTU-3768-2010.
+Annex 4 - Wheat quality standards in Ukraine
+
+Durum wheat
+Parameter
+Description and limits for durum wheat grades
+Common wheat grains, %, not more than
+No limit
+Natural weight, g/1, not less than
+
+No limit
+Moisture content, %, not more than
+14.5
+14.5
+14.5
+14.5
+14.5
+Vitreuesness, %, not less than
+
+No limit
+Grain impurities, %, not more than
+5.0
+5.0
+8.0
+10.0
+15.0 of which:
+sprouted grains
+1.0
+1.0
+Within limits for grain impurities
+Waste impurities, %, not more than
+5.0
+5.0 of which:
+mineral impurities, of which:
+0.3
+0.3
+1.0
+- pebble, slag, ore
+0.15
+0.15
+0.3
+Within limits for mineral impurities spoiled grains, of which:
+1.0
+1.0
+- fusarium-affected grains
+Within limits for spoiled grains harmful impurities, of which:
+0.3
+- smut and ergot
+0.05
+0.05
+- Trichodesma incanum
+Not permitted
+- Corn cockle
+Within limits for harmful impurities
+- each of any other toxic seeds
+0.05
+0.05
+0.05
+0.05
+Smutty grains, %, not more than
+5.0
+5.0
+5.0
+5.0
+10.0
+Protein content (dry-matter basis),
+%, not less than
+14.0
+13.0
+12.0
+11.0
+No limit
+Falling number, sec, not less than
+No limit
+Source: Ukrainian wheat quality standard DSTU-3768-2010.
+
+Flexible containers (Cocoons™) are airtight (hermetic), unsupported rectangular structures made of lightweight ultraviolet-resistant PVC.
+The simple two-piece Cocoon™ consists of a top cover and a lower floor piece joined by a PVC tongue-and-groove zipper similar to
+those used to close environmental safety suits. Insects trapped in the bagged grain expire in a few days as a result of increased carbon
+dioxide and reduced oxygen. Cocoons™ are folded into carry-bags for transport and can be made ready for use within minutes.
+Flexible container capacities
+Wheat capacity
+Volume
+Empty weight
+Dimensions
+5 tonnes
+7.5 m3
+33 kg
+1.5 m high x 2.95 m
+long x 1.7 m wide
+USD 1 250
+10 tonnes
+15 m3
+45 kg
+1.5 m high x 3.4 m
+long x 3.0 m wide
+USD 1 500
+20 tonnes
+29.9 m3
+81 kg
+2.0 m high x 4.4 m
+long x 3.4 m wide
+USD 2 500
+50 tonnes
+78.3 m3
+170 kg
+2.0 m high x 8.9 m
+long x 4.4 m wide
+USD 4 650
+50 tonnes
+78.3 m3
+148 kg
+3.0 m high x 6.0 m
+long x 4.4 m wide
+USD 4 450
+100 tonnes
+150 m3
+240 kg
+3.0 m high x 8.6 m
+long x 5.8 m wide
+USD 8 050
+150 tonnes
+227 m3
+323 kg
+3.0 m high x 8.9 m
+long x 8.5 m wide
+USD 9 200
+300 tonnes
+414 m3
+340 kg
+6.0 m high x 9.2 m
+long x 7.5 m wide
+USD 14 000
+Source: Grainpro CocoonsTM specifications.
+Annex 5 - Flexible containers (Cocoons™) as a storage option
+
+Overview
+• Gas-tight and water-tight PVC liner and zipper;
+• at least ten-year PVC life span in direct sunlight;
+• food-quality PVC;
+• appropriate technology;
+• impermeable to water, water vapour and air;
+• equipped with aluminized reflective sheeting to minimize
+condensation from temperature fluctuation; and
+• PVC is 0.83 mm thick.
+Advantages
+• Can reduce storage losses to less than 1 percent/year without
+pesticides;
+• easy to load and unload;
+• do not need spare parts;
+• support sustainable development;
+• increase commodity shelf-lif;
+• avoid the need for toxic storage pesticides and fumigants;
+• are a green product, satisfying the requirements of organic
+growers;
+• can be assembled and dismantled within minutes; and
+• do not require any infrastructure.
+
+A silo bag is a long polyethylene bag that comes in sizes of:
+• 2.75 m x 60 m (9 ft x 200 ft) with capacity of approximately
+220 tonnes of wheat; and
+• 1.8 m x 60 m (6 ft x 200 ft) with capacity of approximately
+145 tonnes of wheat.
+The bag is sealed and airtight. It has a life of 12 to 18 months in the open.
+A 60 m bag holds about 220 tonnes of wheat or 180 tonnes of barley. Smaller quantities of grain can be stored by simply cutting
+the bag and resealing it again.
+The sealed bag stores the grain in an airtight environment, preventing the development and reproduction of fungi and insects.
+This environment can eliminate the need for chemicals.
+The silo bag is filled via a specially designed filling machine that can be fitted to a header or chaser bin or similar types of machinery.
+The loading capacity of the filling machine is up to 250 tonnes/hour, depending on the grain type.
+Immediately after harvest, grain can be stored in silo bags in the crop field. The bags are made under quality standard ISO 9001,
+using 100 percent new materials and no recycled material.
+Grain/forage can be fed directly into the silo bags using the filling machine, which pushes the grain into the bag using a screw conveyer.
+Bag stretching is controlled by adjusting the brakes – the machine advances slowly as the bag is filled. The amount of stretch can be
+visually checked against the illustration printed on the side of the bag.
+Grain/feed can be milled prior to storage, for direct distribution from the bags without further processing. A specially designed machine
+first mills the grain and then pushes it into the bags. The grain can be sampled during milling to adjust the fineness of the product.
+The silo bag is emptied by a machine that wraps the bag and twists the grain out at up to 180 tonnes/hour.
+Annex 6 - Hermetic silo bags
+
+Only one person is required for bag emptying. When attached to the back of a tractor, the rigid extractor empties the grain mechanically
+while a hydraulic machine rolls up the empty bag.
+This system handles large tonnages quickly and cleanly. The grain that comes out of the silo bag is as good as it was when it went in.
+Using silo bags reduces storage costs for the producer, and delivers pest-free grain without the use of chemicals.
+Being airtight, the bags create an internal atmosphere rich in carbon dioxide, preventing the reproduction of fungus and insects.
+Advantages
+• On-farm storage at very low capital cost. Requires only a bagger,
+an extractor – which are very simple and inexpensive machines – and disposable bags. The extractor can sometimes be leased to
+neighbours or traders.
+• In-field storage without trucking to storage facilities during
+harvest, logistical problems and harvest delays, while saving labour in a critical season.
+• High-capacity storage. A bagger can be fed from two large
+combine harvesters, with one, two or three grain carts – depending on the crop – working on the same plot.
+• Reduced transport costs for truck hire. During harvest seasons,
+transport costs increase because of the increased demand. Costs usually drop when the harvest season has been completed, so
+the silo bag system allows for important savings.
+• Storage of grains with 2 to 3 percent higher moisture content
+during cold seasons.
+• Storage of grains with higher moisture content throughout the
+year, by fitting a plastic net – providing 80 percent shadow – over the bag. This attenuates thermal amplitude, avoiding water
+condensation in the bag roof.
+• More even use of dryers throughout the year. Grains can be dried
+after harvest, when it is cheaper or there is more available labour.
+• A simple way of preserving identity, by separating grains
+according to quality, variety, source, etc. without increasing storage costs or labour. When there is insufficient grain to fill a
+bag, the bag can be cut and sealed at any length.
+• Natural control of insect pests.
+• Natural control of fungus and toxin synthesis.
+
+• Trade speculation possible at very low cost.
+• Maximized profitability of permanent storage facilities, enabling
+increased storage capacity according to seasonal needs.
+• Traders able to develop new markets or regions rapidly and with
+very low investments.
+Disadvantages
+• Large exposed surface;
+• climatic risk, mainly from hail storms; and
+• rodents – mainly mice – which use loose or unstretched parts of
+the bag for housing.
+Equipment costs
+No.
+Item
+Cost (UAH)
+Cost (USD)
+Silo bag
+4 500
+
+Bunker
+200 000
+Grain loader
+95 000
+11 900
+Grain outloader
+160 000
+20 000
+Tractor
+160 000
+20 000
+Source: Kobzarenko factory (Ukraine) price list.
+
+Agricultural Census of Pakistan. 2000. (available at http://www.
+pbs.gov.pk/content/pakistan-2000-agricultural-census).
+Agricultural Census of Pakistan. 2010. (available at http://www.
+pbs.gov.pk/node/484).
+Asian Development Bank. 2001.
+Baldwin, M., Bryla, E. & Langenbucher, A. 2006. Expanding post-harvest finance through warehouse receipts and related instruments. Washington, DC, World Bank. (available at https://
+openknowledge.worldbank.org/handle/10986/9626).
+Baloch, U. K., Irshad, M. & Ahmed, M. 1994. Loss assessment and loss prevention in wheat storage – technology development
+and transfer in Pakistan. In E. Highley, E. J. Wright, H. J. Banks and B. R. Champ, eds. Stored product protection: Proceedings
+of the 6th International Working Conference on Stored-product
+Protection, 17–23 April 1994, Canberra, pp. 906–910. Wallingford,
+UK, CAB International.
+Bovaird, Tony. 2004. Public–Private Partnerships: from Contested
+Concepts to Prevalent Practice, International Review of
+Administrative Sciences, Vol. 70 No. 2, 199-215, p. 199.
+Commodities Risk Management. Agri Commodities Physical
+Trade and Market Development in Pakistan: Storage, collateral management, warehouse receipts issuance, financing and trading. Assessment and design report prepared for SBP, National
+Commodities Exchange Limited of Pakistan. Switzerland.
+DFID. 2009. Report on wheat storage for food security in Punjab
+Pakistan by Crown Agents. London.
+Dorosh, P. & Salam, A. 2006. Wheat markets and price stabilisation in Pakistan: an analysis of policy options. PIDE Working Papers
+No. 2006:5. Islamabad, Pakistan Institute of Development
+Economics (PIDE). (available at http://mpra.ub.uni-muenchen.
+de/2244/1/MPRA_paper_2244.pdf).
+References
+
+EBRD. 2004. Special Programme: Grain Receipts Programme
+(Regional). London, European Bank for Reconstruction and
+Development (EBRD), Project Evaluation Department. (available at http://www.eastagri.org/files/warehouse.pdf).
+European Commission. 2010. Regulation No 742/2010 of 17 August
+2010. (available at http://eur-lex.europa.eu/LexUriServ/LexUriServ.
+do?uri=OJ:L:2010:217:0004:0011:EN:PDF).
+FAO. 1999. Wheat: post-harvest operations, U. K. Baloch. Rome.
+(available at http://www.fao.org/fileadmin/user_upload/inpho/ docs/Post_Harvest_Compendium_-_WHEAT.pdf).
+FAO. 1992. Public sector storage of wheat in Pakistan and the associated problem of insect pests. (in Towards integrated commodity and pest management in grain storage). (available at
+http://www.fao.org/docrep/x5048e/x5048E13.htm) and Punjab
+Food Department).
+FAO. 2004. Fertilizer use by crop in Pakistan. Rome, Land and Plant
+Nutrition Management Service Land and Water Development
+Division. (available at http://www.fao.org/docrep/007/y5460e/ y5460e00.htm).
+FAO. 2009. Agribusiness handbook: Wheat flour. Rome. (available at http://www.fao.org/docrep/012/al376e/al376e.pdf).
+FAO. 2011. Innovative policies and institutions to support agro- industries development. Rome. (available at http://www.fao.org/
+docrep/015/i2420e/i2420e00.htm).
+FAO GIEWS. Food Price Data and Analysis Tool. www.fao.org/giews/ pricetool.
+Formica, M. D. Bagging for on-farm grain storage: dry grain storage in bags the mainero bagging system.
+Government of Pakistan. 2008. Notification to WTO Committee on
+Agriculture G/AG/N/PAK/10, 9 January 2008. Islamabad.
+GrainPro. Cocoons specifications. (available at http://www.grainpro.
+com/grainpro-cocoons.php#overview).
+
+Highley, E., Wright, E. J., Banks, H. J. & B. R. Champ, eds. 1994.
+Stored product protection: Proceedings of the 6th International
+Working Conference on Stored-product Protection, 17–23 April
+1994, Canberra. Wallingford, UK, CAB International.
+IFC. 2010. Technical Due Diligence Report: Pakistan Silos Project.
+Washington, DC.
+IMF. World Economic Outlook.
+Islam, Y. & Garrett, J. L. 1997. IFPRI and the abolition of the wheat flour ration shops in Pakintan: A case-study on policymaking and
+the use and impact of research. Washington, DC, IFPRI.
+Nathan Associates. 2009. Pakistan’s food and agriculture systems.
+Washington, DC, USAID. (available at http://pdf.usaid.gov/pdf_ docs/PNADO507.pdf).
+SMEDA. 2008. Registration, licensing and other legal requirements to establish a flour mill in Pakistan. Islamabad, Small and
+Medium Enterprise Development Authority (SMEDA).
+UN comtrade. (available at http://comtrade.un.org/).
+USAID. 2007. Necessary conditions for an effective warehouse receipts activity: concept paper. Washington, DC. (available at
+http://www.eastagri.org/publications/pub_docs/QED_WHR_
+EN.pdf).
+USDA/FAS. 2011. Pakistan grain and feed annual 2011. Washington,
+DC, United States Department of Agriculture (USDA) Foreign
+Agricultural Service (FAS).
+USDA/PSD. (available at http://www.fas.usda.gov/psdonline/).
+World Bank. Appendix 5: Pakistan. Washington, DC. (available at http://siteresources.worldbank.org/SOUTHASIAEXT/
+Resources/223546-1269620455636/6907265-1287693474030/
+PAK_Regional_Food_Prices.pdf).
+WTO. 2008. Trade policy review: Pakistan. Geneva.
+WTO. 2012. Pakistan data. In World tariff profiles 2012. Geneva.
+
+Questions and comments should be addressed to:
+Investment Centre Division
+Food and Agriculture Organization of the United Nations (FAO)
+Viale delle Terme di Caracalla – 00153 Rome, Italy investment-centre@fao.org http://www.fao.org/investment/en
+Pakistan: Review of the wheat sector and grain storage issues
+Report No. 10 - March 2013

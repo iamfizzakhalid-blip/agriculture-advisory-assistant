@@ -1,0 +1,121 @@
+2026-07-12 00:31:34,869  INFO      === Crop: cotton ===
+2026-07-12 00:31:34,872  INFO      Processing cotton/FAO_cotton.pdf
+2026-07-12 00:31:35,607  INFO      Saved data\clean\cotton\FAO_cotton.txt  (355040 -> 319714 chars, 9.9% reduction)
+2026-07-12 00:31:35,608  INFO      Processing cotton/PAD_cotton.pdf
+2026-07-12 00:31:35,813  INFO      Saved data\clean\cotton\PAD_cotton.txt  (66546 -> 62063 chars, 6.7% reduction)
+2026-07-12 00:31:35,813  INFO      Processing cotton/PARC_cooton_02.pdf
+2026-07-12 00:31:35,941  INFO      Saved data\clean\cotton\PARC_cooton_02.txt  (50776 -> 48393 chars, 4.7% reduction)
+2026-07-12 00:31:35,941  INFO      Processing cotton/PARC_cotton.pdf
+2026-07-12 00:31:36,058  INFO      Saved data\clean\cotton\PARC_cotton.txt  (44583 -> 41556 chars, 6.8% reduction)
+2026-07-12 00:31:36,058  INFO      Processing cotton/PARC_cotton_03.pdf
+2026-07-12 00:31:36,170  INFO      Saved data\clean\cotton\PARC_cotton_03.txt  (45300 -> 41288 chars, 8.9% reduction)
+2026-07-12 00:31:36,170  INFO      === Crop: maize ===
+2026-07-12 00:31:36,171  INFO      Processing maize/FAO_maize.pdf
+2026-07-12 00:31:36,298  INFO      Saved data\clean\maize\FAO_maize.txt  (53668 -> 47676 chars, 11.2% reduction)
+2026-07-12 00:31:36,298  INFO      Processing maize/maize.pdf
+2026-07-12 00:31:36,369  INFO      Saved data\clean\maize\maize.txt  (2196 -> 2055 chars, 6.4% reduction)
+2026-07-12 00:31:36,370  INFO      Processing maize/maize_post_harvest.pdf
+2026-07-12 00:31:36,808  INFO      Saved data\clean\maize\maize_post_harvest.txt  (225675 -> 207374 chars, 8.1% reduction)
+2026-07-12 00:31:36,809  INFO      Processing maize/PARC_maize.pdf
+2026-07-12 00:31:36,885  INFO      Saved data\clean\maize\PARC_maize.txt  (28244 -> 26932 chars, 4.6% reduction)
+2026-07-12 00:31:36,885  INFO      === Crop: rice ===
+2026-07-12 00:31:36,886  INFO      Processing rice/FAO_rice-2.pdf
+2026-07-12 00:31:37,132  INFO      Saved data\clean\rice\FAO_rice-2.txt  (100210 -> 97907 chars, 2.3% reduction)
+2026-07-12 00:31:37,133  INFO      Processing rice/FAO_rice_01.pdf
+2026-07-12 00:31:37,185  INFO      Saved data\clean\rice\FAO_rice_01.txt  (9326 -> 9130 chars, 2.1% reduction)
+2026-07-12 00:31:37,185  INFO      Processing rice/FAO_rice_3.pdf
+2026-07-12 00:31:37,239  INFO      Saved data\clean\rice\FAO_rice_3.txt  (7604 -> 7181 chars, 5.6% reduction)
+2026-07-12 00:31:37,239  INFO      Processing rice/FAO_rice_4.pdf
+2026-07-12 00:31:37,375  INFO      Saved data\clean\rice\FAO_rice_4.txt  (33112 -> 28283 chars, 14.6% reduction)
+2026-07-12 00:31:37,376  INFO      Processing rice/UAF_rice.pdf
+2026-07-12 00:31:37,470  INFO      Saved data\clean\rice\UAF_rice.txt  (5637 -> 5454 chars, 3.2% reduction)
+2026-07-12 00:31:37,470  INFO      === Crop: sugarcane ===
+2026-07-12 00:31:37,472  INFO      Processing sugarcane/FAO_sugarcane.pdf
+2026-07-12 00:31:37,608  INFO      Saved data\clean\sugarcane\FAO_sugarcane.txt  (59203 -> 55016 chars, 7.1% reduction)
+2026-07-12 00:31:37,609  INFO      Processing sugarcane/PARC_sugarcane.pdf
+2026-07-12 00:31:37,670  INFO      Saved data\clean\sugarcane\PARC_sugarcane.txt  (20528 -> 18895 chars, 8.0% reduction)
+2026-07-12 00:31:37,671  INFO      Processing sugarcane/PARC_sugarcane_02.pdf
+2026-07-12 00:31:37,749  INFO      Saved data\clean\sugarcane\PARC_sugarcane_02.txt  (33991 -> 32585 chars, 4.1% reduction)
+2026-07-12 00:31:37,749  INFO      Processing sugarcane/sugarcane.pdf
+2026-07-12 00:31:38,024  INFO      Saved data\clean\sugarcane\sugarcane.txt  (117306 -> 108114 chars, 7.8% reduction)
+2026-07-12 00:31:38,025  INFO      Processing sugarcane/UAF_sugarcane.pdf
+2026-07-12 00:31:38,148  INFO      Saved data\clean\sugarcane\UAF_sugarcane.txt  (36932 -> 31343 chars, 15.1% reduction)
+2026-07-12 00:31:38,148  INFO      === Crop: wheat ===
+2026-07-12 00:31:38,149  INFO      Processing wheat/FAO_wheat.pdf
+2026-07-12 00:31:38,455  INFO      Saved data\clean\wheat\FAO_wheat.txt  (133811 -> 125873 chars, 5.9% reduction)
+2026-07-12 00:31:38,456  INFO      Processing wheat/FAO_wheat_03.pdf
+2026-07-12 00:31:38,692  INFO      Saved data\clean\wheat\FAO_wheat_03.txt  (86279 -> 80448 chars, 6.8% reduction)
+2026-07-12 00:31:38,693  INFO      Processing wheat/FAO_wheat_post_harvestation.pdf
+2026-07-12 00:31:38,818  INFO      Saved data\clean\wheat\FAO_wheat_post_harvestation.txt  (64975 -> 59992 chars, 7.7% reduction)
+2026-07-12 00:31:38,819  INFO      Processing wheat/PMD_wheat.pdf
+2026-07-12 00:31:38,996  INFO      Saved data\clean\wheat\PMD_wheat.txt  (52907 -> 48068 chars, 9.1% reduction)
+2026-07-12 00:31:38,996  INFO      Done - 23 files processed successfully, 0 failed.
+2026-08-15 20:59:51,196  INFO      === Crop: cotton ===
+2026-08-15 20:59:51,196  INFO      Processing cotton/Cotton_Crop_Notes.pdf
+2026-08-15 20:59:51,421  INFO      Saved data\clean\cotton\Cotton_Crop_Notes.txt  (6410 -> 6368 chars, 0.7% reduction)
+2026-08-15 20:59:51,480  INFO      Processing cotton/Cotton_Production_Statistics.pdf
+2026-08-15 20:59:51,646  INFO      Saved data\clean\cotton\Cotton_Production_Statistics.txt  (436 -> 436 chars, 0.0% reduction)
+2026-08-15 20:59:51,646  INFO      Processing cotton/Delinting_of_Cottonseed_Notes.pdf
+2026-08-15 20:59:51,720  INFO      Saved data\clean\cotton\Delinting_of_Cottonseed_Notes.txt  (3054 -> 3056 chars, -0.1% reduction)
+2026-08-15 20:59:51,720  INFO      Processing cotton/Diseases_of_Cotton.pdf
+2026-08-15 20:59:51,830  INFO      Saved data\clean\cotton\Diseases_of_Cotton.txt  (14184 -> 13802 chars, 2.7% reduction)
+2026-08-15 20:59:51,830  INFO      SKIPPED - cotton/FAO_cotton.pdf (output already exists: D:\agri-assistant\data\clean\cotton\FAO_cotton.txt)
+2026-08-15 20:59:51,847  INFO      SKIPPED - cotton/PAD_cotton.pdf (output already exists: D:\agri-assistant\data\clean\cotton\PAD_cotton.txt)
+2026-08-15 20:59:51,851  INFO      SKIPPED - cotton/PARC_cooton_02.pdf (output already exists: D:\agri-assistant\data\clean\cotton\PARC_cooton_02.txt)
+2026-08-15 20:59:51,851  INFO      SKIPPED - cotton/PARC_cotton.pdf (output already exists: D:\agri-assistant\data\clean\cotton\PARC_cotton.txt)
+2026-08-15 20:59:51,851  INFO      SKIPPED - cotton/PARC_cotton_03.pdf (output already exists: D:\agri-assistant\data\clean\cotton\PARC_cotton_03.txt)
+2026-08-15 20:59:51,851  INFO      === Crop: maize ===
+2026-08-15 20:59:51,857  INFO      Processing maize/Diseases_of_Maize.pdf
+2026-08-15 20:59:51,915  INFO      Saved data\clean\maize\Diseases_of_Maize.txt  (7642 -> 7644 chars, -0.0% reduction)
+2026-08-15 20:59:51,915  INFO      Processing maize/FAO_GIEWS_Pakistan_Maize.pdf
+2026-08-15 20:59:51,971  INFO      Saved data\clean\maize\FAO_GIEWS_Pakistan_Maize.txt  (4819 -> 4820 chars, -0.0% reduction)
+2026-08-15 20:59:51,971  INFO      SKIPPED - maize/FAO_maize.pdf (output already exists: D:\agri-assistant\data\clean\maize\FAO_maize.txt)
+2026-08-15 20:59:51,971  INFO      SKIPPED - maize/maize.pdf (output already exists: D:\agri-assistant\data\clean\maize\maize.txt)
+2026-08-15 20:59:51,971  INFO      Processing maize/Maize_Crop_Notes.pdf
+2026-08-15 20:59:52,037  INFO      Saved data\clean\maize\Maize_Crop_Notes.txt  (7676 -> 7679 chars, -0.0% reduction)
+2026-08-15 20:59:52,037  INFO      Processing maize/Maize_Diseases_Plant_Pathology.pdf
+2026-08-15 20:59:52,113  INFO      Saved data\clean\maize\Maize_Diseases_Plant_Pathology.txt  (9847 -> 9559 chars, 2.9% reduction)
+2026-08-15 20:59:52,113  INFO      SKIPPED - maize/maize_post_harvest.pdf (output already exists: D:\agri-assistant\data\clean\maize\maize_post_harvest.txt)
+2026-08-15 20:59:52,113  INFO      SKIPPED - maize/PARC_maize.pdf (output already exists: D:\agri-assistant\data\clean\maize\PARC_maize.txt)
+2026-08-15 20:59:52,113  INFO      === Crop: rice ===
+2026-08-15 20:59:52,121  INFO      Processing rice/Diseases_of_Rice.pdf
+2026-08-15 20:59:52,402  INFO      Saved data\clean\rice\Diseases_of_Rice.txt  (46803 -> 46092 chars, 1.5% reduction)
+2026-08-15 20:59:52,402  INFO      Processing rice/FAO_GIEWS_Pakistan_Rice.pdf
+2026-08-15 20:59:52,446  INFO      Saved data\clean\rice\FAO_GIEWS_Pakistan_Rice.txt  (5910 -> 5911 chars, -0.0% reduction)
+2026-08-15 20:59:52,446  INFO      SKIPPED - rice/FAO_rice-2.pdf (output already exists: D:\agri-assistant\data\clean\rice\FAO_rice-2.txt)
+2026-08-15 20:59:52,446  INFO      SKIPPED - rice/FAO_rice_01.pdf (output already exists: D:\agri-assistant\data\clean\rice\FAO_rice_01.txt)
+2026-08-15 20:59:52,446  INFO      SKIPPED - rice/FAO_rice_3.pdf (output already exists: D:\agri-assistant\data\clean\rice\FAO_rice_3.txt)
+2026-08-15 20:59:52,446  INFO      SKIPPED - rice/FAO_rice_4.pdf (output already exists: D:\agri-assistant\data\clean\rice\FAO_rice_4.txt)
+2026-08-15 20:59:52,446  INFO      Processing rice/Growth_Stages_of_Rice_Crop_Notes.pdf
+2026-08-15 20:59:52,496  INFO      Saved data\clean\rice\Growth_Stages_of_Rice_Crop_Notes.txt  (3597 -> 3598 chars, -0.0% reduction)
+2026-08-15 20:59:52,512  INFO      Processing rice/RAISING OF RICE NURSERY.pdf
+2026-08-15 20:59:52,588  INFO      Saved data\clean\rice\RAISING OF RICE NURSERY.txt  (8109 -> 7884 chars, 2.8% reduction)
+2026-08-15 20:59:52,588  INFO      Processing rice/Rice_Crop_Notes.pdf
+2026-08-15 20:59:52,632  INFO      Saved data\clean\rice\Rice_Crop_Notes.txt  (8172 -> 8122 chars, 0.6% reduction)
+2026-08-15 20:59:52,632  INFO      Processing rice/Rice_Diseases_Plant_Pathology.pdf
+2026-08-15 20:59:52,781  INFO      Saved data\clean\rice\Rice_Diseases_Plant_Pathology.txt  (41743 -> 40679 chars, 2.5% reduction)
+2026-08-15 20:59:52,781  INFO      Processing rice/Rice_Production_Statistics.pdf
+2026-08-15 20:59:52,815  INFO      Saved data\clean\rice\Rice_Production_Statistics.txt  (453 -> 453 chars, 0.0% reduction)
+2026-08-15 20:59:52,815  INFO      SKIPPED - rice/UAF_rice.pdf (output already exists: D:\agri-assistant\data\clean\rice\UAF_rice.txt)
+2026-08-15 20:59:52,815  INFO      === Crop: sugarcane ===
+2026-08-15 20:59:52,815  INFO      SKIPPED - sugarcane/FAO_sugarcane.pdf (output already exists: D:\agri-assistant\data\clean\sugarcane\FAO_sugarcane.txt)
+2026-08-15 20:59:52,815  INFO      SKIPPED - sugarcane/PARC_sugarcane.pdf (output already exists: D:\agri-assistant\data\clean\sugarcane\PARC_sugarcane.txt)
+2026-08-15 20:59:52,815  INFO      SKIPPED - sugarcane/PARC_sugarcane_02.pdf (output already exists: D:\agri-assistant\data\clean\sugarcane\PARC_sugarcane_02.txt)
+2026-08-15 20:59:52,815  INFO      SKIPPED - sugarcane/sugarcane.pdf (output already exists: D:\agri-assistant\data\clean\sugarcane\sugarcane.txt)
+2026-08-15 20:59:52,829  INFO      Processing sugarcane/Sugarcane_Crop_Notes.pdf
+2026-08-15 20:59:52,881  INFO      Saved data\clean\sugarcane\Sugarcane_Crop_Notes.txt  (6594 -> 6597 chars, -0.0% reduction)
+2026-08-15 20:59:52,881  INFO      Processing sugarcane/Sugarcane_Diseases_Plant_Pathology.pdf
+2026-08-15 20:59:52,997  INFO      Saved data\clean\sugarcane\Sugarcane_Diseases_Plant_Pathology.txt  (17764 -> 17326 chars, 2.5% reduction)
+2026-08-15 20:59:52,997  INFO      SKIPPED - sugarcane/UAF_sugarcane.pdf (output already exists: D:\agri-assistant\data\clean\sugarcane\UAF_sugarcane.txt)
+2026-08-15 20:59:52,997  INFO      === Crop: wheat ===
+2026-08-15 20:59:53,008  INFO      Processing wheat/FAO_GIEWS_Pakistan_Wheat.pdf
+2026-08-15 20:59:53,065  INFO      Saved data\clean\wheat\FAO_GIEWS_Pakistan_Wheat.txt  (8339 -> 8341 chars, -0.0% reduction)
+2026-08-15 20:59:53,065  INFO      SKIPPED - wheat/FAO_wheat.pdf (output already exists: D:\agri-assistant\data\clean\wheat\FAO_wheat.txt)
+2026-08-15 20:59:53,065  INFO      SKIPPED - wheat/FAO_wheat_03.pdf (output already exists: D:\agri-assistant\data\clean\wheat\FAO_wheat_03.txt)
+2026-08-15 20:59:53,065  INFO      SKIPPED - wheat/FAO_wheat_post_harvestation.pdf (output already exists: D:\agri-assistant\data\clean\wheat\FAO_wheat_post_harvestation.txt)
+2026-08-15 20:59:53,065  INFO      SKIPPED - wheat/PMD_wheat.pdf (output already exists: D:\agri-assistant\data\clean\wheat\PMD_wheat.txt)
+2026-08-15 20:59:53,065  INFO      Processing wheat/Wheat_Crop_Notes.pdf
+2026-08-15 20:59:53,113  INFO      Saved data\clean\wheat\Wheat_Crop_Notes.txt  (4711 -> 4716 chars, -0.1% reduction)
+2026-08-15 20:59:53,113  INFO      Processing wheat/Wheat_Diseases_Plant_Pathology.pdf
+2026-08-15 20:59:53,348  INFO      Saved data\clean\wheat\Wheat_Diseases_Plant_Pathology.txt  (63894 -> 62738 chars, 1.8% reduction)
+2026-08-15 20:59:53,348  INFO      Done - 20 new files processed, 23 skipped (already existed), 0 failed.

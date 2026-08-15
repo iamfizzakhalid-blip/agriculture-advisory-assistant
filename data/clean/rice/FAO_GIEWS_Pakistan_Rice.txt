@@ -1,0 +1,44 @@
+FAO GIEWS — Pakistan Rice
+Compiled from the FAO/GIEWS Country Brief (current issue and archive), the Agricultural Stress
+Index dataset, and related FAO/GIEWS tools
+Current Situation (Reference Date: 6 February 2026)
+Paddy (rice) production in 2025 is estimated at 14 million tonnes, which is above the five-year average but 4 percent below the 2024/25 harvest. Despite an above-average area planted with rice, severe
+flooding caused crop losses, particularly in Punjab province.
+Rice is Pakistan's major exportable cereal, and exports of rice are forecast at 4.8 million tonnes for calendar year 2026.
+Planting of the 2026 paddy crop is affected by the same broad weather patterns described for wheat: dry weather between October and mid-December 2025 was followed by a return to near-average
+precipitation in late December and January, and remote sensing data indicated satisfactory vegetation conditions across most of the country as of late January 2026.
+Recent Production History
+Pakistan's paddy production has generally trended upward over the past decade, though it has been affected periodically by drought, floods, and shifts in planted area driven by relative crop prices. Selected
+officially estimated or forecast production figures reported over recent years include: 10.1 million tonnes in 2014; 9.9 million tonnes in 2015 (6 percent below the 2014 level, due to a contraction in area planted in
+response to large stocks and high production costs); around 10 to 10.3 million tonnes in 2016; 11.1 million tonnes in 2017 (a record level at the time, 8 percent above the prior good level, supported by area
+expansion linked to remunerative prices and continued input subsidies); 12.3 million tonnes in 2020 (a record level, reflecting a high level of plantings in response to remunerative prices, though with some
+flood and locust-related damage in Sindh province); a preliminary forecast of 13.2 million tonnes for 2022 that was subsequently revised downward following severe flooding, which affected about 1.9 million
+hectares of standing crops in Sindh alone; 13 million tonnes in 2023 (10 percent above the five-year average and 18 percent higher than the flood-affected 2022 harvest, attributed to a recovery in sowings
+and an upturn in yields); 15.2 million tonnes in 2024 (a record level, primarily due to an increase in sowings driven by high prices at planting time); and 14 million tonnes in 2025 (above the five-year
+average but 4 percent below the 2024 harvest, with severe flooding causing crop losses particularly in
+Punjab despite an above-average area planted).
+Trade History
+Rice, particularly Basmati and non-Basmati varieties, is Pakistan's largest cereal export. Reported export figures include: 3.3 million tonnes in 2014; 3.5 to 3.8 million tonnes in 2015; 4.4 million tonnes in 2016 (7
+percent above 2015, supported by competitively priced non-Basmati supplies); around 3.9 to 4.2 million tonnes in 2017; 4.1 million tonnes in 2018 (up 12 to 14 percent, reflecting the 2017 record crop); 3.9
+million tonnes in 2019; around 4.0 to 4.8 million tonnes in 2020 (estimates varied between an initial forecast and a later, lower figure reflecting reduced supply); 4.6 million tonnes in 2021 (up 17 percent
+from 2020, reflecting adequate availabilities from the bumper 2020 output); an above-average level forecast for 2023, supported by ample exportable surplus and increased buyer interest following India's
+
+imposition of export restrictions on non-Basmati white and broken rice; a record 6.5 million tonnes reported for 2024 in one estimate, alongside an earlier figure of 5.2 million tonnes (15 percent above
+2023) in another; a forecast decline to 5.5 million tonnes for 2025, down from the 2024 record, reflecting heightened competition for markets; and a forecast of 4.8 million tonnes for 2026.
+Pakistan is generally recognized among the world's top rice-exporting countries, having been described in various years as the world's fifth-largest and, more recently, closer to the world's tenth-largest rice
+producer overall.
+Agricultural Stress and Vegetation Conditions
+FAO's Agricultural Stress Index (ASI) tracks the percentage of cropland affected by drought conditions across Pakistan each year, based on the Vegetation Health Index (VHI). This is a national and provincial
+indicator covering all cropland, not specific to rice alone, but it provides useful background on seasonal growing conditions during the paddy season. At the national level, cropland stress was estimated at about
+1 percent in 2024, 8.6 percent in 2023, 4.2 percent in 2022, 17.8 percent in 2021, and 6.2 percent in
+2025. Provincial data shows that Sindh and Punjab, the country's main rice-growing provinces, generally
+experience lower average stress levels than Balochistan and the northwestern regions, though flooding rather than drought has been the more frequent cause of rice crop losses in recent years, particularly in
+2022 and 2025.
+Other FAO/GIEWS Data Sources Referenced
+Additional detail on rice (paddy) supply, utilization, and trade balances for Pakistan is available through the FAO/GIEWS Country Cereal Balance Sheet (CCBS). Price time series are available through the
+FAO/GIEWS Food Price Monitoring and Analysis (FPMA) Tool. Seasonal, vegetation, and precipitation maps, along with downloadable time-series data on the Agricultural Stress Index, NDVI, Vegetation
+Health Index, and precipitation, are available through FAO/GIEWS Earth Observation for Crop
+Monitoring. Food security phase classifications are available through the Integrated Food Security Phase
+Classification (IPC) initiative. Broader long-run statistics on Pakistan's rice area, production, and yield are available through FAOSTAT and the FAO Country Profiles page for Pakistan, which also lists an active
+FAO technical cooperation project on sustainable and regenerative management of rice production in
+Pakistan.

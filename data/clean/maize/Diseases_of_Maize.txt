@@ -1,0 +1,75 @@
+Diseases of Field Crops
+Maize (Zea mays L.)
+Rust of Maize (Common Rust / Southern Rust)
+Rust of maize is caused by two related fungal pathogens: Common Rust, caused by Puccinia sorghi
+Schwein., and Southern Rust, caused by Puccinia polysora Underw. The host crop is maize (Zea mays L.). This is a fungal disease caused by a biotrophic fungus, and it is found worldwide, from
+tropical to temperate regions. It is considered a major yield-loss disease. The common name of the disease is Common Rust of Maize or Southern Rust of Maize, and it is also locally known as Corn
+Rust or Maize Rust. It is prevalent in tropical and subtropical regions.
+Causal Organism and Taxonomy
+Common Rust is caused by Puccinia sorghi Schwein., and Southern Rust is caused by Puccinia polysora Underw. Both pathogens belong to the Kingdom Fungi, Phylum Basidiomycota, Class
+Pucciniomycetes, Order Pucciniales, Family Pucciniaceae, and Genus Puccinia. The species differ, with Common Rust being P. sorghi and Southern Rust being P. polysora.
+Epidemiology
+Regarding temperature, the optimum for P. sorghi is 16 to 23 degrees Celsius, while P. polysora prefers 25 to 30 degrees Celsius. Sporulation stops below 10 degrees Celsius or above 35 degrees
+Celsius, and cool nights favour infection.
+Regarding humidity and moisture, the disease requires high relative humidity above 95 per cent, and free water or dew is needed for spore germination. A wet leaf surface for 6 to 8 hours promotes
+infection, and irrigation along with a dense canopy increases humidity.
+Regarding season and spread, in Pakistan the disease occurs from October to February, during the
+Rabi or cool season. The disease appears at the vegetative to silking stage. Urediniospores are spread by wind over long distances, and the disease is polycyclic, meaning it has multiple infection
+cycles per season.
+Symptoms
+In the young plant or seedling stage, small, yellowish or chlorotic flecks appear on the leaves. These flecks enlarge into orange-brown powdery pustules. The pustules, known as uredia, are scattered on
+both leaf surfaces. Leaves may curl or become distorted. Severe infection causes yellowing and early leaf death, and the plant may show stunted growth if infection occurs early.
+In the old or adult plant, at the maturity stage, brick-red to cinnamon-brown elongated pustules appear on the leaves. Uredinia, which are summer spore masses, rupture the epidermis. Teliospores,
+which are dark brown to black, form in the late season. Telia form near or replace the uredia, appearing as dark streaks. Husks, sheaths, and stalks may also become infected. Premature drying
+of leaves leads to reduced grain filling.
+
+Management and Fungicides
+Cultural management measures include using certified, disease-free seed; early sowing to avoid the peak disease season; crop rotation with non-host crops; removing infected debris after harvest; and
+avoiding excessive nitrogen fertilizer.
+Recommended fungicides include Mancozeb 80%, from the Dithiocarbamate group, applied at 2.0 kg per hectare; Propiconazole, a Triazole (DMI) fungicide, applied at 0.5 L per hectare; Tebuconazole, a
+Triazole (DMI) fungicide, applied at 0.75 L per hectare; Azoxystrobin, a Strobilurin (QoI) fungicide, applied at 0.5 L per hectare; and Triadimefon, a Triazole fungicide, applied at 0.5 L per hectare.
+Regarding resistant varieties, growing rust-resistant maize hybrids is recommended, including
+Pioneer, Monsanto, and PARC approved varieties, and this is considered the best long-term control strategy.
+It is noted that fungicides should be applied at the first appearance of pustules, and the application should be repeated after 10 to 14 days if needed. Fungicide groups should be rotated to prevent
+resistance.
+Brown Spot of Maize (A Major Foliar Disease of Maize)
+Introduction
+Maize (Zea mays L.) is a globally important cereal crop. Brown Spot is a fungal disease affecting the leaves, sheath, and nodes of maize. It reduces the photosynthetic area and plant vigor of the crop.
+The disease is severe under warm, humid, and rainy conditions, and it causes significant yield and economic losses. Physoderma brown spot lesions appear in bands across the leaf surface, and
+yellowing bands appear on the corn leaf along with dark purple spots on the midrib.
+Causal Organism
+The pathogen causing Brown Spot of maize is Physoderma maydis. It is a soil- and residue-borne fungus that survives in crop debris and produces thick-walled resting spores. It is spread via rain
+splash and irrigation water.
+Taxonomic Classification
+Physoderma maydis belongs to the Kingdom Fungi, Phylum Blastocladiomycota, Class
+Blastocladiomycetes, and Genus Physoderma, with the species being P. maydis.
+Symptoms
+On the leaves, small yellow spots appear initially, which turn brown to dark brown. These spots are arranged in transverse bands across the leaf. The midrib and sheath are commonly infected, and in
+severe cases the leaves dry up. Dark spots occur particularly on the midrib of leaves, and lesions may appear in a characteristic band-like pattern across the leaf surface.
+On the stem and node, dark brown to black lesions appear on the nodes, causing weakening of the stalk tissue. This increases the risk of lodging and results in reduced plant productivity. Symptoms of
+Physoderma brown spot may also occur on the stalk, leaf sheath, and husks.
+
+Disease Identification
+In field diagnosis, numerous small brown spots are seen, arranged in a band-like pattern across the leaves, and the disease typically appears after rainy weather. In laboratory diagnosis, the presence of
+resting spores is observed, and microscopic confirmation of the pathogen is carried out.
+Environmental Requirements
+The disease favours a temperature range of 23 to 30 degrees Celsius, and a relative humidity above
+80 per cent. It is favoured by frequent rainfall or irrigation, standing water in the leaf whorl, poor
+drainage, and a dense crop canopy.
+Susceptible Growth Stages
+At the seedling stage, the risk of infection is low. At the whorl stage, between V5 and V9, the crop shows the highest susceptibility. During the vegetative stage, the disease spreads rapidly. At the
+tasseling stage, infection is moderate. At maturity, symptoms persist but there is little new infection.
+Epidemiology
+The disease is favoured by warm, humid climates and is common in tropical and subtropical regions.
+It is spread by rain splash, irrigation water, and wind-driven droplets. Continuous maize cropping increases the risk of the disease, and water retention in the whorl enhances infection.
+Disease Incidence and Yield Losses
+In Pakistan, the average yield loss is 5 to 15 per cent, with severe cases reaching up to 20 per cent.
+Globally, common yield losses range from 5 to 20 per cent, with epidemics causing losses of 25 to 30 per cent.
+In Pakistan, the disease is common in the maize-growing areas of Punjab and Khyber Pakhtunkhwa
+(KPK). The usual incidence is 10 to 25 per cent, and it can reach up to 40 per cent in wet seasons.
+Worldwide, the disease is found in the USA, India, China, Brazil, and Africa, with disease incidence ranging from 15 to 60 per cent depending on climate.
+Management Strategies
+Integrated disease management for Brown Spot of maize includes the use of resistant hybrids, crop rotation, removal of crop debris, improved drainage, balanced fertilization, avoiding dense planting,
+and the use of fungicide only if the disease is severe.
+Conclusion
+Brown Spot is a significant disease of maize, strongly linked to wet environmental conditions. Early detection is critical, and integrated management ensures protection of yield.
