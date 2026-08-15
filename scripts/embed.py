@@ -1,59 +1,96 @@
 import os
 import json
+from pathlib import Path
 from sentence_transformers import SentenceTransformer
 
 # =========================
 # CONFIG
 # =========================
-CHUNKS_DIR = "../data/chunks"
-OUTPUT_FILE = "../data/embeddings.json"
+# Paths are resolved relative to this script's location, NOT the current
+# working directory - so this works whether you run it as
+# "python scripts/embed.py" from the project root or "python embed.py"
+# from inside scripts/.
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+CHUNKS_DIR = PROJECT_ROOT / "data" / "chunks"
+OUTPUT_FILE = PROJECT_ROOT / "data" / "embeddings.json"
 
 # =========================
-# LOAD MODEL
+# LOAD EXISTING EMBEDDINGS  (so reruns only embed NEW chunks)
 # =========================
-print("Loading embedding model...")
-model = SentenceTransformer('all-MiniLM-L6-v2')
+existing_data = []
+existing_ids = set()
+
+if os.path.exists(OUTPUT_FILE):
+    try:
+        with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
+            existing_data = json.load(f)
+        existing_ids = {item["chunk_id"] for item in existing_data}
+        print(f"Loaded {len(existing_data)} existing embeddings from {OUTPUT_FILE}")
+    except (json.JSONDecodeError, KeyError) as e:
+        print(f"⚠️ Could not read existing embeddings file ({e}); starting fresh.")
+        existing_data = []
+        existing_ids = set()
+else:
+    print("No existing embeddings file found; starting fresh.")
 
 # =========================
-# PROCESS CHUNKS
+# FIND NEW CHUNKS TO PROCESS
 # =========================
-all_data = []
-file_count = 0
-
-print("Starting embedding generation...\n")
+new_chunk_paths = []
 
 for root, dirs, files in os.walk(CHUNKS_DIR):
     for filename in files:
         if filename.endswith(".txt"):
             file_path = os.path.join(root, filename)
+            if file_path in existing_ids:
+                continue
+            new_chunk_paths.append(file_path)
 
-            try:
-                with open(file_path, "r", encoding="utf-8") as f:
-                    text = f.read().strip()
+skipped_count = 0
+new_data = []
 
-                if not text:
-                    print(f"⚠️ Skipping empty file: {file_path}")
-                    continue
+if not new_chunk_paths:
+    print("\nNo new chunks found — everything is already embedded.")
+else:
+    # =========================
+    # LOAD MODEL  (only if there's actually new work to do)
+    # =========================
+    print(f"\nFound {len(new_chunk_paths)} new chunk(s) to embed.")
+    print("Loading embedding model...")
+    model = SentenceTransformer('all-MiniLM-L6-v2')
 
-                # Generate embedding
-                embedding = model.encode(text)
+    print("Starting embedding generation...\n")
 
-                # Store result
-                all_data.append({
-                    "chunk_id": file_path,   # unique ID
-                    "text": text,
-                    "embedding": embedding.tolist()
-                })
+    for file_path in new_chunk_paths:
+        try:
+            with open(file_path, "r", encoding="utf-8") as f:
+                text = f.read().strip()
 
-                file_count += 1
-                print(f"✅ Processed: {file_path}")
+            if not text:
+                print(f"⚠️ Skipping empty file: {file_path}")
+                skipped_count += 1
+                continue
 
-            except Exception as e:
-                print(f"❌ Error processing {file_path}: {e}")
+            # Generate embedding
+            embedding = model.encode(text)
+
+            # Store result
+            new_data.append({
+                "chunk_id": file_path,   # unique ID
+                "text": text,
+                "embedding": embedding.tolist()
+            })
+
+            print(f"✅ Processed: {file_path}")
+
+        except Exception as e:
+            print(f"❌ Error processing {file_path}: {e}")
 
 # =========================
-# SAVE OUTPUT
+# MERGE + SAVE OUTPUT
 # =========================
+all_data = existing_data + new_data
+
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     json.dump(all_data, f, indent=2)
 
@@ -61,12 +98,14 @@ with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
 # VERIFICATION OUTPUT
 # =========================
 
-assert file_count == len(all_data), "Mismatch in chunk and embedding count!"
+assert len(all_data) == len(existing_data) + len(new_data), "Mismatch in chunk and embedding count!"
 
 print("\n=========================")
 print("Embedding Generation Complete!")
 print("=========================")
-print(f"Total files processed: {file_count}")
+print(f"Previously embedded : {len(existing_data)}")
+print(f"Newly processed      : {len(new_data)}")
+print(f"Skipped (empty)      : {skipped_count}")
 print(f"Total embeddings stored: {len(all_data)}")
 
 if len(all_data) > 0:

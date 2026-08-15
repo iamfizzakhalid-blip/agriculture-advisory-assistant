@@ -627,16 +627,18 @@ def extract_pdf_text(pdf_path: Path) -> Optional[List[str]]:
 # Pipeline — process folders
 # ══════════════════════════════════════════════════════════════════════════════
 
-def process_crop_folder(crop_dir: Path) -> Tuple[int, int]:
+def process_crop_folder(crop_dir: Path) -> Tuple[int, int, int]:
     """
     Process all PDFs in a single crop folder.
 
     For each PDF:
-      1. Extract per-page text  (Phase 1).
-      2. Run the full cleaning pipeline  (Phase 2).
-      3. Save UTF-8 .txt to  data/clean/<crop>/<filename>.txt.
+      1. Skip it if a matching .txt already exists in data/clean/
+         (protects manually-cleaned files from being overwritten).
+      2. Extract per-page text  (Phase 1).
+      3. Run the full cleaning pipeline  (Phase 2).
+      4. Save UTF-8 .txt to  data/clean/<crop>/<filename>.txt.
 
-    Returns (success_count, failure_count).
+    Returns (success_count, failure_count, skipped_count).
     """
     crop_name = crop_dir.name
     output_dir = CLEAN_DIR / crop_name
@@ -644,14 +646,32 @@ def process_crop_folder(crop_dir: Path) -> Tuple[int, int]:
 
     success = 0
     failed = 0
+    skipped = 0
 
     pdf_files = sorted(crop_dir.rglob("*.pdf"))
     if not pdf_files:
         print(f"  (no PDF files found in {crop_name}/)")
-        return 0, 0
+        return 0, 0, 0
 
     for pdf_path in pdf_files:
         relative_label = f"{crop_name}/{pdf_path.relative_to(crop_dir)}"
+
+        # Mirror any sub-directory structure inside the crop folder
+        relative_sub = pdf_path.relative_to(crop_dir).parent
+        dest_dir = output_dir / relative_sub
+        dest_dir.mkdir(parents=True, exist_ok=True)
+
+        out_file = dest_dir / pdf_path.with_suffix(".txt").name
+
+        # ── Skip files that have already been extracted/cleaned ──────────
+        # This protects any manual header/footer cleanup you've already
+        # done on existing .txt files — reruns only touch NEW PDFs.
+        if out_file.exists():
+            print(f"  -> Skipping {relative_label} (already extracted)")
+            logger.info("SKIPPED - %s (output already exists: %s)", relative_label, out_file)
+            skipped += 1
+            continue
+
         print(f"  -> Processing {relative_label} ... ", end="", flush=True)
         logger.info("Processing %s", relative_label)
 
@@ -674,12 +694,6 @@ def process_crop_folder(crop_dir: Path) -> Tuple[int, int]:
             failed += 1
             continue
 
-        # Mirror any sub-directory structure inside the crop folder
-        relative_sub = pdf_path.relative_to(crop_dir).parent
-        dest_dir = output_dir / relative_sub
-        dest_dir.mkdir(parents=True, exist_ok=True)
-
-        out_file = dest_dir / pdf_path.with_suffix(".txt").name
         out_file.write_text(cleaned, encoding="utf-8")
 
         clean_chars = len(cleaned)
@@ -697,7 +711,7 @@ def process_crop_folder(crop_dir: Path) -> Tuple[int, int]:
         )
         success += 1
 
-    return success, failed
+    return success, failed, skipped
 
 
 # ==============================================================================
@@ -726,27 +740,31 @@ def main() -> None:
 
     total_success = 0
     total_failed = 0
+    total_skipped = 0
     start = time.time()
 
     for crop_dir in crop_dirs:
         print(f"\n-- Crop: {crop_dir.name} --")
         logger.info("=== Crop: %s ===", crop_dir.name)
-        s, f = process_crop_folder(crop_dir)
+        s, f, sk = process_crop_folder(crop_dir)
         total_success += s
         total_failed += f
+        total_skipped += sk
 
     elapsed = time.time() - start
 
     print("\n" + "=" * 70)
     print(f"  Done in {elapsed:.1f}s")
-    print(f"  Total files : {total_success + total_failed}")
+    print(f"  Total files : {total_success + total_failed + total_skipped}")
     print(f"  Success     : {total_success}")
+    print(f"  Skipped     : {total_skipped}  (already extracted)")
     print(f"  Failed      : {total_failed}")
     print("=" * 70)
 
     logger.info(
-        "Done - %d files processed successfully, %d failed.",
+        "Done - %d new files processed, %d skipped (already existed), %d failed.",
         total_success,
+        total_skipped,
         total_failed,
     )
 
