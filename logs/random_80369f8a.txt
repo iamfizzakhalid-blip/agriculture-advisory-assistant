@@ -1,0 +1,24 @@
+User:
+who is corn
+
+Assistant:
+I do not have enough information to answer this question.
+
+--------------------------------------------------
+
+User:
+what is corn
+
+Assistant:
+Error communicating with Groq API: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kyf9pefmfra8v7ttjpcb4myx` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99771, Requested 5094. Please try again in 1h10m3.359999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+
+--------------------------------------------------
+
+User:
+huf
+
+Assistant:
+Error communicating with Groq API: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kyf9pefmfra8v7ttjpcb4myx` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99884, Requested 4001. Please try again in 55m56.64s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+
+--------------------------------------------------
+

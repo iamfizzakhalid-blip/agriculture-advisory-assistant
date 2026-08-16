@@ -708,6 +708,15 @@ if "current_chat_id" not in st.session_state:
 if "chat_topics" not in st.session_state:
     st.session_state.chat_topics = {}
 
+if "is_generating" not in st.session_state:
+    st.session_state.is_generating = False
+
+if "cancel_generation" not in st.session_state:
+    st.session_state.cancel_generation = False
+
+if "pending_question" not in st.session_state:
+    st.session_state.pending_question = None
+
 
 # =============================================
 # NEW TOPIC DIALOG (centered modal with blur)
@@ -720,14 +729,16 @@ def show_new_topic_dialog():
         'Give your conversation a topic name, or leave blank to auto-name from your first message.</p>',
         unsafe_allow_html=True,
     )
-    topic_name = st.text_input(
-        "Topic",
-        value="",
-        placeholder="e.g. Wheat sowing schedule",
-        label_visibility="collapsed",
-        key="dialog_topic_input",
-    )
-    if st.button("✅ Confirm", use_container_width=True, key="dialog_confirm_topic"):
+    with st.form(key="new_topic_form", clear_on_submit=False):
+        topic_name = st.text_input(
+            "Topic",
+            value="",
+            placeholder="e.g. Wheat sowing schedule",
+            label_visibility="collapsed",
+            key="dialog_topic_input",
+        )
+        submitted = st.form_submit_button("✅ Confirm", use_container_width=True)
+    if submitted:
         current = load_chat(st.session_state.current_chat_id)
         is_current_empty = current is not None and len(current.get("messages", [])) == 0
         title = topic_name.strip() if topic_name and topic_name.strip() else "New Chat"
@@ -885,39 +896,168 @@ for msg in st.session_state.messages:
 # =============================================
 # USER INPUT
 # =============================================
-user_input = st.chat_input("Ask about crops (e.g., wheat sowing time)...")
+# Disable chat input while a response is being generated
+user_input = st.chat_input(
+    "Ask about crops (e.g., wheat sowing time)...",
+    disabled=st.session_state.is_generating,
+)
 
+# Show cancel button overlaid exactly on the chat input's send/arrow button while generating
+if st.session_state.is_generating:
+    import streamlit.components.v1 as components
+
+    st.markdown(
+        """
+        <style>
+            /* Initially hide cancel button — JS will position it precisely */
+            div[class*="st-key-cancel_gen"] {
+                position: fixed;
+                z-index: 99999;
+                margin: 0 !important;
+                padding: 0 !important;
+                pointer-events: auto;
+                opacity: 0;
+                transition: opacity 0.15s ease;
+            }
+            div[class*="st-key-cancel_gen"] > div {
+                margin: 0 !important;
+                padding: 0 !important;
+            }
+            div[class*="st-key-cancel_gen"] button {
+                background: rgba(198, 40, 40, 0.4) !important;
+                color: #EF9A9A !important;
+                border: 1px solid rgba(198, 40, 40, 0.55) !important;
+                border-radius: 8px !important;
+                padding: 0 !important;
+                font-size: 1rem !important;
+                display: flex !important;
+                align-items: center !important;
+                justify-content: center !important;
+                line-height: 1 !important;
+                cursor: pointer !important;
+                transition: background 0.2s ease !important;
+            }
+            div[class*="st-key-cancel_gen"] button:hover {
+                background: rgba(198, 40, 40, 0.6) !important;
+                border-color: rgba(198, 40, 40, 0.8) !important;
+            }
+        </style>
+        """,
+        unsafe_allow_html=True,
+    )
+    if st.button("■", key="cancel_gen", help="Stop generating"):
+        st.session_state.cancel_generation = True
+        st.session_state.is_generating = False
+        st.session_state.pending_question = None
+        st.rerun()
+
+    # Inject JS to position the cancel button exactly over the native send button
+    components.html(
+        """
+        <script>
+        (function() {
+            const doc = window.parent.document;
+            function positionCancelBtn() {
+                // Find the native send button inside the chat input
+                const sendBtn = doc.querySelector(
+                    '.stChatInput button[kind="primary"], ' +
+                    '.stChatInput button[data-testid="stChatInputSubmitButton"], ' +
+                    '.stChatInput button'
+                );
+                const cancelWrapper = doc.querySelector('div[class*="st-key-cancel_gen"]');
+                if (!sendBtn || !cancelWrapper) return;
+
+                const rect = sendBtn.getBoundingClientRect();
+                const cancelBtn = cancelWrapper.querySelector('button');
+
+                // Position wrapper exactly over the send button
+                cancelWrapper.style.left   = rect.left + 'px';
+                cancelWrapper.style.top    = rect.top + 'px';
+                cancelWrapper.style.width  = rect.width + 'px';
+                cancelWrapper.style.height = rect.height + 'px';
+                cancelWrapper.style.opacity = '1';
+
+                // Match cancel button size to send button
+                if (cancelBtn) {
+                    cancelBtn.style.width     = rect.width + 'px';
+                    cancelBtn.style.height    = rect.height + 'px';
+                    cancelBtn.style.minHeight = rect.height + 'px';
+                    cancelBtn.style.minWidth  = rect.width + 'px';
+                    cancelBtn.style.maxHeight = rect.height + 'px';
+                    cancelBtn.style.maxWidth  = rect.width + 'px';
+                }
+
+                // Hide the native send button underneath
+                sendBtn.style.opacity = '0';
+                sendBtn.style.pointerEvents = 'none';
+            }
+            // Run immediately and re-check on resize
+            positionCancelBtn();
+            const iv = setInterval(positionCancelBtn, 300);
+            window.addEventListener('resize', positionCancelBtn);
+            // Stop polling after 60 s to avoid leaks
+            setTimeout(function() { clearInterval(iv); }, 60000);
+        })();
+        </script>
+        """,
+        height=0,
+    )
+
+# =============================================
+# PHASE 1: Capture user input and trigger rerun
+# so the chat input re-renders as DISABLED before
+# the slow RAG call begins.
+# =============================================
 if user_input:
-    # =============================================
-    # SHOW USER MESSAGE
-    # =============================================
     st.session_state.messages.append({
         "role": "user",
         "content": user_input
     })
-
-    with st.chat_message("user"):
-        st.markdown(user_input)
-
-    # Persist immediately so the chat title/list update even if generation fails
+    # Persist immediately so the chat title/list update
     save_chat(
         st.session_state.current_chat_id,
         make_title(st.session_state.messages, chat_id=st.session_state.current_chat_id),
         st.session_state.messages,
     )
+    # Store the question for Phase 2 and lock the input
+    st.session_state.pending_question = user_input
+    st.session_state.is_generating = True
+    st.session_state.cancel_generation = False
+    st.rerun()
 
-    # =============================================
-    # GENERATE RESPONSE
-    # =============================================
+# =============================================
+# PHASE 2: Process the pending question.
+# At this point the chat input has already rendered
+# as disabled, so the user cannot submit another.
+# =============================================
+if st.session_state.get("pending_question"):
+    pending_q = st.session_state.pending_question
+
     with st.spinner("Thinking... 🌱"):
         start = time.time()
 
         try:
             rag_result = rag_pipeline(
-                question=user_input,
+                question=pending_q,
                 collection=collection,
                 model=model,
             )
+
+            # Check if user cancelled while we were waiting
+            if st.session_state.cancel_generation:
+                st.session_state.cancel_generation = False
+                st.session_state.is_generating = False
+                st.session_state.pending_question = None
+                # Remove the user message that had no response
+                if st.session_state.messages and st.session_state.messages[-1]["role"] == "user":
+                    st.session_state.messages.pop()
+                    save_chat(
+                        st.session_state.current_chat_id,
+                        make_title(st.session_state.messages, chat_id=st.session_state.current_chat_id),
+                        st.session_state.messages,
+                    )
+                st.rerun()
+
             if isinstance(rag_result, dict):
                 answer = rag_result.get("answer", "")
                 status = rag_result.get("status", "answered")
@@ -929,7 +1069,7 @@ if user_input:
                 sources = []
 
         except Exception as e:
-            answer = "I’m sorry, I couldn’t generate a response right now."
+            answer = "I'm sorry, I couldn't generate a response right now."
             status = "insufficient_info"
             sources = []
             results = []
@@ -938,6 +1078,10 @@ if user_input:
         end = time.time()
         response_time = end - start
         bot_reply = answer
+
+    # Done generating — clear pending and re-enable input
+    st.session_state.pending_question = None
+    st.session_state.is_generating = False
 
     # =============================================
     # SHOW BOT RESPONSE + SOURCES
@@ -993,17 +1137,21 @@ if user_input:
     try:
         chat_logs = st.session_state.setdefault("chat_log_keys", {})
         chat_set = chat_logs.setdefault(st.session_state.current_chat_id, set())
-        key = (user_input.strip(), bot_reply.strip())
+        key = (pending_q.strip(), bot_reply.strip())
         if key not in chat_set:
             append_chat_exchange(
                 st.session_state.current_chat_id,
                 chat_title,
-                user_input,
+                pending_q,
                 bot_reply,
             )
             chat_set.add(key)
     except Exception:
         pass
+
+    # Rerun so the page re-renders without cancel button,
+    # restoring the native arrow/send button automatically.
+    st.rerun()
 
 # =============================================
 # FOOTER
