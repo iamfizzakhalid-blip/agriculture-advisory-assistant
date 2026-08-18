@@ -110,7 +110,7 @@ def normalize_query(user_query: str) -> dict:
 
     try:
         response = client.chat.completions.create(
-            model="llama-3.3-70b-versatile",
+            model="openai/gpt-oss-20b",
             temperature=0,
             max_tokens=120,
             messages=[
@@ -219,7 +219,7 @@ def translate_to_original_language(text: str, target_language: str) -> str:
 
     try:
         response = client.chat.completions.create(
-            model="llama-3.3-70b-versatile",
+            model="openai/gpt-oss-20b",
             temperature=0,
             max_tokens=300,
             messages=[

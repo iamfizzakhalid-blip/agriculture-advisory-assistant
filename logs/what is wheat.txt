@@ -1,0 +1,46 @@
+User:
+How much irrigation does wheat require?
+
+Assistant:
+Wheat generally needs 4–6 irrigations, totaling about 19 acre‑inches of water.
+
+--------------------------------------------------
+
+User:
+Which fertilizer is best for wheat?
+
+Assistant:
+I do not have enough information to answer this question.
+
+--------------------------------------------------
+
+User:
+How can I control weeds in wheat fields?
+
+Assistant:
+I do not have enough information to answer this question.
+
+--------------------------------------------------
+
+User:
+What are the common diseases of wheat?
+
+Assistant:
+Common diseases of wheat are mainly the rusts:
+
+- **Black (stem) rust** – caused by *Puccinia graminis tritici*
+- **Brown/orange rust** – caused by *Puccinia recondita*
+- **Yellow (stripe) rust** – caused by *Puccinia striiformis*
+
+These rusts are the most important and destructive wheat diseases worldwide, often leading to significant yield losses.
+
+--------------------------------------------------
+
+User:
+What type of soil is suitable for wheat?
+
+Assistant:
+I do not have enough information to answer this question.
+
+--------------------------------------------------
+

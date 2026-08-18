@@ -66,10 +66,27 @@ def _safe_log_title(title: str) -> str:
 def ensure_chat_log_file(chat_id: str, title: str = "New Chat") -> Path:
     LOGS_DIR.mkdir(parents=True, exist_ok=True)
     safe_title = _safe_log_title(title)
-    suffix = str(chat_id)[:8]
-    candidate = LOGS_DIR / f"{safe_title}_{suffix}.txt"
-    if not candidate.exists():
-        candidate.touch(exist_ok=True)
+    candidate = LOGS_DIR / f"{safe_title}.txt"
+    if candidate.exists():
+        return candidate
+    # If a log file for this chat_id already exists under a different title
+    # (e.g. "New Chat.txt"), rename it to the updated title.
+    try:
+        conn = get_conn()
+        cur = conn.cursor()
+        cur.execute("SELECT title FROM chats WHERE id = ?", (chat_id,))
+        row = cur.fetchone()
+        conn.close()
+        if row and row["title"]:
+            old_safe = _safe_log_title(row["title"])
+            old_path = LOGS_DIR / f"{old_safe}.txt"
+            if old_path.exists() and old_path != candidate:
+                old_path.rename(candidate)
+                return candidate
+    except Exception:
+        pass
+    # No existing file found — create a fresh one.
+    candidate.touch(exist_ok=True)
     return candidate
 
 
@@ -102,12 +119,6 @@ def create_chat(chat_id: Optional[str] = None, title: str = "New Chat") -> str:
     )
     conn.commit()
     conn.close()
-
-    # Create the per-chat human-readable log file as soon as the chat is created.
-    try:
-        ensure_chat_log_file(cid, title)
-    except Exception:
-        pass
 
     return cid
 

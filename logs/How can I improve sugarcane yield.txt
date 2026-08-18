@@ -1,0 +1,16 @@
+User:
+How can I improve sugarcane yield?
+
+Assistant:
+I do not have enough information to answer this question.
+
+--------------------------------------------------
+
+User:
+Which fertilizer is recommended for sugarcane?
+
+Assistant:
+I do not have enough information to answer this question.
+
+--------------------------------------------------
+

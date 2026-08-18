@@ -85,7 +85,7 @@ def ask_llm(question, context):
         start_time = time.time()
 
         response = client.chat.completions.create(  # actual API call.
-            model="llama-3.3-70b-versatile",
+            model="openai/gpt-oss-20b",
             temperature=0.1,  # Low temperature for grounded, deterministic answers
             max_tokens=500,   # Allow sufficient space for detailed answers
             messages=[

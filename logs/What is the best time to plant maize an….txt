@@ -1,0 +1,33 @@
+User:
+What is the best time to plant maize? and how much water does it require?
+
+Assistant:
+- **Best planting time**  
+  • Spring sowing: mid‑January to the end of February.  
+  • Autumn (seasonal) sowing: first week of July to 10 August; early‑maturing varieties can be sown up to 20 August.  
+
+- **Water requirement**  
+  • About 600 litres of water are needed to produce 1 kg of maize grain.  
+  • For good growth, 550–650 mm of rainfall per unit area is ideal; if the soil is at field capacity at
+
+--------------------------------------------------
+
+User:
+Which fertilizer should I use for maize?
+
+Assistant:
+For maize, it is recommended to use a combination of chemical and organic fertilizers. Chemical fertilizers provide essential nutrients such as nitrogen, phosphorus, and potassium, while organic fertilizers improve soil structure, increase microbial activity, and add trace elements. A balanced NPK mix (e.g., 10-10-10 or 15-15-15) can be applied, and cover crops like mungbean or sunnhemp can be grown to further enhance soil fertility.
+
+--------------------------------------------------
+
+User:
+What are the common diseases of maize?
+
+Assistant:
+- Leaf blight (caused by *Helminthosporium turcicum*)
+- Rust (Common Rust *Puccinia sorghi* and Southern Rust *Puccinia polysora*)
+- Brown spot (caused by *Physoderma maydis* / *Physoderma zeae‑maydis*)
+- Head smut (caused by *Sphacelotheca reiliana*)
+
+--------------------------------------------------
+

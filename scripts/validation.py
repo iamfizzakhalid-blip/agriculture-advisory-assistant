@@ -29,7 +29,7 @@ except Exception:
 load_dotenv()
 
 # Model to use — same as the primary pipeline
-_VALIDATION_MODEL = "llama-3.3-70b-versatile"
+_VALIDATION_MODEL = "openai/gpt-oss-20b"
 
 
 # ------------------------------------------------------------------
