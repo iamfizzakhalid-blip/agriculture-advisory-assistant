@@ -142,6 +142,8 @@ def _clean_source_name(item: dict) -> str:
     if name.lower().endswith(".txt"):
         name = name[:-4]
     name = name.replace("_", " ").strip()
+    # Remove chunk suffix like " chunk 001"
+    name = re.sub(r"\s+chunk\s+\d+$", "", name, flags=re.IGNORECASE).strip()
     return name or "Agriculture Source"
 
 
@@ -163,18 +165,22 @@ def _classify_response(question: str, answer: str, validation: dict | None) -> s
     ql = (question or "").lower().strip()
     al = answer.lower().strip()
 
-    if validation:
-        if validation.get("is_relevant") is False:
-            return "unrelated" if not _looks_agriculture_related(ql) else "insufficient_info"
-        if validation.get("is_supported") is False:
-            return "insufficient_info"
-
+    # If the LLM itself produced a refusal / insufficient answer, honour that.
     if _is_insufficient_response(al):
         return "insufficient_info"
     if "unrelated" in al or "not related" in al:
         return "unrelated"
+
+    # If the answer is substantive, only let validation downgrade it when the
+    # question is clearly not agriculture-related.
+    if validation:
+        if validation.get("is_relevant") is False and not _looks_agriculture_related(ql):
+            return "unrelated"
+
     if not _looks_agriculture_related(ql):
         return "unrelated"
+
+    # Substantive, agriculture-related answer → show it with sources.
     return "answered"
 
 
@@ -346,7 +352,7 @@ def rag_pipeline(question, collection, model):
         final_answer = validated_answer
 
     status = _classify_response(question, final_answer, post_validation)
-    source_list = _build_source_list(results) if status == "answered" else []
+    source_list = _build_source_list(results)
 
     return RagResult({
         "answer": final_answer,

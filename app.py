@@ -892,6 +892,30 @@ if len(st.session_state.messages) == 0:
 for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
         st.markdown(msg["content"])
+        # Show retrieved sources for assistant messages that have them
+        if msg["role"] == "assistant" and msg.get("sources"):
+            with st.expander("🔍 Retrieved Sources"):
+                for source_name in msg["sources"]:
+                    source_key = source_name.lower()
+                    if "wheat" in source_key:
+                        source_icon = "🌾"
+                    elif "maize" in source_key:
+                        source_icon = "🌽"
+                    elif "rice" in source_key:
+                        source_icon = "🌾"
+                    elif "cotton" in source_key:
+                        source_icon = "🧵"
+                    elif "sugarcane" in source_key:
+                        source_icon = "🎋"
+                    else:
+                        source_icon = "📄"
+                    st.markdown(
+                        f'<div class="source-card">'
+                        f'<span class="source-icon">{source_icon}</span>'
+                        f'<span class="source-name">{source_name}</span>'
+                        f'</div>',
+                        unsafe_allow_html=True,
+                    )
 
 # =============================================
 # USER INPUT
@@ -1124,7 +1148,8 @@ if st.session_state.get("pending_question"):
     # =============================================
     st.session_state.messages.append({
         "role": "assistant",
-        "content": bot_reply
+        "content": bot_reply,
+        "sources": sources if status == "answered" else [],
     })
 
     chat_title = make_title(st.session_state.messages, chat_id=st.session_state.current_chat_id)

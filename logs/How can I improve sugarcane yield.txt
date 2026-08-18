@@ -14,3 +14,84 @@ I do not have enough information to answer this question.
 
 --------------------------------------------------
 
+User:
+which diseases damage sugarcane?
+
+Assistant:
+Sugarcane can be damaged by several diseases, including sugarcane mosaic virus, pokkah boeng, whip smut (caused by *Ustilago scitaminea*), chlorotic streak virus, ratoon stunting, yellow spot, red stripe, rust, and genetic variegation of leaf and sheath.
+
+--------------------------------------------------
+
+User:
+sugarcane diseases
+
+Assistant:
+Sugarcane diseases mentioned in the context:
+
+- **Whip smut** – caused by *Ustilago scitaminea*; produces long black whips from the cane apex.
+- **Ring spot** – caused by *Leptosphaeria sacchari*; appears as purple‑brown spots with a yellow areola on leaves.
+
+--------------------------------------------------
+
+User:
+diseases?
+
+Assistant:
+I do not have enough information to answer this question.
+
+--------------------------------------------------
+
+User:
+wheat diseases?
+
+Assistant:
+Wheat can suffer from several major diseases, the most important being the rusts and smut. 
+
+• **Stem (black) rust** – caused by *Puccinia graminis tritici*. It appears late in the season, producing elongated brown pustules on stems, leaf sheaths and leaves. 
+• **Leaf (brown/orange) rust** – caused by *Puccinia recondita*. It forms brown pustules on leaf surfaces. 
+• **Stripe (yellow) rust** – caused by *Puccinia striiformis*. It is less widespread but can be severe where it occurs. 
+• **Flag smut** – caused by *Urocystis tritici*. It mainly affects the leaves and can kill the plant, especially in the Punjab region. 
+
+These diseases can cause significant yield losses if not managed properly.
+
+--------------------------------------------------
+
+User:
+wheat diseases
+
+Assistant:
+The wheat diseases mentioned in the provided material are:
+
+1. **Rusts**
+   - Black (stem) rust – *Puccinia graminis tritici*
+   - Brown (leaf) rust – *Puccinia recondita*
+   - Yellow (stripe) rust – *Puccinia striiformis*
+
+2. **Flag smut** – *Urocystis tritici*
+
+--------------------------------------------------
+
+User:
+which crops u can guide me about?
+
+Assistant:
+We can guide you about maize.
+
+--------------------------------------------------
+
+User:
+what is maize
+
+Assistant:
+Maize (Zea mays L.) is an annual, short‑day cereal crop in the Poaceae family. It is cross‑pollinated, produces hard kernels high in starch, and is grown mainly for grain, fodder, and industrial uses.
+
+--------------------------------------------------
+
+User:
+best time to sow maize?
+
+Assistant:
+The best time to sow maize is when the appropriate rains arrive, avoiding periods of excessive rainfall or drought, especially around the flowering stage. Sowing should be done early enough to allow the crop to mature before the dry season.
+
+--------------------------------------------------
+

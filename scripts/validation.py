@@ -157,7 +157,7 @@ def validate_query_pre_rag(user_query: str, english_query: str) -> dict:
         "For agriculture questions, if the translation is correct, use it; if it is wrong or misleading, provide a corrected English version based on the original query's actual meaning.\n"
         "- reason (string): a brief explanation of your assessment.\n\n"
         "IMPORTANT:\n"
-        "- Greeting and conversational questions (hello, hi, how are you, who are you, what do you do, thank you, goodbye) are valid and should NOT be sent to RAG.\n"
+        "- Greeting and conversational questions (hello, hi, how are you, who are you, what do you do, thank you, goodbye, etc.), identify them on your own, are valid and should NOT be sent to RAG.\n"
         "- Weather, news, politics, sports, entertainment, Bitcoin, and other out-of-scope questions are not agriculture-related and should not be sent to RAG.\n"
         "- Do NOT blindly trust the translation. If the original and English versions do not match, prefer the original query's true meaning.\n"
         "- If there is suspicious or mistranslated wording that could cause incorrect retrieval, flag it and provide a safe corrected query.\n"
