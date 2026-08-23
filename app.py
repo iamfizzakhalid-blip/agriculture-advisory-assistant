@@ -1096,6 +1096,9 @@ if st.session_state.get("pending_question"):
                 status = "answered" if results else "insufficient_info"
                 sources = []
 
+            if not answer or not str(answer).strip():
+                answer = "I'm sorry, I couldn't generate a response right now. Please try asking again."
+
         except Exception as e:
             answer = "I'm sorry, I couldn't generate a response right now."
             status = "insufficient_info"

@@ -5,6 +5,8 @@ from functools import lru_cache
 
 from dotenv import load_dotenv
 
+from scripts.groq_utils import complete_chat
+
 try:
     from groq import Groq
 except Exception:
@@ -96,11 +98,20 @@ def normalize_query(user_query: str) -> dict:
         "or Roman Urdu in Latin letters, and you translate non-English queries "
         "into plain English for retrieval. Return strict JSON only with exactly "
         "these keys: detected_language and english_query. Use detected_language "
-        "values only from en, ur, roman_ur. If the input is already English, "
-        "keep english_query as a lightly cleaned version of the original query "
-        "and do not rewrite its meaning. If the input is Urdu or Roman Urdu, "
-        "translate it to clear natural English. Do not add markdown, code fences, "
-        "or commentary."
+        "values only from en, ur, roman_ur.\n"
+        "Classification rules:\n"
+        "- en: English written in Latin letters.\n"
+        "- ur: Urdu written in Arabic/Nastaliq script (characters like ا ب پ ت).\n"
+        "- roman_ur: Urdu/Hindi-Urdu meaning written in Latin letters "
+        "(e.g. 'makai ki fasal', 'beej kyun nahi bacha sakta'). "
+        "Never label Roman Urdu as ur.\n"
+        "If the input is already English, keep english_query as a lightly cleaned "
+        "version of the original query and do not rewrite its meaning. "
+        "If the input is Urdu or Roman Urdu, translate it to clear natural English "
+        "with the SAME agricultural intent. Use standard crop names: "
+        "makai/makki/مکئی=maize, gandum/گندم=wheat, chawal/dhaan/چاول=rice, "
+        "kapaas/کپاس=cotton, ganna/گنا=sugarcane. "
+        "Do not add markdown, code fences, or commentary."
     )
 
     user_prompt = (
@@ -109,17 +120,17 @@ def normalize_query(user_query: str) -> dict:
     )
 
     try:
-        response = client.chat.completions.create(
-            model="openai/gpt-oss-20b",
-            temperature=0,
-            max_tokens=120,
-            messages=[
+        content, _ = complete_chat(
+            client,
+            [
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt},
             ],
+            max_tokens=1024,
+            temperature=0,
         )
-
-        content = response.choices[0].message.content or ""
+        if not content:
+            return _fallback_result(user_query)
         payload = _extract_json_payload(content)
         parsed = json.loads(payload)
 
@@ -179,6 +190,7 @@ def translate_to_original_language(text: str, target_language: str) -> str:
     "- Use Pakistani agricultural terms that farmers in Punjab/Sindh/KPK would understand.\n\n"
 
     "2. If target language is 'roman_ur':\n"
+    "- Use ONLY Latin letters (a-z). NEVER use Arabic-script Urdu characters.\n"
     "- Use natural Pakistani Roman Urdu (spoken style, how Pakistanis text/chat).\n"
     "- Use commonly spoken farmer-friendly words such as:\n"
     "  'pani', 'zaroori', 'kitna', 'fasal', 'zamin', 'beej', 'boyein',\n"
@@ -218,17 +230,111 @@ def translate_to_original_language(text: str, target_language: str) -> str:
     user_prompt = f"Target language: {target_language}\nText: {text}"
 
     try:
-        response = client.chat.completions.create(
-            model="openai/gpt-oss-20b",
-            temperature=0,
-            max_tokens=300,
-            messages=[
+        translated, _ = complete_chat(
+            client,
+            [
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt},
             ],
+            max_tokens=2500,
+            temperature=0,
+            continue_on_length=True,
         )
-
-        return response.choices[0].message.content.strip()
+        if not translated:
+            return text
+        if not _translation_uses_expected_script(translated, target_language):
+            translated = _retry_translation(client, text, target_language) or translated
+        return translated or text
 
     except Exception:
         return text
+
+
+def detect_script_type(text: str) -> str:
+    """Return 'ur' for Arabic-script Urdu, 'latin' for Latin letters, else 'other'."""
+    if not text:
+        return "other"
+    has_urdu = any("\u0600" <= c <= "\u06FF" for c in text)
+    has_latin = any(c.isalpha() and c.lower() in "abcdefghijklmnopqrstuvwxyz" for c in text)
+    if has_urdu:
+        return "ur"
+    if has_latin:
+        return "latin"
+    return "other"
+
+
+_ROMAN_URDU_INDICATORS = {
+    "ka", "ke", "ki", "hai", "hain", "nahi", "nahin", "kab", "kya", "kyun",
+    "kaise", "kaisa", "kaisi", "mera", "meri", "mere", "apni", "apna", "apne",
+    "tum", "aap", "ap", "main", "mein", "mai", "fasal", "beej", "sakta",
+    "sakti", "sakte", "lagane", "lagao", "saal", "dobara", "makai", "makki",
+    "gandum", "chawal", "dhaan", "kapaas", "kapas", "ganna", "khaad",
+    "pani", "zameen", "kasht", "kisan", "kashtkaar", "wajah", "liye",
+    "kyunke", "isliye", "bohat", "zyada", "kam", "hoti", "hota", "hote",
+    "wala", "wali", "walay", "karna", "karo", "karun", "bacha", "bachana",
+}
+
+
+def looks_like_roman_urdu(text: str) -> bool:
+    if detect_script_type(text) != "latin":
+        return False
+    tokens = {t.strip("?!.;,()'\"").lower() for t in text.split()}
+    # Require two hits so English phrases like "main pests" are not tagged Roman Urdu.
+    return len(tokens & _ROMAN_URDU_INDICATORS) >= 2
+
+
+def resolve_output_language(question: str, llm_detected: str | None = None) -> str:
+    """Pick en, ur, or roman_ur from script + optional LLM label."""
+    script = detect_script_type(question)
+    if script == "ur":
+        return "ur"
+    if script == "latin":
+        if llm_detected == "roman_ur" or looks_like_roman_urdu(question):
+            return "roman_ur"
+        if llm_detected == "ur":
+            # Latin letters cannot be Arabic-script Urdu.
+            return "roman_ur" if looks_like_roman_urdu(question) else "en"
+        return "en"
+    if llm_detected in {"en", "ur", "roman_ur"}:
+        return llm_detected
+    return "en"
+
+
+def _translation_uses_expected_script(text: str, target_language: str) -> bool:
+    script = detect_script_type(text)
+    if target_language == "ur":
+        return script == "ur"
+    if target_language == "roman_ur":
+        return script == "latin"
+    return True
+
+
+def _retry_translation(client, text: str, target_language: str) -> str | None:
+    if target_language == "ur":
+        reminder = (
+            "Translate the English text into Pakistani Urdu using Arabic script only. "
+            "Do not use Latin letters except unavoidable technical abbreviations."
+        )
+    elif target_language == "roman_ur":
+        reminder = (
+            "Translate the English text into Roman Urdu using Latin letters only. "
+            "Do not use any Arabic-script characters."
+        )
+    else:
+        return None
+    try:
+        retry, _ = complete_chat(
+            client,
+            [
+                {"role": "system", "content": reminder + " Return only the translation."},
+                {"role": "user", "content": text},
+            ],
+            max_tokens=2500,
+            temperature=0,
+            continue_on_length=True,
+        )
+        if retry and _translation_uses_expected_script(retry, target_language):
+            return retry
+    except Exception:
+        return None
+    return None

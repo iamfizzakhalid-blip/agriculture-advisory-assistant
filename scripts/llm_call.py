@@ -16,11 +16,12 @@ except Exception:
 # Load environment variables
 load_dotenv()
 
+from scripts.groq_utils import complete_chat
+
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 PROMPT_TEMPLATE_PATH = PROJECT_ROOT / "scripts" / "prompt_template.txt"
 MAX_CONTEXT_CHARS = 6000
-LLM_MODEL = "openai/gpt-oss-20b"
-MAX_OUTPUT_TOKENS = 1500
+MAX_OUTPUT_TOKENS = 2500
 
 api_key = os.getenv("GROQ_API_KEY")
 
@@ -56,17 +57,15 @@ def _call_groq(
     max_tokens: int = MAX_OUTPUT_TOKENS,
 ) -> tuple[str | None, str | None]:
     """Send one chat completion request and return (content, finish_reason)."""
-    response = client.chat.completions.create(
-        model=LLM_MODEL,
-        temperature=0.1,
+    content, finish_reason = complete_chat(
+        client,
+        messages,
         max_tokens=max_tokens,
-        messages=messages,
+        temperature=0.1,
+        continue_on_length=True,
     )
-    choice = response.choices[0]
-    content = choice.message.content
-    finish_reason = getattr(choice, "finish_reason", None)
-    if content and content.strip():
-        return _normalize_llm_text(content.strip()), finish_reason
+    if content:
+        return _normalize_llm_text(content), finish_reason
     return None, finish_reason
 
 

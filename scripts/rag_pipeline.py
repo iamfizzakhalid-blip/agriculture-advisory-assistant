@@ -9,8 +9,22 @@ from scripts.load_db import (
 )
 
 from scripts.llm_call import ask_llm
-from scripts.lang_utils import normalize_query, translate_to_original_language
+from scripts.lang_utils import (
+    normalize_query,
+    resolve_output_language,
+    translate_to_original_language,
+)
 from scripts.validation import validate_query_pre_rag, validate_answer_post_rag
+
+INSUFFICIENT_ANSWER = "I do not have enough information to answer this question."
+
+CROP_TERMS = {
+    "wheat": ["wheat", "gandum", "gehun", "گندم"],
+    "rice": ["rice", "chawal", "dhaan", "dhan", "چاول"],
+    "cotton": ["cotton", "kapas", "kapaas", "کپاس"],
+    "sugarcane": ["sugarcane", "ganna", "ganne", "گنا"],
+    "maize": ["maize", "corn", "makai", "makki", "مکئی", "مکئي", "مکی"],
+}
 
 TOP_K = 8
 MAX_CONTEXT_CHARS = 6000
@@ -42,17 +56,10 @@ def normalize_answer_text(text: str) -> str:
 def detect_crop(query: str) -> str:
     query_lower = query.lower()
 
-    crops = [
-        "wheat",
-        "rice",
-        "cotton",
-        "sugarcane",
-        "maize",
-    ]
-
-    for crop in crops:
-        if crop in query_lower:
-            return crop
+    for crop, terms in CROP_TERMS.items():
+        for term in terms:
+            if term in query_lower or term in query:
+                return crop
 
     # Wheat-specific terms when the crop name is not mentioned explicitly.
     wheat_terms = [
@@ -205,8 +212,12 @@ def _looks_agriculture_related(text: str) -> bool:
         "rust", "pathogen", "wilt", "blight", "smut", "bunt", "lodging",
         "nutrient", "nitrogen", "phosphorus", "potassium", "urea", "dap",
         "variety", "varieties", "germination", "tillering", "herbicide",
+        "makai", "makki", "gandum", "chawal", "dhaan", "kapaas", "ganna",
     ]
-    return any(keyword in q for keyword in agriculture_keywords)
+    if any(keyword in q for keyword in agriculture_keywords):
+        return True
+    urdu_keywords = ["فصل", "بیج", "مکئی", "گندم", "چاول", "کپاس", "گنا", "کھاد", "کاشت", "کسان"]
+    return any(keyword in text for keyword in urdu_keywords)
 
 
 def _is_insufficient_response(text: str) -> bool:
@@ -221,8 +232,13 @@ def _is_insufficient_response(text: str) -> bool:
         "unrelated question",
         "not related to the question",
         "unable to answer this question",
+        "کافی معلومات نہیں",
+        "kafi maloomat nahi",
+        "kaafi maloomat nahi",
+        "maloomat nahi hai",
+        "maloomat nahin",
     ]
-    return any(marker in lower for marker in insufficient_markers)
+    return any(marker in lower or marker in text for marker in insufficient_markers)
 
 
 def _clean_source_name(item: dict) -> str:
@@ -248,118 +264,80 @@ def _build_source_list(results):
     return sources
 
 
-def _classify_response(question: str, answer: str, validation: dict | None) -> str:
+def _classify_response(
+    question: str,
+    answer: str,
+    validation: dict | None,
+    english_query: str | None = None,
+) -> str:
     if not answer:
         return "insufficient_info"
 
-    ql = (question or "").lower().strip()
     al = answer.lower().strip()
 
     # If the LLM itself produced a refusal / insufficient answer, honour that.
-    if _is_insufficient_response(al):
+    if _is_insufficient_response(answer):
         return "insufficient_info"
     if "unrelated" in al or "not related" in al:
         return "unrelated"
 
-    # If the answer is substantive, only let validation downgrade it when the
-    # question is clearly not agriculture-related.
+    agriculture_text = " ".join(
+        part for part in (question, english_query) if part
+    )
     if validation:
-        if validation.get("is_relevant") is False and not _looks_agriculture_related(ql):
+        if validation.get("is_relevant") is False and not _looks_agriculture_related(agriculture_text):
             return "unrelated"
 
-    if not _looks_agriculture_related(ql):
+    if not _looks_agriculture_related(agriculture_text):
         return "unrelated"
 
-    # Substantive, agriculture-related answer → show it with sources.
     return "answered"
 
 
-# Roman Urdu detection helper
-def detect_script_type(text: str) -> str:
-    """Simple script detector.
-
-    Returns:
-    - 'ur' for Arabic-script (Urdu) characters
-    - 'latin' for Latin alphabet characters
-    - 'other' for none of the above
-    """
-
-    has_urdu = any('\u0600' <= c <= '\u06FF' for c in text)
-    has_latin = any(c.isalpha() and c.lower() in "abcdefghijklmnopqrstuvwxyz" for c in text)
-
-    if has_urdu:
-        return "ur"
-    elif has_latin:
-        return "latin"
-    else:
-        return "other"
+def _localize_text(text: str, lang: str) -> str:
+    if not text or lang == "en":
+        return text
+    translated = translate_to_original_language(text, lang)
+    if not translated or not str(translated).strip():
+        return text
+    return translated
 
 
 def rag_pipeline(question, collection, model):
 
+    normalized_query = normalize_query(question)
+    retrieval_query = normalized_query.get("english_query", question)
+    final_lang = resolve_output_language(
+        question,
+        normalized_query.get("detected_language"),
+    )
+
     intent = classify_user_intent(question)
-    if intent["category"] in {"conversation", "out_of_scope"}:
+    if intent["category"] == "conversation":
         return RagResult({
-            "answer": intent["response"],
-            "status": "answered" if intent["category"] == "conversation" else "unrelated",
+            "answer": _localize_text(intent["response"], final_lang),
+            "status": "answered",
+            "sources": [],
+            "results": [],
+        })
+    if intent["category"] == "out_of_scope":
+        return RagResult({
+            "answer": _localize_text(intent["response"], final_lang),
+            "status": "unrelated",
             "sources": [],
             "results": [],
         })
 
-    def _is_conversational_or_identity(q: str) -> bool:
-        """Return True for short conversational or identity questions we should not answer from LLM knowledge."""
-        if not q:
-            return False
-        ql = q.lower().strip()
-        # common conversational starters and identity questions
-        conversational_tokens = [
-            "hello",
-            "hi",
-            "hey",
-            "who am i",
-            "who are you",
-            "who are",
-            "what is my name",
-            "what's my name",
-            "where am i",
-            "how are you",
-            "introduce yourself",
-        ]
-        # exact-match short phrases or presence
-        for t in conversational_tokens:
-            if t in ql:
-                return True
-
-        # also treat very short non-specific queries as conversational
-        tokens = ql.split()
-        if len(tokens) <= 3 and any(w.endswith('?') or w in {"hello","hi","hey"} for w in tokens):
-            return True
-
-        return False
-
-
-    # Normalize query (LLM-based)
-    normalized_query = normalize_query(question)
-
-    retrieval_query = normalized_query.get("english_query", question)
-
-    # ----------------------------------------------------------
-    # PRE-RAG VALIDATION (Second Groq Model)
-    # ----------------------------------------------------------
     pre_validation = validate_query_pre_rag(question, retrieval_query)
-
-    # If the translation is invalid or intent is misaligned, use the
-    # corrected query from the validation model instead.
     if not pre_validation.get("is_translation_valid", True) or not pre_validation.get("intent_aligned", True):
         corrected_query = pre_validation.get("query_for_rag", retrieval_query)
         if corrected_query and corrected_query.strip():
             retrieval_query = corrected_query
 
-    # OVERRIDE language detection
-    script_detected_lang = detect_script_type(question)
+    query_crop = detect_crop(retrieval_query)
+    if query_crop == "Unknown":
+        query_crop = detect_crop(question)
 
-    # Retrieve chunks (prefer the crop mentioned in the question when possible)
-    query_crop = detect_crop(retrieval_query) or detect_crop(question)
     results = retrieve_similar_chunks(
         collection=collection,
         model=model,
@@ -370,7 +348,7 @@ def rag_pipeline(question, collection, model):
 
     if not results:
         return RagResult({
-            "answer": "I do not have enough information to answer this question.",
+            "answer": _localize_text(INSUFFICIENT_ANSWER, final_lang),
             "status": "insufficient_info",
             "sources": [],
             "results": [],
@@ -381,71 +359,42 @@ def rag_pipeline(question, collection, model):
     metadata = results[0]["metadata"]
     metadata["crop"] = query_crop if query_crop != "Unknown" else detect_crop(question)
 
-    # Build context
     context = build_context(results)
+    english_answer = normalize_answer_text(ask_llm(retrieval_query, context))
 
-    # Get answer from LLM (IN ENGLISH)
-    # If the user asked a conversational/identity question, do not let the LLM
-    # hallucinate an identity or greeting — instead return the standard
-    # fallback message per the prompt template.
-    if _is_conversational_or_identity(question):
-        answer = "I do not have enough information to answer this question."
-    else:
-        answer = normalize_answer_text(ask_llm(retrieval_query, context))
-
-    # Decide final language
-    # Prefer the LLM-based detection (`normalized_query`) for Roman Urdu vs English
-    # because simple script checks (presence of Latin letters) can misclassify
-    # English as Roman Urdu. However, if Arabic-script Urdu characters are
-    # present, force 'ur' since that's unambiguous.
-    final_lang = normalized_query.get("detected_language", "en")
-    if script_detected_lang == "ur":
-        # Arabic-script Urdu detected — force Urdu output
-        final_lang = "ur"
-
-    # Conservative heuristic fallback: if LLM returned 'en' but the script
-    # detector saw Latin letters and the original query contains common
-    # Roman-Urdu tokens, treat it as Roman Urdu. This helps when the LLM
-    # detection or Groq client is unavailable.
-    # Only consider Roman-Urdu if the script is Latin and roman-indicator tokens appear
-    if final_lang == "en" and script_detected_lang == "latin":
-        tokens = set(t.strip("?!.;,()").lower() for t in question.split())
-        roman_indicators = {"ka", "ke", "ki", "hai", "hain", "nahi", "kab", "kya", "kyun", "kaise", "jais", "mera", "meri", "tum", "ap"}
-        if tokens & roman_indicators:
-            final_lang = "roman_ur"
-
-    # Translate back
-    if final_lang == "en":
-        final_answer = answer
-    else:
-        final_answer = translate_to_original_language(answer, final_lang)
-
-    # ----------------------------------------------------------
-    # POST-RAG VALIDATION (Second Groq Model)
-    # ----------------------------------------------------------
+    # Validate the English answer against the English context so the same
+    # facts are used for every language. Translation happens after this.
     post_validation = validate_answer_post_rag(
-        user_query=question,
-        detected_language=final_lang,
+        user_query=retrieval_query,
+        detected_language="en",
         context=context,
-        generated_answer=final_answer,
+        generated_answer=english_answer,
     )
 
-    # Use the validated/corrected answer unless validation incorrectly rejects
-    # a substantive LLM response.
-    validated_answer = post_validation.get("final_answer", final_answer)
+    validated_answer = post_validation.get("final_answer", english_answer)
     if validated_answer and validated_answer.strip():
         if (
             _is_insufficient_response(validated_answer)
-            and final_answer.strip()
-            and not _is_insufficient_response(final_answer)
+            and english_answer.strip()
+            and not _is_insufficient_response(english_answer)
         ):
             pass
         else:
-            final_answer = normalize_answer_text(validated_answer)
+            english_answer = normalize_answer_text(validated_answer)
 
-    final_answer = normalize_answer_text(final_answer)
+    english_answer = normalize_answer_text(english_answer)
+    if not english_answer or not english_answer.strip():
+        english_answer = INSUFFICIENT_ANSWER
+    final_answer = _localize_text(english_answer, final_lang)
+    if not final_answer or not str(final_answer).strip():
+        final_answer = english_answer
 
-    status = _classify_response(question, final_answer, post_validation)
+    status = _classify_response(
+        question,
+        final_answer,
+        post_validation,
+        english_query=retrieval_query,
+    )
     source_list = _build_source_list(results)
 
     return RagResult({

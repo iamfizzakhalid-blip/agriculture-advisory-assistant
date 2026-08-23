@@ -16,6 +16,8 @@ from functools import lru_cache
 
 from dotenv import load_dotenv
 
+from scripts.groq_utils import complete_chat
+
 try:
     from groq import Groq
 except Exception:
@@ -27,9 +29,6 @@ except Exception:
     st = None
 
 load_dotenv()
-
-# Model to use — same as the primary pipeline
-_VALIDATION_MODEL = "openai/gpt-oss-20b"
 
 
 # ------------------------------------------------------------------
@@ -170,17 +169,17 @@ def validate_query_pre_rag(user_query: str, english_query: str) -> dict:
     )
 
     try:
-        response = client.chat.completions.create(
-            model=_VALIDATION_MODEL,
-            temperature=0,
-            max_tokens=250,
-            messages=[
+        content, _ = complete_chat(
+            client,
+            [
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt},
             ],
+            max_tokens=1024,
+            temperature=0,
         )
-
-        content = response.choices[0].message.content or ""
+        if not content:
+            return _default_pre_validation(user_query, english_query)
         parsed = _safe_parse_json(content)
 
         if parsed is None:
@@ -278,8 +277,13 @@ def validate_answer_post_rag(
         "IMPORTANT:\n"
         "- If the answer contains hallucinated or unsupported agricultural information, "
         "remove it and keep only supported facts.\n"
+        "- If the generated answer is already in English, keep final_answer in English. "
+        "Do not translate it in this step.\n"
+        "- NEVER replace a relevant, context-supported answer with "
+        "'I do not have enough information to answer this question.' "
+        "Use that message only when the answer is unsupported or irrelevant.\n"
         "- If the answer is completely irrelevant, rewrite it as: "
-        "'I do not have enough information to answer this question.' (translated to the user's language if needed).\n"
+        "'I do not have enough information to answer this question.'\n"
         "- Return ONLY valid JSON, no markdown, no commentary."
     )
 
@@ -294,17 +298,18 @@ def validate_answer_post_rag(
     )
 
     try:
-        response = client.chat.completions.create(
-            model=_VALIDATION_MODEL,
-            temperature=0,
-            max_tokens=500,
-            messages=[
+        content, _ = complete_chat(
+            client,
+            [
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt},
             ],
+            max_tokens=2048,
+            temperature=0,
+            continue_on_length=True,
         )
-
-        content = response.choices[0].message.content or ""
+        if not content:
+            return _default_post_validation(generated_answer)
         parsed = _safe_parse_json(content)
 
         if parsed is None:
