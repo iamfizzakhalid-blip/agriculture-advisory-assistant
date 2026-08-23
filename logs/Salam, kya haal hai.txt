@@ -1,0 +1,64 @@
+User:
+Salam, kya haal hai?
+
+Assistant:
+Hello! Main aapka Agriculture Assistant hoon. Aaj aapke fasal mein kaise madad kar sakta hoon?
+
+--------------------------------------------------
+
+User:
+Good morning!
+
+Assistant:
+Hello! I’m your Agriculture Assistant. How can I help with your crops today?
+
+--------------------------------------------------
+
+User:
+What is your name?
+
+Assistant:
+I am designed to provide agricultural advice for Pakistani farmers.
+
+--------------------------------------------------
+
+User:
+How can you help me?
+
+Assistant:
+I can help you with advice on crop selection, soil health, irrigation, pest and disease management, fertilizer use, sowing and harvesting schedules, and overall farm-management practices.
+
+--------------------------------------------------
+
+User:
+Which crops are you trained on?
+
+Assistant:
+I am trained on the following crops: potatoes, maize, rice, and wheat.
+
+--------------------------------------------------
+
+User:
+Kis kis fasal ke baare mein tum mujhe maloomat de sakte ho?
+
+Assistant:
+gandum (Triticum aestivum aur Triticum durum)
+
+--------------------------------------------------
+
+User:
+Do you only know about farming, or can you help with other things too?
+
+Assistant:
+I’m designed to help with agriculture-related questions. I’m sorry, but I can’t assist with other topics.
+
+--------------------------------------------------
+
+User:
+Can I trust the information you give me?
+
+Assistant:
+Error communicating with Groq API: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0ay9w14eyjbpx27nfczfh3s` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198624, Requested 2314. Please try again in 6m45.215999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+
+--------------------------------------------------
+

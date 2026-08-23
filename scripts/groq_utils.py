@@ -35,52 +35,15 @@ def extract_choice_text(choice) -> tuple[str, str | None]:
 
 
 def _create_completion(client, messages: list[dict], max_tokens: int, temperature: float):
-    attempts = [
-        {
-            "model": LLM_MODEL,
-            "messages": messages,
-            "temperature": temperature,
-            "max_completion_tokens": max_tokens,
-            "reasoning_effort": "low",
-        },
-        {
-            "model": LLM_MODEL,
-            "messages": messages,
-            "temperature": temperature,
-            "max_tokens": max_tokens,
-            "reasoning_effort": "low",
-        },
-        {
-            "model": LLM_MODEL,
-            "messages": messages,
-            "temperature": temperature,
-            "max_tokens": max_tokens,
-        },
-    ]
-    last_error: Exception | None = None
-    for kwargs in attempts:
-        try:
-            return client.chat.completions.create(**kwargs)
-        except TypeError as exc:
-            last_error = exc
-        except Exception as exc:
-            message = str(exc).lower()
-            retryable = any(
-                token in message
-                for token in (
-                    "reasoning_effort",
-                    "max_completion_tokens",
-                    "unexpected keyword",
-                    "unknown parameter",
-                )
-            )
-            if retryable:
-                last_error = exc
-                continue
-            raise
-    if last_error:
-        raise last_error
-    raise RuntimeError("Groq completion failed with no response.")
+    # Use the same parameters that already work locally: max_tokens only.
+    # Extra flags like reasoning_effort / max_completion_tokens can fail on
+    # some Groq/SDK combinations and produce empty or error responses.
+    return client.chat.completions.create(
+        model=LLM_MODEL,
+        messages=messages,
+        temperature=temperature,
+        max_tokens=max_tokens,
+    )
 
 
 def complete_chat(
@@ -91,24 +54,22 @@ def complete_chat(
     temperature: float = 0.1,
     continue_on_length: bool = False,
 ) -> tuple[str, str | None]:
-    """
-    Complete a chat request and return (text, finish_reason).
-
-    gpt-oss spends max_tokens on reasoning + answer. If the budget is too
-    small, Groq returns empty content with finish_reason=length. This helper
-    retries with a larger budget and can continue a truncated answer.
-    """
+    """Complete a chat request and return (text, finish_reason)."""
     response = _create_completion(client, messages, max_tokens, temperature)
-    choice = response.choices[0]
-    text, finish_reason = extract_choice_text(choice)
+    choices = getattr(response, "choices", None) or []
+    if not choices:
+        return "", None
+
+    text, finish_reason = extract_choice_text(choices[0])
 
     if not text:
         bigger = min(max(max_tokens * 2, 2048), MAX_RETRY_TOKENS)
         if bigger > max_tokens:
             response = _create_completion(client, messages, bigger, temperature)
-            choice = response.choices[0]
-            text, finish_reason = extract_choice_text(choice)
-            max_tokens = bigger
+            choices = getattr(response, "choices", None) or []
+            if choices:
+                text, finish_reason = extract_choice_text(choices[0])
+                max_tokens = bigger
 
     if continue_on_length and text and finish_reason == "length":
         continuation = messages + [
@@ -124,9 +85,11 @@ def complete_chat(
         extra_response = _create_completion(
             client, continuation, max_tokens, temperature
         )
-        extra_text, extra_reason = extract_choice_text(extra_response.choices[0])
-        if extra_text:
-            text = f"{text}\n{extra_text}".strip()
-            finish_reason = extra_reason
+        extra_choices = getattr(extra_response, "choices", None) or []
+        if extra_choices:
+            extra_text, extra_reason = extract_choice_text(extra_choices[0])
+            if extra_text:
+                text = f"{text}\n{extra_text}".strip()
+                finish_reason = extra_reason
 
     return text, finish_reason

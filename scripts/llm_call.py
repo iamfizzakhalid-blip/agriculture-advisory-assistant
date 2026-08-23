@@ -25,11 +25,23 @@ MAX_OUTPUT_TOKENS = 2500
 
 api_key = os.getenv("GROQ_API_KEY")
 
-# If running on Streamlit Cloud, read from Secrets
-if api_key is None and st is not None:
-    api_key = st.secrets.get("GROQ_API_KEY")
+# Streamlit Cloud may not expose secrets at import time — resolve lazily.
+_client = None
 
-client = Groq(api_key=api_key) if (Groq is not None and api_key) else None # Creates a connection object
+
+def _get_llm_client():
+    global _client, api_key
+    if _client is not None:
+        return _client
+    if not api_key and st is not None:
+        try:
+            api_key = st.secrets.get("GROQ_API_KEY")
+        except Exception:
+            api_key = None
+    if Groq is None or not api_key:
+        return None
+    _client = Groq(api_key=api_key)
+    return _client
 
 
 def load_prompt_template():
@@ -58,11 +70,11 @@ def _call_groq(
 ) -> tuple[str | None, str | None]:
     """Send one chat completion request and return (content, finish_reason)."""
     content, finish_reason = complete_chat(
-        client,
+        _get_llm_client(),
         messages,
         max_tokens=max_tokens,
         temperature=0.1,
-        continue_on_length=True,
+        continue_on_length=False,
     )
     if content:
         return _normalize_llm_text(content), finish_reason
@@ -88,7 +100,7 @@ def ask_llm(question, context):
     Uses system/user message separation for better instruction adherence.
     """
 
-    if client is None:
+    if _get_llm_client() is None:
         return "Error communicating with Groq API: GROQ_API_KEY not found."
 
     # Validate inputs
