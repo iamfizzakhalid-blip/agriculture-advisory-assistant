@@ -32,7 +32,8 @@ def init_db() -> None:
     CREATE TABLE IF NOT EXISTS chats (
         id TEXT PRIMARY KEY,
         title TEXT,
-        updated_at TEXT
+        updated_at TEXT,
+        created_at TEXT
     )
     """
     )
@@ -48,8 +49,18 @@ def init_db() -> None:
     )
     """
     )
+    _migrate_schema(cur)
     conn.commit()
     conn.close()
+
+
+def _migrate_schema(cur: sqlite3.Cursor) -> None:
+    """Add columns introduced after the initial schema."""
+    cur.execute("PRAGMA table_info(chats)")
+    columns = {row[1] for row in cur.fetchall()}
+    if "created_at" not in columns:
+        cur.execute("ALTER TABLE chats ADD COLUMN created_at TEXT")
+        cur.execute("UPDATE chats SET created_at = updated_at WHERE created_at IS NULL")
 
 
 def _safe_log_title(title: str) -> str:
@@ -114,8 +125,8 @@ def create_chat(chat_id: Optional[str] = None, title: str = "New Chat") -> str:
     conn = get_conn()
     cur = conn.cursor()
     cur.execute(
-        "INSERT OR REPLACE INTO chats (id, title, updated_at) VALUES (?, ?, ?)",
-        (cid, title, now),
+        "INSERT INTO chats (id, title, updated_at, created_at) VALUES (?, ?, ?, ?)",
+        (cid, title, now, now),
     )
     conn.commit()
     conn.close()
@@ -130,9 +141,13 @@ def save_chat(chat_id: str, title: str, messages: List[Dict]) -> None:
     conn = get_conn()
     cur = conn.cursor()
 
+    cur.execute("SELECT created_at FROM chats WHERE id = ?", (chat_id,))
+    existing = cur.fetchone()
+    created_at = existing["created_at"] if existing and existing["created_at"] else now
+
     cur.execute(
-        "INSERT OR REPLACE INTO chats (id, title, updated_at) VALUES (?, ?, ?)",
-        (chat_id, title, now),
+        "INSERT OR REPLACE INTO chats (id, title, updated_at, created_at) VALUES (?, ?, ?, ?)",
+        (chat_id, title, now, created_at),
     )
 
     # Remove existing messages for this chat and insert fresh ones
@@ -182,7 +197,9 @@ def list_chats() -> List[Dict]:
     init_db()
     conn = get_conn()
     cur = conn.cursor()
-    cur.execute("SELECT id, title, updated_at FROM chats ORDER BY updated_at DESC")
+    cur.execute(
+        "SELECT id, title, updated_at, created_at FROM chats ORDER BY created_at DESC"
+    )
     chats = []
     rows = cur.fetchall()
     for row in rows:
