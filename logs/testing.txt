@@ -1,0 +1,63 @@
+User:
+Why is my maize crop not forming any ears at all?
+
+Assistant:
+I do not have enough information to answer this question.
+
+--------------------------------------------------
+
+User:
+Why can't I just save seed from my hybrid maize crop and replant it next year?
+
+Assistant:
+Hybrid maize seed does not breed true. If you save seed from a hybrid crop and replant it the next year, the second generation will not maintain the same yield, uniformity, or stress tolerance. Therefore farmers are advised to purchase fresh hybrid seed each season.
+
+--------------------------------------------------
+
+User:
+مکئی کے پودے زمین پر کیوں گر جاتے ہیں؟
+
+Assistant:
+مجھے اس سوال کا جواب دینے کے لیے کافی معلومات نہیں ہیں۔
+
+--------------------------------------------------
+
+User:
+Makai mein zinc ki kami ki alamat kya hoti hain?
+
+Assistant:
+Mere paas is sawal ka jawab dene ke liye kafi maloomat nahi hai.
+
+--------------------------------------------------
+
+User:
+چاول کی فصل میں براؤن پلانٹ ہاپر کیا نقصان پہنچاتا ہے
+
+Assistant:
+میرے پاس اس سوال کا جواب دینے کے لیے کافی معلومات نہیں ہیں۔
+
+--------------------------------------------------
+
+User:
+Dhaan ki fasal ko kis stage par sab se zyada paani chahiye hota hai?
+
+Assistant:
+Dhaan ki fasal ko sab se zyada paani phoolne (flowering) ke dauran chahiye hota hai.
+
+--------------------------------------------------
+
+User:
+How can I tell if my sugarcane is affected by red rot disease?
+
+Assistant:
+Red rot shows these clear signs:
+
+- **Stalk interior** - split a stalk lengthwise; look for a reddish discoloration with white cross-bands.
+- **Smell** - a sour odor from the infected stalk.
+- **Leaves** - wilting, drying, drooping, and a reddish or yellow-red discoloration that can be mistaken for drought or nutrient stress.
+- **Overall vigor** - reduced cane growth and yield.
+
+If you see the reddish internal pattern and the sour smell, the crop is likely infected. Leaf symptoms alone are not enough to confirm red rot.
+
+--------------------------------------------------
+

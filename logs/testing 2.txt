@@ -1,0 +1,16 @@
+User:
+Main apni hybrid makai ki fasal se beej kyun nahi bacha sakta agle saal dobara lagane ke liye?
+
+Assistant:
+میرے پاس اس سوال کا جواب دینے کے لیے کافی معلومات نہیں ہیں۔
+
+--------------------------------------------------
+
+User:
+Why can't I just save seed from my hybrid maize crop and replant it next year?
+
+Assistant:
+Because hybrid maize seeds do not breed true. If you save seed from a hybrid crop and replant it the next year, the second-generation plants will have lower yields and less uniformity.
+
+--------------------------------------------------
+
