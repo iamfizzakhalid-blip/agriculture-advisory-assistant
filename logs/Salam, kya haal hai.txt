@@ -62,3 +62,47 @@ Error communicating with Groq API: Error code: 429 - {'error': {'message': 'Rate
 
 --------------------------------------------------
 
+User:
+Can I trust the information you give me?
+
+Assistant:
+I’m sorry, but I can only help with agriculture-related questions.
+
+--------------------------------------------------
+
+User:
+Plant cane aur ratoon cane mein kya farq hota hai?
+
+Assistant:
+Plant cane pehli fasal hai jo nayi setts se lagayi jati hai. Ratoon cane dusri fasal hai jo plant-cane ki fasal ke baad bachi hui khet ki haddi se nikalti hai, bina dobara lagaye.
+
+--------------------------------------------------
+
+User:
+Why do sugarcane leaves sometimes turn reddish, and could that be a disease or a nutrient issue?
+
+Assistant:
+Red-colored leaves in sugarcane are usually a sign of **red rot disease**.
+- Red rot produces reddish discoloration on leaves and a sour smell; the stalk shows internal reddening with white cross-bands when split open.
+- The reddish leaf symptom can be mistaken for drought stress or a nutrient problem, but typical nutrient deficiencies (nitrogen, potassium, micronutrients) cause yellowing or interveinal streaking, not a true reddish hue.
+
+So, if leaves turn reddish, it is most likely a disease rather than a nutrient issue.
+
+--------------------------------------------------
+
+User:
+ap mujhe kin faslon k bare mein maloomat faraham kar skte ho?
+
+Assistant:
+Hum gandum ke baare mein maloomat de sakte hain.
+
+--------------------------------------------------
+
+User:
+gandum k ilawa kin faslon k bare mein maloomat dy sakte ho?
+
+Assistant:
+Main makki, chawal, kapaas, aur ganna ki maloomat de sakta hoon.
+
+--------------------------------------------------
+
