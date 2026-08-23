@@ -12,3 +12,6 @@ __pycache__/
 
 # Environment
 .env
+
+# Intermediate data (app uses chroma_db directly)
+data/embeddings.json

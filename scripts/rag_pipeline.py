@@ -89,11 +89,15 @@ def classify_user_intent(question: str) -> dict:
         "cricket", "football", "news", "politics", "election", "movie", "entertainment",
         "stock market", "currency", "gold price", "latest news", "who won"
     ]
-    if any(term in text for term in out_of_scope_terms):
-        return {"category": "out_of_scope", "response": "I’m designed for agriculture-related assistance. Please ask about crops, irrigation, pests, fertilizer, soil, or farm management."}
 
+    # Check agriculture keywords FIRST — if the question is clearly about
+    # agriculture, allow it even if it incidentally contains an out-of-scope
+    # word (e.g. "weather conditions that favor wheat rust").
     if _looks_agriculture_related(text):
         return {"category": "agriculture", "response": None}
+
+    if any(term in text for term in out_of_scope_terms):
+        return {"category": "out_of_scope", "response": "I'm designed for agriculture-related assistance. Please ask about crops, irrigation, pests, fertilizer, soil, or farm management."}
 
     # Default to agriculture for ambiguous or partially agricultural questions.
     # This prevents valid farm questions from being rejected as out-of-scope
@@ -114,7 +118,10 @@ def _looks_agriculture_related(text: str) -> bool:
         "pani", "beej", "fasal", "kheti", "zaroori", "khaad", "kheti", "naukar", "kisan",
         "khaad", "watering", "drip", "mulch", "yield", "weeds", "fungicide",
         "insecticide", "pesticide", "land", "farm", "tractor", "cropping", "crops",
-        "kya", "ke", "liye", "fertilizer", "cotton", "cash crop", "sowing time"
+        "kya", "ke", "liye", "fertilizer", "cotton", "cash crop", "sowing time",
+        "rust", "pathogen", "wilt", "blight", "smut", "bunt", "lodging",
+        "nutrient", "nitrogen", "phosphorus", "potassium", "urea", "dap",
+        "variety", "varieties", "germination", "tillering", "herbicide",
     ]
     return any(keyword in q for keyword in agriculture_keywords)
 
