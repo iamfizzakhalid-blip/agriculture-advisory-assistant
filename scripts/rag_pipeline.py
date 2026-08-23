@@ -12,7 +12,9 @@ from scripts.llm_call import ask_llm
 from scripts.lang_utils import normalize_query, translate_to_original_language
 from scripts.validation import validate_query_pre_rag, validate_answer_post_rag
 
-TOP_K = 10
+TOP_K = 8
+MAX_CONTEXT_CHARS = 6000
+MAX_LLM_CHUNKS = 5
 
 
 class RagResult(dict):
@@ -21,8 +23,24 @@ class RagResult(dict):
         yield self.get("answer", "")
 
 
+def normalize_answer_text(text: str) -> str:
+    """Replace unicode spaces/dashes that break Windows console encoding."""
+    if not text:
+        return text
+    replacements = {
+        "\u202f": " ",
+        "\u00a0": " ",
+        "\u2011": "-",
+        "\u2013": "-",
+        "\u2014": "-",
+    }
+    for src, dst in replacements.items():
+        text = text.replace(src, dst)
+    return text
+
+
 def detect_crop(query: str) -> str:
-    query = query.lower()
+    query_lower = query.lower()
 
     crops = [
         "wheat",
@@ -33,14 +51,79 @@ def detect_crop(query: str) -> str:
     ]
 
     for crop in crops:
-        if crop in query:
+        if crop in query_lower:
             return crop
+
+    # Wheat-specific terms when the crop name is not mentioned explicitly.
+    wheat_terms = [
+        "black rust",
+        "brown rust",
+        "stripe rust",
+        "yellow rust",
+        "stem rust",
+        "leaf rust",
+        "puccinia graminis",
+        "puccinia recondita",
+        "puccinia striiformis",
+        "karnal bunt",
+        "loose smut",
+    ]
+    if any(term in query_lower for term in wheat_terms):
+        return "wheat"
 
     return "Unknown"
 
 
-def build_context(results):
-    return "\n\n".join(result["text"] for result in results)
+def refine_results_by_dominant_crop(results: list[dict]) -> list[dict]:
+    """Keep chunks from the dominant crop in the top results when no crop was named."""
+    if len(results) < 2:
+        return results
+
+    top_crops = [
+        item["metadata"].get("crop", "unknown")
+        for item in results[:5]
+        if item.get("metadata")
+    ]
+    crop_counts: dict[str, int] = {}
+    for crop in top_crops:
+        if crop not in {"", "unknown"}:
+            crop_counts[crop] = crop_counts.get(crop, 0) + 1
+
+    if not crop_counts:
+        return results
+
+    dominant_crop = max(crop_counts, key=crop_counts.get)
+    if crop_counts[dominant_crop] < 2:
+        return results
+
+    filtered = [
+        item for item in results
+        if item.get("metadata", {}).get("crop") == dominant_crop
+    ]
+    return filtered or results
+
+
+def build_context(results, max_chars: int = MAX_CONTEXT_CHARS) -> str:
+    """Join top retrieved chunks, capped to avoid exceeding the LLM context window."""
+    parts: list[str] = []
+    total_len = 0
+
+    for result in results[:MAX_LLM_CHUNKS]:
+        text = result.get("text", "").strip()
+        if not text:
+            continue
+
+        separator_len = 2 if parts else 0
+        if total_len + separator_len + len(text) > max_chars:
+            remaining = max_chars - total_len - separator_len
+            if remaining > 200:
+                parts.append(text[:remaining] + "...")
+            break
+
+        parts.append(text)
+        total_len += separator_len + len(text)
+
+    return "\n\n".join(parts)
 
 
 def _match_phrase(text: str, phrase: str) -> bool:
@@ -258,36 +341,31 @@ def rag_pipeline(question, collection, model):
     # Normalize query (LLM-based)
     normalized_query = normalize_query(question)
 
-    print(f"Detected language (LLM): {normalized_query.get('detected_language')}")
-    print(f"English query: {normalized_query.get('english_query', question)}")
-
     retrieval_query = normalized_query.get("english_query", question)
 
     # ----------------------------------------------------------
     # PRE-RAG VALIDATION (Second Groq Model)
     # ----------------------------------------------------------
     pre_validation = validate_query_pre_rag(question, retrieval_query)
-    print(f"Pre-RAG validation: {pre_validation}")
 
     # If the translation is invalid or intent is misaligned, use the
     # corrected query from the validation model instead.
     if not pre_validation.get("is_translation_valid", True) or not pre_validation.get("intent_aligned", True):
         corrected_query = pre_validation.get("query_for_rag", retrieval_query)
         if corrected_query and corrected_query.strip():
-            print(f"Validation override: using corrected query -> {corrected_query}")
             retrieval_query = corrected_query
 
     # OVERRIDE language detection
     script_detected_lang = detect_script_type(question)
 
-    print(f"Detected language (script-based): {script_detected_lang}")
-
-    # Retrieve chunks
+    # Retrieve chunks (prefer the crop mentioned in the question when possible)
+    query_crop = detect_crop(retrieval_query) or detect_crop(question)
     results = retrieve_similar_chunks(
         collection=collection,
         model=model,
         query=retrieval_query,
         top_k=TOP_K,
+        crop=query_crop,
     )
 
     if not results:
@@ -298,8 +376,10 @@ def rag_pipeline(question, collection, model):
             "results": [],
         })
 
+    results = refine_results_by_dominant_crop(results)
+
     metadata = results[0]["metadata"]
-    metadata["crop"] = detect_crop(question)
+    metadata["crop"] = query_crop if query_crop != "Unknown" else detect_crop(question)
 
     # Build context
     context = build_context(results)
@@ -311,7 +391,7 @@ def rag_pipeline(question, collection, model):
     if _is_conversational_or_identity(question):
         answer = "I do not have enough information to answer this question."
     else:
-        answer = ask_llm(retrieval_query, context)
+        answer = normalize_answer_text(ask_llm(retrieval_query, context))
 
     # Decide final language
     # Prefer the LLM-based detection (`normalized_query`) for Roman Urdu vs English
@@ -334,8 +414,6 @@ def rag_pipeline(question, collection, model):
         if tokens & roman_indicators:
             final_lang = "roman_ur"
 
-    print(f"Final language used: {final_lang} (LLM-detected: {normalized_query.get('detected_language')}, script-detected: {script_detected_lang})")
-
     # Translate back
     if final_lang == "en":
         final_answer = answer
@@ -351,12 +429,21 @@ def rag_pipeline(question, collection, model):
         context=context,
         generated_answer=final_answer,
     )
-    print(f"Post-RAG validation: {post_validation}")
 
-    # Use the validated/corrected answer
+    # Use the validated/corrected answer unless validation incorrectly rejects
+    # a substantive LLM response.
     validated_answer = post_validation.get("final_answer", final_answer)
     if validated_answer and validated_answer.strip():
-        final_answer = validated_answer
+        if (
+            _is_insufficient_response(validated_answer)
+            and final_answer.strip()
+            and not _is_insufficient_response(final_answer)
+        ):
+            pass
+        else:
+            final_answer = normalize_answer_text(validated_answer)
+
+    final_answer = normalize_answer_text(final_answer)
 
     status = _classify_response(question, final_answer, post_validation)
     source_list = _build_source_list(results)

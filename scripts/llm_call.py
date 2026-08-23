@@ -1,5 +1,6 @@
 import os
-import time
+from pathlib import Path
+
 from dotenv import load_dotenv
 
 try:
@@ -15,6 +16,12 @@ except Exception:
 # Load environment variables
 load_dotenv()
 
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+PROMPT_TEMPLATE_PATH = PROJECT_ROOT / "scripts" / "prompt_template.txt"
+MAX_CONTEXT_CHARS = 6000
+LLM_MODEL = "openai/gpt-oss-20b"
+MAX_OUTPUT_TOKENS = 1500
+
 api_key = os.getenv("GROQ_API_KEY")
 
 # If running on Streamlit Cloud, read from Secrets
@@ -29,12 +36,51 @@ def load_prompt_template():
     Load the prompt template from file.
     """
     try:
-        with open("scripts/prompt_template.txt", "r", encoding="utf-8") as f:
+        with PROMPT_TEMPLATE_PATH.open("r", encoding="utf-8") as f:
             return f.read()
     except FileNotFoundError:
         raise FileNotFoundError(
-            "Prompt template not found: scripts/prompt_template.txt"
+            f"Prompt template not found: {PROMPT_TEMPLATE_PATH}"
         )
+
+
+def _truncate_context(context: str, max_chars: int = MAX_CONTEXT_CHARS) -> str:
+    context = context.strip()
+    if len(context) <= max_chars:
+        return context
+    return context[:max_chars] + "\n...[context truncated]..."
+
+
+def _call_groq(
+    messages: list[dict],
+    max_tokens: int = MAX_OUTPUT_TOKENS,
+) -> tuple[str | None, str | None]:
+    """Send one chat completion request and return (content, finish_reason)."""
+    response = client.chat.completions.create(
+        model=LLM_MODEL,
+        temperature=0.1,
+        max_tokens=max_tokens,
+        messages=messages,
+    )
+    choice = response.choices[0]
+    content = choice.message.content
+    finish_reason = getattr(choice, "finish_reason", None)
+    if content and content.strip():
+        return _normalize_llm_text(content.strip()), finish_reason
+    return None, finish_reason
+
+
+def _normalize_llm_text(text: str) -> str:
+    """Replace unicode spaces/dashes that break Windows console encoding."""
+    for src, dst in {
+        "\u202f": " ",
+        "\u00a0": " ",
+        "\u2011": "-",
+        "\u2013": "-",
+        "\u2014": "-",
+    }.items():
+        text = text.replace(src, dst)
+    return text
 
 
 def ask_llm(question, context):
@@ -54,6 +100,7 @@ def ask_llm(question, context):
         return "No context was provided."
 
     prompt_template = load_prompt_template()
+    context = _truncate_context(context)
 
     # Split the template into system instructions and user content.
     # The template contains instructions followed by context/question placeholders.
@@ -82,28 +129,51 @@ def ask_llm(question, context):
         user_content = final_prompt
 
     try:
-        start_time = time.time()
+        messages = [
+            {"role": "system", "content": system_instructions},
+            {"role": "user", "content": user_content},
+        ]
+        content, finish_reason = _call_groq(messages)
 
-        response = client.chat.completions.create(  # actual API call.
-            model="openai/gpt-oss-20b",
-            temperature=0.1,  # Low temperature for grounded, deterministic answers
-            max_tokens=500,   # Allow sufficient space for detailed answers
-            messages=[
-                {
-                    "role": "system",
-                    "content": system_instructions
-                },
+        # Continue if the model hit the output token limit mid-answer.
+        if content and finish_reason == "length":
+            continuation_messages = messages + [
+                {"role": "assistant", "content": content},
                 {
                     "role": "user",
-                    "content": user_content
-                }
+                    "content": (
+                        "Continue the answer from where you stopped. "
+                        "Cover any remaining parts of the question that were not answered yet. "
+                        "Do not repeat what you already wrote."
+                    ),
+                },
             ]
-        )
+            extra_content, extra_reason = _call_groq(continuation_messages)
+            if extra_content:
+                content = f"{content}\n\n{extra_content}"
+                finish_reason = extra_reason
 
-        elapsed_time = time.time() - start_time
-        print(f"\nResponse Time: {elapsed_time:.2f} seconds")
+        # Retry once with a smaller context if the model returns nothing.
+        if content is None and len(context) > 2500:
+            shorter_context = _truncate_context(context, max_chars=2500)
+            retry_prompt = prompt_template.format(context=shorter_context, question=question)
+            retry_marker_pos = retry_prompt.find(context_marker)
+            if retry_marker_pos > 0:
+                retry_system = retry_prompt[:retry_marker_pos].strip()
+                retry_user = retry_prompt[retry_marker_pos:].strip()
+            else:
+                retry_system = system_instructions
+                retry_user = retry_prompt
+            retry_messages = [
+                {"role": "system", "content": retry_system},
+                {"role": "user", "content": retry_user},
+            ]
+            content, finish_reason = _call_groq(retry_messages)
 
-        return response.choices[0].message.content
+        if content:
+            return content
+
+        return "I do not have enough information to answer this question."
 
     except Exception as e:
         return f"Error communicating with Groq API: {e}"

@@ -198,7 +198,6 @@ def batch_insert_records(collection: Collection, records: list[dict]) -> int:
 
 def load_embedding_model() -> SentenceTransformer:
     """Load the same sentence-transformers model used during embedding generation."""
-    print(f"Loading model: {MODEL_NAME}")
     return SentenceTransformer(MODEL_NAME)
 
 
@@ -207,9 +206,13 @@ def retrieve_similar_chunks(
     model: SentenceTransformer,
     query: str,
     top_k: int = TOP_K,
+    crop: str | None = None,
 ) -> list[dict]:
     """
     Embed a user query and return the top-k most similar chunks with metadata.
+
+    When ``crop`` is provided (e.g. "wheat"), results are restricted to that crop
+    first. If that yields no matches, the search falls back to the full collection.
 
     Returns a list of dicts containing id, document text, metadata, and distance.
     """
@@ -217,11 +220,23 @@ def retrieve_similar_chunks(
         raise ValueError("Query must not be empty.")
 
     query_embedding = model.encode(query.strip()).tolist()
-    results = collection.query( # chroma compares question embeddings with stored embeddings
+    where_filter = None
+    if crop and crop.strip().lower() not in {"", "unknown"}:
+        where_filter = {"crop": crop.strip().lower()}
+
+    results = collection.query(
         query_embeddings=[query_embedding],
         n_results=top_k,
+        where=where_filter,
         include=["documents", "metadatas", "distances"],
     )
+
+    if where_filter and not results.get("ids", [[]])[0]:
+        results = collection.query(
+            query_embeddings=[query_embedding],
+            n_results=top_k,
+            include=["documents", "metadatas", "distances"],
+        )
 
     matches: list[dict] = []
     ids = results.get("ids", [[]])[0]
